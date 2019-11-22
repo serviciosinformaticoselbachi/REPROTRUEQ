@@ -1,31 +1,55 @@
+
+
 <!DOCTYPE html>
+<html>
+
 <head>
-	<!--
-    	Robotic Template
-    	http://www.templatemo.com/preview/templatemo_430_robotic
-    -->
-    <title>SERVICIOS INFORMATICOS</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-	<meta charset="utf-8">
-    <center>
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
+
+
+<head>
+
+	<title>SERVICIOS EL B@chi</title>
+    <style type="text/css">
+body {
+  background-color:#000000;
+}
+</style>
+
+<center>
 <iframe allowtransparency="yes" border="0" frameborder="NO" height="252px" marginheight="0px" marginwidth="" scrolling="NO" src="https://serviciosinformaticoselbachi.github.io/zonaradio//" width="362px"></iframe></center>
 
-           
-                    </div>
-                </div>
-            </div>
-            <!-- contact end -->
-        </div>
-        <div class="templatemo_footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                    	Copyright &copy; 2019 <a href="#">SERVICIOS EL B@chi</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+                
+</div>
+          
+  
+  
+ 		  <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+          
+<script type="text/javascript">
+function radioTitle()
+{
+$.ajax({
+    url: 'current-song.php',
+    type: 'GET',
+    cache: false,
+    success: function(result) {
+    $('#current-track').html(result);
+    
+    }
+});
+
+}
+
+setTimeout(function(){radioTitle();}, 2000);
+setInterval(function(){radioTitle();}, 10000);
+</script>                
+  
+
+
+
+
 </body>
+
 </html>
