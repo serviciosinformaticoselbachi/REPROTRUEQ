@@ -1,125 +1,96 @@
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
-
-<head>
-
-<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
-
-
-<head>
-
-	<title>ZonaRadio ONLINE</title>
+  <head>
+    <title>servicios el bachi</title>
+    <meta charset="utf-8"/>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Allerta' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/invie.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+  </head>
+  <body class="precios">
+    <header id="header" class="header background"> <!-- header -->
+      <div class="contenedor">
+        <figure class="logotipo"> <!-- logotipo -->
+          <img src="images/invie.png" width="186" height="60" alt="Invie logotipo"/>
+        </figure>
+        <span class="burguer-button icon-menu" id="burguer-button"></span>
+        <nav class="menu" id="menu"> <!-- menu -->
+          <ul>
+            <li>
+              <a href="index.html">INICIO</a>
+            </li>
+            <li>
+              <a href="index.html#CONTACTO">CONTACTO</a>
+            </li>
+            <li>
+              <a href="RADIO.html">RADIO</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section class="tabla">
+      <div class="contenedor">
+        <table>
+          <thead>
+            <tr>
+           <center>
+          	 <title>LaRED 24hs</title>
     <style type="text/css">
 body {
   background-color: #000000;
 }
 </style>
-
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-     <script type="text/javascript" src="js/jquery.js"></script>
-     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
-    
-	<script type="text/javascript">
-      
-        $(document).ready(function(){
-            var stream = {
-            title: "PUBLICIDAD",
-            mp3: "https://servicioselbachi.com//PUBLICIDAD/REMATES_EMANUEL_1_12_2019.mp3"
-        },
-        ready = false;
-          $("#jquery_jplayer_1").jPlayer({
-          ready: function (event) {
-            ready = true;
-                $(this).jPlayer("setMedia", stream).jPlayer("play");
-  
-            },
-            pause: function() {
-                $(this).jPlayer("clearMedia");
-            },
-            error: function(event) {
-                if(ready && event.jPlayer.error.type === $.jPlayer.error.URL_NOT_SET) {
-                    
-                    $(this).jPlayer("setMedia", stream).jPlayer("play");
-                }
-            },
-            swfPath: "/js",
-            supplied: "mp3",
-            preload: "none",
-            wmode: "window",
-            keyEnabled: true,
-            cssSelectorAncestor: "",
-            cssSelector: {
-            play: "#play",
-            pause: "#pause",
-            },
-        });
-      });
-    </script>
-      
-
-</head>
-<body>
-
-  
-          <div align="left"></div>
-          <div align="left"></div>
-          <div id="player">
-          
-                <a href="javascript:;" id="play"></a><a href="javascript:;" id="pause"></a>
-                <div id="titulo">
-                <h3>PUBLICIDAD</h3>
-                </div>
-          		
-                 
-                 <div id="song" class="song"><marquee scrollamount="4" behavior="scroll" direction="left"><span id="current-track">COMUNICATE +598 93 422 446</span></marquee></div>
-
-                
-                <div id="animation">
-                  <div align="left"><img src="img/ecualizador.gif" alt="efec" width="220" height="52
-"></div>
-                </div>
-
-                <div style="text-align:center; padding-top: 160px;">
-                 <ul style="list-style:none; text-align:center; padding-left:0;">
-                 <li style="display:inline;"><a target="_blank" href="https://www.facebook.com/pg/zonaradioonline/"><img src="iconos-sociales/facebook.png" border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.twitter.com/"><img src="iconos-sociales/twitter.png" border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://wa.me/59894911721?text=Escucho%20ZonaRadio ONLINE%F0%9F%94%8A"><img src="iconos-sociales/google.png" border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://www.youtube.com/channel/UC9FKWsY9WETE3s_eVEXAcDQ"><img src="iconos-sociales/youtube.png" 94911721border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.instagram.com/"><img src="iconos-sociales/instagram.png" border="0"/></a></li></ul>
-                </div>
-                
-</div>
-          
-  
-  
- 		  <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-          
-<script type="text/javascript">
-function radioTitle()
-{
-$.ajax({
-    url: 'current-song.php',
-    type: 'GET',
-    cache: false,
-    success: function(result) {
-    $('#current-track').html(result);
-    
-    }
-});
-}
-setTimeout(function(){radioTitle();}, 2000);
-setInterval(function(){radioTitle();}, 10000);
-</script>                
-  
-
-
-
-
-</body>
-
+           	 <iframe allowtransparency="yes" border="0" frameborder="NO" height="236px" marginheight="0px" marginwidth="" scrolling="NO" src="https://servicioselbachi.com/PUBLICIDAD/REMATES_EMANUEL_1_12_2019.mp3" width="345px"></iframe>
+           </center>
+            
+            </tr>
+         
+        
+       <footer class="footer">
+      <div class="contenedor">
+        <div class="contacto">
+          <img alt="logotipo blanco" src="images/invie-white.png" class=" b-loaded">
+          <a href="tel:+93422446"><strong>Telefono</strong> <span>+598 93 422 446</span></a>
+          <a href="servicioselbachi@gmail.com"><strong>E-mail</strong> <span>servicioselbachi@gmail.com</span></a>
+        </div>
+        <form class="formulario">
+          <div class="col1">
+            <label for="nombre">Nombre</label>
+            <input type="text" required="" id="nombre" name="nombre">
+            <label for="email">E-mail</label>
+            <input type="email" required="" id="email" name="email">
+            <div class="sexo">
+              <label for="mujer">
+                <input type="radio" id="mujer" checked="" name="sexo" value="mujer"> mujer
+              </label>
+              <label for="hombre">
+                <input type="radio" id="hombre" name="sexo" value="hombre"> hombre
+              </label>
+            </div>
+            <div class="intereses">
+              <label for="cotizacion">
+                <input type="checkbox" checked="" id="cotizacion" name="intereses" value="cotizacion"> Cotización
+              </label>
+              <label for="reclamos">
+                <input type="checkbox" id="reclamos" name="intereses" value="reclamos"> Reclamos
+              </label>
+              <label for="comentarios">
+                <input type="checkbox" id="comentarios" name="intereses" value="comantarios"> Comentarios
+              </label>
+              <label for="otros">
+                <input type="checkbox" id="otros" name="intereses" value="otros"> Otros
+              </label>
+            </div>
+          </div>
+          <div class="col2">
+            <label for="comentarios">Comentarios</label>
+            <textarea name="comantarios" id="comentarios" cols="30" rows="7"></textarea>
+            <input type="submit" value="Enviar" class="button">
+          </div>
+        </form>
+      </div>
+    </footer>
+   
+  </body>
 </html>
