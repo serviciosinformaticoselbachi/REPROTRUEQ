@@ -1,115 +1,77 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Servicios el B@chi</title>
+    <title>Invie - tus mejores guitarras!!</title>
     <meta charset="utf-8"/>
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Allerta' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/invie.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <!-- <link rel="stylesheet" media="(max-width: 800px)" href="css/media-querie.css"/> -->
   </head>
-  <body class="precios">
-    <header id="header" class="header background"> <!-- header -->
-      <div class="contenedor">
+  <body>
+    <section id="portada" class="portada background"> <!-- portada -->
+      <header id="header" class="header contenedor"> <!-- header -->
         <figure class="logotipo"> <!-- logotipo -->
-          <img src="images/invie.png" width="186" height="60" alt="Invie logotipo"/>
+          <img src="images/invie.png" srcset="images/invie.png 1x, images/invie2x.png 2x" width="186" height="60" alt="Invie logotipo"/>
         </figure>
         <span class="burguer-button icon-menu" id="burguer-button"></span>
         <nav class="menu" id="menu"> <!-- menu -->
           <ul>
             <li>
-              <a href="index.html">INICIO</a>
+              <a href="index.html">Home</a>
             </li>
             <li>
-              <a href="index.html#CONTACTO">CONTACTO</a>
+              <a href="#guitarras">Guitarras</a>
             </li>
             <li>
-              <a href="RADIO.html">RADIO</a>
+              <a href="precios.html">Precios</a>
             </li>
           </ul>
         </nav>
-      </div>
-    </header>
-    <section class="tabla">
+      </header>
       <div class="contenedor">
-        <table>
-          <thead>
-            <tr>
-           <center>
-          	 <title>SERVICIOS EL B@chi</title>
-   <style type="text/css">
-body {
-  background-color: #000000;
-}
-</style>
-
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-     <script type="text/javascript" src="js/jquery.js"></script>
-     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
-    
-	<script type="text/javascript">
+        <h1 class="titulo">SERVICIOS EL B@chi<span> ...</span>...</h1><!-- titulo -->
+        <h3 class="title-a">...</h3><!-- resumen -->
+        <a class="button" href="#guitarras">RADIO</a><!-- boton -->
+      </div>
+    </section>
+    <section id="guitarras" class="guitarras contenedor"> <!-- guitarras -->
+      <h2>PUBLICIDAD LALULA</h2><!-- titulo -->
+      <div class="video-demo-contenedor">
+        <div class="video-demo">
+          <div class="video-responsive-contenedor">
+            <iframe class="video-responsive-src" width="560" height="315" src="https://servicioselbachi.com/video/LALULA.mp4" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- <video src="video/320x240.ogg"></video> -->
+      <article class="guitarra"> <!-- guitarra 1 -->
+        <img class="derecha" data-src="images/invie-acustica.png|images/invie-acustica2x.png"  alt="Guitarra Invie Acustica" width="350"/>
+        <div class="contenedor-guitarra-a">
+          <h3 class="title-b">Invie Acustica</h3>
+          <ol>
       
-        $(document).ready(function(){
-            var stream = {
-            title: "SERVICIOS EL BACHI",
-            mp3: "https://servicioselbachi.com/PUBLICIDAD/LA_LULA_02.mp3"
-        },
-        ready = false;
-          $("#jquery_jplayer_1").jPlayer({
-          ready: function (event) {
-            ready = true;
-                $(this).jPlayer("setMedia", stream).jPlayer("play");
-  
-            },
-            pause: function() {
-                $(this).jPlayer("clearMedia");
-            },
-            error: function(event) {
-                if(ready && event.jPlayer.error.type === $.jPlayer.error.URL_NOT_SET) {
-                    
-                    $(this).jPlayer("setMedia", stream).jPlayer("play");
-                }
-            },
-            swfPath: "/js",
-            supplied: "mp3",
-            preload: "none",
-            wmode: "window",
-            keyEnabled: true,
-            cssSelectorAncestor: "",
-            cssSelector: {
-            play: "#play",
-            pause: "#pause",
-            },
-        });
-      });
-    </script>
-      
-
-</head>
-<body>
-
-  
-        <iframe width="560" height="315" src="https://servicioselbachi.com/video/LALULA.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
-        
-       <footer class="footer">
+            <li>...</li>
+          </ol>
+        </div>
+      </article>
+    </section>
+    <footer class="footer">
       <div class="contenedor">
         <div class="contacto">
-          <img alt="logotipo blanco" src="images/invie-white.png" class=" b-loaded">
-          <a href="tel:+93422446"><strong>Telefono</strong> <span>+598 93 422 446</span></a>
-          <a href="servicioselbachi@gmail.com"><strong>E-mail</strong> <span>servicioselbachi@gmail.com</span></a>
+          <img data-src="images/invie-white.png|images/invie-white2x.png" alt="logotipo blanco"/>
+          <a href="tel:+59893422446"><strong>Telefono</strong> <span>3024456678</span></a>
+          <a href="mailto:servicioselbachi@gmail.com"><strong>E-mail</strong> <span>contacto@invie.com</span></a>
         </div>
         <form class="formulario">
           <div class="col1">
             <label for="nombre">Nombre</label>
-            <input type="text" required="" id="nombre" name="nombre">
+            <input type="text" required id="nombre" name="nombre"/>
             <label for="email">E-mail</label>
-            <input type="email" required="" id="email" name="email">
+            <input type="email" required id="email" name="email"/>
             <div class="sexo">
               <label for="mujer">
-                <input type="radio" id="mujer" checked="" name="sexo" value="mujer"> mujer
+                <input type="radio" id="mujer" checked name="sexo" value="mujer"> mujer
               </label>
               <label for="hombre">
                 <input type="radio" id="hombre" name="sexo" value="hombre"> hombre
@@ -117,7 +79,7 @@ body {
             </div>
             <div class="intereses">
               <label for="cotizacion">
-                <input type="checkbox" checked="" id="cotizacion" name="intereses" value="cotizacion"> Cotización
+                <input type="checkbox" checked id="cotizacion" name="intereses" value="cotizacion"> Cotización
               </label>
               <label for="reclamos">
                 <input type="checkbox" id="reclamos" name="intereses" value="reclamos"> Reclamos
@@ -133,11 +95,58 @@ body {
           <div class="col2">
             <label for="comentarios">Comentarios</label>
             <textarea name="comantarios" id="comentarios" cols="30" rows="7"></textarea>
-            <input type="submit" value="Enviar" class="button">
+            <input type="submit" value="Enviar" class="button"/>
           </div>
         </form>
       </div>
     </footer>
-   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.7/hammer.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/blazy/1.5.4/blazy.min.js"></script>
+    <script>
+      var consulta = window.matchMedia('(max-width: 500px)');
+      consulta.addListener(mediaQuery);
+
+      var $burguerButton = document.getElementById('burguer-button');
+      var $menu = document.getElementById('menu');
+      function toggleMenu(){
+        $menu.classList.toggle('active')
+      };
+      function showMenu(){
+        $menu.classList.add('active');
+      };
+      function hideMenu(){
+        $menu.classList.remove('active');
+      };
+
+      function mediaQuery() {
+        if (consulta.matches) {
+          // si se cumple hagamos esto
+          console.log('se cumplió la condicion');
+          $burguerButton.addEventListener('touchstart', toggleMenu);
+        } else {
+          $burguerButton.removeEventListener('touchstart', toggleMenu);
+          // si no se cumple hagamos esto
+          console.log('no se cumplió la condicion');
+        }
+      }
+      mediaQuery();
+
+      // lazy loading
+      var bLazy = new Blazy({
+          selector: 'img'
+      });
+      // $burguerButton.addEventListener('touchstart', toggleMenu);
+
+      // function toggleMenu(){
+      //   $menu.classList.toggle('active')
+      // };
+
+      // Gestos touch
+      var $body = document.body;
+
+      var gestos = new Hammer($body);
+      gestos.on('swipeleft', hideMenu);
+      gestos.on('swiperight', showMenu);
+    </script>
   </body>
 </html>
