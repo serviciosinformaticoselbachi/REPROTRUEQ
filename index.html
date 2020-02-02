@@ -274,21 +274,22 @@ Desde nuestros inicios, en el año 2004, nuestra compañía brinda soluciones in
                 <div class="col-md-12">
                     <div class="templatemo_contacttitle">CONTACTO</div>
                     <div class="templatemo_sub_contacttitle">DEJE SU COMENTARIO</div>
-               	</div>		
-			<div class="col-sm-6"> 
-				<div id="cnt_form">
-					<form id="contact-form" class="contact" name="contact-form" method="post" action="enviar2.php">
-						<div class="form-group">
-						<input type="text" name="name" class="form-control name-field" required="required" placeholder="Your Name">
-						</div>
-						<div class="form-group">
-							<input type="email" name="email" class="form-control mail-field" required="required" placeholder="Your Email">
-						</div> 
-						<div class="form-group">
-							<textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Message"></textarea>
-						</div> 
-						<div class="form-group">
-							<button type="submit" class="btn btn-primary">enviar</button>
+               <form name='formulario' id='formulario' method='post' action='confirmacion.php' target='_self' enctype="multipart/form-data"> 
+
+<br>NOMBRE: <input type='text' name='Nombre' id='Nombre'> 
+<br>E-MAIL:<input type='text' name='email' id='email' pattern="^[a-zA-Z0-9.!#$%'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$" 
+ required	value="ejemplo@hotmail.com" 
+onclick="if(this.value=='ejemplo@hotmail.com') this.value=''" onblur="if(this.value=='') this.value='ejemplo@hotmail.com'">
+<br>TELEFONO:<input type='text' name='telefono' id='telefono' value="Con Codigo de Area" 
+onclick="if(this.value=='Con Codigo de Area') this.value=''" onblur="if(this.value=='') this.value='Con Codigo de Area'">
+<br>ASUNTO: <input type='text' name='asunto' id='asunto'>
+<br>
+MENSAJE:<br>
+<textarea name="mensaje" cols="35" rows="10" id="mensaje"></textarea>
+<br>
+Si desea puede adjuntar un archivo:<input  type='file' name='archivo1' id='archivo1' >
+ <br>
+<input  id=boton-enviar type='submit' value='Enviar'> 
 						</div>
 					</form> 
 				</div>
