@@ -17,7 +17,7 @@ $mensaje .= "Enviado el " . date('d/m/Y', time());
 
 $asunto = "Mensaje de mi sitio web";
 
-mail($para, $asunto, utf8_decode($mensaje), $header);
+mail($para, $asunto, ($mensaje), $header);
 
 header("Location:index.html");
 ?>
