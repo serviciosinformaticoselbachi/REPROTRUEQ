@@ -1,54 +1,21 @@
+
+<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>EJEMPLO VIDEO Y AUDIO EN HTML5</title>
-<link rel="stylesheet" href="css/estilo.css">	
-    
-    
+<meta charset=utf-8 />
+<title>Reproducción m3u8</title>
+  <link href="video-js.css" rel="stylesheet">
+  <script src="video.js"></script>
+  <script src="videojs-contrib-hls.js"></script>
+  
 </head>
-
-
 <body>
+  <h1>Reproducción m3u8 Embed</h1>
  
-
-
-        <!-- Cabecera -->
-        <header>
-            <img src="media/ejemplo-logotipo.gif" width="189" height="57" alt="logo"  /> 
-            <h1>EJEMPLO VIDEO Y AUDIO EN HTML5</h1>
-        </header>
-
-        <!-- Contenido -->
-        <section>
-            <article>
-                <figure>
-                        <h2>Artículo 1: video</h2>
-                        <video src="http://iptvtree.net:8080/zhongjin/82394d2392a2/8658" controls poster="media/gatito.jpg"> </video>
-                        <figcaption>Figura: descipción video</figcaption>
-                </figure>
-            </article>
-            <article>
-                <figure>
-                        <h2>Artículo 2: audio</h2>
-                        <audio src="media/gato.mp3" controls > </audio>
-                        <figcaption>Figura: descipción audio</figcaption>
-                </figure>
-            </article>
-        </section>
-
-
-        <!-- Contenido relacionado-->
-        <aside>
-                    <p>Contenido Relacionado</p>
-        </aside>
-
-
-
-        <!-- Pie de pagina -->
-        <footer>
-                Este ejemplo de código ha sido creado para <a href="http://www.ejemplocodigo.com">www.ejemplocodigo.com</a>
-        </footer>
-
-
+  <video id="my_video_1" class="video-js vjs-default-skin" controls preload="auto" width="640" height="268" 
+  data-setup='{}'>
+    <source src="<a href="https://pull2b-i.akamaized.net/antena3/bitrate_1.m3u8">http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8</a>" type="application/x-mpegURL">
+  </video>
+  
 </body>
 </html>
