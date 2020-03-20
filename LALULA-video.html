@@ -1,141 +1,54 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <title>SERVICIOS EL B@chi</title>
-    <meta charset="utf-8"/>
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Allerta' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/invie.css"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-    <!-- <link rel="stylesheet" media="(max-width: 800px)" href="css/media-querie.css"/> -->
-  </head>
-  <body>
-    <section id="portada" class="portada background"> <!-- portada -->
-      <header id="header" class="header contenedor"> <!-- header -->
-        <figure class="logotipo"> <!-- logotipo -->
-          <img src="images/invie.png" srcset="images/invie.png 1x, images/invie2x.png 2x" width="186" height="60" alt="Invie logotipo"/>
-        </figure>
-        <span class="burguer-button icon-menu" id="burguer-button"></span>
-        <nav class="menu" id="menu"> <!-- menu -->
-          <ul>
-            <li>
-              <a href="index.html">INICIO</a>
-            </li>
-            <li>
-              <a href="#guitarras"RADIO</a>
-            </li>
-            <li>
-              <a href="precios.html">CONTACTO</a>
-            </li>
-          </ul>
-        </nav>
-      </header>
-      
-      </div>
-    </section>
-    <section id="guitarras" class="guitarras contenedor"> <!-- guitarras -->
-      <h2>PUBLICIDAD LALULA</h2><!-- titulo -->
-      <div class="video-demo-contenedor">
-        <div class="video-demo">
-          <div class="video-responsive-contenedor">
-            <iframe class="video-responsive-src" width="560" height="315" src="http://iptvtree.net:8080/zhongjin/82394d2392a2/8658" frameborder="0" allowfullscreen></iframe>
-          </div>
-        </div>
-      </div>
-     
-        </div>
-      </article>
-    </section>
-    <footer class="footer">
-      <div class="contenedor">
-        <div class="contacto">
-          <img data-src="images/invie-white.png|images/invie-white2x.png" alt="logotipo blanco"/>
-          <a href="tel:+59893422446"><strong>Telefono</strong> <span>+598 93 422 446</span></a>
-          <a href="mailto:servicioselbachi@gmail.com"><strong>E-mail</strong> <span>servicioselbachi@gmail.com</span></a>
-        </div>
-        <form class="formulario">
-          <div class="col1">
-            <label for="nombre">Nombre</label>
-            <input type="text" required id="nombre" name="nombre"/>
-            <label for="email">E-mail</label>
-            <input type="email" required id="email" name="email"/>
-            <div class="sexo">
-              <label for="mujer">
-                <input type="radio" id="mujer" checked name="sexo" value="mujer"> mujer
-              </label>
-              <label for="hombre">
-                <input type="radio" id="hombre" name="sexo" value="hombre"> hombre
-              </label>
-            </div>
-            <div class="intereses">
-              <label for="cotizacion">
-                <input type="checkbox" checked id="cotizacion" name="intereses" value="cotizacion"> Cotización
-              </label>
-              <label for="reclamos">
-                <input type="checkbox" id="reclamos" name="intereses" value="reclamos"> Reclamos
-              </label>
-              <label for="comentarios">
-                <input type="checkbox" id="comentarios" name="intereses" value="comantarios"> Comentarios
-              </label>
-              <label for="otros">
-                <input type="checkbox" id="otros" name="intereses" value="otros"> Otros
-              </label>
-            </div>
-          </div>
-          <div class="col2">
-            <label for="comentarios">Comentarios</label>
-            <textarea name="comantarios" id="comentarios" cols="30" rows="7"></textarea>
-            <input type="submit" value="Enviar" class="button"/>
-          </div>
-        </form>
-      </div>
-    </footer>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.7/hammer.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/blazy/1.5.4/blazy.min.js"></script>
-    <script>
-      var consulta = window.matchMedia('(max-width: 500px)');
-      consulta.addListener(mediaQuery);
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>EJEMPLO VIDEO Y AUDIO EN HTML5</title>
+<link rel="stylesheet" href="css/estilo.css">	
+    
+    
+</head>
 
-      var $burguerButton = document.getElementById('burguer-button');
-      var $menu = document.getElementById('menu');
-      function toggleMenu(){
-        $menu.classList.toggle('active')
-      };
-      function showMenu(){
-        $menu.classList.add('active');
-      };
-      function hideMenu(){
-        $menu.classList.remove('active');
-      };
 
-      function mediaQuery() {
-        if (consulta.matches) {
-          // si se cumple hagamos esto
-          console.log('se cumplió la condicion');
-          $burguerButton.addEventListener('touchstart', toggleMenu);
-        } else {
-          $burguerButton.removeEventListener('touchstart', toggleMenu);
-          // si no se cumple hagamos esto
-          console.log('no se cumplió la condicion');
-        }
-      }
-      mediaQuery();
+<body>
+ 
 
-      // lazy loading
-      var bLazy = new Blazy({
-          selector: 'img'
-      });
-      // $burguerButton.addEventListener('touchstart', toggleMenu);
 
-      // function toggleMenu(){
-      //   $menu.classList.toggle('active')
-      // };
+        <!-- Cabecera -->
+        <header>
+            <img src="media/ejemplo-logotipo.gif" width="189" height="57" alt="logo"  /> 
+            <h1>EJEMPLO VIDEO Y AUDIO EN HTML5</h1>
+        </header>
 
-      // Gestos touch
-      var $body = document.body;
+        <!-- Contenido -->
+        <section>
+            <article>
+                <figure>
+                        <h2>Artículo 1: video</h2>
+                        <video src="http://iptvtree.net:8080/zhongjin/82394d2392a2/8658" controls poster="media/gatito.jpg"> </video>
+                        <figcaption>Figura: descipción video</figcaption>
+                </figure>
+            </article>
+            <article>
+                <figure>
+                        <h2>Artículo 2: audio</h2>
+                        <audio src="media/gato.mp3" controls > </audio>
+                        <figcaption>Figura: descipción audio</figcaption>
+                </figure>
+            </article>
+        </section>
 
-      var gestos = new Hammer($body);
-      gestos.on('swipeleft', hideMenu);
-      gestos.on('swiperight', showMenu);
-    </script>
-  </body>
+
+        <!-- Contenido relacionado-->
+        <aside>
+                    <p>Contenido Relacionado</p>
+        </aside>
+
+
+
+        <!-- Pie de pagina -->
+        <footer>
+                Este ejemplo de código ha sido creado para <a href="http://www.ejemplocodigo.com">www.ejemplocodigo.com</a>
+        </footer>
+
+
+</body>
 </html>
