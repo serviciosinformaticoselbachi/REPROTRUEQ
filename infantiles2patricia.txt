@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://62.210.203.77/LogosCanales/Nick%20jr.jpg" group-title="Infantil",Nick Jr
+http://62.210.203.77:25461/Patricia/1234/5303
+#EXTINF:-1 tvg-id="" tvg-name="Nick Toons" tvg-logo="http://62.210.203.77/LogosCanales/Nick.jpg" group-title="Infantil",Nick Toons
+http://62.210.203.77:25461/Patricia/1234/5304
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="http://62.210.203.77/LogosCanales/Nick.jpg" group-title="Infantil",Nick 2
+http://62.210.203.77:25461/Patricia/1234/5305
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://62.210.203.77/LogosCanales/Disney%20XD.jpg" group-title="Infantil",Disney XD
+http://62.210.203.77:25461/Patricia/1234/5306
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://62.210.203.77/LogosCanales/Disney%20Channel.jpg" group-title="Infantil",Disney Channel
+http://62.210.203.77:25461/Patricia/1234/5307
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="http://62.210.203.77/LogosCanales/Disney%20Jr.jpg" group-title="Infantil",Disney Jr
+http://62.210.203.77:25461/Patricia/1234/5308
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://62.210.203.77/LogosCanales/Cartoon%20Network.jpg" group-title="Infantil",Cartoon Network
+http://62.210.203.77:25461/Patricia/1234/5309
+#EXTINF:-1 tvg-id="" tvg-name="Discovery kids" tvg-logo="http://62.210.203.77/LogosCanales/Discovery%20Kids.jpg" group-title="Infantil",Discovery kids
+http://62.210.203.77:25461/Patricia/1234/5310
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://62.210.203.77/LogosCanales/Boomerang.jpg" group-title="Infantil",Boomerang
+http://62.210.203.77:25461/Patricia/1234/5311
