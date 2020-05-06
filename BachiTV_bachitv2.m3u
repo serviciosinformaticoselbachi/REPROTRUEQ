@@ -68,6 +68,13 @@ https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m
 #EXTINF:0,HBO PLUS
 #EXTGRP:PELÍCULAS Y SERIES
 https://edge-live13-sl.cvattv.com.ar/live/c2live/HBO_Plus/verimatrix_rotating_FTA/HBO_Plus.m3u8
+
+#EXTINF:0,CANTINFLAS 1
+#EXTGRP:PELÍCULAS Y SERIES
+http://s3linkgapp.net:25461/O7d0Pn3QmH/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/15170
+#EXTINF:0,CANTINFLAS 2
+#EXTGRP:PELÍCULAS Y SERIES
+http://s3linkgapp.net:25461/O7d0Pn3QmH/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/15171
 #EXTINF:0,HBO_Family
 #EXTGRP:PELÍCULAS Y SERIES
 https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
