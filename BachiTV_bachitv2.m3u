@@ -7,8 +7,94 @@ https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 #EXTINF:-1, tvg-name="HBOHD" group-title="PELICULAS Y SERIES" ,HBOHD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
-#EXTINF:-1, tvg-name="CANAL 12 MELO" group-title="URUGUAY" ,CANAL 12 MELO
-#EXTINF:-1, tvg-name="CANAL 12 MELO" group-title="URUGUAY" ,CANAL 12 MELO
-#EXTINF:-1, tvg-name="CANAL 12 MELO" group-title="URUGUAY" ,CANAL 12 MELO
-#EXTINF:-1, tvg-name="CANAL 12 MELO" group-title="URUGUAY" ,CANAL 12 MELO
+
+#EXTGRP:PELÍCULAS Y SERIES
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
+#EXTINF:0,THEFILM ZONE
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
+#EXTINF:0,FILM_ARTS
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
+#EXTINF:0,CINEMAX
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
+#EXTINF:0,TNT
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
+#EXTINF:0,TNTSeries
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
+#EXTINF:0,AMC
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/verimatrix_rotating_FTA/AMC.m3u8
+#EXTINF:0,AXN
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
+#EXTINF:0,TCM
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
+#EXTINF:0,HBO2
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
+#EXTINF:0,HBO PLUS
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge-live13-sl.cvattv.com.ar/live/c2live/HBO_Plus/verimatrix_rotating_FTA/HBO_Plus.m3u8
+#EXTINF:0,HBO_Family
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
+#EXTINF:0,HBO_Signature
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge6-ccast-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge2-sl.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
+#EXTINF:0,FOX CHANNEL
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
+#EXTINF:0,FX
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD.m3u8
+#EXTINF:0,FOX 1
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
+#EXTINF:0,Fox Movies
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge9-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating_FTA/FoxMoviesHD.m3u8
+#EXTINF:0,FoxActionHD
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge5-hr.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating_FTA/FoxActionHD.m3u8
+#EXTINF:0,Fox Comedy
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge4-sl.cvattv.com.ar/live/live/FoxComedy/verimatrix_rotating_FTA/FoxComedy.m3u8
+#EXTINF:0,Fox Cinema
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge2-sl.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
+#EXTINF:0,Fox Classics
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge2-hr.cvattv.com.ar/live/live/FoxClassics/verimatrix_rotating_FTA/FoxClassics.m3u8
+#EXTINF:0,ISAT
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge-live13-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
+#EXTINF:0,SonyHD
+#EXTGRP:PELÍCULAS Y SERIES
+https://chromecast.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating/SonyHD.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:PELÍCULAS Y SERIES
+https://chromecast.cvattv.com.ar/live/c2live/Lifetime/verimatrix_rotating/Lifetime.m3u8
+#EXTINF:0,HBO HD
+#EXTGRP:PELÍCULAS Y SERIES
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
+#EXTINF:0,CinecanalHD
+#EXTGRP:PELÍCULAS Y SERIES
+https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD.m3u8
+#EXTINF:0,Studio_Universal
+#EXTGRP:PELÍCULAS Y SERIES
+https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
+#EXTINF:0,Eurochannel
+#EXTGRP:PELÍCULAS Y SERIES
+https://chromecast.cvattv.com.ar/live/c2live/Eurochannel/verimatrix_rotating/.m3u8
 
