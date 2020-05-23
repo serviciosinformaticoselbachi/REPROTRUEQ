@@ -5,9 +5,8 @@ http://relaxplease.xyz:25461/michael/VTvjuYtRH5/10906
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 #EXTINF:-1, tvg-name="Cana10" group-title="URUGUAY" ,Canal0
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:-1, tvg-name="HBOHD" group-title="PELICULAS Y SERIES" ,HBOHD
+#EXTINF:-1, tvg-name="HBOHD" group-title="PELICULAS Y SERIES" ,HBO HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
-
 #EXTGRP:PELÍCULAS Y SERIES
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:0,SPACE
