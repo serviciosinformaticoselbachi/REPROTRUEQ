@@ -1,423 +1,423 @@
 #EXTM3U
 #EXTINF:0,VTV + HD
-URUGUAY
+
 http://tv.cablestream.io:25462/Agustina/1234/19354
 #EXTINF:0,LA RED HD
-URUGUAY
+
 http://tv.cablestream.io:25462/Agustina/1234/35428
 #EXTINF:0,VERA +
-URUGUAY
+
 http://tv.cablestream.io:25462/Agustina/1234/16136
 #EXTINF:0,MAROÑAS
-URUGUAY
+
 http://tv.cablestream.io:25462/Agustina/1234/31618
 #EXTINF:0,1000XHORA
-URUGUAY
+
 http://tv.cablestream.io:25462/Agustina/1234/34601
 #EXTINF:0,VTV_HD
-URUGUAY
+
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
 #EXTINF:0,CANAL 4
-URUGUAY
+
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 #EXTINF:0,TV NACINAL - TNU
-URUGUAY
+
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
 #EXTINF:0,TV CIUDAD
-URUGUAY
+
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
 #EXTINF:0,CANAL 10
-URUGUAY
+
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 #EXTINF:0,CANAL 12
-URUGUAY
+
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 #EXTINF:0,CANAL U
-URUGUAY
+
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
 #EXTINF:0,TV GLOBO
-BRASIL
+
 http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/3677.ts
 #EXTINF:0,REDE TV
-BRASIL
+
 http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/8819.ts
 #EXTINF:0,Canal Saúde
-BRASIL
+
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8?DVR
 #EXTINF:0,Canção Nova
-BRASIL
+
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:0,CATVE
-BRASIL
+
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:0,CBN São Paulo
-BRASIL
+
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0,COM Brasil
-BRASIL
+#EXTINF:0,COM 
+
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:0,Discovery chanenl
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychanenl.smil/master.m3u8
 #EXTINF:0,Discovery kids
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 #EXTINF:0,espn
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 #EXTINF:0,Esporte Interativo Plus
-BRASIL
+
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
 #EXTINF:0,FM O Dia
-BRASIL
+
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 #EXTINF:0,FOX HD
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 #EXTINF:0,Fox premium
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
 #EXTINF:0,Fox sports
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
 #EXTINF:0,FURG TV
-BRASIL
+
 http://stream.furg.br:80/hls/furgtv.m3u8
 #EXTINF:0,FX
-BRASIL
+
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
 #EXTINF:0,IMPD TV
-BRASIL
+
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:0,In Paradise TV
-BRASIL
+
 https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8
 #EXTINF:0,Itu tv
-BRASIL
+
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:0,Jovem Pan News
-BRASIL
+
 http://ja-streamlink.mooo.com/jp/stream.m3u8
 #EXTINF:0,luau tv
-BRASIL
-https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
+
+https://hls.stream.com.br/live/luautv/luautv/index.m3u8
 #EXTINF:0,Master tv
-BRASIL
+
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0,Metrópole News TV
-BRASIL
+
 http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
 #EXTINF:0,GLOBO
-BRASIL
+
 http://tv.nousiptv.com:25462/live/Agustina/1234/7773.ts
 #EXTINF:0,98 Live (Belo Horizonte)
-BRASIL
+
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-#EXTINF:0,Agro Brasil tv
-BRASIL
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0,Agro  tv
+
+http://45.162.230.234:1935/agrotv/agrotv/playlist.m3u8
 #EXTINF:0,ALL Sports
-BRASIL
+
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:0,ALL TV
-BRASIL
+
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
 #EXTINF:0,Canal 25 Jundiaí
-BRASIL
-http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+http://stream01.msolution.com.br:80/hls/canal25/live.m3u8
 #EXTINF:0,Canal Ricos
-BRASIL
+
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 #EXTINF:0,Quiero_HD
-CANALES MUSICALES
+
 https://edge-live13-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
 #EXTINF:0,TOP LATINO
-CANALES MUSICALES
+
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
 #EXTINF:0,Portal fox mix
-CANALES MUSICALES
+
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:0,MTV CLIPES 1
-CANALES MUSICALES
+
 http://rtmp.one.by:1200
 #EXTINF:0,Retro tv
-CANALES MUSICALES
+
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0,lancelot television
-ESPAÑA
+
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0,Telesafor
-ESPAÑA
+
 http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:0,TV Galicia Europa
-ESPAÑA
+
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0,Alcarria tv
-ESPAÑA
+
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:0,Lebrija Tv
-ESPAÑA
+
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:0,Lasuper tv
-ESPAÑA
+
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 #EXTINF:0,Djing
-ESPAÑA
+
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:0,TOP latino
-ESPAÑA
+
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
 #EXTINF:0,PARAMOT NETWORK
-ESPAÑA
+
 https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
 #EXTINF:0,ANTENA 3
-ESPAÑA
+
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
 #EXTINF:0,CUATRO
-ESPAÑA
+
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:0,TELECINCO
-ESPAÑA
+
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:0,Lasexta
-ESPAÑA
+
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
 #EXTINF:0,FDF
-ESPAÑA
+
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:0,ENERGY
-ESPAÑA
+
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:0,Bemad
-ESPAÑA
+
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:0,Divinity
-ESPAÑA
+
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:0,Boing
-ESPAÑA
+
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0,Mtmad
-ESPAÑA
+
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:0,Ten
-ESPAÑA
+
 http://91.126.141.201:1935/live/ten/chunklist_w287444774.m3u8
 #EXTINF:0,Dkiss
-ESPAÑA
+
 http://91.126.141.201:1935/live/kiss/chunklist_w894084640.m3u8
 #EXTINF:0,Discoverymax
-ESPAÑA
+
 http://91.126.141.12:1935/live/discoverymax/chunklist_w108398623.m3u8
 #EXTINF:0,EL TRECE
-ESPAÑA
+
 https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 #EXTINF:0,TORO TV
-ESPAÑA
+
 https://live-edge-lon-2.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 #EXTINF:0,CANAL SUR
-ESPAÑA
+
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
 #EXTINF:0,REAL MADRID
-ESPAÑA
+
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,BARCELONA TV
-ESPAÑA
+
 http://stream.pcriot.com/Zb6n/ftv.php/BARCAHD/S9014/2.m3u8
 #EXTINF:0,RED TV
-ESPAÑA
+
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w774478708.m3u8
 #EXTINF:0,FibwiLIVEtv
-ESPAÑA
+
 https://directo.fibwi.com/stream/stream_fibwiLIVE/fibwiLIVEtv.m3u8
 #EXTINF:0,Traveltv
-ESPAÑA
+
 http://194.179.53.124:1935/live/traveltv/chunklist_w853215354.m3u8
 #EXTINF:0,TREVEL TV
-ESPAÑA
+
 https://59c8647978660.streamlock.net/8176/8176/chunklist_w48232640.m3u8
 #EXTINF:0,DEJATE DE HISTORIAS TV
-ESPAÑA
+
 https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
 #EXTINF:0,101 TV
-ESPAÑA
+
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:0,RADIO TELEVISION
-ESPAÑA
+
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w815046942_b480000_sles.m3u8
 #EXTINF:0,7 WEB
-ESPAÑA
+
 https://cdnlive.shooowit.net/la7live/channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:0,BENAVENTE
-ESPAÑA
+
 https://59b782181fb20.streamlock.net:455/gcm5/gcm5/chunklist_w1312262496.m3u8
 #EXTINF:0,MIRAME TV
-ESPAÑA
+
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/chunklist_w611131847.m3u8
 #EXTINF:0,NAVARRA TV
-ESPAÑA
+
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
 #EXTINF:0,Marbella tv
-ESPAÑA
+
 https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 #EXTINF:0,cgtn ESPAÑOL
-ESPAÑA
+
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,Wow tv
-ESPAÑA
+
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0,Marti
-ESPAÑA
+
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:0,Hd Fashion
-ESPAÑA
+
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 #EXTINF:0,ETBEITBEUS
-ESPAÑA
+
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 #EXTINF:0,Red Advenirh
-RELIGIOSOS TV
+
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:0,ALFA TV
-RELIGIOSOS TV
+
 http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
 #EXTINF:0,Esperanza TV
-RELIGIOSOS TV
+
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_596_av-p.m3u8
 #EXTINF:0,CBN - ESPAÑOL
-RELIGIOSOS TV
+
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_2000_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,CDM INTERNACIONAL
-RELIGIOSOS TV
+
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w613655359.m3u8
 #EXTINF:0,TABER TV
-RELIGIOSOS TV
+
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1672984887_b148000_sleng.m3u8?DVR%3E
 #EXTINF:0,LA NUEVA TV
-RELIGIOSOS TV
+
 https://5b50404ec5e4c.streamlock.net/lanueva/ngrp:lanueva_all/chunklist_w568730017_b630000.m3u8
 #EXTINF:0,COMUNICACON TV
-RELIGIOSOS TV
+
 http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w2121222715_b181000_sleng.m3u8
 #EXTINF:0,NACION TV
-RELIGIOSOS TV
+
 http://primary.iptv-global.net:1935/NacionTVINT/ngrp:myStream_all/chunklist_w353786779_b546608.m3u8
 #EXTINF:0,GSG TV
-RELIGIOSOS TV
+
 https://5d00db0e0fcd5.streamlock.net/7282/7282/chunklist_w988979503.m3u8
 #EXTINF:0,FAMILIA VISION
-RELIGIOSOS TV
+
 http://ph1.ministeriotv.com:1936/29/stream/chunklist_w1847146618.m3u8
 #EXTINF:0,CIELO TV
-RELIGIOSOS TV
+
 https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8
 #EXTINF:0,VIVA CRISTO TV
-RELIGIOSOS TV
+
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
 #EXTINF:0,HopeTV
-RELIGIOSOS TV
+
 https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
 #EXTINF:0,3ABN
-RELIGIOSOS TV
+
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:0,CCI Channel (Honduras)
-RELIGIOSOS TV
+
 https://5d597bfcee285.streamlock.net/cci/cci/chunklist_w1962935691.m3u8
 #EXTINF:0,Genesis tv
-RELIGIOSOS TV
+
 http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
 #EXTINF:0,JOSUE TV
-RELIGIOSOS TV
+
 http://va1.ministeriotv.com:1936/264/stream/playlist.m3u8
 #EXTINF:0,RTV
-RELIGIOSOS TV
+
 https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:0,Ebenezer TV (Honduras)
-RELIGIOSOS TV
+
 http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/chunklist_w1424115902_b1228800.m3u8
 #EXTINF:0,Presencia TV
-RELIGIOSOS TV
+
 https://5c51d3942f000.streamlock.net:1937/presenciatv1/presenciatv1/chunklist_w1140744850.m3u8
 #EXTINF:0,Woro Canal 13 (Puerto Rico)
-RELIGIOSOS TV
+
 https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_w1874302818.m3u8
 #EXTINF:0,CTNI (Puerto Rico)
-RELIGIOSOS TV
+
 https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8
-#EXTINF:0,Logos TV (España)
-RELIGIOSOS TV
+#EXTINF:0,Logos TV ()
+
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:0,Solidaria TV (España)
-RELIGIOSOS TV
+#EXTINF:0,Solidaria TV ()
+
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:0,Taber TV (El Salvador)
-RELIGIOSOS TV
+
 https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/chunklist_w1742284038.m3u8
 #EXTINF:0,SBN Hispano
-RELIGIOSOS TV
+
 https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch50/ch50.m3u8
 #EXTINF:0,Avivame HD
-RELIGIOSOS TV
+
 http://wow.adonainy.com:1935/live/smil:avivame.smil/chunklist_w533146800_b764100_sleng.m3u8
 #EXTINF:0,Elim de amor
-RELIGIOSOS TV
+
 https://edge1o.live.opencaster.com/caster/tpzdrdHcGzuh.m3u8
 #EXTINF:0,ELIM TV
-RELIGIOSOS TV
+
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_151_av-p.m3u8?sd=6&amp;rebase=on
 #EXTINF:0,HOSANA VISION
-RELIGIOSOS TV
+
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:0,JELE TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net/playlistvideos/secure.php?id=JeleTVOndemand/35/127/JeleTV_8.mp4
 #EXTINF:0,KERYGMA TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/KerygmaTV/KerygmaTV/chunklist_w1633916988.m3u8
 #EXTINF:0,EXTREMA TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1590118143.m3u8
 #EXTINF:0,CANAL LUZ
-RELIGIOSOS TV
+
 http://g4.mc-hor.transport.edge-access.net/a18/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 #EXTINF:0,REFORMA TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/ReformaTV/smil:ReformaTV.smil/chunklist_w2051243640_b200000_slen.m3u8
 #EXTINF:0,ALIENTO VISION
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/chunklist_w691502073_b1300000_slen.m3u8
 #EXTINF:0,ZOE TV MISIÓN VIDA
-RELIGIOSOS TV
+
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1138512370.m3u8
 #EXTINF:0,ALELUYA TV
-RELIGIOSOS TV
+
 https://59825a54e4454.streamlock.net:8443/ruben560/ruben560/chunklist_w504470367.m3u8
 #EXTINF:0,CDM INTERNACIONAL
-RELIGIOSOS TV
+
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w2040294167.m3u8
 #EXTINF:0,MANANTIAL DE ADORACIÓN
-RELIGIOSOS TV
+
 https://5983a4e15f07f.streamlock.net:8443/manantialadoraciontv/manantialadoraciontv/chunklist_w738329689.m3u8
 #EXTINF:0,SHALOM TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1303331575.m3u8
 #EXTINF:0,SOBRENATURAL TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/SobrenaturalTV/SobrenaturalTV/chunklist_w702976643.m3u8
 #EXTINF:0,BNGG TV
-RELIGIOSOS TV
+
 https://5983a4e15f07f.streamlock.net:8443/pastordomingo46/pastordomingo46/chunklist_w863621550.m3u8
 #EXTINF:0,TV ELOHIM
-RELIGIOSOS TV
+
 https://59825a54e4454.streamlock.net:8443/radhames706/radhames706/chunklist_w961542271.m3u8
 #EXTINF:0,ALCANCE TV
-RELIGIOSOS TV
+
 https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w1848560081.m3u8
 #EXTINF:0,ÚNICO TELEVISIÓN
-RELIGIOSOS TV
+
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1822057052.m3u8
 #EXTINF:0,3ABN LATINO
-RELIGIOSOS TV
+
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
 #EXTINF:0,FRAGIL
 PELICULAS - DEAMA - ACCION
@@ -437,167 +437,167 @@ http://tux-vod.dynu.com/peliculas/720/el%20secreto%20de%20las%20calaveras%20de%2
 #EXTINF:0,DESAFIO SOBRE OLAS
 PELICULAS - DEAMA - ACCION
 https://gloria.tv/streaming/8v48GN4F8ck62AZMQDubcn2oG/hls/master.m3u8
-#EXTINF:0,TVC DEPORTES
-DEPORTES
+#EXTINF:0,TVC 
+
 http://iptvactivador.online:25461/live/XTREAMTVCHUKYFLOO/CHUKYFLOO/1531.ts
 #EXTINF:0,GOL TV ECUADOR
-DEPORTES
+
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,Show_Sports
-DEPORTES
+
 https://edge-live13-sl.cvattv.com.ar/live/c4eds/Show_Sports/verimatrix_rotating_FTA/Show_Sports.m3u8
-#EXTINF:0,VTV URUGUAY
-DEPORTES
+#EXTINF:0,VTV 
+
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
 #EXTINF:0,Fox_Sports_Premiun
-DEPORTES
+
 https://edge6-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/verimatrix_rotating_FTA/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:0,FoxSports
-DEPORTES
+
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/verimatrix_rotating_FTA/FoxSports.m3u8
 #EXTINF:0,ESPN 2
-DEPORTES
+
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/ESPN2HD.m3u8
 #EXTINF:0,ESPN 3
-DEPORTES
+
 https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN3/verimatrix_rotating_FTA/ESPN3.m3u8
 #EXTINF:0,TyC Sport
-DEPORTES
+
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TyCSport/verimatrix_rotating_FTA/TyCSport.m3u8
 #EXTINF:0,Fox Sports 2
-DEPORTES
+
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/verimatrix_rotating_FTA/FoxSports2HD.m3u8
 #EXTINF:0,Fox Sports 3
-DEPORTES
+
 https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/verimatrix_rotating_FTA/FoxSports3HD.m3u8
 #EXTINF:0,ESPN
-DEPORTES
+
 https://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/verimatrix_rotating_FTA/ESPN_HD.m3u8
 #EXTINF:0,ESPN +
-DEPORTES
+
 https://edge6-hr.cvattv.com.ar/live/c3eds/ESPNHD/verimatrix_rotating_FTA/ESPNHD.m3u8
 #EXTINF:0,ESPN 2
-DEPORTES
+
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/ESPN2HD.m3u8
 #EXTINF:0,NBA_TV
-DEPORTES
+
 https://edge10-hr.cvattv.com.ar/live/c2live/NBA_TV/verimatrix_rotating_FTA/NBA_TV.m3u8
 #EXTINF:0,Pinky y Cerebro 1995
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/362
 #EXTINF:0,Juego de tronos
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/352
 #EXTINF:0,Power Rangers
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/303
 #EXTINF:0,Robotech
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/304
 #EXTINF:0,Sailor Moon
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/305
 #EXTINF:0,Los Simpson
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/307
 #EXTINF:0,Smallville
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/308
 #EXTINF:0,Spider-Man
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/310
 #EXTINF:0,Stranger Things
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/311
 #EXTINF:0,Super Campeones
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/312
 #EXTINF:0,Peliculas de terror
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/313
 #EXTINF:0,Thundercats
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/314
 #EXTINF:0,BOB ESPONJA
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/317
 #EXTINF:0,Caillou
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/318
 #EXTINF:0,El Coyote y el Correcaminos
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/319
 #EXTINF:0,La Risa en Vacaciones
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/322
 #EXTINF:0,LazyTown
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/323
 #EXTINF:0,La pantera rosa
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/325
 #EXTINF:0,Peppa PIG LA CERDITA
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/326
 #EXTINF:0,La hora pico
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/327
 #EXTINF:0,HÉROES EN PIJAMAS
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/328
 #EXTINF:0,LA CASA DE PAPEL
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/334
 #EXTINF:0,EL CHAVO DEL OCHO
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/335
 #EXTINF:0,EL CHEMA
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/336
 #EXTINF:0,El señor de los cielos
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/337
 #EXTINF:0,CORAJE Agallas, el perro cobarde
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/338
 #EXTINF:0,ALF
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/342
 #EXTINF:0,PELICULAS - ESTRENOS 2018
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/350
 #EXTINF:0,FUTURAMA
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/351
 #EXTINF:0,LA ROSA DE GUADADUPE
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/354
 #EXTINF:0,Los locos Addams
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/355
 #EXTINF:0,La Familia Monster 1964
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/356
 #EXTINF:0,Luis Miguel - la serie 2018
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/357
 #EXTINF:0,Los años maravillosos 1988
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/359
 #EXTINF:0,DON GATO
-CANALES 24HS
+
 http://relaxplease.xyz:25461/michael/VTvjuYtRH5/29420
 #EXTINF:0,CSI Miami 
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/339
 #EXTINF:0,Barney y sus Amigos
-CANALES 24HS
+
 http://iptvactivador.online:25461/experiencetv1/expericentv2020/316
 #EXTINF:0,CANTINFLAS
-CANALES 24HS
+
 http://relaxplease.xyz:25461/DRAKARR27/ujhdnfbjssk234/30180
 #EXTINF:0,NCIS Los Angeles
-CANALES 24HS
+
 http://s3linkgapp.net:25461/tQM5mmE2o7/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/15161
 #EXTINF:0,BOOMERANG
 INFANTILES
@@ -636,97 +636,97 @@ https://edge6-hr.cvattv.com.ar/live/c2live/PAKA_PAKA/verimatrix_rotating_FTA/PAK
 INFANTILES
 https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/NatGeo_Kids.m3u8
 #EXTINF:0,PARAMONT NEDWORK
-PELÍCULAS Y SERIES
+
 https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
 #EXTINF:0,CANAL 13 TV
-PELÍCULAS Y SERIES
+
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:0,SPACE
-PELÍCULAS Y SERIES
+
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
 #EXTINF:0,THEFILM ZONE
-PELÍCULAS Y SERIES
+
 https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
 #EXTINF:0,FILM_ARTS
-PELÍCULAS Y SERIES
+
 https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
 #EXTINF:0,CINEMAX
-PELÍCULAS Y SERIES
+
 https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
 #EXTINF:0,TNT
-PELÍCULAS Y SERIES
+
 https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
 #EXTINF:0,TNTSeries
-PELÍCULAS Y SERIES
+
 https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
 #EXTINF:0,AMC
-PELÍCULAS Y SERIES
+
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/verimatrix_rotating_FTA/AMC.m3u8
 #EXTINF:0,AXN
-PELÍCULAS Y SERIES
+
 https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
 #EXTINF:0,TCM
-PELÍCULAS Y SERIES
+
 https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
 #EXTINF:0,HBO2
-PELÍCULAS Y SERIES
+
 https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
 #EXTINF:0,HBO PLUS
-PELÍCULAS Y SERIES
+
 https://edge-live13-sl.cvattv.com.ar/live/c2live/HBO_Plus/verimatrix_rotating_FTA/HBO_Plus.m3u8
 #EXTINF:0,HBO_Family
-PELÍCULAS Y SERIES
+
 https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
 #EXTINF:0,HBO_Signature
-PELÍCULAS Y SERIES
+
 https://edge6-ccast-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature.m3u8
 #EXTINF:0,Paramount
-PELÍCULAS Y SERIES
+
 https://edge2-sl.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
 #EXTINF:0,FOX CHANNEL
-PELÍCULAS Y SERIES
+
 https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
 #EXTINF:0,FX
-PELÍCULAS Y SERIES
+
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD.m3u8
 #EXTINF:0,FOX 1
-PELÍCULAS Y SERIES
+
 https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
 #EXTINF:0,Fox Movies
-PELÍCULAS Y SERIES
+
 https://edge9-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating_FTA/FoxMoviesHD.m3u8
 #EXTINF:0,FoxActionHD
-PELÍCULAS Y SERIES
+
 https://edge5-hr.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating_FTA/FoxActionHD.m3u8
 #EXTINF:0,Fox Comedy
-PELÍCULAS Y SERIES
+
 https://edge4-sl.cvattv.com.ar/live/live/FoxComedy/verimatrix_rotating_FTA/FoxComedy.m3u8
 #EXTINF:0,Fox Cinema
-PELÍCULAS Y SERIES
+
 https://edge2-sl.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
 #EXTINF:0,Fox Classics
-PELÍCULAS Y SERIES
+
 https://edge2-hr.cvattv.com.ar/live/live/FoxClassics/verimatrix_rotating_FTA/FoxClassics.m3u8
 #EXTINF:0,ISAT
-PELÍCULAS Y SERIES
+
 https://edge-live13-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
 #EXTINF:0,SonyHD
-PELÍCULAS Y SERIES
+
 https://chromecast.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating/SonyHD.m3u8
 #EXTINF:0,Lifetime
-PELÍCULAS Y SERIES
+
 https://chromecast.cvattv.com.ar/live/c2live/Lifetime/verimatrix_rotating/Lifetime.m3u8
 #EXTINF:0,HBO HD
-PELÍCULAS Y SERIES
+
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
 #EXTINF:0,CinecanalHD
-PELÍCULAS Y SERIES
+
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD.m3u8
 #EXTINF:0,Studio_Universal
-PELÍCULAS Y SERIES
+
 https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
 #EXTINF:0,Eurochannel
-PELÍCULAS Y SERIES
+
 https://chromecast.cvattv.com.ar/live/c2live/Eurochannel/verimatrix_rotating/.m3u8
 #EXTINF:0,AMERICA 24
 ARGENTINA
@@ -783,64 +783,64 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10
 ARGENTINA
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1282360536.m3u8
 #EXTINF:0,DW
-DOCUMENTALES
+
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0,NatGeoHD
-DOCUMENTALES
+
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/verimatrix_rotating_FTA/NatGeoHD.m3u8
 #EXTINF:0,HistoryHD
-DOCUMENTALES
+
 https://edge4-hr.cvattv.com.ar/live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD.m3u8
 #EXTINF:0,History_2
-DOCUMENTALES
+
 https://edge7-ccast-sl.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating_FTA/History_2.m3u8
 #EXTINF:0,AnimalPlanet
-DOCUMENTALES
+
 https://edge2-hr.cvattv.com.ar/live/live/AnimalPlanet/verimatrix_rotating_FTA/AnimalPlanet.m3u8
 #EXTINF:0,DiscoveryHD
-DOCUMENTALES
+
 https://edge6-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD.m3u8
 #EXTINF:0,Discovery_Science
-DOCUMENTALES
+
 https://edge-live14-hr.cvattv.com.ar/live/c2live/Discovery_Science/verimatrix_rotating_FTA/Discovery_Science.m3u8
 #EXTINF:0,NatGeoWildHD
-DOCUMENTALES
+
 https://edge9-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/verimatrix_rotating_FTA/NatGeoWildHD.m3u8
 #EXTINF:0,Theater_HD
-DOCUMENTALES
+
 https://edge8-ccast-hr.cvattv.com.ar/live/c2live/Theater_HD/verimatrix_rotating_FTA/Theater_HD.m3u8
 #EXTINF:0,DiscoveryHomeHealthHD
-DOCUMENTALES
+
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/verimatrix_rotating_FTA/DiscoveryHomeHealthHD.m3u8
 #EXTINF:0,Discovery_World_HD
-DOCUMENTALES
+
 https://edge6-ccast-sl.cvattv.com.ar/live/c2live/Discovery_World_HD/verimatrix_rotating_FTA/Discovery_World_HD.m3u8
 #EXTINF:0,Discovery_Civilization
-DOCUMENTALES
+
 https://edge9-sl.cvattv.com.ar/live/c2live/Discovery_Civilization/verimatrix_rotating_FTA/Discovery_Civilization.m3u8
 #EXTINF:0,DiscoveryTurbo
-DOCUMENTALES
+
 https://edge-vod02-sl.cvattv.com.ar/live/live/DiscoveryTurbo/verimatrix_rotating_FTA/DiscoveryTurbo.m3u8
 #EXTINF:0,Discovery_ID
-DOCUMENTALES
+
 https://edge4-hr.cvattv.com.ar/live/live/ID/verimatrix_rotating_FTA/ID.m3u8
 #EXTINF:0,Radio Cristiana Dominicana
-RADIOS RELIGIOSAS
+
 https://node-33.zeno.fm/p6ttmz849zquv?rj-ttl=5&amp;rj-tok=AAABccE3AcwApna6golryFeVZg
 #EXTINF:0,CRISTIANOS RADIO
-RADIOS RELIGIOSAS
+
 https://stream.miradio.in:9516/stream/1/
 #EXTINF:0,RADIO CONSEJERO FIEL
-RADIOS RELIGIOSAS
+
 https://node-12.zeno.fm/e7w8u2zvm8quv?rj-ttl=5&amp;rj-tok=AAABccFCmWgAjmYlk7eoUh7cbQ
 #EXTINF:0,RADIO SOL DE JUSTICIA
-RADIOS RELIGIOSAS
+
 https://node-17.zeno.fm/stmdw5c7dfeuv?rj-ttl=5&amp;rj-tok=AAABccFGkuIAYzB91sDCok7bYQ
 #EXTINF:0,LA ROCA ESTACIÓN DEL CIELO 91.7 FM
-RADIOS RELIGIOSAS
+
 https://emisorasvirtuales.com.co:9045/live
-#EXTINF:0,Radio Biblica Siloé - URUGUAY
-RADIOS RELIGIOSAS
+#EXTINF:0,Radio Biblica Siloé - 
+
 http://stream.zeno.fm/e1f4he38qnruv
 #EXTINF:0,GRANADA TELEVISION
 unsorted
