@@ -57,94 +57,96 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",COM 
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery chanenl
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Discovery chanenl
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychanenl.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Discovery kids
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Discovery kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
-#EXTINF:0,espn
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",espn
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
-#EXTINF:0,FURG TV
+
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",FURG TV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
-#EXTINF:0,Esporte Interativo Plus
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
-#EXTINF:0,FM O Dia
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",FM O Dia
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",FOX HD
-
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
-#EXTINF:0,Fox premium
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Fox premium
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox sports
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Fox sports
 http://stream.furg.br:80/hls/furgtv.m3u8
-#EXTINF:0,FX
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
-#EXTINF:0,IMPD TV
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:0,In Paradise TV
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",In Paradise TV
 https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8
-#EXTINF:0,Itu tv
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Itu tv
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:0,Jovem Pan News
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Jovem Pan News
 http://ja-streamlink.mooo.com/jp/stream.m3u8
-#EXTINF:0,luau tv
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",luau tv
 https://hls.stream.com.br/live/luautv/luautv/index.m3u8
-#EXTINF:0,Master tv
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Master tv
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:0,Metrópole News TV
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
-#EXTINF:0,GLOBO
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",GLOBO
 http://tv.nousiptv.com:25462/live/Agustina/1234/7773.ts
-#EXTINF:0,98 Live (Belo Horizonte)
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",98 Live (Belo Horizonte)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
-#EXTINF:0,Agro  tv
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Agro  tv
 http://45.162.230.234:1935/agrotv/agrotv/playlist.m3u8
-#EXTINF:0,ALL Sports
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0,ALL TV
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",ALL TV
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
-#EXTINF:0,Canal 25 Jundiaí
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Canal 25 Jundiaí
 http://stream01.msolution.com.br:80/hls/canal25/live.m3u8
+
 #EXTINF:0,Canal Ricos
-
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:0,Quiero_HD
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES",Quiero_HD
 https://edge-live13-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
-#EXTINF:0,TOP LATINO
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES",TOP LATINO
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:0,Portal fox mix
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES",Portal fox mix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:0,MTV CLIPES 1
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES",MTV CLIPES 1
 http://rtmp.one.by:1200
-#EXTINF:0,Retro tv
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES",Retro tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,lancelot television
+
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA"
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES",lancelot television
 
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0,Telesafor
