@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV
-
 http://tv.cablestream.io:25462/Agustina/1234/19354
-#EXTINF:0,LA RED HD
 
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",LA RED
 http://tv.cablestream.io:25462/Agustina/1234/35428
-#EXTINF:0,VERA +
 
+#EXTINF:0,VERA +
 http://tv.cablestream.io:25462/Agustina/1234/16136
+
 #EXTINF:0,MAROÑAS
 
 http://tv.cablestream.io:25462/Agustina/1234/31618
