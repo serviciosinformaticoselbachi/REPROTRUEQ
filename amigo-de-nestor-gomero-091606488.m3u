@@ -6,17 +6,16 @@ http://tv.cablestream.io:25462/Agustina/1234/19354
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",LA RED
 http://tv.cablestream.io:25462/Agustina/1234/35428
 
-#EXTINF:0,VERA +
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VERA +
 http://tv.cablestream.io:25462/Agustina/1234/16136
 
 #EXTINF:0,MAROÑAS
-
 http://tv.cablestream.io:25462/Agustina/1234/31618
+
 #EXTINF:0,1000XHORA
-
 http://tv.cablestream.io:25462/Agustina/1234/34601
-#EXTINF:0,VTV_HD
 
+#EXTINF:0,VTV_HD
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
 #EXTINF:0,CANAL 4
 
@@ -65,6 +64,8 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychanenl.smil/mast
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 #EXTINF:0,espn
 
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
+#EXTINF:0,FURG TV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 #EXTINF:0,Esporte Interativo Plus
 
@@ -72,16 +73,15 @@ https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playou
 #EXTINF:0,FM O Dia
 
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:0,FOX HD
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",FOX HD
 
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 #EXTINF:0,Fox premium
 
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
-#EXTINF:0,Fox sports
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox sports
 
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
-#EXTINF:0,FURG TV
+
 
 http://stream.furg.br:80/hls/furgtv.m3u8
 #EXTINF:0,FX
