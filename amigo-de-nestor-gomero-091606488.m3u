@@ -420,8 +420,10 @@ https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w1848560081.m3u8
 
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1822057052.m3u8
 #EXTINF:0,3ABN LATINO
-
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS"
+
 #EXTINF:0,FRAGIL
 PELICULAS - DEAMA - ACCION
 http://54.39.50.140/movies/Afabetico/br34k4bl3%20y0u%202017%20latino/br34k4bl3.y0u.2017.latino.mp4
@@ -440,8 +442,10 @@ http://tux-vod.dynu.com/peliculas/720/el%20secreto%20de%20las%20calaveras%20de%2
 #EXTINF:0,DESAFIO SOBRE OLAS
 PELICULAS - DEAMA - ACCION
 https://gloria.tv/streaming/8v48GN4F8ck62AZMQDubcn2oG/hls/master.m3u8
-#EXTINF:0,TVC 
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
+
+#EXTINF:0,TVC 
 http://iptvactivador.online:25461/live/XTREAMTVCHUKYFLOO/CHUKYFLOO/1531.ts
 #EXTINF:0,GOL TV ECUADOR
 
@@ -484,122 +488,10 @@ https://edge6-hr.cvattv.com.ar/live/c3eds/ESPNHD/verimatrix_rotating_FTA/ESPNHD.
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/ESPN2HD.m3u8
 #EXTINF:0,NBA_TV
 
-https://edge10-hr.cvattv.com.ar/live/c2live/NBA_TV/verimatrix_rotating_FTA/NBA_TV.m3u8
-#EXTINF:0,Pinky y Cerebro 1995
 
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/362
-#EXTINF:0,Juego de tronos
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES"
 
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/352
-#EXTINF:0,Power Rangers
 
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/303
-#EXTINF:0,Robotech
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/304
-#EXTINF:0,Sailor Moon
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/305
-#EXTINF:0,Los Simpson
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/307
-#EXTINF:0,Smallville
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/308
-#EXTINF:0,Spider-Man
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/310
-#EXTINF:0,Stranger Things
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/311
-#EXTINF:0,Super Campeones
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/312
-#EXTINF:0,Peliculas de terror
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/313
-#EXTINF:0,Thundercats
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/314
-#EXTINF:0,BOB ESPONJA
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/317
-#EXTINF:0,Caillou
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/318
-#EXTINF:0,El Coyote y el Correcaminos
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/319
-#EXTINF:0,La Risa en Vacaciones
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/322
-#EXTINF:0,LazyTown
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/323
-#EXTINF:0,La pantera rosa
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/325
-#EXTINF:0,Peppa PIG LA CERDITA
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/326
-#EXTINF:0,La hora pico
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/327
-#EXTINF:0,HÉROES EN PIJAMAS
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/328
-#EXTINF:0,LA CASA DE PAPEL
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/334
-#EXTINF:0,EL CHAVO DEL OCHO
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/335
-#EXTINF:0,EL CHEMA
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/336
-#EXTINF:0,El señor de los cielos
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/337
-#EXTINF:0,CORAJE Agallas, el perro cobarde
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/338
-#EXTINF:0,ALF
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/342
-#EXTINF:0,PELICULAS - ESTRENOS 2018
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/350
-#EXTINF:0,FUTURAMA
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/351
-#EXTINF:0,LA ROSA DE GUADADUPE
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/354
-#EXTINF:0,Los locos Addams
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/355
-#EXTINF:0,La Familia Monster 1964
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/356
-#EXTINF:0,Luis Miguel - la serie 2018
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/357
-#EXTINF:0,Los años maravillosos 1988
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/359
-#EXTINF:0,DON GATO
-
-http://relaxplease.xyz:25461/michael/VTvjuYtRH5/29420
-#EXTINF:0,CSI Miami 
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/339
-#EXTINF:0,Barney y sus Amigos
-
-http://iptvactivador.online:25461/experiencetv1/expericentv2020/316
-#EXTINF:0,CANTINFLAS
-
-http://relaxplease.xyz:25461/DRAKARR27/ujhdnfbjssk234/30180
-#EXTINF:0,NCIS Los Angeles
 
 http://s3linkgapp.net:25461/tQM5mmE2o7/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/15161
 #EXTINF:0,BOOMERANG
@@ -636,10 +528,14 @@ https://edge10-sl.cvattv.com.ar/live/c2live/Discovery_Kids/verimatrix_rotating_F
 INFANTILES
 https://edge6-hr.cvattv.com.ar/live/c2live/PAKA_PAKA/verimatrix_rotating_FTA/PAKA_PAKA.m3u8
 #EXTINF:0,NATGEO KIDS
-INFANTILES
 https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/NatGeo_Kids.m3u8
-#EXTINF:0,PARAMONT NEDWORK
 
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES"
+
+
+
+#EXTINF:0,PARAMONT NEDWORK
 https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
 #EXTINF:0,CANAL 13 TV
 
@@ -729,10 +625,13 @@ https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD
 
 https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
 #EXTINF:0,Eurochannel
-
 https://chromecast.cvattv.com.ar/live/c2live/Eurochannel/verimatrix_rotating/.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="ARGENTINA"
+
+
 #EXTINF:0,AMERICA 24
-ARGENTINA
 https://edge2-sl.cvattv.com.ar/live/live/America24/verimatrix_rotating_FTA/America24.m3u8
 #EXTINF:0,TV PUBLICA
 ARGENTINA
