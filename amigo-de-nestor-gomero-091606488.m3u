@@ -26,38 +26,38 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotati
 
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
-#EXTINF:0,CANAL 10
 
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 10
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:0,CANAL 12
+
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 12
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
-#EXTINF:0,CANAL U
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL U
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV GLOBO
-
 http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/3677.ts
+
 #EXTINF:0,REDE TV
-
 http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/8819.ts
-#EXTINF:0,Canal Saúde
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Canal Saúde
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8?DVR
-#EXTINF:0,Canção Nova
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:0,CATVE
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:0,CBN São Paulo
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0,COM 
 
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",COM 
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery chanenl
 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery chanenl
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychanenl.smil/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Discovery kids
 
