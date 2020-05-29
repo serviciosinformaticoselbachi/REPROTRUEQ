@@ -126,7 +126,7 @@ https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",Canal 25 Jundiaí
 http://stream01.msolution.com.br:80/hls/canal25/live.m3u8
 
-#EXTINF:0,Canal Ricos
+#EXTINF:-1 tvg-logo="" group-title="BRASIL,Canal Ricos
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICALES",Quiero_HD
@@ -141,12 +141,11 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICALES",MTV CLIPES 1
 http://rtmp.one.by:1200
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES",Retro tv
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESPAÑA"
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES",lancelot television
+
+#EXTINF:-1 tvg-logo="" group-title="",lancelot television
 
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0,Telesafor
@@ -165,9 +164,6 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 #EXTINF:0,Djing
-
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:0,TOP latino
 
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
 #EXTINF:0,PARAMOT NETWORK
@@ -276,9 +272,13 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 #EXTINF:0,ETBEITBEUS
-
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:0,Red Advenirh
+
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS"
+
+
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",Red Advenirh
 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:0,ALFA TV
