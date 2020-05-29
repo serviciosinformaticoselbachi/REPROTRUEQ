@@ -1,4 +1,4 @@
-#EXTM3U  tvg-shift=-3
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV
 http://tv.cablestream.io:25462/Agustina/1234/19354
