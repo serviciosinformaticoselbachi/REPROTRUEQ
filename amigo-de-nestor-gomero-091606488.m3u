@@ -129,6 +129,10 @@ http://stream01.msolution.com.br:80/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRASIL,Canal Ricos
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICALES"
+
+
 #EXTINF:-1 tvg-logo="" group-title="MUSICALES",Quiero_HD
 https://edge-live13-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
 
@@ -145,7 +149,7 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-logo="" group-title="ESPAÑA"
 
 
-#EXTINF:-1 tvg-logo="" group-title="",lancelot television
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",lancelot television
 
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0,Telesafor
@@ -275,10 +279,12 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS"
 
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Red Advenirh
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Red Advenirh
 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
 #EXTINF:0,ALFA TV
@@ -422,7 +428,13 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 #EXTINF:0,3ABN LATINO
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS"
+
+
+
 
 #EXTINF:0,FRAGIL
 PELICULAS - DEAMA - ACCION
@@ -493,40 +505,40 @@ https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/
 
 
 
-http://s3linkgapp.net:25461/tQM5mmE2o7/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/15161
-#EXTINF:0,BOOMERANG
-INFANTILES
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",BOOMERANG
 https://edge1-ccast-sl.cvattv.com.ar/live/live/Boomerang/verimatrix_rotating_FTA/Boomerang.m3u8
+
 #EXTINF:0,CARTOON NETWORK
-INFANTILES
 https://edge3-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/verimatrix_rotating_FTA/CartoonNetwork.m3u8
+
 #EXTINF:0,DISNEY CHANNEL
-INFANTILES
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/verimatrix_rotating_FTA/DisneyChannelHD.m3u8
+
 #EXTINF:0,DISNEY XD
-INFANTILES
 https://edge-vod02-sl.cvattv.com.ar/live/live/DisneyXD/verimatrix_rotating_FTA/DisneyXD.m3u8
+
 #EXTINF:0,BABY TV
-INFANTILES
 https://edge4-hr.cvattv.com.ar/live/live/BabyTV/verimatrix_rotating_FTA/BabyTV.m3u8
+
 #EXTINF:0,NICK JR
-INFANTILES
 https://edge2-ccast-sl.cvattv.com.ar/live/c2live/Nick_Jr/verimatrix_rotating_FTA/Nick_Jr.m3u8
+
 #EXTINF:0,DISNEY JR
-INFANTILES
 https://edge4-sl.cvattv.com.ar/live/live/DisneyJr/verimatrix_rotating_FTA/DisneyJr.m3u8
+
 #EXTINF:0,TOONCAST
-INFANTILES
 https://edge-live13-sl.cvattv.com.ar/live/c2live/Tooncast/verimatrix_rotating_FTA/Tooncast.m3u8
+
 #EXTINF:0,NIKELODEON
-INFANTILES
 https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/Nickelodeon/verimatrix_rotating_FTA/Nickelodeon.m3u8
+
 #EXTINF:0,DISCOVERY KIDS
-INFANTILES
 https://edge10-sl.cvattv.com.ar/live/c2live/Discovery_Kids/verimatrix_rotating_FTA/Discovery_Kids.m3u8
+
 #EXTINF:0,PAKA PAKA
-INFANTILES
 https://edge6-hr.cvattv.com.ar/live/c2live/PAKA_PAKA/verimatrix_rotating_FTA/PAKA_PAKA.m3u8
+
 #EXTINF:0,NATGEO KIDS
 https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/NatGeo_Kids.m3u8
 
