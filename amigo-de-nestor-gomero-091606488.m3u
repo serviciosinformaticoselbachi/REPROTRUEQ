@@ -36,7 +36,7 @@ https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Can
 #EXTINF:0,CANAL U
 
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
-#EXTINF:0,TV GLOBO
+#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV GLOBO
 
 http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/3677.ts
 #EXTINF:0,REDE TV
@@ -57,10 +57,10 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:0,COM 
 
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-#EXTINF:0,Discovery chanenl
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",Discovery chanenl
 
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychanenl.smil/master.m3u8
-#EXTINF:0,Discovery kids
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",Discovery kids
 
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 #EXTINF:0,espn
@@ -174,7 +174,7 @@ https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
 #EXTINF:0,ANTENA 3
 
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:0,CUATRO
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",CUATRO
 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:0,TELECINCO
@@ -345,7 +345,7 @@ https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_
 #EXTINF:0,CTNI (Puerto Rico)
 
 https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8
-#EXTINF:0,Logos TV ()
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Logos TV ()
 
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:0,Solidaria TV ()
