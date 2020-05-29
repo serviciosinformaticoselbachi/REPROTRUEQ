@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - Por.Mis.Pistolas.1968
+https://archive.org/download/Cantinflas.Por.Mis.Pistolas.1968.completa/Cantinflas.Por.Mis.Pistolas.1968.%28completa%29.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - El Padrecito (1964)
+https://archive.org/download/ElPadrecito_201806/El%20Padrecito.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - SUBE Y BAJA (1958)
+https://archive.org/download/CantinflasSubeYBaja/Cantinflas%20sube%20y%20baja.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - EL MAGO (1949)
+https://archive.org/download/ElMago_201806/el%20mago.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - A Volar Joven (1947)
+https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - EL CIRCO (1943)
+https://archive.org/download/elcircocantinflas/El%20Circo%20-%20Cantinflas.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV
 http://tv.cablestream.io:25462/Agustina/1234/19354
 
