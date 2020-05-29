@@ -9,32 +9,32 @@ http://tv.cablestream.io:25462/Agustina/1234/35428
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",VERA +
 http://tv.cablestream.io:25462/Agustina/1234/16136
 
-#EXTINF:0,MAROÑAS
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",MAROÑAS
 http://tv.cablestream.io:25462/Agustina/1234/31618
 
-#EXTINF:0,1000XHORA
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",1000XHORA
 http://tv.cablestream.io:25462/Agustina/1234/34601
 
-#EXTINF:0,VTV_HD
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV_HD
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
-#EXTINF:0,CANAL 4
 
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 4
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
-#EXTINF:0,TV NACINAL - TNU
 
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV NACINAL - TNU
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
-#EXTINF:0,TV CIUDAD
 
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
 #EXTINF:0,CANAL 10
 
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 #EXTINF:0,CANAL 12
-
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
-#EXTINF:0,CANAL U
 
+#EXTINF:0,CANAL U
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV GLOBO
 
 http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/3677.ts
