@@ -1,6 +1,6 @@
 +598 98 653 406 CARLOS POLICIA MELO
 #EXTM3U
-#EXTINF:0,VTV + HD
+#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV
 
 http://tv.cablestream.io:25462/Agustina/1234/19354
 #EXTINF:0,LA RED HD
