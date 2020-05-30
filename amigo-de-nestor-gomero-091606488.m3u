@@ -201,13 +201,30 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:0,TELECINCO
 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:0,Lasexta
+#EXTINF:0,TELECINCO
+#EXTINF:0,ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:0,ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF:0,ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
+
+#EXTINF:0,ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
-#EXTINF:0,FDF
+#EXTINF:0,LA SEXTA
+
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:0,FDF1
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:0,FDF2
+
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:0,FDF3
 
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:0,ENERGY
+#EXTINF:0,FDF4
 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:0,Bemad
