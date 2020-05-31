@@ -601,10 +601,23 @@ https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES"
 
+#EXTINF:0,HBO FAMILI
+http://mgiptv.magisapk.com/HBO-FAMILY-FHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0,PARAMONT NEDWORK
-https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
+#EXTINF:0,MOVISTAR-ACCION-HD
+http://mgiptv.magisapk.com/MOVISTAR-ACCION-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,UNIVERSAL CHANNEL
+http://zb10g02.magistv1123.com/HY-1347/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0,TNT SERIES
+http://mgiptv.magisapk.com/HY-1332/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:0,CANAL 13 TV
 
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
@@ -640,7 +653,7 @@ https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
 https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
 #EXTINF:0,HBO PLUS
 
-https://edge-live13-sl.cvattv.com.ar/live/c2live/HBO_Plus/verimatrix_rotating_FTA/HBO_Plus.m3u8
+http://mgiptv.magisapk.com/HY-784/tracks-v1a1/mono.m3u8
 #EXTINF:0,HBO_Family
 
 https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
