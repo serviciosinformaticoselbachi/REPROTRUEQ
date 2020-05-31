@@ -1,5 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7"
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",ALF
+http://mgiptv.magisapk.com/ALF-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",EL BUEN DOCTOR
+http://zb10g.magistv1123.com/THE-GOOD-DOCTOR-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",EL CHAVO DEL 8
+http://mgiptv.magisapk.com/EL-CHAVO-DEL-8-HD-24-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",FBI
+http://mgiptv.magisapk.com/LOS-MAGNIFICOS-HD-24-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",LOS MAGNIFICOS
+http://mgiptv.magisapk.com/LOS-MAGNIFICOS-HD-24-7/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS"
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - Por.Mis.Pistolas.1968
 https://archive.org/download/Cantinflas.Por.Mis.Pistolas.1968.completa/Cantinflas.Por.Mis.Pistolas.1968.%28completa%29.mp4
