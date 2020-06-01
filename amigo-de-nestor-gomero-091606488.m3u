@@ -1,78 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7"
+#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7"
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",ALF
+#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",ALF
 http://mgiptv.magisapk.com/ALF-24-7-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",EL BUEN DOCTOR
+#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",EL BUEN DOCTOR
 http://zb10g.magistv1123.com/THE-GOOD-DOCTOR-24-7-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",EL CHAVO DEL 8
+#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",EL CHAVO DEL 8
 http://mgiptv.magisapk.com/EL-CHAVO-DEL-8-HD-24-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",FBI
+#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",FBI
 http://mgiptv.magisapk.com/LOS-MAGNIFICOS-HD-24-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",LOS MAGNIFICOS
+#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",LOS MAGNIFICOS
 http://mgiptv.magisapk.com/LOS-MAGNIFICOS-HD-24-7/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS"
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS"
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - Por.Mis.Pistolas.1968
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS",CANTINFLAS - Por.Mis.Pistolas.1968
 https://archive.org/download/Cantinflas.Por.Mis.Pistolas.1968.completa/Cantinflas.Por.Mis.Pistolas.1968.%28completa%29.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - El Padrecito (1964)
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS",CANTINFLAS - El Padrecito (1964)
 https://archive.org/download/ElPadrecito_201806/El%20Padrecito.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - SUBE Y BAJA (1958)
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS",CANTINFLAS - SUBE Y BAJA (1958)
 https://archive.org/download/CantinflasSubeYBaja/Cantinflas%20sube%20y%20baja.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - EL MAGO (1949)
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS",CANTINFLAS - EL MAGO (1949)
 https://archive.org/download/ElMago_201806/el%20mago.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - A Volar Joven (1947)
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS",CANTINFLAS - A Volar Joven (1947)
 https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CANTINFLAS - EL CIRCO (1943)
+#EXTINF:-0 tvg-logo="" group-title="PELICULAS",CANTINFLAS - EL CIRCO (1943)
 https://archive.org/download/elcircocantinflas/El%20Circo%20-%20Cantinflas.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",VTV
 http://tv.cablestream.io:25462/Agustina/1234/19354
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",LA RED
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",LA RED
 http://tv.cablestream.io:25462/Agustina/1234/35428
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VERA +
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",VERA +
 http://tv.cablestream.io:25462/Agustina/1234/16136
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",MAROÑAS
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",MAROÑAS
 http://tv.cablestream.io:25462/Agustina/1234/31618
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",1000XHORA
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",1000XHORA
 http://tv.cablestream.io:25462/Agustina/1234/34601
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV_HD
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",VTV_HD
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 4
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",CANAL 4
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV NACINAL - TNU
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",TV NACINAL - TNU
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV CIUDAD
+#EXTINF:-0tvg-logo="" group-title="URUGUAY",TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 10
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",CANAL 10
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 12
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",CANAL 12
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL U
+#EXTINF:-0 tvg-logo="" group-title="URUGUAY",CANAL U
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BRASIL",TV GLOBO
