@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-0 tvg-logo="" group-title="CANALES 24/7"
 
-#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",ALF
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",ALF
 http://mgiptv.magisapk.com/ALF-24-7-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",CANTINFLAS
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",CANTINFLAS
 http://mgiptv.magisapk.com/CANTINFLAS-24-7-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",EL BUEN DOCTOR
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",EL BUEN DOCTOR
 http://zb10g.magistv1123.com/THE-GOOD-DOCTOR-24-7-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",EL CHAVO DEL 8
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",EL CHAVO DEL 8
 http://mgiptv.magisapk.com/EL-CHAVO-DEL-8-HD-24-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",FBI
+#EXTINF:-1 tvg-logo="" group-title="CANALES 24/7",FBI
 http://mgiptv.magisapk.com/LOS-MAGNIFICOS-HD-24-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-0 tvg-logo="" group-title="CANALES 24/7",LOS MAGNIFICOS
