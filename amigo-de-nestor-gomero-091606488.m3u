@@ -211,43 +211,16 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 #EXTINF:0,Djing
 
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:0,PARAMOT NETWORK
+
 
 https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
 #EXTINF:0,ANTENA 3
 
-https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",CUATRO
 
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:0,TELECINCO
-
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:0,TELECINCO
-#EXTINF:0,ENERGY
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:0,ENERGY
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
-#EXTINF:0,ENERGY
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8
-
-#EXTINF:0,ENERGY
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 
 https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
 #EXTINF:0,LA SEXTA
 
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:0,FDF1
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
-#EXTINF:0,FDF2
-
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
-#EXTINF:0,FDF3
-
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:0,FDF4
 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:0,Bemad
@@ -609,6 +582,11 @@ https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/
 
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES"
+#EXTINF:0,/MOVISTAR-COMEDIA-HD
+http://mgiptv.magisapk.com/MOVISTAR-COMEDIA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,FOX ACCION
+http://mgiptv.magisapk.com/MOVISTAR-DRAMA-HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0,FOX ACCION
 http://138.201.49.141:25464/megapro/m5H3gMb07y/89?token=ShMNUhAJQwkXVwUEAFdXCFNXVQYKAwkAUFdUDgEFUAoBU1RSUgdQC1dDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBU1cHF01GR1xYUBsNVFEOCQsEBAdXDhUXEwtdEwtHAldUWAIXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1dSERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1BQBgIAF0Q=
