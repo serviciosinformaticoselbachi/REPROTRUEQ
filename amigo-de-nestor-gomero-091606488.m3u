@@ -4,6 +4,35 @@
 http://51.89.152.28/hls/tantillas.m3u8
 #EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",A21
 http://51.89.152.28/hls/a21.m3u8
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",ANTENA 7
+http://51.89.152.28/hls/alatina.m3u8
+
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",TELECENTRO
+http://51.89.152.28/hls/telecentro.m3u8
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",TELEUNIVERSO
+http://51.89.152.28/hls/tuniverso.m3u8
+
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",MICROVISION
+http://190.122.96.188:8888/http/001
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",CER TV
+http://51.89.152.28/hls/certv.m3u8
+
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",TELE FUTURO
+http://190.122.96.186:8888/http/001
+
+
+
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",TDIGITAL 15
+http://51.89.152.28/hls/d15.m3u8
+
+
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",CDN
+http://51.89.152.28/hls/cdn.m3u8
+
+
+#EXTINF:-0 tvg-logo="" group-title="CANALES DOMINICANOS",TELE 5
+http://51.89.152.28/hls/tmicro.m3u8
+
 
 #EXTINF:-0 tvg-logo="" group-title="CANALES 24/7"
 
