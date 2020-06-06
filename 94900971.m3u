@@ -71,13 +71,13 @@ https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
 #EXTINF:-1 tvg-logo=" " group-title="TV URUGUAY"
 
 #EXTINF:-1,VTV_HD
-https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
+http://69.64.33.127:25461/live/Fernando/Fernando/13236.ts
 
 #EXTINF:-1,CANAL 4
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 
 #EXTINF:-1,TV NACINAL - TNU
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
+http://69.64.33.127:25461/live/Fernando/Fernando/11522.ts
 
 #EXTINF:-1,TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
@@ -431,6 +431,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
 
 
 
+#EXTINF:-0,VTV URUGUAY
+http://69.64.33.127:25461/live/Fernando/Fernando/13236.ts
 
 #EXTINF:-1,GOL TV ECUADOR
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10&amp;rebase=on
@@ -514,60 +516,62 @@ https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/
 #EXTINF:-1 tvg-logo=" " group-title="TV PELICULAS Y SERIES"
 
 
+#EXTINF:-0,/SONY
+http://s3linkgapp.net:25461/Z8nXqVmm11/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16072
 
-#EXTINF:-1,/MOVISTAR-COMEDIA-HD
+
+#EXTINF:-0,/MOVISTAR-COMEDIA-HD
 http://mgiptv.magisapk.com/MOVISTAR-COMEDIA-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,MOVISTAR-DRAMA-HD
+#EXTINF:-0,MOVISTAR-DRAMA-HD
 http://mgiptv.magisapk.com/MOVISTAR-DRAMA-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,FOX ACCION
+#EXTINF:-0,FOX ACCION
 http://138.201.49.141:25464/megapro/m5H3gMb07y/89?token=ShMNUhAJQwkXVwUEAFdXCFNXVQYKAwkAUFdUDgEFUAoBU1RSUgdQC1dDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBU1cHF01GR1xYUBsNVFEOCQsEBAdXDhUXEwtdEwtHAldUWAIXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1dSERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1BQBgIAF0Q=
 
-#EXTINF:-1,COMEDY-CENTRAL-HD
+#EXTINF:-0,COMEDY-CENTRAL-HD
 http://mgiptv.magisapk.com/COMEDY-CENTRAL-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,DE-PELICULA-PLUS-FHD
+#EXTINF:-0,DE-PELICULA-PLUS-FHD
 http://mgiptv.magisapk.com/DE-PELICULA-PLUS-FHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,CINECANAL HD..
+#EXTINF:-0,CINECANAL HD..
 http://zb10g02.magistv1123.com/HY-695/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,HBO FAMILI
+#EXTINF:-0,HBO FAMILI
 http://mgiptv.magisapk.com/HBO-FAMILY-FHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,MOVISTAR-ACCION-HD
+#EXTINF:-0,MOVISTAR-ACCION-HD
 http://mgiptv.magisapk.com/MOVISTAR-ACCION-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,UNIVERSAL CHANNEL
+#EXTINF:-0,UNIVERSAL CHANNEL
 http://zb10g02.magistv1123.com/HY-1347/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,TNT SERIES
+#EXTINF:-0,TNT SERIES
 http://mgiptv.magisapk.com/HY-1332/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,CANAL 13 TV
+#EXTINF:-0,CANAL 13 TV
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 
-#EXTINF:-1,SPACE
+#EXTINF:-0,SPACE
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
 
-#EXTINF:-1,THEFILM ZONE
+#EXTINF:-0,THEFILM ZONE
 https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
 
-#EXTINF:-1,FILM_ARTS
+#EXTINF:-0,FILM_ARTS
 https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
 
-#EXTINF:-1,CINEMAX
+#EXTINF:-0,CINEMAX
 https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
 
-#EXTINF:-1,TNT
+#EXTINF:-0,TNT
 https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
 
-#EXTINF:-1,TNTSeries
+#EXTINF:-0,TNTSeries
 https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
 
-#EXTINF:-1,AMC
-https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/verimatrix_rotating_FTA/AMC.m3u8
+
 
 #EXTINF:-1,AXN
 https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
