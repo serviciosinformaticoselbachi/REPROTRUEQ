@@ -2,6 +2,155 @@
 #EXTINF:-1,--- BACHI TV
 www.servicioselbachi.com
 #EXTINF:-1,--- Visita www.servicioselbachi.com ---
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="TV PELICULAS Y SERIES"
+
+
+#EXTINF:-0,TNT SERIES 2
+http://69.64.33.127:25461/live/Fernando/Fernando/113.ts
+
+#EXTINF:-0,FOX PREMIUM2
+http://69.64.33.127:25461/live/Fernando/Fernando/114.ts
+
+#EXTINF:-0,SPACE
+http://69.64.33.127:25461/live/Fernando/Fernando/125.ts
+
+#EXTINF:-0,CINEMAX
+http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
+
+#EXTINF:-0,HBO FAMILI
+http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
+
+#EXTINF:-0,HBO
+http://69.64.33.127:25461/live/Fernando/Fernando/133.ts
+
+#EXTINF:-0,HBO2
+http://69.64.33.127:25461/live/Fernando/Fernando/134.ts
+
+#EXTINF:-0,AMC
+
+
+#EXTINF:-0,/MOVISTAR-COMEDIA-HD
+http://mgiptv.magisapk.com/MOVISTAR-COMEDIA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,MOVISTAR-DRAMA-HD
+http://mgiptv.magisapk.com/MOVISTAR-DRAMA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,FOX ACCION
+http://138.201.49.141:25464/megapro/m5H3gMb07y/89?token=ShMNUhAJQwkXVwUEAFdXCFNXVQYKAwkAUFdUDgEFUAoBU1RSUgdQC1dDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBU1cHF01GR1xYUBsNVFEOCQsEBAdXDhUXEwtdEwtHAldUWAIXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1dSERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1BQBgIAF0Q=
+
+#EXTINF:-0,COMEDY-CENTRAL-HD
+http://mgiptv.magisapk.com/COMEDY-CENTRAL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,DE-PELICULA-PLUS-FHD
+http://mgiptv.magisapk.com/DE-PELICULA-PLUS-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,CINECANAL HD..
+http://zb10g02.magistv1123.com/HY-695/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,HBO FAMILI
+http://mgiptv.magisapk.com/HBO-FAMILY-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,MOVISTAR-ACCION-HD
+http://mgiptv.magisapk.com/MOVISTAR-ACCION-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,UNIVERSAL CHANNEL
+http://zb10g02.magistv1123.com/HY-1347/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,TNT SERIES
+http://mgiptv.magisapk.com/HY-1332/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,CANAL 13 TV
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-0,SPACE
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
+
+#EXTINF:-0,THEFILM ZONE
+https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
+
+#EXTINF:-0,FILM_ARTS
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
+
+#EXTINF:-0,CINEMAX
+https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
+
+#EXTINF:-0,TNT
+https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
+
+#EXTINF:-0,TNTSeries
+https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
+
+
+
+#EXTINF:-1,AXN
+https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
+
+#EXTINF:-1,TCM
+https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
+
+#EXTINF:-1,HBO2
+https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
+
+#EXTINF:-1,HBO PLUS
+http://mgiptv.magisapk.com/HY-784/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,HBO_Family
+https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
+
+#EXTINF:-1,HBO_Signature
+https://edge6-ccast-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature.m3u8
+
+#EXTINF:-1,Paramount
+https://edge2-sl.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
+
+#EXTINF:-1,FOX CHANNEL
+https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
+
+#EXTINF:-1,FX
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD.m3u8
+
+#EXTINF:-1,FOX 1
+https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
+
+#EXTINF:-1,Fox Movies
+https://edge9-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating_FTA/FoxMoviesHD.m3u8
+
+#EXTINF:-1,FoxActionHD
+https://edge5-hr.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating_FTA/FoxActionHD.m3u8
+
+#EXTINF:-1,Fox Comedy
+https://edge4-sl.cvattv.com.ar/live/live/FoxComedy/verimatrix_rotating_FTA/FoxComedy.m3u8
+
+#EXTINF:-1,Fox Cinema
+https://edge2-sl.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
+
+#EXTINF:-1,Fox Classics
+https://edge2-hr.cvattv.com.ar/live/live/FoxClassics/verimatrix_rotating_FTA/FoxClassics.m3u8
+
+#EXTINF:-1,ISAT
+https://edge-live13-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
+
+#EXTINF:-1,SonyHD
+https://chromecast.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating/SonyHD.m3u8
+
+#EXTINF:-1,Lifetime
+https://chromecast.cvattv.com.ar/live/c2live/Lifetime/verimatrix_rotating/Lifetime.m3u8
+
+#EXTINF:-1,HBO HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
+
+#EXTINF:-1,CinecanalHD
+https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD.m3u8
+
+#EXTINF:-1,Studio_Universal
+https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo=" " group-title="TV DOMINICANA"
 #EXTINF:-1,ANTILLAS
 http://51.89.152.28/hls/tantillas.m3u8
@@ -515,148 +664,7 @@ https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="TV PELICULAS Y SERIES"
 
-
-#EXTINF:-0,TNT SERIES 2
-http://69.64.33.127:25461/live/Fernando/Fernando/113.ts
-
-#EXTINF:-0,FOX PREMIUM2
-http://69.64.33.127:25461/live/Fernando/Fernando/114.ts
-
-#EXTINF:-0,SPACE
-http://69.64.33.127:25461/live/Fernando/Fernando/125.ts
-
-#EXTINF:-0,CINEMAX
-http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
-
-#EXTINF:-0,HBO FAMILI
-http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
-
-#EXTINF:-0,HBO
-http://69.64.33.127:25461/live/Fernando/Fernando/133.ts
-
-#EXTINF:-0,HBO2
-http://69.64.33.127:25461/live/Fernando/Fernando/134.ts
-
-#EXTINF:-0,AMC
-
-
-#EXTINF:-0,/MOVISTAR-COMEDIA-HD
-http://mgiptv.magisapk.com/MOVISTAR-COMEDIA-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,MOVISTAR-DRAMA-HD
-http://mgiptv.magisapk.com/MOVISTAR-DRAMA-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,FOX ACCION
-http://138.201.49.141:25464/megapro/m5H3gMb07y/89?token=ShMNUhAJQwkXVwUEAFdXCFNXVQYKAwkAUFdUDgEFUAoBU1RSUgdQC1dDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBU1cHF01GR1xYUBsNVFEOCQsEBAdXDhUXEwtdEwtHAldUWAIXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1dSERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1BQBgIAF0Q=
-
-#EXTINF:-0,COMEDY-CENTRAL-HD
-http://mgiptv.magisapk.com/COMEDY-CENTRAL-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,DE-PELICULA-PLUS-FHD
-http://mgiptv.magisapk.com/DE-PELICULA-PLUS-FHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,CINECANAL HD..
-http://zb10g02.magistv1123.com/HY-695/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,HBO FAMILI
-http://mgiptv.magisapk.com/HBO-FAMILY-FHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,MOVISTAR-ACCION-HD
-http://mgiptv.magisapk.com/MOVISTAR-ACCION-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,UNIVERSAL CHANNEL
-http://zb10g02.magistv1123.com/HY-1347/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,TNT SERIES
-http://mgiptv.magisapk.com/HY-1332/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0,CANAL 13 TV
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-
-#EXTINF:-0,SPACE
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
-
-#EXTINF:-0,THEFILM ZONE
-https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
-
-#EXTINF:-0,FILM_ARTS
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
-
-#EXTINF:-0,CINEMAX
-https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
-
-#EXTINF:-0,TNT
-https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
-
-#EXTINF:-0,TNTSeries
-https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
-
-
-
-#EXTINF:-1,AXN
-https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
-
-#EXTINF:-1,TCM
-https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
-
-#EXTINF:-1,HBO2
-https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
-
-#EXTINF:-1,HBO PLUS
-http://mgiptv.magisapk.com/HY-784/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO_Family
-https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
-
-#EXTINF:-1,HBO_Signature
-https://edge6-ccast-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature.m3u8
-
-#EXTINF:-1,Paramount
-https://edge2-sl.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
-
-#EXTINF:-1,FOX CHANNEL
-https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
-
-#EXTINF:-1,FX
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD.m3u8
-
-#EXTINF:-1,FOX 1
-https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
-
-#EXTINF:-1,Fox Movies
-https://edge9-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating_FTA/FoxMoviesHD.m3u8
-
-#EXTINF:-1,FoxActionHD
-https://edge5-hr.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating_FTA/FoxActionHD.m3u8
-
-#EXTINF:-1,Fox Comedy
-https://edge4-sl.cvattv.com.ar/live/live/FoxComedy/verimatrix_rotating_FTA/FoxComedy.m3u8
-
-#EXTINF:-1,Fox Cinema
-https://edge2-sl.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
-
-#EXTINF:-1,Fox Classics
-https://edge2-hr.cvattv.com.ar/live/live/FoxClassics/verimatrix_rotating_FTA/FoxClassics.m3u8
-
-#EXTINF:-1,ISAT
-https://edge-live13-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
-
-#EXTINF:-1,SonyHD
-https://chromecast.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating/SonyHD.m3u8
-
-#EXTINF:-1,Lifetime
-https://chromecast.cvattv.com.ar/live/c2live/Lifetime/verimatrix_rotating/Lifetime.m3u8
-
-#EXTINF:-1,HBO HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
-
-#EXTINF:-1,CinecanalHD
-https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD.m3u8
-
-#EXTINF:-1,Studio_Universal
-https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
 
 
 
