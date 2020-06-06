@@ -432,13 +432,12 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
 
 
 #EXTINF:-0,VTV URUGUAY
-http://69.64.33.127:25461/live/Fernando/Fernando/13236.ts
+http://69.64.33.127:25461/live/Fernando/Fernando/1354.ts
 
 #EXTINF:-1,GOL TV ECUADOR
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10&amp;rebase=on
 
-#EXTINF:-1,Show_Sports
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/Show_Sports/verimatrix_rotating_FTA/Show_Sports.m3u8
+
 
 #EXTINF:-1,Fox_Sports_Premiun
 https://edge6-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/verimatrix_rotating_FTA/Fox_Sports_Premiun_HD.m3u8
@@ -468,6 +467,8 @@ https://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/verimatrix_rotating_FTA
 #EXTINF:-1,ESPN +
 https://edge6-hr.cvattv.com.ar/live/c3eds/ESPNHD/verimatrix_rotating_FTA/ESPNHD.m3u8
 
+#EXTINF:-1,ESPN DEPORTES
+http://69.64.33.127:25461/live/Fernando/Fernando/1252.ts
 
 
 
@@ -517,8 +518,28 @@ https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/
 #EXTINF:-1 tvg-logo=" " group-title="TV PELICULAS Y SERIES"
 
 
-#EXTINF:-0,/SONY
-http://s3linkgapp.net:25461/Z8nXqVmm11/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16072
+#EXTINF:-0,TNT SERIES 2
+http://69.64.33.127:25461/live/Fernando/Fernando/113.ts
+
+#EXTINF:-0,FOX PREMIUM2
+http://69.64.33.127:25461/live/Fernando/Fernando/114.ts
+
+#EXTINF:-0,SPACE
+http://69.64.33.127:25461/live/Fernando/Fernando/125.ts
+
+#EXTINF:-0,CINEMAX
+http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
+
+#EXTINF:-0,HBO FAMILI
+http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
+
+#EXTINF:-0,HBO
+http://69.64.33.127:25461/live/Fernando/Fernando/133.ts
+
+#EXTINF:-0,HBO2
+http://69.64.33.127:25461/live/Fernando/Fernando/134.ts
+
+#EXTINF:-0,AMC
 
 
 #EXTINF:-0,/MOVISTAR-COMEDIA-HD
