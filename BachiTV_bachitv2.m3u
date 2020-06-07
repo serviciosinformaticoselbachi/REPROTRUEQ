@@ -2,762 +2,1005 @@
   
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV
-http://tv.cablestream.io:25462/Agustina/1234/19354
+#EXTM3U
+#EXTINF:-1,--- BACHI TV
+www.servicioselbachi.com
+#EXTINF:-1,--- Visita www.servicioselbachi.com ---
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",LA RED
-http://tv.cablestream.io:25462/Agustina/1234/35428
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VERA +
-http://tv.cablestream.io:25462/Agustina/1234/16136
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",MAROÑAS
-http://tv.cablestream.io:25462/Agustina/1234/31618
+#EXTINF:-1 tvg-logo=" " group-title="TV PELICULAS Y SERIES"
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",1000XHORA
-http://tv.cablestream.io:25462/Agustina/1234/34601
+#EXTINF:-1,CABLE | A&E
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/151
+#EXTINF:-1,CABLE | Al Jazeera
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/152
+#EXTINF:-1,CABLE | AMC
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/153
+#EXTINF:-1,CABLE | AXN
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/154
+#EXTINF:-1,CABLE | Fox
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/192
+#EXTINF:-1,CABLE | Fox Cinema Subtitulado
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/193
+#EXTINF:-1,CABLE | Fox Life
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/194
+#EXTINF:-1,CABLE | Fox Life Mex
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/195
+#EXTINF:-1,CABLE | Fox News
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/196
+#EXTINF:-1,CABLE | Fox Premium Action
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/197
+#EXTINF:-1,CABLE | Fox Premium Action MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/198
+#EXTINF:-1,CABLE | Fox Premium Cinema
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/199
+#EXTINF:-1,CABLE | Fox Premium Classics
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/200
+#EXTINF:-1,CABLE | Fox Premium Comedy
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/201
+#EXTINF:-1,CABLE | Fox Premium Family
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/202
+#EXTINF:-1,CABLE | Fox Premium Movies
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/203
+#EXTINF:-1,CABLE | Fox Premium Series
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/204
+#EXTINF:-1,CABLE | Fox Premium Series Subtitulado
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/205
+#EXTINF:-1,CABLE | Fox Sports 1 MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/206
+#EXTINF:-1,CABLE | Fox Sports 1 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/207
+#EXTINF:-1,CABLE | Fox Sports 2 MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/208
+#EXTINF:-1,CABLE | Fox Sports 2 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/209
+#EXTINF:-1,CABLE | Fox Sports 3 MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/210
+#EXTINF:-1,CABLE | Fox Sports 3 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/211
+#EXTINF:-1,CABLE | Fx Movie Mex
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/212
+#EXTINF:-1,CABLE | Golden
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/213
+#EXTINF:-1,CABLE | Golden Premium
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/214
+#EXTINF:-1,CABLE | HBO
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/215
+#EXTINF:-1,CABLE | HBO 2
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/216
+#EXTINF:-1,CABLE | HBO Family
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/217
+#EXTINF:-1,CABLE | HBO plus
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/218
+#EXTINF:-1,CABLE | HBO Signature
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/219
+#EXTINF:-1,CABLE | HBO Subtitulado
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/220
+#EXTINF:-1,CABLE | Sony
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/243
+#EXTINF:-1,CABLE | TNT
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/248
+#EXTINF:-1,CABLE | TNT Series
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/249
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",VTV_HD
-https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 4
+
+
+
+
+
+
+
+
+
+#EXTINF:-0,TNT SERIES 2
+http://69.64.33.127:25461/live/Fernando/Fernando/113.ts
+
+#EXTINF:-0,FOX PREMIUM2
+http://69.64.33.127:25461/live/Fernando/Fernando/114.ts
+
+#EXTINF:-0,SPACE
+http://69.64.33.127:25461/live/Fernando/Fernando/125.ts
+
+#EXTINF:-0,CINEMAX
+http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
+
+#EXTINF:-0,HBO FAMILI
+http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
+
+#EXTINF:-0,HBO
+http://69.64.33.127:25461/live/Fernando/Fernando/133.ts
+
+#EXTINF:-0,HBO2
+http://69.64.33.127:25461/live/Fernando/Fernando/134.ts
+
+#EXTINF:-0,AMC
+
+
+#EXTINF:-0,/MOVISTAR-COMEDIA-HD
+http://mgiptv.magisapk.com/MOVISTAR-COMEDIA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,MOVISTAR-DRAMA-HD
+http://mgiptv.magisapk.com/MOVISTAR-DRAMA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,FOX ACCION
+http://138.201.49.141:25464/megapro/m5H3gMb07y/89?token=ShMNUhAJQwkXVwUEAFdXCFNXVQYKAwkAUFdUDgEFUAoBU1RSUgdQC1dDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBU1cHF01GR1xYUBsNVFEOCQsEBAdXDhUXEwtdEwtHAldUWAIXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1dSERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1BQBgIAF0Q=
+
+#EXTINF:-0,COMEDY-CENTRAL-HD
+http://mgiptv.magisapk.com/COMEDY-CENTRAL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,DE-PELICULA-PLUS-FHD
+http://mgiptv.magisapk.com/DE-PELICULA-PLUS-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,CINECANAL HD..
+http://zb10g02.magistv1123.com/HY-695/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,HBO FAMILI
+http://mgiptv.magisapk.com/HBO-FAMILY-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,MOVISTAR-ACCION-HD
+http://mgiptv.magisapk.com/MOVISTAR-ACCION-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,UNIVERSAL CHANNEL
+http://zb10g02.magistv1123.com/HY-1347/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,TNT SERIES
+http://mgiptv.magisapk.com/HY-1332/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0,CANAL 13 TV
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-0,SPACE
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
+
+#EXTINF:-0,THEFILM ZONE
+https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
+
+#EXTINF:-0,FILM_ARTS
+https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
+
+#EXTINF:-0,CINEMAX
+https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
+
+#EXTINF:-0,TNT
+https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
+
+#EXTINF:-0,TNTSeries
+https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
+
+
+
+#EXTINF:-1,AXN
+https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
+
+#EXTINF:-1,TCM
+https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
+
+#EXTINF:-1,HBO2
+https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
+
+#EXTINF:-1,HBO PLUS
+http://mgiptv.magisapk.com/HY-784/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,HBO_Family
+https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
+
+#EXTINF:-1,HBO_Signature
+https://edge6-ccast-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature.m3u8
+
+#EXTINF:-1,Paramount
+https://edge2-sl.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
+
+#EXTINF:-1,FOX CHANNEL
+https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
+
+#EXTINF:-1,FX
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD.m3u8
+
+#EXTINF:-1,FOX 1
+https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
+
+#EXTINF:-1,Fox Movies
+https://edge9-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating_FTA/FoxMoviesHD.m3u8
+
+#EXTINF:-1,FoxActionHD
+https://edge5-hr.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating_FTA/FoxActionHD.m3u8
+
+#EXTINF:-1,Fox Comedy
+https://edge4-sl.cvattv.com.ar/live/live/FoxComedy/verimatrix_rotating_FTA/FoxComedy.m3u8
+
+#EXTINF:-1,Fox Cinema
+https://edge2-sl.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
+
+#EXTINF:-1,Fox Classics
+https://edge2-hr.cvattv.com.ar/live/live/FoxClassics/verimatrix_rotating_FTA/FoxClassics.m3u8
+
+#EXTINF:-1,ISAT
+https://edge-live13-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
+
+#EXTINF:-1,SonyHD
+https://chromecast.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating/SonyHD.m3u8
+
+#EXTINF:-1,Lifetime
+https://chromecast.cvattv.com.ar/live/c2live/Lifetime/verimatrix_rotating/Lifetime.m3u8
+
+#EXTINF:-1,HBO HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
+
+#EXTINF:-1,CinecanalHD
+https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD.m3u8
+
+#EXTINF:-1,Studio_Universal
+https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="TV DOMINICANA"
+#EXTINF:-1,ANTILLAS
+http://51.89.152.28/hls/tantillas.m3u8
+
+#EXTINF:-1,A21
+http://51.89.152.28/hls/a21.m3u8
+
+#EXTINF:-1,ANTENA 7
+http://51.89.152.28/hls/alatina.m3u8
+
+#EXTINF:-1,TELECENTRO
+http://51.89.152.28/hls/telecentro.m3u8
+
+#EXTINF:-1,TELEUNIVERSO
+http://51.89.152.28/hls/tuniverso.m3u8
+
+#EXTINF:-1,MICROVISION
+http://190.122.96.188:8888/http/001
+
+#EXTINF:-1,CER TV
+http://51.89.152.28/hls/certv.m3u8
+
+#EXTINF:-1,TELE FUTURO
+http://190.122.96.186:8888/http/001
+
+#EXTINF:-1,TDIGITAL 15
+http://51.89.152.28/hls/d15.m3u8
+
+#EXTINF:-1,CDN
+http://51.89.152.28/hls/cdn.m3u8
+
+#EXTINF:-1,TELE 5
+http://51.89.152.28/hls/tmicro.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="CANALES 24/7"
+#EXTINF:-1,ALF
+http://mgiptv.magisapk.com/ALF-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,CANTINFLAS
+http://mgiptv.magisapk.com/CANTINFLAS-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,EL BUEN DOCTOR
+http://zb10g.magistv1123.com/THE-GOOD-DOCTOR-24-7-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,EL CHAVO DEL 8
+http://mgiptv.magisapk.com/EL-CHAVO-DEL-8-HD-24-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,FBI
+http://mgiptv.magisapk.com/LOS-MAGNIFICOS-HD-24-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PELICULAS"
+
+#EXTINF:-1,CANTINFLAS - Por.Mis.Pistolas.1968
+https://archive.org/download/Cantinflas.Por.Mis.Pistolas.1968.completa/Cantinflas.Por.Mis.Pistolas.1968.%28completa%29.mp4
+
+#EXTINF:-1,CANTINFLAS - El Padrecito (1964)
+https://archive.org/download/ElPadrecito_201806/El%20Padrecito.mp4
+
+#EXTINF:-1,CANTINFLAS - SUBE Y BAJA (1958)
+https://archive.org/download/CantinflasSubeYBaja/Cantinflas%20sube%20y%20baja.mp4
+
+#EXTINF:-1,CANTINFLAS - EL MAGO (1949)
+https://archive.org/download/ElMago_201806/el%20mago.mp4
+
+#EXTINF:-1,CANTINFLAS - A Volar Joven (1947)
+https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
+
+#EXTINF:-1 tvg-logo=" " group-title="TV URUGUAY"
+
+
+
+
+#EXTINF:-1,URUGUAY | 1000 x Hora Tv
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1835
+#EXTINF:-1,URUGUAY | A+V
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1836
+#EXTINF:-1,URUGUAY | Artigas Television
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1837
+#EXTINF:-1,URUGUAY | Canal 10 HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1860
+#EXTINF:-1,URUGUAY | Canal 11 Treintra y tres
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1838
+#EXTINF:-1,URUGUAY | Canal 12 HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1862
+#EXTINF:-1,URUGUAY | Canal 12 Melo
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1839
+#EXTINF:-1,URUGUAY | Canal 2 Lascano
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1840
+#EXTINF:-1,URUGUAY | Canal 2 San Carlos
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1841
+#EXTINF:-1,URUGUAY | Canal 4 HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1863
+#EXTINF:-1,URUGUAY | Canal 4 Paysandu
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1842
+#EXTINF:-1,URUGUAY | Canal 4 Salto
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1844
+#EXTINF:-1,URUGUAY | Canal 5 Noticias y Deportes Colonia
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1843
+#EXTINF:-1,URUGUAY | Canal 6 Durazno
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1845
+#EXTINF:-1,URUGUAY | Canal 7 Punta
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1846
+#EXTINF:-1,URUGUAY | Canal U
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1847
+#EXTINF:-1,URUGUAY | Canal-M
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1848
+#EXTINF:-1,URUGUAY | Cardinal TV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1849
+#EXTINF:-1,URUGUAY | Charrua TV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1850
+#EXTINF:-1,URUGUAY | Durazno TV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1851
+#EXTINF:-1,URUGUAY | Florida television color
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1852
+#EXTINF:-1,URUGUAY | Latina Tv Paysandu
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1853
+#EXTINF:-1,URUGUAY | Maroñas Entertainment
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1854
+#EXTINF:-1,URUGUAY | Pantalla IMPO
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1855
+#EXTINF:-1,URUGUAY | Presidencia Uruguay
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1856
+#EXTINF:-1,URUGUAY | RTV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1857
+#EXTINF:-1,URUGUAY | Television Nacional Uruguay
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1861
+#EXTINF:-1,URUGUAY | TV Ciudad
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1858
+#EXTINF:-1,URUGUAY | Uruguay Natural Tv
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1859
+#EXTINF:-1,URUGUAY | VTV HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1864
+
+
+
+
+
+
+
+#EXTINF:-1,VTV_HD
+http://69.64.33.127:25461/live/Fernando/Fernando/13236.ts
+
+#EXTINF:-1,CANAL 4
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV NACINAL - TNU
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
+#EXTINF:-1,TV NACINAL - TNU
+http://69.64.33.127:25461/live/Fernando/Fernando/11522.ts
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV CIUDAD
+#EXTINF:-1,TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 10
+#EXTINF:-1,CANAL 10
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL 12
+#EXTINF:-1,CANAL 12
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="URUGUAY",CANAL U
+#EXTINF:-1,CANAL U
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",TV GLOBO
-http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/3677.ts
 
-#EXTINF:0,REDE TV
-http://158.69.228.135:8000/live/anual2706/f26xmr1FPM/8819.ts
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Canal Saúde
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="TV BRASIL"
+
+
+
+
+
+
+#EXTINF:-1,Canal Saúde
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Canção Nova
+#EXTINF:-1,Canção Nova
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",CATVE
+#EXTINF:-1,CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",CBN São Paulo
+#EXTINF:-1,CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",COM 
+#EXTINF:-1,COM
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Discovery chanenl
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychanenl.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Discovery kids
+#EXTINF:-1,Discovery kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",espn
+#EXTINF:-1,espn
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",FURG TV
+#EXTINF:-1,FURG TV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Esporte Interativo Plus
+#EXTINF:-1,Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",FM O Dia
+#EXTINF:-1,FM O Dia
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",FOX HD
+#EXTINF:-1,FOX HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Fox premium
+#EXTINF:-1,Fox premium
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Fox sports
+#EXTINF:-1,Fox sports
 http://stream.furg.br:80/hls/furgtv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",FX
+#EXTINF:-1,FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",IMPD TV
+#EXTINF:-1,IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",In Paradise TV
+#EXTINF:-1,In Paradise TV
 https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Itu tv
+#EXTINF:-1,Itu tv
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Jovem Pan News
+#EXTINF:-1,Jovem Pan News
 http://ja-streamlink.mooo.com/jp/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",luau tv
-https://hls.stream.com.br/live/luautv/luautv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Master tv
+#EXTINF:-1,Master tv
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Metrópole News TV
+#EXTINF:-1,Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",GLOBO
-http://tv.nousiptv.com:25462/live/Agustina/1234/7773.ts
-
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",98 Live (Belo Horizonte)
+#EXTINF:-1,98 Live (Belo Horizonte)
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Agro  tv
-http://45.162.230.234:1935/agrotv/agrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",ALL Sports
+#EXTINF:-1,ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",ALL TV
-https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BRASIL",Canal 25 Jundiaí
-http://stream01.msolution.com.br:80/hls/canal25/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BRASIL,Canal Ricos
+#EXTINF:-1,Canal Ricos
 http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="TV MUSICA"
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES"
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES",Quiero_HD
+#EXTINF:-1,Quiero_HD
 https://edge-live13-sl.cvattv.com.ar/live/c2live/Quiero_HD/verimatrix_rotating_FTA/Quiero_HD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES",TOP LATINO
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES",Portal fox mix
+#EXTINF:-1,Portal fox mix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICALES",MTV CLIPES 1
+#EXTINF:-1,MTV CLIPES 1
 http://rtmp.one.by:1200
 
 
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA"
 
 
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",lancelot television
 
+#EXTINF:-1 tvg-logo=" " group-title="TV ESPAÑA"
+
+
+
+
+
+
+#EXTINF:-1,lancelot television
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0,Telesafor
 
+#EXTINF:-1,Telesafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:0,TV Galicia Europa
 
+#EXTINF:-1,TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0,Alcarria tv
 
+#EXTINF:-1,Alcarria tv
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:0,Lebrija Tv
 
+#EXTINF:-1,Lebrija Tv
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:0,Lasuper tv
 
+#EXTINF:-1,Lasuper tv
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-#EXTINF:0,Djing
 
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:0,PARAMOT NETWORK
-
+#EXTINF:-1,Djing
 https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
-#EXTINF:0,ANTENA 3
 
-https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",CUATRO
-
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:0,TELECINCO
-
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:0,Lasexta
-
-https://livestartover.atresmedia.com/lasexta/bitrate_1.m3u8
-#EXTINF:0,FDF
-
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:0,ENERGY
-
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:0,Bemad
-
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:0,Divinity
-
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-#EXTINF:0,Boing
-
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:0,Mtmad
-
+#EXTINF:-1,Mtmad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:0,Ten
 
+#EXTINF:-1,Ten
 http://91.126.141.201:1935/live/ten/chunklist_w287444774.m3u8
-#EXTINF:0,Dkiss
 
+#EXTINF:-1,Dkiss
 http://91.126.141.201:1935/live/kiss/chunklist_w894084640.m3u8
-#EXTINF:0,Discoverymax
 
+#EXTINF:-1,Discoverymax
 http://91.126.141.12:1935/live/discoverymax/chunklist_w108398623.m3u8
-#EXTINF:0,EL TRECE
 
+#EXTINF:-1,EL TRECE
 https://live-edge-lon-2.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
-#EXTINF:0,TORO TV
 
-https://live-edge-lon-2.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
-#EXTINF:0,CANAL SUR
-
+#EXTINF:-1,CANAL SUR
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
-#EXTINF:0,REAL MADRID
 
+#EXTINF:-1,REAL MADRID
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,BARCELONA TV
 
-http://stream.pcriot.com/Zb6n/ftv.php/BARCAHD/S9014/2.m3u8
-#EXTINF:0,RED TV
-
+#EXTINF:-1,RED TV
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w774478708.m3u8
-#EXTINF:0,FibwiLIVEtv
 
+#EXTINF:-1,FibwiLIVEtv
 https://directo.fibwi.com/stream/stream_fibwiLIVE/fibwiLIVEtv.m3u8
-#EXTINF:0,Traveltv
 
+#EXTINF:-1,Traveltv
 http://194.179.53.124:1935/live/traveltv/chunklist_w853215354.m3u8
-#EXTINF:0,TREVEL TV
 
+#EXTINF:-1,TREVEL TV
 https://59c8647978660.streamlock.net/8176/8176/chunklist_w48232640.m3u8
-#EXTINF:0,DEJATE DE HISTORIAS TV
 
+#EXTINF:-1,DEJATE DE HISTORIAS TV
 https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
-#EXTINF:0,101 TV
 
+#EXTINF:-1,101 TV
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0,RADIO TELEVISION
 
+#EXTINF:-1,RADIO TELEVISION
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w815046942_b480000_sles.m3u8
-#EXTINF:0,7 WEB
 
+#EXTINF:-1,7 WEB
 https://cdnlive.shooowit.net/la7live/channel1.smil/chunklist_b2200000.m3u8
-#EXTINF:0,BENAVENTE
 
-https://59b782181fb20.streamlock.net:455/gcm5/gcm5/chunklist_w1312262496.m3u8
-#EXTINF:0,MIRAME TV
-
+#EXTINF:-1,MIRAME TV
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/chunklist_w611131847.m3u8
-#EXTINF:0,NAVARRA TV
 
+#EXTINF:-1,NAVARRA TV
 https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
-#EXTINF:0,Marbella tv
 
+#EXTINF:-1,Marbella tv
 https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
-#EXTINF:0,cgtn ESPAÑOL
 
+#EXTINF:-1,cgtn ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,Wow tv
 
+#EXTINF:-1,Wow tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:0,Marti
 
+#EXTINF:-1,Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:0,Hd Fashion
 
+#EXTINF:-1,Hd Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-#EXTINF:0,ETBEITBEUS
+
+#EXTINF:-1,ETBEITBEUS
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS"
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Red Advenirh
-
+#EXTINF:-1,Red Advenirh
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:0,ALFA TV
 
+#EXTINF:-1,ALFA TV
 http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
-#EXTINF:0,Esperanza TV
 
+#EXTINF:-1,Esperanza TV
 https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_596_av-p.m3u8
-#EXTINF:0,CBN - ESPAÑOL
 
+#EXTINF:-1,CBN - ESPAÑOL
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_2000_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,CDM INTERNACIONAL
 
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w613655359.m3u8
-#EXTINF:0,TABER TV
 
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="TV RELIGIOSOS"
+
+
+
+
+
+
+#EXTINF:-1,TABER TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1672984887_b148000_sleng.m3u8?DVR%3E
-#EXTINF:0,LA NUEVA TV
 
+#EXTINF:-1,LA NUEVA TV
 https://5b50404ec5e4c.streamlock.net/lanueva/ngrp:lanueva_all/chunklist_w568730017_b630000.m3u8
-#EXTINF:0,COMUNICACON TV
 
+#EXTINF:-1,COMUNICACON TV
 http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w2121222715_b181000_sleng.m3u8
-#EXTINF:0,NACION TV
 
+#EXTINF:-1,NACION TV
 http://primary.iptv-global.net:1935/NacionTVINT/ngrp:myStream_all/chunklist_w353786779_b546608.m3u8
-#EXTINF:0,GSG TV
 
+#EXTINF:-1,GSG TV
 https://5d00db0e0fcd5.streamlock.net/7282/7282/chunklist_w988979503.m3u8
-#EXTINF:0,FAMILIA VISION
 
+#EXTINF:-1,FAMILIA VISION
 http://ph1.ministeriotv.com:1936/29/stream/chunklist_w1847146618.m3u8
-#EXTINF:0,CIELO TV
 
+#EXTINF:-1,CIELO TV
 https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/playlist.m3u8
-#EXTINF:0,VIVA CRISTO TV
 
+#EXTINF:-1,VIVA CRISTO TV
 http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
-#EXTINF:0,HopeTV
 
+#EXTINF:-1,HopeTV
 https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
-#EXTINF:0,3ABN
 
+#EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:0,CCI Channel (Honduras)
 
+#EXTINF:-1,CCI Channel (Honduras)
 https://5d597bfcee285.streamlock.net/cci/cci/chunklist_w1962935691.m3u8
-#EXTINF:0,Genesis tv
 
+#EXTINF:-1,Genesis tv
 http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
-#EXTINF:0,JOSUE TV
 
+#EXTINF:-1,JOSUE TV
 http://va1.ministeriotv.com:1936/264/stream/playlist.m3u8
-#EXTINF:0,RTV
 
+#EXTINF:-1,RTV
 https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:0,Ebenezer TV (Honduras)
 
+#EXTINF:-1,Ebenezer TV (Honduras)
 http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/chunklist_w1424115902_b1228800.m3u8
-#EXTINF:0,Presencia TV
 
+#EXTINF:-1,Presencia TV
 https://5c51d3942f000.streamlock.net:1937/presenciatv1/presenciatv1/chunklist_w1140744850.m3u8
-#EXTINF:0,Woro Canal 13 (Puerto Rico)
 
+#EXTINF:-1,Woro Canal 13 (Puerto Rico)
 https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_w1874302818.m3u8
-#EXTINF:0,CTNI (Puerto Rico)
 
+#EXTINF:-1,CTNI (Puerto Rico)
 https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",Logos TV ()
 
+#EXTINF:-1,Logos TV ()
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:0,Solidaria TV ()
 
+#EXTINF:-1,Solidaria TV ()
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:0,Taber TV (El Salvador)
 
+#EXTINF:-1,Taber TV (El Salvador)
 https://5ca9af4645e15.streamlock.net/tabertv/videotabertv/chunklist_w1742284038.m3u8
-#EXTINF:0,SBN Hispano
 
+#EXTINF:-1,SBN Hispano
 https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch50/ch50.m3u8
-#EXTINF:0,Avivame HD
 
+#EXTINF:-1,Avivame HD
 http://wow.adonainy.com:1935/live/smil:avivame.smil/chunklist_w533146800_b764100_sleng.m3u8
-#EXTINF:0,Elim de amor
 
+#EXTINF:-1,Elim de amor
 https://edge1o.live.opencaster.com/caster/tpzdrdHcGzuh.m3u8
-#EXTINF:0,ELIM TV
 
+#EXTINF:-1,ELIM TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_151_av-p.m3u8?sd=6&amp;rebase=on
-#EXTINF:0,HOSANA VISION
 
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
-#EXTINF:0,JELE TV
-
+#EXTINF:-1,JELE TV
 https://livestreamcdn.net/playlistvideos/secure.php?id=JeleTVOndemand/35/127/JeleTV_8.mp4
-#EXTINF:0,KERYGMA TV
 
+#EXTINF:-1,KERYGMA TV
 https://livestreamcdn.net:444/KerygmaTV/KerygmaTV/chunklist_w1633916988.m3u8
-#EXTINF:0,EXTREMA TV
 
+#EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1590118143.m3u8
-#EXTINF:0,CANAL LUZ
 
-http://g4.mc-hor.transport.edge-access.net/a18/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
-#EXTINF:0,REFORMA TV
-
+#EXTINF:-1,REFORMA TV
 https://livestreamcdn.net:444/ReformaTV/smil:ReformaTV.smil/chunklist_w2051243640_b200000_slen.m3u8
-#EXTINF:0,ALIENTO VISION
 
+#EXTINF:-1,ALIENTO VISION
 https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/chunklist_w691502073_b1300000_slen.m3u8
-#EXTINF:0,ZOE TV MISIÓN VIDA
 
+#EXTINF:-1,ZOE TV MISIÓN VIDA
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1138512370.m3u8
-#EXTINF:0,ALELUYA TV
 
+#EXTINF:-1,ALELUYA TV
 https://59825a54e4454.streamlock.net:8443/ruben560/ruben560/chunklist_w504470367.m3u8
-#EXTINF:0,CDM INTERNACIONAL
 
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w2040294167.m3u8
-#EXTINF:0,MANANTIAL DE ADORACIÓN
-
+#EXTINF:-1,MANANTIAL DE ADORACIÓN
 https://5983a4e15f07f.streamlock.net:8443/manantialadoraciontv/manantialadoraciontv/chunklist_w738329689.m3u8
-#EXTINF:0,SHALOM TV
 
+#EXTINF:-1,SHALOM TV
 https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1303331575.m3u8
-#EXTINF:0,SOBRENATURAL TV
 
+#EXTINF:-1,SOBRENATURAL TV
 https://livestreamcdn.net:444/SobrenaturalTV/SobrenaturalTV/chunklist_w702976643.m3u8
-#EXTINF:0,BNGG TV
 
+#EXTINF:-1,BNGG TV
 https://5983a4e15f07f.streamlock.net:8443/pastordomingo46/pastordomingo46/chunklist_w863621550.m3u8
-#EXTINF:0,TV ELOHIM
 
+#EXTINF:-1,TV ELOHIM
 https://59825a54e4454.streamlock.net:8443/radhames706/radhames706/chunklist_w961542271.m3u8
-#EXTINF:0,ALCANCE TV
 
+#EXTINF:-1,ALCANCE TV
 https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w1848560081.m3u8
-#EXTINF:0,ÚNICO TELEVISIÓN
 
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1822057052.m3u8
-#EXTINF:0,3ABN LATINO
+#EXTINF:-1,3ABN LATINO
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS"
+#EXTINF:-1 tvg-logo=" " group-title="TV DEPORTES"
+
+
+
+#EXTINF:-1,SPORTS  HD | DirecTV Sports HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66463
+#EXTINF:-1,SPORTS  HD | DirecTv Sports FHD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66464
+#EXTINF:-1,SPORTS  HD | DirecTV Sports 2 HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66465
+#EXTINF:-1,SPORTS  HD | DirecTV Sports Plus HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66466
+#EXTINF:-1,SPORTS  HD | CDF HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66467
+#EXTINF:-1,SPORTS  HD | Fox Sports 1 Argentina
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66468
+#EXTINF:-1,SPORTS  HD | Fox Sports 1 Chile
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66469
+#EXTINF:-1,SPORTS  HD | Fox Sports 2 Argentina
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66470
+#EXTINF:-1,SPORTS  HD | Fox Sports 2 Brasil
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66471
+#EXTINF:-1,SPORTS  HD | Fox Sports 3 Argentina
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66472
+#EXTINF:-1,SPORTS  HD | Fox Sports Chile
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66474
+#EXTINF:-1,SPORTS  HD | Fox Sports Colombia
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66475
+#EXTINF:-1,SPORTS  HD | Fox Sports Mexico 1
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66476
+#EXTINF:-1,SPORTS  HD | Fox Sports Mexico 2
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66477
+#EXTINF:-1,SPORTS  HD | Fox Sports Mexico 3
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66478
+#EXTINF:-1,SPORTS  HD | Tnt Sports
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66479
+#EXTINF:-1,SPORTS  HD | Bein Sports 
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66480
+#EXTINF:-1,SPORTS SD | Fox Sports 3 MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66481
+#EXTINF:-1,SPORTS SD | Fox Sports 3 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66482
+#EXTINF:-1,SPORTS SD | Claro Sports
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66483
+#EXTINF:-1,SPORTS SD | Claro Sports Latinoamerica
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66484
+#EXTINF:-1,SPORTS SD | Espn 1 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66485
+#EXTINF:-1,SPORTS SD | Espn 2 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66486
+#EXTINF:-1,SPORTS SD | Espn 3 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66487
+#EXTINF:-1,SPORTS SD | Espn Plus Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66488
+#EXTINF:-1,SPORTS SD | Fox Sports 1 MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66489
+#EXTINF:-1,SPORTS SD | Fox Sports 1 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66490
+#EXTINF:-1,SPORTS SD | Fox Sports 2 MX
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66491
+#EXTINF:-1,SPORTS SD | Fox Sports 2 Sur
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66492
+#EXTINF:-1,SPORTS CO | WinSports Plus
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66493
+#EXTINF:-1,SPORTS EC | Gol TV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66494
+#EXTINF:-1,SPORTS CL | Fox Sports
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66495
+#EXTINF:-1,SPORTS CL | Fox Sports
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66496
+#EXTINF:-1,SPORTS CL | Sporting HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66497
+#EXTINF:-1,SPORTS ARG* | TNT Sports HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66498
+#EXTINF:-1,SPORTS ARG* | Fox Sports Premium
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66499
+#EXTINF:-1,SPORTS ARG | DIRECTV SPORTS 1*
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66500
+#EXTINF:-1,SPORTS UY | VTV HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66501
+#EXTINF:-1,SPORTS UY | VTV HD*
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66502
+#EXTINF:-1,SPORTS UY | VTV PLUS
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66503
+#EXTINF:-1,SPORTS UY | Vera +
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66504
+#EXTINF:-1,SPORTS UY | VTV**
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66505
+#EXTINF:-1,SPORTS UY | VTV FHD*
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66506
+#EXTINF:-1,SPORTS UY | VTV SD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66507
+#EXTINF:-1,SPORTS PE | Gol Peru SD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66508
+#EXTINF:-1,SPORTS PE | Gol Peru HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66509
+#EXTINF:-1,SPORTS PE | Gol Peru FHD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66510
+#EXTINF:-1,SPORTS PE | Movistar Deportes
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66511
+#EXTINF:-1,SPORTS PE | Movistar Plus
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66512
+#EXTINF:-1,SPORTS PE | Hipodromo Monterrico HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/66513
 
 
 
 
-#EXTINF:0,FRAGIL
-PELICULAS - DEAMA - ACCION
-http://54.39.50.140/movies/Afabetico/br34k4bl3%20y0u%202017%20latino/br34k4bl3.y0u.2017.latino.mp4
-#EXTINF:0,Underwater 2020
-PELICULAS - DEAMA - ACCION
-https://storage.googleapis.com/iron-fountain-266419.appspot.com/g9a05kqkZQM-storage.mp4
-#EXTINF:0,Legado en los huesos 2020
-PELICULAS - DEAMA - ACCION
-https://www1385.o0-3.com/token=Jrdn8L1T1lk3laRpI31p3A/1589570481/167.61.0.0/117/d/44/bc42de19aceae6fa352be70cabc0a44d-480p.mp4
-#EXTINF:0,La caza 2020
-PELICULAS - DEAMA - ACCION
-https://storage.googleapis.com/iron-fountain-266419.appspot.com/gW2d1K9N2El-storage.mp4
-#EXTINF:0,El secreto de la calavera 2020
-PELICULAS - DEAMA - ACCION
-http://tux-vod.dynu.com/peliculas/720/el%20secreto%20de%20las%20calaveras%20de%20cristal.mkv
-#EXTINF:0,DESAFIO SOBRE OLAS
-PELICULAS - DEAMA - ACCION
-https://gloria.tv/streaming/8v48GN4F8ck62AZMQDubcn2oG/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES"
 
-#EXTINF:0,TVC 
-http://iptvactivador.online:25461/live/XTREAMTVCHUKYFLOO/CHUKYFLOO/1531.ts
-#EXTINF:0,GOL TV ECUADOR
+#EXTINF:-0,VTV URUGUAY
+http://69.64.33.127:25461/live/Fernando/Fernando/1354.ts
 
+#EXTINF:-1,GOL TV ECUADOR
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,Show_Sports
 
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/Show_Sports/verimatrix_rotating_FTA/Show_Sports.m3u8
-#EXTINF:0,VTV 
 
-https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/verimatrix_rotating_FTA/VTV_HD.m3u8
-#EXTINF:0,Fox_Sports_Premiun
 
+#EXTINF:-1,Fox_Sports_Premiun
 https://edge6-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/verimatrix_rotating_FTA/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:0,FoxSports
 
+#EXTINF:-1,FoxSports
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/verimatrix_rotating_FTA/FoxSports.m3u8
-#EXTINF:0,ESPN 2
 
+#EXTINF:-1,ESPN 2
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/ESPN2HD.m3u8
-#EXTINF:0,ESPN 3
 
-https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN3/verimatrix_rotating_FTA/ESPN3.m3u8
-#EXTINF:0,TyC Sport
+#EXTINF:-1,ESPN 3
+http://69.64.33.127:25461/live/Fernando/Fernando/1250.ts
 
+
+#EXTINF:-1,TVC DEPORTRS
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TyCSport/verimatrix_rotating_FTA/TyCSport.m3u8
-#EXTINF:0,Fox Sports 2
 
+#EXTINF:-1,Fox Sports 2
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/verimatrix_rotating_FTA/FoxSports2HD.m3u8
-#EXTINF:0,Fox Sports 3
 
+#EXTINF:-1,Fox Sports 3
 https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/verimatrix_rotating_FTA/FoxSports3HD.m3u8
-#EXTINF:0,ESPN
 
+#EXTINF:-1,ESPN
 https://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/verimatrix_rotating_FTA/ESPN_HD.m3u8
-#EXTINF:0,ESPN +
 
+#EXTINF:-1,ESPN +
 https://edge6-hr.cvattv.com.ar/live/c3eds/ESPNHD/verimatrix_rotating_FTA/ESPNHD.m3u8
-#EXTINF:0,ESPN 2
 
-https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/ESPN2HD.m3u8
-#EXTINF:0,NBA_TV
-
-
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES"
+#EXTINF:-1,ESPN DEPORTES
+http://69.64.33.127:25461/live/Fernando/Fernando/1252.ts
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="TV INFANTILES"
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",BOOMERANG
+
+
+
+#EXTINF:-1,BOOMERANG
 https://edge1-ccast-sl.cvattv.com.ar/live/live/Boomerang/verimatrix_rotating_FTA/Boomerang.m3u8
 
-#EXTINF:0,CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 https://edge3-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/verimatrix_rotating_FTA/CartoonNetwork.m3u8
 
-#EXTINF:0,DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/verimatrix_rotating_FTA/DisneyChannelHD.m3u8
 
-#EXTINF:0,DISNEY XD
+#EXTINF:-1,DISNEY XD
 https://edge-vod02-sl.cvattv.com.ar/live/live/DisneyXD/verimatrix_rotating_FTA/DisneyXD.m3u8
 
-#EXTINF:0,BABY TV
+#EXTINF:-1,BABY TV
 https://edge4-hr.cvattv.com.ar/live/live/BabyTV/verimatrix_rotating_FTA/BabyTV.m3u8
 
-#EXTINF:0,NICK JR
+#EXTINF:-1,NICK JR
 https://edge2-ccast-sl.cvattv.com.ar/live/c2live/Nick_Jr/verimatrix_rotating_FTA/Nick_Jr.m3u8
 
-#EXTINF:0,DISNEY JR
+#EXTINF:-1,DISNEY JR
 https://edge4-sl.cvattv.com.ar/live/live/DisneyJr/verimatrix_rotating_FTA/DisneyJr.m3u8
 
-#EXTINF:0,TOONCAST
+#EXTINF:-1,TOONCAST
 https://edge-live13-sl.cvattv.com.ar/live/c2live/Tooncast/verimatrix_rotating_FTA/Tooncast.m3u8
 
-#EXTINF:0,NIKELODEON
+#EXTINF:-1,NIKELODEON
 https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/Nickelodeon/verimatrix_rotating_FTA/Nickelodeon.m3u8
 
-#EXTINF:0,DISCOVERY KIDS
+#EXTINF:-1,DISCOVERY KIDS
 https://edge10-sl.cvattv.com.ar/live/c2live/Discovery_Kids/verimatrix_rotating_FTA/Discovery_Kids.m3u8
 
-#EXTINF:0,PAKA PAKA
+#EXTINF:-1,PAKA PAKA
 https://edge6-hr.cvattv.com.ar/live/c2live/PAKA_PAKA/verimatrix_rotating_FTA/PAKA_PAKA.m3u8
 
-#EXTINF:0,NATGEO KIDS
+#EXTINF:-1,NATGEO KIDS
 https://edge10-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/verimatrix_rotating_FTA/NatGeo_Kids.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES"
 
 
 
-#EXTINF:0,PARAMONT NEDWORK
-https://edge4-hr.cvattv.com.ar/live/live/Paramount/SA_MOBILE_FTA/Paramount.m3u8
-#EXTINF:0,CANAL 13 TV
-
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:0,SPACE
-
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space.m3u8
-#EXTINF:0,THEFILM ZONE
-
-https://edge9-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/verimatrix_rotating_FTA/TheFilmZoneHD.m3u8
-#EXTINF:0,FILM_ARTS
-
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Film_Arts/verimatrix_rotating_FTA/Film_Arts.m3u8
-#EXTINF:0,CINEMAX
-
-https://edge3-hr.cvattv.com.ar/live/c2live/Cinemax/verimatrix_rotating_FTA/Cinemax.m3u8
-#EXTINF:0,TNT
-
-https://edge1-ccast-hr.cvattv.com.ar/live/live/TNT/verimatrix_rotating_FTA/TNT.m3u8
-#EXTINF:0,TNTSeries
-
-https://edge9-hr.cvattv.com.ar/live/c3eds/TNTSeries/verimatrix_rotating_FTA/TNTSeries.m3u8
-#EXTINF:0,AMC
-
-https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/verimatrix_rotating_FTA/AMC.m3u8
-#EXTINF:0,AXN
-
-https://edge4-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD.m3u8
-#EXTINF:0,TCM
-
-https://edge3-hr.cvattv.com.ar/live/c2live/TCM/verimatrix_rotating_FTA/TCM.m3u8
-#EXTINF:0,HBO2
-
-https://edge9-hr.cvattv.com.ar/live/c2live/HBO_2/verimatrix_rotating_FTA/HBO_2.m3u8
-#EXTINF:0,HBO PLUS
-
-https://edge-live13-sl.cvattv.com.ar/live/c2live/HBO_Plus/verimatrix_rotating_FTA/HBO_Plus.m3u8
-#EXTINF:0,HBO_Family
-
-https://edge9-hr.cvattv.com.ar/live/c2live/HBO_Family/verimatrix_rotating_FTA/HBO_Family.m3u8
-#EXTINF:0,HBO_Signature
-
-https://edge6-ccast-sl.cvattv.com.ar/live/c2live/HBO_Signature/verimatrix_rotating_FTA/HBO_Signature.m3u8
-#EXTINF:0,Paramount
-
-https://edge2-sl.cvattv.com.ar/live/live/Paramount/verimatrix_rotating_FTA/Paramount.m3u8
-#EXTINF:0,FOX CHANNEL
-
-https://edge7-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/verimatrix_rotating_FTA/FOXHD.m3u8
-#EXTINF:0,FX
-
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/verimatrix_rotating_FTA/FXHD.m3u8
-#EXTINF:0,FOX 1
-
-https://edge2-ccast-hr.cvattv.com.ar/live/c3eds/FOX1HD/verimatrix_rotating_FTA/FOX1HD.m3u8
-#EXTINF:0,Fox Movies
-
-https://edge9-hr.cvattv.com.ar/live/c3eds/FoxMoviesHD/verimatrix_rotating_FTA/FoxMoviesHD.m3u8
-#EXTINF:0,FoxActionHD
-
-https://edge5-hr.cvattv.com.ar/live/c3eds/FoxActionHD/verimatrix_rotating_FTA/FoxActionHD.m3u8
-#EXTINF:0,Fox Comedy
-
-https://edge4-sl.cvattv.com.ar/live/live/FoxComedy/verimatrix_rotating_FTA/FoxComedy.m3u8
-#EXTINF:0,Fox Cinema
-
-https://edge2-sl.cvattv.com.ar/live/live/FoxCinema/verimatrix_rotating_FTA/FoxCinema.m3u8
-#EXTINF:0,Fox Classics
-
-https://edge2-hr.cvattv.com.ar/live/live/FoxClassics/verimatrix_rotating_FTA/FoxClassics.m3u8
-#EXTINF:0,ISAT
-
-https://edge-live13-sl.cvattv.com.ar/live/c2live/ISAT/verimatrix_rotating_FTA/ISAT.m3u8
-#EXTINF:0,SonyHD
-
-https://chromecast.cvattv.com.ar/live/live/SonyHD/verimatrix_rotating/SonyHD.m3u8
-#EXTINF:0,Lifetime
-
-https://chromecast.cvattv.com.ar/live/c2live/Lifetime/verimatrix_rotating/Lifetime.m3u8
-#EXTINF:0,HBO HD
-
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/verimatrix_rotating_FTA/HBOHD.m3u8
-#EXTINF:0,CinecanalHD
-
-https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating/CinecanalHD.m3u8
-#EXTINF:0,Studio_Universal
-
-https://chromecast.cvattv.com.ar/live/c2live/Studio_Universal/verimatrix_rotating/Studio_Universal.m3u8
-#EXTINF:0,Eurochannel
-https://chromecast.cvattv.com.ar/live/c2live/Eurochannel/verimatrix_rotating/.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA"
 
 
-#EXTINF:0,AMERICA 24
-https://edge2-sl.cvattv.com.ar/live/live/America24/verimatrix_rotating_FTA/America24.m3u8
-#EXTINF:0,TV PUBLICA
-ARGENTINA
-https://edge3-hr.cvattv.com.ar/live/c3eds/Canal7/verimatrix_rotating_FTA/Canal7.m3u8
-#EXTINF:0,TODO NOTICIAS
-ARGENTINA
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/TodoNoticias/verimatrix_rotating_FTA/TodoNoticias.m3u8
-#EXTINF:0,TELEFE
-ARGENTINA
-https://edge9-hr.cvattv.com.ar/live/c3eds/TelefeHD/verimatrix_rotating_FTA/TelefeHD.m3u8
-#EXTINF:0,EL NUEVE
-ARGENTINA
-https://edge-live14-hr.cvattv.com.ar/live/c3eds/ArtearHD/verimatrix_rotating_FTA/ArtearHD.m3u8
-#EXTINF:0,AMERICA TV
-ARGENTINA
-https://edge10-sl.cvattv.com.ar/live/c3eds/AmericaTV/verimatrix_rotating_FTA/AmericaTV.m3u8
-#EXTINF:0,CINE AR
-ARGENTINA
-https://edge-live14-hr.cvattv.com.ar/live/c2live/INCAA_Tv/verimatrix_rotating_FTA/INCAA_Tv.m3u8
-#EXTINF:0,5R TV
-ARGENTINA
-https://edge-live14-hr.cvattv.com.ar/live/c4eds/5RTV/verimatrix_rotating_FTA/5RTV.m3u8
-#EXTINF:0,CANAL 9 PAPARANA
-ARGENTINA
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Canal_9_Parana/verimatrix_rotating_FTA/Canal_9_Parana.m3u8
-#EXTINF:0,SOMOS ROSARIO - SD
-ARGENTINA
-https://edge-live12-hr.cvattv.com.ar/live/c4eds/Somos_Rosario/verimatrix_rotating_FTA/Somos_Rosario.m3u8
-#EXTINF:0,CANAL 3 ROSARIO - SD
-ARGENTINA
-https://edge4-sl.cvattv.com.ar/live/live/Canal_3_Rosario/verimatrix_rotating_FTA/Canal_3_Rosario-audio.m3u8
-#EXTINF:0,CANAL 5 ROSARIO
-ARGENTINA
-https://edge-live11-hr.cvattv.com.ar/live/c2live/Canal_5_Rosario/verimatrix_rotating_FTA/Canal_5_Rosario.m3u8
-#EXTINF:0,12 CORDOBA - SD
-ARGENTINA
-https://edge8-ccast-hr.cvattv.com.ar/live/c2live/Canal_12_CBA/verimatrix_rotating_FTA/Canal_12_CBA.m3u8
-#EXTINF:0,8 CORDOBA
-ARGENTINA
-https://edge2-ccast-sl.cvattv.com.ar/live/c2live/Canal_8_CBA/verimatrix_rotating_FTA/Canal_8_CBA.m3u8
-#EXTINF:0,CronicaTV
-ARGENTINA
-https://edge4-hr.cvattv.com.ar/live/live/CronicaTV/verimatrix_rotating_FTA/CronicaTV.m3u8
-#EXTINF:0,EL TRECE
-ARGENTINA
-https://edge-live14-hr.cvattv.com.ar/live/c3eds/ArtearHD/verimatrix_rotating_FTA/ArtearHD.m3u8
-#EXTINF:0,GOL TV ECUADOR
-ARGENTINA
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,10 tv
-ARGENTINA
-http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1282360536.m3u8
-#EXTINF:0,DW
+#EXTINF:-1 tvg-logo=" " group-title="TV DOCUMENTALES"
 
+
+
+
+
+#EXTINF:-1,DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,NatGeoHD
 
+#EXTINF:-1,NatGeoHD
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/verimatrix_rotating_FTA/NatGeoHD.m3u8
-#EXTINF:0,HistoryHD
 
+#EXTINF:-1,HistoryHD
 https://edge4-hr.cvattv.com.ar/live/live/HistoryHD/verimatrix_rotating_FTA/HistoryHD.m3u8
-#EXTINF:0,History_2
 
+#EXTINF:-1,History_2
 https://edge7-ccast-sl.cvattv.com.ar/live/c2live/History_2/verimatrix_rotating_FTA/History_2.m3u8
-#EXTINF:0,AnimalPlanet
 
+#EXTINF:-1,AnimalPlanet
 https://edge2-hr.cvattv.com.ar/live/live/AnimalPlanet/verimatrix_rotating_FTA/AnimalPlanet.m3u8
-#EXTINF:0,DiscoveryHD
 
+#EXTINF:-1,DiscoveryHD
 https://edge6-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/verimatrix_rotating_FTA/DiscoveryHD.m3u8
-#EXTINF:0,Discovery_Science
 
+#EXTINF:-1,Discovery_Science
 https://edge-live14-hr.cvattv.com.ar/live/c2live/Discovery_Science/verimatrix_rotating_FTA/Discovery_Science.m3u8
-#EXTINF:0,NatGeoWildHD
 
+#EXTINF:-1,NatGeoWildHD
 https://edge9-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/verimatrix_rotating_FTA/NatGeoWildHD.m3u8
-#EXTINF:0,Theater_HD
 
+#EXTINF:-1,Theater_HD
 https://edge8-ccast-hr.cvattv.com.ar/live/c2live/Theater_HD/verimatrix_rotating_FTA/Theater_HD.m3u8
-#EXTINF:0,DiscoveryHomeHealthHD
 
+#EXTINF:-1,DiscoveryHomeHealthHD
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/verimatrix_rotating_FTA/DiscoveryHomeHealthHD.m3u8
-#EXTINF:0,Discovery_World_HD
 
+#EXTINF:-1,Discovery_World_HD
 https://edge6-ccast-sl.cvattv.com.ar/live/c2live/Discovery_World_HD/verimatrix_rotating_FTA/Discovery_World_HD.m3u8
-#EXTINF:0,Discovery_Civilization
 
+#EXTINF:-1,Discovery_Civilization
 https://edge9-sl.cvattv.com.ar/live/c2live/Discovery_Civilization/verimatrix_rotating_FTA/Discovery_Civilization.m3u8
-#EXTINF:0,DiscoveryTurbo
 
+#EXTINF:-1,DiscoveryTurbo
 https://edge-vod02-sl.cvattv.com.ar/live/live/DiscoveryTurbo/verimatrix_rotating_FTA/DiscoveryTurbo.m3u8
-#EXTINF:0,Discovery_ID
 
+#EXTINF:-1,Discovery_ID
 https://edge4-hr.cvattv.com.ar/live/live/ID/verimatrix_rotating_FTA/ID.m3u8
-#EXTINF:0,Radio Cristiana Dominicana
 
+
+
+#EXTINF:-1 tvg-logo=" " group-title="RADIOS RELIGIOSAS"
+
+
+
+
+#EXTINF:-1,Radio Cristiana Dominicana
 https://node-33.zeno.fm/p6ttmz849zquv?rj-ttl=5&amp;rj-tok=AAABccE3AcwApna6golryFeVZg
-#EXTINF:0,CRISTIANOS RADIO
 
+#EXTINF:-1,CRISTIANOS RADIO
 https://stream.miradio.in:9516/stream/1/
-#EXTINF:0,RADIO CONSEJERO FIEL
 
+#EXTINF:-1,RADIO CONSEJERO FIEL
 https://node-12.zeno.fm/e7w8u2zvm8quv?rj-ttl=5&amp;rj-tok=AAABccFCmWgAjmYlk7eoUh7cbQ
-#EXTINF:0,RADIO SOL DE JUSTICIA
 
+#EXTINF:-1,RADIO SOL DE JUSTICIA
 https://node-17.zeno.fm/stmdw5c7dfeuv?rj-ttl=5&amp;rj-tok=AAABccFGkuIAYzB91sDCok7bYQ
-#EXTINF:0,LA ROCA ESTACIÓN DEL CIELO 91.7 FM
 
+#EXTINF:-1,LA ROCA ESTACIÓN DEL CIELO 91.7 FM
 https://emisorasvirtuales.com.co:9045/live
-#EXTINF:0,Radio Biblica Siloé - 
 
+#EXTINF:-1,Radio Biblica Siloé -
 http://stream.zeno.fm/e1f4he38qnruv
-#EXTINF:0,GRANADA TELEVISION
-unsorted
-https://youtu.be/GqEIjlETgCk
