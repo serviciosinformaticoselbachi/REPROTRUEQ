@@ -4,6 +4,43 @@ www.servicioselbachi.com
 #EXTINF:-1,--- Visita www.servicioselbachi.com ---
 
 
+#EXTINF:-1 tvg-logo=" " group-title="TV PERU"
+#EXTINF:-1,PERU |LATINA
+http://iptvactivador.online:25461/live/m3uliszutv/m3uliszutv/560.ts
+#EXTINF:-1,panamericana PERU
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/15910
+#EXTINF:-1,PE | Gol Peru HD
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/9550
+#EXTINF:-1,PERU: TV PERU
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/1020
+
+
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1783
+#EXTINF:-1,PE | Peru Magico
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1784
+#EXTINF:-1,PE | TV Peru HD
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1785
+#EXTINF:-1,PE | TV Peru Noticias
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1786
+#EXTINF:-1,SERVER 2LT | PERU: Antares TV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12416
+#EXTINF:-1,SERVER 2LT | PERU: BHTV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12417
+#EXTINF:-1,SERVER 2LT | PERU: La Luz
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12418
+#EXTINF:-1,SERVER 2LT | PERU: Latina
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12419
+#EXTINF:-1,SERVER 2LT | PERU: Plus TV
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12420
+#EXTINF:-1,SERVER 2LT | PERU: RBC
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12421
+#EXTINF:-1,SERVER 2LT | PERU: RPP
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12422
+#EXTINF:-1,SERVER 2LT | PERU: TV Peru
+http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/12423
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="TV PELICULAS Y SERIES"
 
@@ -882,7 +919,30 @@ http://69.64.33.127:25461/live/Fernando/Fernando/1252.ts
 #EXTINF:-1 tvg-logo=" " group-title="TV INFANTILES"
 
 
-
+#EXTINF:-1,NIÑOS | NICK 2
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/416
+#EXTINF:-1,NIÑOS | DISNEY JR.
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/419
+#EXTINF:-1,NIÑOS | CARTOON NETWORK
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/422
+#EXTINF:-1,NIÑOS | NICKTOONS
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/424
+#EXTINF:-1,NIÑOS | BOOMERANG
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/425
+#EXTINF:-1,NIÑOS | NATGEO KIDS 
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/426
+#EXTINF:-1,NIÑOS | NICKELODEON
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/427
+#EXTINF:-1,NICK JR
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/428
+#EXTINF:-1,NIÑOS | TOONCAST
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/429
+#EXTINF:-1,NIÑOS | DISNEY CHANNEL
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/430
+#EXTINF:-1,NIÑOS | DISNEY XD
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/431
+#EXTINF:-1,NIÑOS | DISCOVERY KIDS
+http://iptvactivador.online:25461/m3uliszutv/m3uliszutv/432
 
 #EXTINF:-1,BOOMERANG
 https://edge1-ccast-sl.cvattv.com.ar/live/live/Boomerang/verimatrix_rotating_FTA/Boomerang.m3u8
