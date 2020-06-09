@@ -338,8 +338,8 @@ https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
 
 #EXTINF:-1 tvg-logo=" " group-title="TV URUGUAY"
 
-
-
+#EXTINF:-1,URUGUAY | GOL TV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
 #EXTINF:-1,URUGUAY | 1000 x Hora Tv
 http://ultraplay.org:80/CRISTIANDELGADO/CristianDelgado49bc65hy/1835
