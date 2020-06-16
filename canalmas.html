@@ -1,25 +1,26 @@
       
 <!-- Paste the following into the <head>  -->
-<link rel="stylesheet" href="//releases.flowplayer.org/7.2.7/skin/skin.css">
-<script src="//releases.flowplayer.org/7.2.7//flowplayer.min.js"></script>
-<script src="//releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
- <script src="//releases.flowplayer.org/dashjs/flowplayer.dashjs.min.js"></script>
+<link href="https://vjs.zencdn.net/7.3.0/video-js.css" rel="stylesheet">
+<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
 
 <!-- Paste the following into the <body> -->
-<div id="flowplayer">
- </div>
-<script>
- flowplayer(document.getElementById("flowplayer"), {
-      live: true,    
-  
-  clip: {
-      sources: [
-         { type: "application/x-mpegurl", src: "https://cloud3.streaminglivehd.com:2000/tunein/CANALMAS_1/v/m3u8"},
-     { type: "application/flash",  src: "rtmps://5d79ae45bc63b.streamlock.net:443/CanalMas/CanalMas"}
-       ]
-   }
-  });
-</script>
+<video id="videojs" class="video-js vjs-fluid vjs-default-skin vjs-big-play-centered" controls preload="auto">
+
+      <source src="https://5d79ae45bc63b.streamlock.net:443/CANALMAS_1/CANALMAS_1/playlist.m3u8" type="application/x-mpegURL">
+   <source src="rtmps://5d79ae45bc63b.streamlock.net:443/CANALMAS_1/CANALMAS_1" type="application/flash">
+    <p class="vjs-no-js">
+  To view this video please enable JavaScript, and consider upgrading to a web browser that
+  <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+ </p>
+</video>
+
+<script src="https://vjs.zencdn.net/7.3.0/video.js"></script>
+
+ <script src="https://unpkg.com/silvermine-videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+ <script type="text/javascript">
+  var player = videojs('videojs'); </script>
+            
+
             
 <a href="https://cloud3.streaminglivehd.com:2000/tunein/CanalMas/v/m3u8" alt="VLC"><img src="https://cloud3.streaminglivehd.com:2000/system/theme/Material/images/vlc.gif" border="0" /></a>
 <a href="https://5d79ae45bc63b.streamlock.net:443/CanalMas/CanalMas/playlist.m3u8" alt="Iphone"><img src="https://cloud3.streaminglivehd.com:2000/system/theme/Material/images/iphone.gif" border="0" /></a>
