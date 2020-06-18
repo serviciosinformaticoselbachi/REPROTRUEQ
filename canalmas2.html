@@ -1,114 +1,67 @@
-    <!DOCTYPE html>
+
+	
+     <!DOCTYPE html>
+<html lang="en">
 <head>
-	<!--
-    	Robotic Template
-    	http://www.templatemo.com/preview/templatemo_430_robotic
-    -->
-    <title>SERVICIOS INFORMATICOS</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-	<meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700,800' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/templatemo_misc.css">
-    <link rel="stylesheet" href="css/templatemo_style.css">
-    <!-- JavaScripts -->   
-    <script src="js/jquery-1.11.1.min.js"></script> <!-- lightbox -->
-    <script src="js/templatemo_custom.js"></script> <!-- lightbox -->
-    <script src="js/jquery.lightbox.js"></script>
-    <script src="js/bootstrap-collapse.js"></script> 
-    <!-- JavaScripts -->  
+    <meta charset="UTF-8">
+    <title>CANAL+</title>
+    <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
-    <div id="templatemo_home" class="templatemo_headerimg"><img src="images/templatemo_header.jpg" alt="templatemo header"></div>
-    <div class="templatemo_headerimg_cover"><img src="images/templatemo_header.png" alt="templatemo header"></div>
-    <div class="templatemo_headerwrapper">
-        <div class="templatemo_menu">
-            <nav class="navbar navbar-default" role="navigation">
-                <div class="container-fluid">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
-                    </div>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div id="top-menu">
-                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                            <ul class="nav navbar-nav">
-                                <li><a class="menu first" href="https://servicioselbachi.com/"><span>INICIO</span></a></li>
-                                <li><a class="menu" href="#templatemo_service"><span>CANALES CRISTIANOS</span></a></li>
-                                <li><a class="menu" href="#templatemo_packages"><span>RADIOS CRISTIANAS</span></a></li>
-                                <li><a class="menu" href="#templatemo_about"><span>SOBRE NOSOTROS</span></a></li>
-                                <li><a class="menu" href="#templatemo_contact"><span>CONTACTO</span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- /.navbar-collapse --> 
-                </div>
-                <!-- /.container-fluid --> 
-            </nav>
-            <div class="templatemo_socialmedia">
-                <div class="templatemo_social"><a href="https://www.facebook.com/elbachionline"><img src="images/facebook.png" alt="templatemo facebook"></a></div>
-                <div class="templatemo_social"><a href="https://twitter.com/"><img src="images/twitter.png" alt="templatemo twitter"></a></div>
-                <div class="templatemo_social"><a href="#"><img src="images/googleplus.png" alt="templatemo googleplus"></a></div>
-            </div>
-        </div>
-        <div class="clear"></div>
-        <div class="container templatemo_wrapper">
-            <!-- home start -->
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="templatemo_title"><span>EL</span>B@chi</div>
-              <div class="templatemo_subtitle">Servicios Informátocos</div>
-                </div>
-            </nav>
-            <div class="templatemo_socialmedia">
-                <div class="templatemo_social"><a href="https://www.facebook.com/elbachionline"><img src="images/facebook.png" alt="templatemo facebook"></a></div>
-                <div class="templatemo_social"><a href="https://twitter.com/"><img src="images/twitter.png" alt="templatemo twitter"></a></div>
-                <div class="templatemo_social"><a href="#"><img src="images/googleplus.png" alt="templatemo googleplus"></a></div>
-            </div>
-        </div>
-        <div class="clear"></div>
-        <div class="container templatemo_wrapper">
-           
-            <div class="video-demo-contenedor">
-         <div class="video-demo">
-          <div class="video-responsive-contenedor">
-            <!-- home start -->
-                
+
+     
+
+
+
+    <h2>Canal+</h2>
+	
+	
+	      
 <!-- Paste the following into the <head>  -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
-
-<style>
- #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
- #clappr > div{ width:100%;height:100%;position: absolute;}
-</style>
-
+<link href="https://vjs.zencdn.net/7.3.0/video-js.css" rel="stylesheet">
+<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
 
 <!-- Paste the following into the <body> -->
+<video id="videojs" class="video-js vjs-fluid vjs-default-skin vjs-big-play-centered" controls preload="auto">
 
-<div id="clappr"></div>
-<script>
- var player = new Clappr.Player({
-  source:
-       "https://5d52c82b4a7e3.streamlock.net:1936/canalmas/canalmas/playlist.m3u8"
-   ,
-    parentId: "#clappr",
-  width: '100%',
-  height: '100%',
-  autoPlay: false,
-    //gaAccount: 'UA-44332211-1',
-  //gaTrackerName: 'MyPlayerInstance'
-  });
-</script>            
+      <source src="https://5d52c82b4a7e3.streamlock.net:1936/canalmas/canalmas/playlist.m3u8" type="application/x-mpegURL">
+   <source src="rtmps://5d52c82b4a7e3.streamlock.net:1936/canalmas/canalmas" type="application/flash">
+    <p class="vjs-no-js">
+  To view this video please enable JavaScript, and consider upgrading to a web browser that
+  <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+ </p>
+</video>
 
+<script src="https://vjs.zencdn.net/7.3.0/video.js"></script>
 
-             
-          </div>
+ <script src="https://unpkg.com/silvermine-videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+ <script type="text/javascript">
+  var player = videojs('videojs'); </script>
+            
+	
+	
+	
+    <div class="content-all">
+        <div class="content-carrousel">
+            <figure><img src="image/img1.jpg"></figure>
+            <figure><img src="image/img2.jpg"></figure>
+            <figure><img src="image/img3.jpg"></figure>
+            <figure><img src="image/img4.jpg"></figure>
+            <figure><img src="image/img5.jpg"></figure>
+            <figure><img src="image/img6.jpg"></figure>
+            <figure><img src="image/img7.jpg"></figure>
+            <figure><img src="image/img8.jpg"></figure>
+            <figure><img src="image/img9.jpg"></figure>
+            <figure><img src="image/img10.jpg"></figure>
         </div>
-      </div>
-  </body>
+		
+		<h2>  +  </h2>
+		<h2>  C+ </h2>
+		
+    </div>
+	<div class="footer">
+	CANAL+ 2020	
+	</div>
+</body>
 </html>
-
 
