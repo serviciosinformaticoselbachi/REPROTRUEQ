@@ -80,9 +80,13 @@
 <link href="https://vjs.zencdn.net/7.3.0/video-js.css" rel="stylesheet">
 <link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
 
+<!-- Paste the following into the <head>  -->
+<link href="https://vjs.zencdn.net/7.3.0/video-js.css" rel="stylesheet">
+<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
+
 <!-- Paste the following into the <body> -->
 <video id="videojs" class="video-js vjs-fluid vjs-default-skin vjs-big-play-centered" controls preload="auto">
-
+  <p align="right"><iframe class="video-responsive-src" width="560" height="315" 
       <source src="https://5d52c82b4a7e3.streamlock.net:1936/canalmas/canalmas/playlist.m3u8" type="application/x-mpegURL">
    <source src="rtmps://5d52c82b4a7e3.streamlock.net:1936/canalmas/canalmas" type="application/flash">
     <p class="vjs-no-js">
@@ -96,6 +100,7 @@
  <script src="https://unpkg.com/silvermine-videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
  <script type="text/javascript">
   var player = videojs('videojs'); </script>
+            
 
 
              
