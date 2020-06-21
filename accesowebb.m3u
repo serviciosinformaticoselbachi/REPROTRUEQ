@@ -1,22 +1,5 @@
-#EXTINF:-1,TNT SERIES 2
-http://69.64.33.127:25461/live/Fernando/Fernando/113.ts
-
-#EXTINF:-1,FOX PREMIUM2
-http://69.64.33.127:25461/live/Fernando/Fernando/114.ts
-
-#EXTINF:-1,SPACE
-http://69.64.33.127:25461/live/Fernando/Fernando/125.ts
-
-#EXTINF:-1,CINEMAX
-http://69.64.33.127:25461/live/Fernando/Fernando/128.ts
-
-#EXTINF:-1,HBO
-http://69.64.33.127:25461/live/Fernando/Fernando/133.ts
-
-#EXTINF:-1,HBO2
-http://69.64.33.127:25461/live/Fernando/Fernando/134.ts
-
-
+#EXTINF:-1,CANAL+
+https://5d52c82b4a7e3.streamlock.net:1936/canalmas/canalmas/playlist.m3u8
 
 #EXTINF:-1,ANTILLAS
 http://51.89.152.28/hls/tantillas.m3u8
@@ -69,14 +52,8 @@ https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
 #EXTINF:-1,URUGUAY | GOL TV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
-#EXTINF:-1,VTV_HD
-http://69.64.33.127:25461/live/Fernando/Fernando/13236.ts
-
 #EXTINF:-1,CANAL 4
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
-
-#EXTINF:-1,TV NACINAL - TNU
-http://69.64.33.127:25461/live/Fernando/Fernando/11522.ts
 
 #EXTINF:-1,TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
@@ -116,9 +93,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 
 #EXTINF:-1,Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
-
-#EXTINF:-1,FM O Dia
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
 
 #EXTINF:-1,FOX HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
@@ -240,9 +214,6 @@ https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 #EXTINF:-1,cgtn ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1,Wow tv
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
 #EXTINF:-1,Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
@@ -342,23 +313,14 @@ https://livestreamcdn.net:444/KerygmaTV/KerygmaTV/chunklist_w1633916988.m3u8
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1590118143.m3u8
 
-#EXTINF:-1,REFORMA TV
-https://livestreamcdn.net:444/ReformaTV/smil:ReformaTV.smil/chunklist_w2051243640_b200000_slen.m3u8
-
 #EXTINF:-1,ALIENTO VISION
 https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/chunklist_w691502073_b1300000_slen.m3u8
-
-#EXTINF:-1,ZOE TV MISIÓN VIDA
-https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1138512370.m3u8
 
 #EXTINF:-1,ALELUYA TV
 https://59825a54e4454.streamlock.net:8443/ruben560/ruben560/chunklist_w504470367.m3u8
 
 #EXTINF:-1,MANANTIAL DE ADORACIÓN
 https://5983a4e15f07f.streamlock.net:8443/manantialadoraciontv/manantialadoraciontv/chunklist_w738329689.m3u8
-
-#EXTINF:-1,SHALOM TV
-https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1303331575.m3u8
 
 #EXTINF:-1,SOBRENATURAL TV
 https://livestreamcdn.net:444/SobrenaturalTV/SobrenaturalTV/chunklist_w702976643.m3u8
@@ -372,9 +334,6 @@ https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w1848560081.m3u8
 #EXTINF:-1,3ABN LATINO
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/LQs/chunklist.m3u8
 
-#EXTINF:-1,VTV URUGUAY
-http://69.64.33.127:25461/live/Fernando/Fernando/1354.ts
-
 #EXTINF:-1,GOL TV ECUADOR
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_170_av-p.m3u8?sd=10&amp;rebase=on
 
@@ -386,9 +345,6 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/verimatrix_rotating_FT
 
 #EXTINF:-1,ESPN 2
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPN2HD/verimatrix_rotating_FTA/ESPN2HD.m3u8
-
-#EXTINF:-1,ESPN 3
-http://69.64.33.127:25461/live/Fernando/Fernando/1250.ts
 
 #EXTINF:-1,TVC DEPORTRS
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TyCSport/verimatrix_rotating_FTA/TyCSport.m3u8
@@ -404,9 +360,6 @@ https://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/verimatrix_rotating_FTA
 
 #EXTINF:-1,ESPN +
 https://edge6-hr.cvattv.com.ar/live/c3eds/ESPNHD/verimatrix_rotating_FTA/ESPNHD.m3u8
-
-#EXTINF:-1,ESPN DEPORTES
-http://69.64.33.127:25461/live/Fernando/Fernando/1252.ts
 
 #EXTINF:-1,BOOMERANG
 https://edge1-ccast-sl.cvattv.com.ar/live/live/Boomerang/verimatrix_rotating_FTA/Boomerang.m3u8
