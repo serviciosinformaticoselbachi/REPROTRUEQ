@@ -711,6 +711,106 @@ jQuery(function( $ )
 	</div>
 
 
+</script>
+
+
+</head>
+<body>
+	<table id="tcab_aux">
+	<tr>
+	<td id="tcab_td_aux"></td>
+	</tr>
+	</table>
+	<table id="tcab" style="background-color:#F5F5F5;width:100%;z-index:101;border-bottom:1px solid #BDBDBD;">	<tr>
+				<td id="btnslide" style="width:1%;"><i class="material-icons" style="cursor:pointer;font-size:20px;position:relative;top:2px;margin-left:10px;color:#9E9E9E;" onclick="fslide(1);">&#xE5D2;</i></td>
+				<td style="padding:0;"><table style="border:0px;width:auto;margin-left:10px;" colspacing="0">
+		<tr>
+					<td><a href="https://www.socialcreator.com/contactoservicios"><img id="imgcab" style="border:0px;" alt="Logo de CONTACTO SERVICIOS" src="https://www.socialcreator.com/app-creator/launchers/73.png"></a></td>
+							<td id="lema" style="padding:5px;color:#212121;">CONTACTO SERVICIOS</td>
+				</tr>
+		</table></td>
+				<td style="color:#FFFFFF;" align="right">
+				<table style="border:0px">
+		<tr>
+					<td class="hoverlight tdicotop" style="cursor:pointer;" onclick="$('#avisos').toggle();event.stopPropagation();"><i class='fa fa-bell'></i></td>
+				</tr>
+		</table>
+
+			   		<div id="avisos" class="w3-dropdown-content w3-border" style="z-index:99;">
+			<table style="border:0;width:100%;">
+			<tr>
+			<td>
+			<i onClick="$('#avisos').hide();event.stopPropagation();" class="fa fa-times" style="cursor:pointer;margin:5px;"></i>
+			</td>
+							<td>
+								    <table style="border:0px;margin-left:auto;margin-right:10px;width:1%;">
+				    <tr>
+				    <td><i id="onoffico" class="fa fa-bullhorn"></i></td>
+				    <td onclick="event.stopPropagation();">
+					<div class="onoffswitch">
+						<input type="checkbox" name="chknotif" class="onoffswitch-checkbox" id="chknotif" onclick="fcambionotif();">
+					    <label class="onoffswitch-label" for="chknotif">
+					        <span class="onoffswitch-inner"></span>
+					        <span class="onoffswitch-switch"></span>
+					    </label>
+					</div>
+					</td>
+					</tr>
+					</table>
+				</td>
+						</tr>
+			<tr><td colspan="2" style="height:1px;background-color:#CCCCCC;padding:0;"></td></tr>
+			</table>
+
+			
+	   			   		    <span class="w3-padding">No hay ninguna alerta</span>
+	   			    	</div>
+	    				</td>
+		</tr>
+	</table>
+	<table id="tmenu_aux" class="defecto_aux">
+	<tr>
+	<td id="tmenu_td_aux"></td>
+	</tr>
+	</table>
+    <table id="tmenu" class="defecto" style="z-index:101;" cellpadding="0" cellspacing="0">
+    <tr><td>
+    <table id="tmenu_2" cellpadding="0" cellspacing="0">
+    <tr id="idmenu">
+			<td id="btnhome" style="width:1%;" align="center"><a href="https://www.socialcreator.com/contactoservicios"><i class="material-icons" style="font-size:20px;position:relative;top:2px;margin:0 10px;">&#xE88A;</i></a></td>
+	        <td id="secc118966" nowrap align="center">
+	        <table class="topcmain" onmousedown="self.location='https://www.socialcreator.com/contactoservicios/?s=118966';" cellpadding="0" cellspacing="0">
+	        	        <tr class="txtmenu"><td align="center" style="padding:0 10px 0 10px;font-size:16px;">CONTACTO SERVICIOS INFORMATICOS</td></tr>	        </table></a>
+        </td>
+        <td id="seccmas" class="topcmain" style="display:none;" align="center" onclick="fslide(1);"><i class="material-icons" style="font-size:20px;position:relative;top:2px;margin:0 10px 0 10px;">&#xE5D4;</i></td>
+    </tr>
+    </table>
+    </td></tr>
+    </table>
+
+	<script language="javascript">
+	function fslide(modo)
+	{
+		var px=0;
+		if(modo==0){px=-1000;};
+		document.getElementById("tslide").style.left=px+"px";
+	}
+	</script>
+	<div id="tslide" style="height:100%;overflow-x:hidden;overflow-y:auto;position:fixed;top:0px;left:-1000px;z-index:102;transition:left 0.2s ease;">
+	<table class="w3-card-4" id="tslide_2">
+	<tr>
+		<td align="right" style="padding-right:20px;"><a style="text-decoration:none;font-size:28px;" href="javascript:var v=fslide(0);">&times;</a></td>
+	</tr>
+            <tr><td style="white-space:nowrap;">
+	        <table class="topcmain_sl" onmousedown="self.location='https://www.socialcreator.com/contactoservicios/?s=118966';">
+	        <tr>
+	        	        <td class="txtmenu_sl" style="padding:0 15px 0 5px;font-size:16px;">CONTACTO SERVICIOS INFORMATICOS</td>	        </tr>
+	        </table>
+        </td></tr>
+    	</table>
+	</div>
+
+
 
 <div id="divmodal" class="modal" style="display:none;" onclick="this.style.display='none';">
   <div id="divmodalcontent" class="modal-content">
@@ -730,13 +830,13 @@ jQuery(function( $ )
 
 
 <div align="center">
-<h3 class="cab"> CANAL+</h3></div>
+<h1 class="cab">CONTACTO</h1><h3 class="cab"> CONTACTO SERVICIOS INFORMATICOS</h3></div>
 
 <script language="javascript">
 function fenviar()
 {
 		var f=document.forms["form1"];
-	if(f.c108266.value.trim()==""){falert("Por favor introduce <span style='font-weight:bold;'>NOMBRE</span>");return false;}else if(f.c108267.value.trim()==""){falert("Por favor introduce <span style='font-weight:bold;'>EMAIL</span>");return false;}	return true;
+		return true;
 }
 
 $(document).ready(function(){
@@ -752,7 +852,7 @@ $(document).ready(function(){
 		
 	    $.ajax({
 	      type: "POST",
-	      url: "https://www.socialcreator.com/dom/form_enviando.php?s=115236",
+	      url: "https://www.socialcreator.com/dom/form_enviando.php?s=118966",
 	      data: dataString,
 	      cache: false,
 	      		  
@@ -770,34 +870,29 @@ $(document).ready(function(){
 
 </script>
 
-<table style="border:0px;width:1%;background-color:#616161;background:linear-gradient(#616161,#757575);" class="somb" align="center">
+<table style="border:0px;width:1%;" class="somb" align="center">
 <tr><td style="padding:30px;">
 <form name="form1" id="form1">
 <div id="dcontactar">
 <table class="tresponsive" align="center">
 <tbody>
 		<tr>
-		<td style="color:#E0E0E0;width:1%;padding-right:5px;" align="right" nowrap>NOMBRE<sup>*</sup></td>		<td><input name="c108266" maxlength="255" type="text" class="inputtext1">
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>NOMBRE</td>		<td><input name="c112680" maxlength="255" type="text" class="inputtext1">
 		</td>
 		</tr>
 		<tr><td colspan="2" style="height:10px;"></td></tr>
 				<tr>
-		<td style="color:#E0E0E0;width:1%;padding-right:5px;" align="right" nowrap>EMAIL<sup>*</sup></td>		<td><input name="c108267" maxlength="255" type="email" class="inputtext2">
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>APELLIDO</td>		<td><input name="c112681" maxlength="255" type="text" class="inputtext1">
 		</td>
 		</tr>
 		<tr><td colspan="2" style="height:10px;"></td></tr>
 				<tr>
-		<td style="color:#E0E0E0;width:1%;padding-right:5px;" align="right" nowrap>MENSAJE</td>		<td><input name="c108268" maxlength="255" type="text" class="inputtext1">
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>CIUDAD</td>		<td><input name="c112682" maxlength="255" type="text" class="inputtext1">
 		</td>
 		</tr>
 		<tr><td colspan="2" style="height:10px;"></td></tr>
 				<tr>
-		<td style="color:#E0E0E0;width:1%;padding-right:5px;" align="right" nowrap>CELULAR</td>		<td><input name="c108269" maxlength="255" type="text" class="inputtext1">
-		</td>
-		</tr>
-		<tr><td colspan="2" style="height:10px;"></td></tr>
-				<tr>
-		<td style="color:#E0E0E0;width:1%;padding-right:5px;" align="right" nowrap>PAIS</td>		<td><input name="c108270" maxlength="255" type="text" class="inputtext1">
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>CELULAR</td>		<td><input name="c112683" maxlength="255" type="text" class="inputtext1">
 		</td>
 		</tr>
 		<tr><td colspan="2" style="height:10px;"></td></tr>
@@ -811,7 +906,7 @@ $(document).ready(function(){
 <br>&nbsp;
 </div>
 
-<div id="enviado" class="msg_ok" style="display:none;color:#E0E0E0;white-space:nowrap;" align="center">
+<div id="enviado" class="msg_ok" style="display:none;color:#;white-space:nowrap;" align="center">
 El formulario se ha enviado correctamente.</div>
 
 </td></tr>
@@ -819,9 +914,7 @@ El formulario se ha enviado correctamente.</div>
 </form>
 <br><br>
 
-        </form>
-      </div>
-    </footer>
-   
-  </body>
+
+
+</body>
 </html>
