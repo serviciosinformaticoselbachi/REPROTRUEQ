@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1,CANAL+
+TM3U
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+" tvg-logo="" group-title="CANALES CRISTIANOS",CANAL+
 https://livefocamundo.com:8081/8670/index.m3u
 
 
@@ -8,7 +8,6 @@ https://livefocamundo.com:8081/8670/index.m3u
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="ENTRETENIMIENTO",Universal
 
 
 #EXTINF:-1,ANTILLAS
@@ -59,22 +58,21 @@ https://archive.org/download/ElMago_201806/el%20mago.mp4
 #EXTINF:-1,CANTINFLAS - A Volar Joven (1947)
 https://ia801506.us.archive.org/2/items/avj_20200328/avj.mp4
 
-#EXTINF:-1,URUGUAY | GOL TV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 
-#EXTINF:-1,CANAL 4
+#EXTINF:-1 tvg-id="" tvg-name="CANAL4" tvg-logo="" group-title="CANALES URUGUAY",CANAL4
+
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 
-#EXTINF:-1,TV CIUDAD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL4" tvg-logo="" group-title="CANALES URUGUAY",TV CIUDAD
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
 
-#EXTINF:-1,CANAL 10
+#EXTINF:-1 tvg-id="" tvg-name="CANAL4" tvg-logo="" group-title="CANALES URUGUAY",CANAL 10
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 
-#EXTINF:-1,CANAL 12
+#EXTINF:-1 tvg-id="" tvg-name="CANAL4" tvg-logo="" group-title="CANALES URUGUAY",CANAL 12
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
-#EXTINF:-1,CANAL U
+#EXTINF:-1 tvg-id="" tvg-name="CANAL4" tvg-logo="" group-title="CANALES URUGUAY",CANAL U
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Canal_U/verimatrix_rotating_FTA/Canal_U.m3u8
 
 #EXTINF:-1,Canal Saúde
