@@ -55,10 +55,23 @@ https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png",Ruidos TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.diario26.com/images/musictop_logo.png",MusicTop
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GqsIi3U.jpg",ANIME PLANET HD
-http://usuarios.club/usuarios/src1/AnimalPlanet/iptv/club.m3u8?PlaylistM3UCL
+
+
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL4" tvg-logo = "" group-title = "CANALES URUGUAY", CANAL4
+
+https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
+
+
+
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL10" tvg-logo = "" group-title = "CANALES URUGUAY", CANAL 10
+https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-name = "CANAL12" tvg-logo = "" group-title = "CANALES URUGUAY", CANAL 12
+https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL26" tvg-logo="" group-title="CANALES ARGENTINOS",CANAL26
