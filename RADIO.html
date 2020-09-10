@@ -1,53 +1,14 @@
-﻿<!DOCTYPE html>
-<html>
-  <head>
-    <title>servicios el bachi</title>
-    <meta charset="utf-8"/>
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Allerta' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/invie.css"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-  </head>
-  <body class="precios">
-    <header id="header" class="header background"> <!-- header -->
-      <div class="contenedor">
-        <figure class="logotipo"> <!-- logotipo -->
-          <img src="images/invie.png" width="186" height="60" alt="Invie logotipo"/>
-        </figure>
-        <span class="burguer-button icon-menu" id="burguer-button"></span>
-        <nav class="menu" id="menu"> <!-- menu -->
-          <ul>
-            <li>
-              <a href="index.html">INICIO</a>
-            </li>
-            <li>
-              <a href="index.html#CONTACTO">CONTACTO</a>
-            </li>
-            <li>
-              <a href="RADIO.html">RADIO</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </header>
-    <section class="tabla">
-      <div class="contenedor">
-        <table>
-          <thead>
-            <tr>
-           <center>
-          	 <title>LaRED 24hs</title>
-    <style type="text/css">
-body {
-  background-color: #000000;
-}
-</style>
-           	 <iframe allowtransparency="yes" border="0" frameborder="NO" height="640px" marginheight="0px" marginwidth="" scrolling="NO" src="https://serviciosinformaticoselbachi.github.io/zonaradio//" width="360px"></iframe>
-           </center>
-            
-            </tr>
-         
-        
-       
-   
-  </body>
-</html>
+<!-- Paste the following into the <head>  -->
+<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
+<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
+
+
+<!-- Paste the following into the <body> -->
+<video id="videojs" class="video-js vjs-fluid vjs-default-skin vjs-big-play-centered" controls preload="auto" autoplay fluid="true" >
+
+  <source src="https://livefocamundo.com:8081/8670/index.m3u8" type="application/x-mpegURL">
+  <p class="vjs-no-js">
+  To view this video please enable JavaScript, and consider upgrading to a web browser that
+  <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+ </p>
+</video>
