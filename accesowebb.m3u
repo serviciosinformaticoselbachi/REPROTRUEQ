@@ -1,16 +1,20 @@
 #EXTM3U
 
-#EXTINF:0,Canal4_URU.m3u8
+#EXTINF:0,Canal4_URU
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
+
 #EXTINF:0,Canal10_URU.m3u8
 https://edge-live14-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:0,Canal10_URU.m3u8
+
+#EXTINF:0,Canal10_URU
+https://edge-live14-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+#EXTINF:0,Canal10_URU
 https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:0,Canal12URU.m3u8
+#EXTINF:0,Canal12URU
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 #EXTINF:0,playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0,index.m3u8
+#EXTINF:0,CANAL+
 https://livefocamundo.com:8081/8670/index.m3u8
 #EXTINF:0,89?token=ShMNUhAJQwkXBFwDDQQHWFRcUFQOVlADCFdWDwBXWw8DB1ZXUFMABFFDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBUlcBF01GR1xYUBsNVFEOAAcGAglcBxUXEwtdEwtHAVFQUAcXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1VVERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1NdAwYNF0Q=
 http://138.201.49.141:25464/megaplayerlat/CrL2DOjLSB/89?token=ShMNUhAJQwkXBFwDDQQHWFRcUFQOVlADCFdWDwBXWw8DB1ZXUFMABFFDSBFGQUdcVgg7Xl0QCw4ISBVMRgYQZlhVRwlBUlcBF01GR1xYUBsNVFEOAAcGAglcBxUXEwtdEwtHAVFQUAcXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwQbG0cNREkQC1hECFsVFwELTUNQEVZBW0MCB1VVERkXVlZCCxBFQBALFGQ9FRUXBhpNVF8WWgwPQwkXFRcRGRdcSmgXAURNQFRXXAFFGw9BUhsdEwhSGz4CXFsPAVBBXFpXREdeFQgHAQYTSBVUWg0LTV5DOkMKBUMJF1NdAwYNF0Q=
