@@ -20,14 +20,12 @@ https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Can
 https://cdnh4.iblups.com/hls/irtp.m3u8
 
 
-https://ul.cdn946.net:8443/hls/o40jqy6rw.m3u8?s=pEF4QXvpGH5RFbCnhCOXPw&e=#EXTINF:0,FOX LIFE
-https://ul.cdn946.net:8443/hls/o40jqy6rw.m3u8?s=pEF4QXvpGH5RFbCnhCOXPw&e=1602541089http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/4733
+#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Life" tvg-logo="" group-title="MEXICO OP2",MX: Fox Life
+http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/5111
 
 
-#EXTINF:0,FO X ACCION
-#EXTINF:0,FOX LIFE2
-https://ul.cdn946.net:8443/hls/771eq67qmpn6yv.m3u8?s=c5GrCCUJLO5hQBrEg-iKgw&e=1602543553http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/4738
-
+#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Action" tvg-logo="" group-title="MEXICO OP2",MX: Fox Action
+http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/5135
 
 
 
