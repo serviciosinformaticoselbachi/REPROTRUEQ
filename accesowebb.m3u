@@ -21,11 +21,13 @@ https://cdnh4.iblups.com/hls/irtp.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: Fox Life" tvg-logo="" group-title="MEXICO OP2",MX: Fox Life
-http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/5111
+http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/67dc23d79f380fed4d42f4af163f7febc602e915/f4ebc6a3183f15d80a7816ae3f0dc67d51989e3c/100117_12.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: Fox Action" tvg-logo="" group-title="MEXICO OP2",MX: Fox Action
-http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/5135
+http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/67dc23d79f380fed4d42f4af163f7febc602e915/686bb15ed0fd779825ae4fb73a33054e91dcbb7f/10032_19.m3u8
+
 
 
 
