@@ -33,4 +33,5 @@ http://emiraytv.ddns.net:25461/BUSCANOSENFACEBOOK/EMIRAYTV/http://ss1.mxl-iptv.s
 http://free13-01.free-live.xyz:2052/free13/188/chunks.m3u8?nimblesessionid=1311671&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMCAxMjoyNDoyMCBQTSZoYXNoX3ZhbHVlPXc0T1V6aTRmNE81dXFHNE14ZHdmRlE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 
-
+#EXTINF: 0, CANAL #EXTINF:-1 tvg-id="" tvg-name="RELIGIOSOS" tvg-logo="" group-title="RELIGIOSOS",R: CANAL LUZ
+http://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
