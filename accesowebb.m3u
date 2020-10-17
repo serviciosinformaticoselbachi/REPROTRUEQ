@@ -22,3 +22,30 @@ https://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="URUGUAY",TV FLORIDA
 http://s5.mexside.net:1935/tvflorida/tvflorida/media_w1402890974_5162.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",akamaihd
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",DKISS
+http://91.126.141.201:1935/live/kiss/chunklist_w894084640.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",TORO TV
+https://live-edge-lon-2.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA",MALAGA TV
+https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTALES",H&H
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/verimatrix_rotating_FTA/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",LA NUEVA 
+https://5b50404ec5e4c.streamlock.net/lanueva/ngrp:lanueva_all/chunklist_w568730017_b630000.m3u8
+
+
