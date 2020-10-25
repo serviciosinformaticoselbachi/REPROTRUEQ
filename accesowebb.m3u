@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:0,Canal4_URU
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
 
@@ -13,6 +15,18 @@ https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_
 
 #EXTINF:0,Canal12URU
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
+
+
+#EXTINF:-1,A&N---
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/c470f74f179bc02ffcbad8624144ddb8a0ef2e56/707282cf6b8d909acba72a05699378a82a8209ce/1001_9.m3u8
+
+
+#EXTINF:-1,FOX ACCION---
+http://ss1.mxl-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/c470f74f179bc02ffcbad8624144ddb8a0ef2e56/628f6dffaf4e9ea682e7bf214eb5c2b1cf6594b7/10032_19.m3u8
+
+#EXTINF:-1,HBO2---
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/c470f74f179bc02ffcbad8624144ddb8a0ef2e56/b4a2eccea150cf9159026325b32c5e696dc4b421/100455_12.m3u8
+
 
 
 
