@@ -1,291 +1,160 @@
 
-<html lang="es">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <meta charset="utf-8">
-<title>CANAL+ URUGUAY</title>
-<meta name="description" content="CANAL+ MAS DE DIOS CANAL CRISTIANO 24HS." />
+<! DOCTYPE html >
+< html >
 
-<!-- Twitter Card data -->
-<meta name="twitter:card" value="summary">
+< cabeza >
 
-<!-- Open Graph data -->
-<meta property="og:title" content="CANAL+" />
-<meta property="og:type" content="B@chi" />
-<meta property="og:url" content="https://canalmasuruguay.com/" />
-<meta property="og:image" content="https://canalmasuruguay.com/images/snapshot2.png" />
-<meta property="og:description" content="SERVICIOS INFORMATICOS" />
-    </head>
-    <body>
+< meta  name = " viewport " content = " width = device-width, user-scalable = no, initial-scale = 1.0, maximun-scale = 1.0, minimun-scale = 1.0 " >
 
 
+< cabeza >
 
-<style>
-* {
-  box-sizing: border-box;
+	< título > Tu Movida </ título >
+    < style  type = " text / css " >
+cuerpo {
+  color de fondo : # 000000 ;
 }
+</ estilo >
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+    < link  href = " css / style.css " rel = " hoja de estilo " type = " text / css " >
+        < link  href = " https://fonts.googleapis.com/css?family=Teko " rel = " hoja de estilo " >
+        < link  href = " https://fonts.googleapis.com/css?family=Kaushan+Script " rel = " hoja de estilo " >
 
-[class*="col-"] {
-  float: left;
-  padding: 15px;
-}
+    < meta  http-equiv = " Content-Type " content = " text / html; charset = UTF-8 " >
+     < script  type = " text / javascript " src = " js / jquery.js " > </ script >
+     < script  type = " text / javascript " src = " js / jquery.jplayer.min.js " > </ script >
+    
+	< script  type = " text / javascript " >
+      
+        $ ( documento ) . listo ( función ( ) {
+            var  stream  =  {
+            título : "Tu Movida" ,
+            mp3 : "http://stream.zeno.fm/gtx2dhzgvbruv"
+        } ,
+        listo  =  falso ;
+          $ ( "# jquery_jplayer_1" ) . jPlayer ( {
+          listo : función  ( evento )  {
+            listo  =  verdadero ;
+                $ ( esto ) . jPlayer ( "setMedia" ,  secuencia ) . jPlayer ( "jugar" ) ;
+  
+            } ,
+            pausa : función ( )  {
+                $ ( esto ) . jPlayer ( "clearMedia" ) ;
+            } ,
+            error : función ( evento )  {
+                if ( listo  &&  evento . jPlayer . error . type  ===  $ . jPlayer . error . URL_NOT_SET )  {
+                    
+                    $ ( esto ) . jPlayer ( "setMedia" ,  secuencia ) . jPlayer ( "jugar" ) ;
+                }
+            } ,
+            swfPath : "/ js" ,
+            suministrado : "mp3" ,
+            precarga : "ninguno" ,
+            wmode : "ventana" ,
+            keyEnabled : verdadero ,
+            cssSelectorAncestor : "" ,
+            cssSelector : {
+            play : "#play" ,
+            pausa : "# pausa " ,
+            } ,
+        } ) ;
+      } ) ;
+    </ script >
+      
 
-html {
-  font-family: "Lucida Sans", sans-serif;
-}
-
-.header {
-  background-color: #9933cc;
-  color: #ffffff;
-  padding: 15px;
-}
-
-.menu ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.menu li {
-  padding: 8px;
-  margin-bottom: 7px;
-  background-color: #33b5e5;
-  color: #ffffff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-
-.menu li:hover {
-  background-color: #0099cc;
-}
-
-.aside {
-  background-color: #33b5e5;
-  padding: 15px;
-  color: #ffffff;
-  text-align: center;
-  font-size: 14px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-
-.footer {
-  background-color: #0099cc;
-  color: #ffffff;
-  text-align: center;
-  font-size: 12px;
-  padding: 15px;
-}
-
-/* For mobile phones: */
-[class*="col-"] {
-  width: 100%;
-}
-
-@media only screen and (min-width: 600px) {
-  /* For tablets: */
-  .col-s-1 {width: 8.33%;}
-  .col-s-2 {width: 16.66%;}
-  .col-s-3 {width: 25%;}
-  .col-s-4 {width: 33.33%;}
-  .col-s-5 {width: 41.66%;}
-  .col-s-6 {width: 50%;}
-  .col-s-7 {width: 58.33%;}
-  .col-s-8 {width: 66.66%;}
-  .col-s-9 {width: 75%;}
-  .col-s-10 {width: 83.33%;}
-  .col-s-11 {width: 91.66%;}
-  .col-s-12 {width: 100%;}
-}
-@media only screen and (min-width: 768px) {
-  /* For desktop: */
-  .col-1 {width: 8.33%;}
-  .col-2 {width: 16.66%;}
-  .col-3 {width: 25%;}
-  .col-4 {width: 33.33%;}
-  .col-5 {width: 41.66%;}
-  .col-6 {width: 50%;}
-  .col-7 {width: 58.33%;}
-  .col-8 {width: 66.66%;}
-  .col-9 {width: 75%;}
-  .col-10 {width: 83.33%;}
-  .col-11 {width: 91.66%;}
-  .col-12 {width: 100%;}
-}
-</style>
-</head>
-<body>
-
-<div class="header">
-  <h1>Canal+</h1>
-</div>
-
-<div class="row">
-  <div class="col-3 col-s-3 menu">
-    <ul>
-      <li><a href="https://canalmasuruguay.com/">EN VIVO</a></li>
-      <li><a href="https://wa.me/59893422446">WhatsApp</a></li>
-       <li><a href="https://canalmasuruguay.com/biblia/01_001.htm">LEA LA BIBCLIA ONLINE</a></li>
-      <li><a href="">CORREO</a></li>
-      <li><a href="">PROGRAMA TU CANAL</a></li>
-      <li><a href="https://www.paypal.com/paypalme/servicioselbachi?locale.x=es_XC">DONAR-TU APOYO AQUI</a>
-    </ul>
-  </div>
-
+</ cabeza >
+< cuerpo >
 
   
-  
-  <div class="col-6 col-s-9">
-    <h1>CANAL EN VIVO</h1>
-    <p><!-- Paste the following into the <head>  -->
-<link href="https://vjs.zencdn.net/7.3.0/video-js.css" rel="stylesheet">
-<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
-
-  <!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '3290960020986065');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=3290960020986065&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->    
-      
-      
-      
-<!-- Paste the following into the <body> -->
-      <!-- Paste the following into the <head>  -->
-<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
-<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
-
-
-<!-- Paste the following into the <body> -->
-<!-- Paste the following into the <head>  -->
-<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
-<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
-
-
-<!-- Paste the following into the <head>  -->
-<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
-<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
-
-
-<!-- Paste the following into the <head>  -->
-<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
-<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
-
-
-<!-- Paste the following into the <head>  -->
-<link href="https://unpkg.com/video.js@7/dist/video-js.min.css" rel="stylesheet">
-<link href="https://unpkg.com/silvermine-videojs-quality-selector@1.1.2/dist/css/quality-selector.css" rel="stylesheet">
-
-
-<!-- Paste the following into the <body> -->
-<video id="videojs" class="video-js vjs-fluid vjs-default-skin vjs-big-play-centered" controls preload="auto" autoplay fluid="true" poster="https://github.com/serviciosinformaticoselbachi/canalmasuruguay/blob/master/Images/prueba-logo.png?raw=true" >
-
-  <source src="https://livefocamundo.com:8081/8670/index.m3u8" type="application/x-mpegURL">
-
-</video>
-
-<script src="https://unpkg.com/video.js@7/dist/video.min.js"></script>
-<script src="https://unpkg.com/silvermine-videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
-<script type="text/javascript">
- var player = videojs('videojs');</script>
+          < div  align = " left " > </ div >
+          < div  align = " left " > </ div >
+          < div  id = " jugador " >
           
+                < Un  href = " javascript :; " ID =" juego " > </ una > < un  href =" javascript :; " ID =" pausa " > </ una >
+                < div  id = " titulo " >
+                < h3 > Radio Tu Movida </ h3 >
+                </ div >
+          		
+                 
+                 < div  id = " song " class = " song " > < marquee  scrollamount = " 4 " behavior = " scroll " direction = " left " > < span  id = " current-track " > COMUNICATE +598 98 952 841 </ span > </ marquesina > </ div >
+
+                
+                < div  id = " animación " >
+                  < div  align = " left " > < img  src = " img / ecualizador.gif " alt = " efec " width = " 220 " height = " 52
+" > </ div >
+                </ div >
+
+                < div  style = " text-align: center; padding-top: 160px; " >
+                 < ul  style = " list-style: none; text-align: center; padding-left: 0; " >
+                 < Li  estilo = " display: inline; " > < un  objetivo =" _blank " href =" https://www.facebook.com/pg/tumovida/ " > < img  src =" iconos-sociales / facebook.png " border = " 0 " /> </ a > </ li >
+                 < Li  estilo =" display: inline; margin-left: 5px; " > < un  objetivo =" _blank " href =" http://www.twitter.com/ " > < img  src =" iconos-sociales / twitter. png " border =" 0 "/> </ a > </ li >
+                 < li  style = " display: inline; margin-left: 5px; " > < a  target = " _blank " href = " https://wa.me/59898952841?text=Escucho%20TUMOVIDA%F0%9F%94%8A " > < img  src =" iconos-sociales / google.png " border =" 0 "/> </ a > </ li >
+                 < Li  estilo =" display: inline; margin-left: 5px; " > < un  objetivo =" _blank " href =" https://www.youtube.com/channel/ " > < img  src =" iconos-sociales / youtube.png " 94911721border =" 0 "/> </ a > </ li >
+                 < Li  estilo =" display: inline; margin-left: 5px; " > < un  objetivo =" _blank " href =" http://www.instagram.com/ " > < img  src =" iconos-sociales / instagram. png " border =" 0 "/> </ a > </ li > </ ul >
+                </ div >
+                
+</ div >
           
+  
+  
+ 		  < div  id = " jquery_jplayer_1 " class = " jp-jplayer " > </ div >
+          
+< script  type = " text / javascript " >
+función  radioTitle ( )
+{
+$ . ajax ( {
+    url : 'current-song.php' ,
+    tipo : 'OBTENER' ,
+    caché : falso ,
+    éxito : función ( resultado )  {
+    $ ( '# pista-actual' ) . html ( resultado ) ;
+    
+    }
+} ) ;
 
-<p align="center">↓↓↓SI NO SE VE EL VIDEO ELIGE TU REPRODUCTOR ABAJO↓↓↓</p>
+}
+
+setTimeout ( function ( ) { radioTitle ( ) ; } ,  2000 ) ;
+setInterval ( function ( ) { radioTitle ( ) ; } ,  10000 ) ;
+</ script >                
+  
+	
+< div  align = " centro " >
+< P > < un  href = " https://play.google.com/store/ " >
+< img  src = " https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/descargar_es.png?raw=true " alt = " GOOGLEPLAY " width = " 30% " height = " auto " margin = " 1% " > </ p >
+</ div >
 
 
 
-<div align="center"><a href="https://livefocamundo.com:8081/8670/index.m3u8" alt="Android HTTP"><img src="https://tv.tvcontrolcp.com:2000/system/theme/Material/images/android.gif" border="0" /></a>
-<a href="https://livefocamundo.com:8081/8670/index.m3u8" alt="Blackberry"><img src="https://tv.tvcontrolcp.com:2000/system/theme/Material/images/blackberry.gif" border="0" /></a>
-<a href="https://livefocamundo.com:8081/8670/index.m3u8" alt="Android RTSP"><img src="https://tv.tvcontrolcp.com:2000/system/theme/Material/images/android.gif" border="0" /></a>
-<a href="https://livefocamundo.com:8081/8670/index.m3u8" alt="Iphone"><img src="https://tv.tvcontrolcp.com:2000/system/theme/Material/images/iphone.gif" border="0" /></a> 
-<a href="https://livefocamundo.com:8081/8670/index.m3u8" alt="VLC"><img src="https://github.com/serviciosinformaticoselbachi/canalmasuruguay/blob/master/Images/vlc%20(1).gif?raw=true" border="0" /></a></div></p>
-  </div>
 
-  <div class="col-3 col-s-20">
-    <div class="aside">
-   
 
-      
-      
-      
-      
-      
-      
-    <h1>NUESTROS PROGRAMAS</h1>
+    < h1 > PROGRAMAS NUESTROS </ h1 >
     
     
-    <!-- Insert to your webpage before the </head> -->
-    <script src="sliderengine/jquery.js"></script>
-    <script src="sliderengine/amazingslider.js"></script>
-    <link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css">
-    <script src="sliderengine/initslider-1.js"></script>
-    <!-- End of head section HTML codes -->
+    <! - Insertar en su página web antes de </head> ->
+    < script  src = " sliderengine / jquery.js " > </ script >
+    < script  src = " sliderengine / amazingslider.js " > </ script >
+    < link  rel = " stylesheet " type = " text / css " href = " sliderengine / amazingslider-1.css " >
+    < script  src = " sliderengine / initslider-1.js " > </ script >
+    <! - Códigos HTML del final de la sección de cabecera ->
      
-    <!-- Insert to your webpage where you want to display the slider -->
-    <div class="amazingslider-wrapper" id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:900px;margin:0px auto 0px;">
-        <div class="amazingslider" id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
-            <ul class="amazingslider-slides" style="display:none;">
-               <li><img src="images/snapshot2.png" />
-                </li>
-                <li><img src="images/JOSE%20AGOSTO.png" />
-                </li>
-                <li><img src="images/snapshot12.png" alt="snapshot12"  title="snapshot12" />
-                </li>
-            </ul>
-        </div>
-    </div>
-    <!-- End of body section HTML codes -->
-
-    
-      <br>
-      
-     
-<div align="center">
-<h1>LA BIBBIA ONLINE</H1>
-<p><a href="https://canalmasuruguay.com/biblia/01_001.htm">
-<img src="https://github.com/serviciosinformaticoselbachi/canalmasuruguay/blob/master/Images/holybible_bible_book_4252.png?raw=true" alt="GOOGLEPLAY" width="40%" height="auto"margin="1%"></p>
-</div>
-      
-
-      
-    </div>
-  </div>
-</div>
+    <! - Insertar en su página web donde desea mostrar el control deslizante ->
+    < div  class = " amazingslider-wrapper " id = " amazingslider-wrapper-1 " style = " pantalla: bloque; posición: relativa; ancho máximo: 900px; margen: 0px auto 0px; " >
+        < div  class = " amazingslider " id = " amazingslider-1 " style = " pantalla: bloque; posición: relativa; margen: 0 automático; " >
+            < ul  class = " amazingslider-slides " style = " display: none; " >
+               < li > < img  src = " images / snapshot2.png " />
+                </ li >
+                < li > < img  src = " images / JOSE% 20AGOSTO.png " />
+                </ li >
+                < li > < img  src = " images / snapshot12.png " alt = " snapshot12 "   title = " snapshot12 " />
+                </ li >
+            </ ul >
+        </ div >
+    </ div >
+    <! - Códigos HTML de la sección final del cuerpo ->
 
 
-  
-<div align="center">
-<p><a href="https://play.google.com/store/apps/details?id=canal.mas5&hl=es/">
-<img src="https://i.ibb.co/8cmRRMs/GOOGLEPLAY.png" alt="GOOGLEPLAY" width="20%" height="auto"margin="1%"></p>
-</div>
 
-  
+</ cuerpo >
 
-  
-</div>
-  </div>
-</div>
-<div class="footer">
-  <p>Copyright © 2020 Canal Mas - Todos los derechos reservados.</p>
-</div>
-
-</body>
-</html>
-
-
+</ html >
