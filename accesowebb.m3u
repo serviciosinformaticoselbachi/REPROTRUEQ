@@ -36,6 +36,8 @@ https://live-edge-lon-2.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live
 #EXTINF:-1,DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
 
+#EXTINF:-1,EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
 
 #EXTINF:-1,CANAL+
 https://livefocamundo.com:8081/8670/index.m3u8
