@@ -1,730 +1,506 @@
-
 #EXTM3U
-#EXTINF:0,T STARTV OP 2 (by Tiri listaswiseplay.com)
-https://rtvelivestream.aka.ts
-#EXTINF:14400,LA 1 HD
+#EXTINF:-1,LA 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:0,LA 2
+#EXTINF:-1,LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:0,ANTENA 3 HD
+
+#EXTINF:-1,ANTENA 3 HD
 http://200.54.19.131:8500/play/a0i8/index.m3u8
-#EXTINF:0,CUATRO
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/cuatro/index.m3u8
-#EXTINF:0,TELECINCO 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/telecinco/index.m3u8
-#EXTINF:0,FDF
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/fdf/index.m3u8
-#EXTINF:0,DIVINITY 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/divinity/index.m3u8
-#EXTINF:0,BE MAD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/be_mad/index.m3u8
-#EXTINF:0,ENERGY
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/energy/index.m3u8
-#EXTINF:0,DKISS
+
+#EXTINF:-1,DKISS
 http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
-#EXTINF:0,TEN
+
+#EXTINF:-1,TEN
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-#EXTINF:0,EL TORO
+
+#EXTINF:-1,EL TORO
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
-#EXTINF:0,CANAL SUR A.
+
+#EXTINF:-1,CANAL SUR A.
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
-#EXTINF:0,MEGA
+
+#EXTINF:-1,MEGA
 http://cdn2.interlibre.net/hls/155/index.m3u8?OPT:http-reconnect=true
-#EXTINF:0,DMax 
+
+#EXTINF:-1,DMax
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
-#EXTINF:0,TV3
+
+#EXTINF:-1,TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
-#EXTINF:0,MTmad 
+
+#EXTINF:-1,MTmad
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?OPT:http-reconnect=true
-#EXTINF:0,RTVC Canarias
+
+#EXTINF:-1,RTVC Canarias
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Canal Extremadura
+
+#EXTINF:-1,Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:0,Telemadrid
+
+#EXTINF:-1,Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Andorra
+
+#EXTINF:-1,Andorra
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Moda Fashion TV
+
+#EXTINF:-1,Moda Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:0,Moda Fasion Dior
-https://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
-#EXTINF:0,#0 HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts
-#EXTINF:0,#0 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/0/index.m3u8%20
-#EXTINF:0,M.ESTRENOSHD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts
-#EXTINF:0,M.ESTRENOS HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/movistar_estrenos/index.m3u8%20
-#EXTINF:0,M. DRAMA HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
-#EXTINF:0,M. DRAMA HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/movistar_drama/index.m3u8%20
-#EXTINF:0,M.COMEDIA HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
-#EXTINF:0,M.COMEDIA HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/movistar_comedia/index.m3u8
-#EXTINF:0,M. ACCIÓN HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
-#EXTINF:0,M ACCION
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/movistar_accion/index.m3u8%20
-#EXTINF:0,M.CineDoc&Roll
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
-#EXTINF:0,M.CineDoc&Roll
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/movistar_cinedocroll/index.m3u8%20%20
-#EXTINF:0,DARK
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/dark/index.m3u8%20
-#EXTINF:0,AXN HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts
-#EXTINF:0,AXN HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/axn/index.m3u8%20%20
-#EXTINF:0,AXN WHITE HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts
-#EXTINF:0,AXN WHITE HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/axn_white/index.m3u8%20
-#EXTINF:0,CALLE 13 HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts
-#EXTINF:0,CALLE 13 HD
-http://miralobien.lookplay.ml/look/calle_13/index.m3u8%20%20
-#EXTINF:0,TCM HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/tcm/index.m3u8%20
-#EXTINF:0,TCM HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts
-#EXTINF:0,FOX HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts
-#EXTINF:0,FOX HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/fox/index.m3u8%20
-#EXTINF:0,AMC HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts
-#EXTINF:0,AMC HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/amc/index.m3u8%20
-#EXTINF:0,HOLLYWOODHD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts
-#EXTINF:0,HOLLYWOODHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/hollywood/index.m3u8
-#EXTINF:0,SYFY HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts
-#EXTINF:0,SYFY
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/syfy/index.m3u8%20%20
-#EXTINF:0,TNT HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts
-#EXTINF:0,TNT HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/tnt/index.m3u8%20
-#EXTINF:0,M. SERIES HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts
-#EXTINF:0,CRIMEN+INVES
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
-#EXTINF:0,COMEDYCENTRALHD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts
-#EXTINF:0,TOROS HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts
-#EXTINF:0,HISTORIA
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts
-#EXTINF:0,HISTORIA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/historia/index.m3u8%20
-#EXTINF:0,NAT GEO HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts
-#EXTINF:0,NAT GEO HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/national_geographic_channel/index.m3u8%20
-#EXTINF:0,NG WILD HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts
-#EXTINF:0,NG WILD HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/national_geographic_wild/index.m3u8
-#EXTINF:0,CANAL COCINA
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts
-#EXTINF:0,CAZAyPESCA HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts
-#EXTINF:0,BLAZE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/blaze/index.m3u8%20
-#EXTINF:0,A&E
+
+#EXTINF:-1,A&E
 http://200.54.19.131:8500/play/a0kt/index.m3u8
-#EXTINF:0,A&E 2
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts
-#EXTINF:0,VIAJAR HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts
-#EXTINF:0,VIAJAR HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/viajar/index.m3u8%20
-#EXTINF:0,MTV ESPAÑA
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
-#EXTINF:0,CANAL ODISEA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/odisea/index.m3u8%20
-#EXTINF:0,DISCOVERY
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/discovery_channel/index.m3u8%20
-#EXTINF:0,CANAL COCINA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/canal_cocina/index.m3u8%20
-#EXTINF:0,CANAL DECASA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml/look/decasa/index.m3u8
-#EXTINF:0,Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
-#EXTINF:0,Pequeradio TV
+
+#EXTINF:-1,Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0,Locomotion TV
+
+#EXTINF:-1,Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0,Baby TV
+
+#EXTINF:-1,Baby TV
 http://200.54.19.131:8500/play/a0kf/index.m3u8
-#EXTINF:0,Boomerang 
+
+#EXTINF:-1,Boomerang
 http://200.54.19.131:8500/play/a0h9/index.m3u8
-#EXTINF:0,Cartoon Network
+
+#EXTINF:-1,Cartoon Network
 http://200.54.19.131:8500/play/a0m1/index.m3u8
-#EXTINF:0,CDiscovery Kids
+
+#EXTINF:-1,CDiscovery Kids
 http://200.54.19.131:8500/play/a0j1/index.m3u8
-#EXTINF:0,CDisney Channel
+
+#EXTINF:-1,CDisney Channel
 http://200.54.19.131:8500/play/a0jr/index.m3u8
-#EXTINF:0,CDisney Junior
+
+#EXTINF:-1,CDisney Junior
 http://200.54.19.131:8500/play/a0g5/index.m3u8
-#EXTINF:0,CDisney Xd
+
+#EXTINF:-1,CDisney Xd
 http://200.54.19.131:8500/play/a0js/index.m3u8
-#EXTINF:0,Tooncast
+
+#EXTINF:-1,Tooncast
 http://200.54.19.131:8500/play/a0l2/index.m3u8
-#EXTINF:0,Nat Geo Kids
+
+#EXTINF:-1,Nat Geo Kids
 http://200.54.19.131:8500/play/a0j3/index.m3u8
-#EXTINF:0,Nick Jr
+
+#EXTINF:-1,Nick Jr
 http://200.54.19.131:8500/play/a0ea/index.m3u8
-#EXTINF:0,Nickelodeon
+
+#EXTINF:-1,Nickelodeon
 http://200.54.19.131:8500/play/a0h8/index.m3u8
-#EXTINF:0,boomerang 2 web
-http://mitv.televall.online/boomerang.php
-#EXTINF:0,Cartoon Network 2 web
-http://mitv.televall.online/cartoon.php
-#EXTINF:0,tooncast web
-http://mitv.televall.online/tooncast.php
-#EXTINF:0,nick web
-http://mitv.televall.online/nick.php
-#EXTINF:0,DISNEY CH HD web
-http://mitv.televall.online/disneych.php
-#EXTINF:0,DISNEY+ web
+
+#EXTINF:-1,DISNEY+ web
 https://revolucionariostv.eu/MultiTV/disney+.php
-#EXTINF:0,#VAMOSHD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
-#EXTINF:0,LA LIGA HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts%20%20
-#EXTINF:0,LA LIGA HD op2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/movistar_laliga/index.m3u8%20
-#EXTINF:0,LA LIGA HD op3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/movistar_laliga/index.m3u8%20
-#EXTINF:0,LA LIGA web
-https://revolucionariostv.eu/MultiTV/canalcocina.php%20
-#EXTINF:0,LA LIGA web op2
+
+#EXTINF:-1,LA LIGA web op2
 https://revolucionariostv.eu/directo1.php
-#EXTINF:0,LALIGATV BAR
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
-#EXTINF:0,M. DEPORTESHD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts
-#EXTINF:0,M. DEPORTES HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/movistar_deportes/index.m3u8%20%20
-#EXTINF:0,M.FORMULA1HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts
-#EXTINF:0,EUROSPORT1HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts
-#EXTINF:0,EUROSPORT 2
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts
-#EXTINF:0,BEIN LCAMPEONES HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts
-#EXTINF:0,M.LCAMPEONES
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts
-#EXTINF:0,M.LCAMPEONES op2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/movistar_liga_de_campeones/index.m3u8%20
-#EXTINF:0,M.LCAMPEONES op3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/movistar_liga_de_campeones/index.m3u8%20
-#EXTINF:0,GOL
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts
-#EXTINF:0,M. GOLF HD
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts
-#EXTINF:0,Sky Bundesliga HD 1
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2.ts
-#EXTINF:0,Sky Bundesliga HD 2
-#EXTVLCOPT:http-user-agent=ester345
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts
-#EXTINF:0,RealMadrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:0,Sky Sport MotoGP Italia
-http://freestreams-live1.com/sky-sport-motogp-italias/
-#EXTINF:0,Sky Sports MotoGP
-http://freestreams-live1.com/sky-spomotogpz/%20
-#EXTINF:0,BT Sport 2 MotoGP eventos
+
+#EXTINF:-1,BT Sport 2 MotoGP eventos
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:0,BT Sport 2 MotoGP eventos
-http://freestreams-live1.com/btspo-2-uk/%20
-#EXTINF:0,DAZN esp
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
-http://miralobien.lookplay.ml/look/dazn_1/index.m3u8
-#EXTINF:0,Dazn 1 DE
-http://kineskop.tv/?page=watch&ch=1111
-#EXTINF:0,Dazn 2 DE
-http://kineskop.tv/?page=watch&ch=1112
-#EXTINF:0,SETANTA
-http://kineskop.tv/?page=watch&ch=513
-#EXTINF:0,SETANTA PLUS
-http://kineskop.tv/?page=watch&ch=885
-#EXTINF:0,Sky Sport 1 HD DE
-http://kineskop.tv/?page=watch&ch=793
-#EXTINF:0,Sportschau HD
+
+#EXTINF:-1,Sportschau HD
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-#EXTINF:0,Sportschau HD2
-http://wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8
-#EXTINF:0,Sport Italia
+
+#EXTINF:-1,Sport Italia
 https://www.mytivu.it/Application/Channels/SI.php
-#EXTINF:0,Sport Italia 24 LIVE
+
+#EXTINF:-1,Sport Italia 24 LIVE
 https://www.mytivu.it/Application/Channels/SILive24.php
-#EXTINF:0,Sport Italia CALCIO
+
+#EXTINF:-1,Sport Italia CALCIO
 https://www.mytivu.it/Application/Channels/SISoloCalcio.php
-#EXTINF:0,Sport Italia MOTORI
+
+#EXTINF:-1,Sport Italia MOTORI
 https://www.mytivu.it/Application/Channels/SIMotori.php
-#EXTINF:0,ESPN
+
+#EXTINF:-1,ESPN
 http://200.54.19.131:8500/play/a0m5/index.m3u8
-#EXTINF:0,ESPN
-http://digitalxpress2.gcdn.co/live1/espn/index.m3u8
-#EXTINF:0,ESPN2
+
+#EXTINF:-1,ESPN2
 http://200.54.19.131:8500/play/a0m4/index.m3u8
-#EXTINF:0,ESPN2
+
+#EXTINF:-1,ESPN2
 http://200.54.19.131:8500/play/a0m6/index.m3u8
-#EXTINF:0,ESPN 3
+
+#EXTINF:-1,ESPN 3
 http://200.54.19.131:8500/play/a0gi/index.m3u8
-#EXTINF:0,ESPN EXTRA
-http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
-#EXTINF:0,BT Sport 1
+
+#EXTINF:-1,BT Sport 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:0,BEIN SPORT HD  1
+
+#EXTINF:-1,BEIN SPORT HD  1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:0,BEIN SPORT HD  2
+
+#EXTINF:-1,BEIN SPORT HD  2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:0,NBA TV
+
+#EXTINF:-1,NBA TV
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:0,FOX Sport HD 1
+
+#EXTINF:-1,FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?OPT:http-reconnect=true
-#EXTINF:0,FOX SPORT HD 1
+
+#EXTINF:-1,FOX SPORT HD 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:0,FOX SPORT HD 2
+
+#EXTINF:-1,FOX SPORT HD 2
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:0,FOX SPORT HD 3
+
+#EXTINF:-1,FOX SPORT HD 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:0,Fox Sport News
+
+#EXTINF:-1,Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0,Fox Sports Racing
+
+#EXTINF:-1,Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0,Premiere Football HD 1
+
+#EXTINF:-1,Premiere Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0,Premiere Football HD 2
+
+#EXTINF:-1,Premiere Football HD 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0,Premiere Football HD 3
+
+#EXTINF:-1,Premiere Football HD 3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0,Premiere Football HD 4
+
+#EXTINF:-1,Premiere Football HD 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0,Premiere Football HD 5
+
+#EXTINF:-1,Premiere Football HD 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:0,EDGE SPORT HD
+
+#EXTINF:-1,EDGE SPORT HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0,EDGE Sport HD
+
+#EXTINF:-1,EDGE Sport HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:0,Eleven Sport 1 
-http://77.54.145.209:81/play/a00a%20
-#EXTINF:0,Eleven Sport 2 
-http://77.54.145.209:81/play/a03d%20
-#EXTINF:0,Eleven Sports 3
-http://77.54.145.209:81/play/a00m
-#EXTINF:0,Eleven Sports 4
-http://77.54.145.209:81/play/a01a
-#EXTINF:0,FLOW SPORTS
+
+#EXTINF:-1,FLOW SPORTS
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:0,Sport BOXING HD
+
+#EXTINF:-1,Sport BOXING HD
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
-#EXTINF:0,CombatGo HD
+
+#EXTINF:-1,CombatGo HD
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
-#EXTINF:0,FIGHT Sports
+
+#EXTINF:-1,FIGHT Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?OPT:http-reconnect=true
-#EXTINF:0,FIGHT TIME
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
-#EXTINF:0,FightBox
+
+#EXTINF:-1,FightBox
 http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
-#EXTINF:0,UFC TV
+
+#EXTINF:-1,UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
-#EXTINF:0,MotorTrend
+
+#EXTINF:-1,MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:0,MS Motor TV
-https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
-#EXTINF:0,Free Sports TV
+
+#EXTINF:-1,Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:0,Horizon Sports
+
+#EXTINF:-1,Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:0,FC Bayern Munchen TV
+
+#EXTINF:-1,FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-#EXTINF:0,Atlanta United Fan TV
+
+#EXTINF:-1,Atlanta United Fan TV
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
-#EXTINF:0,Rugby World TV
+
+#EXTINF:-1,Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:0,Rugby Men's Sevens
+
+#EXTINF:-1,Rugby Men's Sevens
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:0,Rugby Women's Sevens
+
+#EXTINF:-1,Rugby Women's Sevens
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:0,SPORTS MAX
+
+#EXTINF:-1,SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:0,Claro Sports
+
+#EXTINF:-1,Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-#EXTINF:0,Bolivia Deportes
-http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
-#EXTINF:0,Viasat Sport
+
+#EXTINF:-1,Viasat Sport
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
-#EXTINF:0,MLB Network
+
+#EXTINF:-1,MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0,MLS
+
+#EXTINF:-1,MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:0,NASCAR Live Event
-http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
-#EXTINF:0,Dubai Sports 1
+
+#EXTINF:-1,Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0,Abu Dabi Sports 2
+
+#EXTINF:-1,Abu Dabi Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,Abu Dabi Sports 3
+
+#EXTINF:-1,Abu Dabi Sports 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,Abu Dabi Sports 4
+
+#EXTINF:-1,Abu Dabi Sports 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,Dubai Racing
+
+#EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:0,Dubai Racing 2 
+
+#EXTINF:-1,Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:0,ATG TV
+
+#EXTINF:-1,ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:0,Red Bull TV
+
+#EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Olympic Channel 2
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8?OPT:http-reconnect=true
-#EXTINF:0,DailySport 1
-https://dailysport.site/c1.php?OPT:adaptive=1
-#EXTINF:0,DailySport 2
-https://dailysport.site/c2.php?OPT:adaptive=1
-#EXTINF:0,DailySport 3
-https://dailysport.site/c3.php?OPT:adaptive=1
-#EXTINF:0,DailySport 4
-https://dailysport.site/c4.php?OPT:adaptive=1
-#EXTINF:0,DailySport 5
-https://dailysport.site/c5.php?OPT:adaptive=1
-#EXTINF:0,DailySport 6
-https://dailysport.site/c6.php?OPT:adaptive=1
-#EXTINF:0,DailySport 7
-https://dailysport.site/c7.php?OPT:adaptive=1
-#EXTINF:0,DailySport 8
-https://dailysport.site/c8.php?OPT:adaptive=1
-#EXTINF:0,DailySport 9
-https://dailysport.site/c9.php?OPT:adaptive=1
-#EXTINF:0,DailySport 10
-https://dailysport.site/c10.php?OPT:adaptive=1
-#EXTINF:0,DailySport 11
-https://dailysport.site/c11.php?OPT:adaptive=1
-#EXTINF:0,DailySport 12
-https://dailysport.site/c12.php?OPT:adaptive=1
-#EXTINF:0,DailySport 13
-https://dailysport.site/c13.php?OPT:adaptive=1
-#EXTINF:0,DailySport 14
-https://dailysport.site/c14.php?OPT:adaptive=1
-#EXTINF:0,DailySport 15
-https://dailysport.site/c15.php?OPT:adaptive=1
-#EXTINF:0,DailySport 16
-https://dailysport.site/c16.php?OPT:adaptive=1
-#EXTINF:0,DailySport 17
-https://dailysport.site/c17.php?OPT:adaptive=1
-#EXTINF:0,DailySport 18
-https://dailysport.cloud/c18.php?OPT:adaptive=1
-#EXTINF:0,DailySport 19
-https://dailysport.site/c19.php?OPT:adaptive=1
-#EXTINF:0,DailySport 21
-https://dailysport.site/c21.php?OPT:adaptive=1
-#EXTINF:0,DailySport 22
-https://dailysport.site/c22.php?OPT:adaptive=1
-#EXTINF:0,DailySport 23
-https://dailysport.site/c23.php?OPT:adaptive=1
-#EXTINF:0,DailySport 24
-https://dailysport.site/c24.php?OPT:adaptive=1
-#EXTINF:0,DailySport 25
-https://dailysport.site/c15.php?OPT:adaptive=1
-#EXTINF:0,DailySport 26
-https://dailysport.site/c26.php?OPT:adaptive=1
-#EXTINF:0,DailySport 27
-https://dailysport.site/c27.php?OPT:adaptive=1
-#EXTINF:0,DailySport 28 
-https://dailysport.site/c28.php?OPT:adaptive=1
-#EXTINF:0,DailySport 29
-https://dailysport.site/c29.php?OPT:adaptive=1
-#EXTINF:0,DailySport 30
-https://dailysport.site/c30.php?OPT:adaptive=1
-#EXTINF:0,DailySport 31
-https://dailysport.site/c31.php?OPT:adaptive=1
-#EXTINF:0,DailySport 32
-https://dailysport.site/c32.php?OPT:adaptive=1
-#EXTINF:0,DailySport 33 
-https://dailysport.site/c33.php?OPT:adaptive=1
-#EXTINF:0,DailySport 34
-https://dailysport.site/c34.php?OPT:adaptive=1
-#EXTINF:0,revolucionariostv c1 
-https://revolucionariostv.eu/elitegol/Repros/c1.php
-#EXTINF:0,revolucionariostv c2
-https://revolucionariostv.eu/elitegol/Repros/c2.php
-#EXTINF:0,revolucionariostv c3
-https://revolucionariostv.eu/elitegol/Repros/c3.php
-#EXTINF:0,revolucionariostv c4
+
+#EXTINF:-1,revolucionariostv c4
 https://revolucionariostv.eu/elitegol/Repros/c4.php
-#EXTINF:0,revolucionariostv c5
+
+#EXTINF:-1,revolucionariostv c5
 https://revolucionariostv.eu/elitegol/Repros/c5.php
-#EXTINF:0,revolucionariostv c6
+
+#EXTINF:-1,revolucionariostv c6
 https://revolucionariostv.eu/elitegol/Repros/c6.php
-#EXTINF:0,revolucionariostv c7
-https://revolucionariostv.eu/elitegol/Repros/c7.php
-#EXTINF:0,Pluto TV Cine
+
+#EXTINF:-1,Pluto TV Cine
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine
+
+#EXTINF:-1,Pluto TV Cine
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Acción
+
+#EXTINF:-1,Pluto TV Cine Acción
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Comedia
+
+#EXTINF:-1,Pluto TV Cine Comedia
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Sci-Fi
+
+#EXTINF:-1,Pluto TV Sci-Fi
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Drama
+
+#EXTINF:-1,Pluto TV Cine Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Romántico
+
+#EXTINF:-1,Pluto TV Cine Romántico
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Thrillers
+
+#EXTINF:-1,Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Terror (Latino)
+
+#EXTINF:-1,Pluto TV Cine Terror (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Terror (Latino)
+
+#EXTINF:-1,Pluto TV Cine Terror (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Estelar (Latino)
+
+#EXTINF:-1,Pluto TV Cine Estelar (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Accion (Latino)
+
+#EXTINF:-1,Pluto TV Cine Accion (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Comedia (Latino)
+
+#EXTINF:-1,Pluto TV Cine Comedia (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cine Drama (Latino)
+
+#EXTINF:-1,Pluto TV Cine Drama (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Series Retro (Latino)
+
+#EXTINF:-1,Pluto TV Series Retro (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,pluto tv navidad
+
+#EXTINF:-1,pluto tv navidad
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,mtv Originals
+
+#EXTINF:-1,mtv Originals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,trol
+
+#EXTINF:-1,trol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,made
+
+#EXTINF:-1,made
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,MTV Catfish TV Show
+
+#EXTINF:-1,MTV Catfish TV Show
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,MTV Cribs
+
+#EXTINF:-1,MTV Cribs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,mtv hits navidad
+
+#EXTINF:-1,mtv hits navidad
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Comedia made in Spain
+
+#EXTINF:-1,Comedia made in Spain
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Real Life
+
+#EXTINF:-1,Real Life
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f8ccd2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Realities 
+
+#EXTINF:-1,Pluto TV Realities
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Series
+
+#EXTINF:-1,Pluto TV Series
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,La Chica Invisible
+
+#EXTINF:-1,La Chica Invisible
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Cocina
+
+#EXTINF:-1,Pluto TV Cocina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Natura
+
+#EXTINF:-1,Pluto TV Natura
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Mundo Real
+
+#EXTINF:-1,Pluto TV Mundo Real
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Vaya semanita
+
+#EXTINF:-1,Vaya semanita
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,People are Awesome
+
+#EXTINF:-1,People are Awesome
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Bob Esponja
+
+#EXTINF:-1,Bob Esponja
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,MTV Embarazada a los 16
+
+#EXTINF:-1,MTV Embarazada a los 16
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Junior
+
+#EXTINF:-1,Pluto TV Junior
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Kids
+
+#EXTINF:-1,Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Animakids
+
+#EXTINF:-1,Pluto TV Animakids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,kids navidad es
+
+#EXTINF:-1,kids navidad es
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c54853000797a5e6/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pluto TV Kids Halloween
+
+#EXTINF:-1,Pluto TV Kids Halloween
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Big Time Rush
+
+#EXTINF:-1,Big Time Rush
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Pistas de Blue
+
+#EXTINF:-1,Pistas de Blue
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,Go Diego Go!
+
+#EXTINF:-1,Go Diego Go!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:0,ALQUILER La Maldicion de las brujas 
-https://uqload.com/embed-itam0w0tzpes.html%20
-#EXTINF:0,ALQUILER El retorno de las brujas  
-https://uqload.com/embed-ncsyn77j6ndr.html%20
-#EXTINF:0,ALQUILER Dragones y Mazmorras  
-https://ok.ru/video/254086089350/
-#EXTINF:0,HqM Spanish
+
+#EXTINF:-1,HqM Spanish
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:0,HqM Latin
+
+#EXTINF:-1,HqM Latin
 https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-#EXTINF:0,HqM Rock
+
+#EXTINF:-1,HqM Rock
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:0,HqM Pop
+
+#EXTINF:-1,HqM Pop
 https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:0,HqM Hip Hop
+
+#EXTINF:-1,HqM Hip Hop
 https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:0,HqM Dance
+
+#EXTINF:-1,HqM Dance
 https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-#EXTINF:0,HqM Classic
+
+#EXTINF:-1,HqM Classic
 https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-#EXTINF:0,HqM Chill Out
+
+#EXTINF:-1,HqM Chill Out
 https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:0,HqM Blues
+
+#EXTINF:-1,HqM Blues
 https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:0,HqM Baladas
+
+#EXTINF:-1,HqM Baladas
 https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:0,Telemusica
+
+#EXTINF:-1,Telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8?OPT:http-reconnect=true
-#EXTINF:0,MUSICA TV LATINA
+
+#EXTINF:-1,MUSICA TV LATINA
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
-#EXTINF:0,EuroLatina TV
+
+#EXTINF:-1,EuroLatina TV
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?OPT:http-reconnect=true
-#EXTINF:0,TOP Latino
+
+#EXTINF:-1,TOP Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0,Music Top esp
+
+#EXTINF:-1,Music Top esp
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Music Top Arg
+
+#EXTINF:-1,Music Top Arg
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,MTV Mix
+
+#EXTINF:-1,MTV Mix
 http://root:@81.30.182.82:18092/hls/live.m3u8?OPT:http-reconnect=true
-#EXTINF:0,V2Beat TV EN
+
+#EXTINF:-1,V2Beat TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,M6 Music
-http://cdnv.cdn-for-all.com/iptv/ch1471?code=460130355728146&key=24155
-#EXTINF:0,MOOZ
+
+#EXTINF:-1,MOOZ
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/167.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ Dance
+
+#EXTINF:-1,MOOZ Dance
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/167.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ Hits
+
+#EXTINF:-1,MOOZ Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/167.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,RUTV
+
+#EXTINF:-1,RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?OPT:http-reconnect=true
-#EXTINF:0,SONG TV HD (Russia)
+
+#EXTINF:-1,SONG TV HD (Russia)
 http://songtvru.ru:8060/hd/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,http://91.234.24.5:8080/m1/mono.m3u8?OPT:http-reconnect=true
-#EXTINF:0,http://live.m2.tv/hls3/stream.m3u8?OPT:http-reconnect=true
-#EXTINF:0,DJing Live
+
+#EXTINF:-1,DJing Live
 https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
-#EXTINF:0,DJing Hits
+
+#EXTINF:-1,DJing Hits
 https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
-#EXTINF:0,DJing Dancefloor
+
+#EXTINF:-1,DJing Dancefloor
 https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
-#EXTINF:0,DJing Underground
+
+#EXTINF:-1,DJing Underground
 https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
-#EXTINF:0,30A Music
+
+#EXTINF:-1,30A Music
 http://30a-tv.com/music.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Gospel Music 4U
+
+#EXTINF:-1,Gospel Music 4U
 https://ch.iptvmate.net/5e9338a3b3bdf92f6965c645.m3u8
-#EXTINF:0,1 Music Channel
+
+#EXTINF:-1,1 Music Channel
 https://ch.iptvmate.net/5e9331579e40b826c37faf32.m3u8
-#EXTINF:0,DanceStar TV
+
+#EXTINF:-1,DanceStar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Ditty TV
+
+#EXTINF:-1,Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Hit Music Channel
+
+#EXTINF:-1,Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8?OPT:http-reconnect=true
-#EXTINF:0,MUSIC TV
+
+#EXTINF:-1,MUSIC TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:0,Remember The '80s
+
+#EXTINF:-1,Remember The '80s
 http://ott-linear-channels.stingray.com/hls/index/128.m3u8
-#EXTINF:0,Greatest Hits
+
+#EXTINF:-1,Greatest Hits
 http://ott-linear-channels.stingray.com/hls/index/133.m3u8
-#EXTINF:0,Retro Music
+
+#EXTINF:-1,Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,RETRO 80
-https://eurodance.catcast.tv/content/38204/index.m3u8
-#EXTINF:0,Retro Plus TV
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-
-
-
-
 
 #EXTGRP:MEGA
 https://www.youtube.com/watch?v=kNQV7EN1iK8
