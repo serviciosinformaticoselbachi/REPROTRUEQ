@@ -535,7 +535,21 @@ http://181.114.232.66:8000/play/a011/index.m3u8
 
 #EXTINF:-1,0039 / WARNER SD
 http://181.114.232.66:8000/play/a012/index.m3u8
-
+#EXTINF:0,CANAL 4
+#EXTGRP:URUGUAY
+https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
+#EXTINF:0,TV NACINAL - TNU
+#EXTGRP:URUGUAY
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
+#EXTINF:0,TV CIUDAD
+#EXTGRP:URUGUAY
+https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
+#EXTINF:0,CANAL 10
+#EXTGRP:URUGUAY
+https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+#EXTINF:0,CANAL 12
+#EXTGRP:URUGUAY
+https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
 
 
