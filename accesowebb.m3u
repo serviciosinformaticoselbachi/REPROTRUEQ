@@ -101,6 +101,9 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1,Sportschau HD
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 
+#EXTINF:-1,Sport Italia
+https://www.mytivu.it/Application/Channels/SI.php
+
 #EXTINF:-1,Sport Italia 24 LIVE
 https://www.mytivu.it/Application/Channels/SILive24.php
 
@@ -170,6 +173,9 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:-1,FLOW SPORTS
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
+#EXTINF:-1,Sport BOXING HD
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
+
 #EXTINF:-1,CombatGo HD
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
 
@@ -217,6 +223,27 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 
 #EXTINF:-1,MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,Abu Dabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -464,169 +491,45 @@ http://ott-linear-channels.stingray.com/hls/index/128.m3u8
 #EXTINF:-1,Greatest Hits
 http://ott-linear-channels.stingray.com/hls/index/133.m3u8
 
-#EXTINF:-1,Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,0001 / RED TV SD
-http://181.114.232.66:8000/play/a001/index.m3u8
-
-#EXTINF:-1,0003 / TVN HD TV CABLE SUR
-http://181.114.232.66:8000/play/a003/index.m3u8
-
-#EXTINF:-1,0004 / CHV HD TV CABLE SUR
-http://181.114.232.66:8000/play/a004/index.m3u8
-
-#EXTINF:-1,0005 / C13 HD TV CABLE SUR
-http://181.114.232.66:8000/play/a005/index.m3u8
-
-#EXTINF:-1,0006 / INFO TV SUR HD
-http://181.114.232.66:8000/play/a006/index.m3u8
-
-#EXTINF:-1,0009 / HBO HD
-http://181.114.232.66:8000/play/a009/index.m3u8
-
-#EXTINF:-1,0013 / FXM HD
-http://181.114.232.66:8000/play/a00d/index.m3u8
-
-#EXTINF:-1,0015 / FX HD
-http://181.114.232.66:8000/play/a00f/index.m3u8
-
-#EXTINF:-1,0017 / UNIVERSAL HD
-http://181.114.232.66:8000/play/a00h/index.m3u8
-
-#EXTINF:-1,0018 / FOX SPORT CH HD
-http://181.114.232.66:8000/play/a00i/index.m3u8
-
-#EXTINF:-1,0020 / FOX SP3 HD
-http://181.114.232.66:8000/play/a00j/index.m3u8
-
-#EXTINF:-1, 0021 / AZ CORAZON HD
-http://181.114.232.66:8000/play/a00k/index.m3u8
-
-#EXTINF:-1,0023 / DISCOVERY TURBO
+#EXTINF:-1,http://181.114.232.66:8000/play/a00l/index. m3u8
+http://181.114.232.66:8000/play/a00l/index.%20m3u8
 http://181.114.232.66:8000/play/a00m/index.m3u8
 
-#EXTINF:-1,0025 / TLN HD
-http://181.114.232.66:8000/play/a00o/index.m3u8
+#EXTINF:-1,0043 / SPACE SD
+http://181.114.232.66:8000/play/a016/index.m3u8
 
-#EXTINF:-1,0027 / TELECANAL HD
-http://181.114.232.66:8000/play/a00q/index.m3u8
+#EXTINF:-1,MONTEMORIAH TV
+http://intelintec.com.ar:9090/hls/canal9pinamar.m3u8
 
-#EXTINF:-1,0030 / NAT GEO KIDS HD
-http://181.114.232.66:8000/play/a00t/index.m3u8
-
-#EXTINF:-1,0032 / DISCOVERY KIDS SD
-http://181.114.232.66:8000/play/a00v/index.m3u8
-
-#EXTINF:-1,0034 / CARTOON SD
-http://181.114.232.66:8000/play/a00x/index.m3u8
-
-#EXTINF:-1,0035 / DINEY JR SD
-http://181.114.232.66:8000/play/a00y/index.m3u8
-
-#EXTINF:-1,0036 / TOONCAST SD
-http://181.114.232.66:8000/play/a00z/index.m3u8
-
-#EXTINF:-1, 0037 / BOOM SD
-http://181.114.232.66:8000/play/a010/index.m3u8
-
-#EXTINF:-1,0038 / TCM SD
-http://181.114.232.66:8000/play/a011/index.m3u8
-
-#EXTINF:-1,0039 / WARNER SD
-http://181.114.232.66:8000/play/a012/index.m3u8
-#EXTINF:0,CANAL 4
-#EXTGRP:URUGUAY
+#EXTINF:-1,Canal4_URU
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
-#EXTINF:0,TV NACINAL - TNU
-#EXTGRP:URUGUAY
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/verimatrix_rotating_FTA/TV_Nacional_Uy.m3u8
-#EXTINF:0,TV CIUDAD
-#EXTGRP:URUGUAY
-https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/verimatrix_rotating_FTA/Teve_Ciudad.m3u8
-#EXTINF:0,CANAL 10
-#EXTGRP:URUGUAY
-https://edge1-ccast-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:0,CANAL 12
-#EXTGRP:URUGUAY
+
+#EXTINF:-1,Canal10_URU.m3u8
+https://edge-live14-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+
+#EXTINF:-1,Canal12URU
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
+#EXTINF:-1,ESPN
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
 
+#EXTINF:-1,TV  PERU
+https://cdnh4.iblups.com/hls/irtp.m3u8
 
+#EXTINF:-1,TV FLORIDA
+http://s5.mexside.net:1935/tvflorida/tvflorida/media_w1402890974_5162.m3u8
 
-#EXTINF : -1,0001 / RED TV SD
-http://181.114.232.66:8000/play/a001/index.m3u8
-#EXTINF : -1,0002 / MEGA HD TV CABLE SUR
-http://181.114.232.66 : 8000 / play / a002 / index.m3u8
-#EXTINF : -1,0003 / TVN HD TV CABLE SUR
-http://181.114.232.66:8000/play/a003/index.m3u8
-#EXTINF : -1,0004 / CHV HD TV CABLE SUR
-http://181.114.232.66:8000/play/a004/index.m3u8
-#EXTINF : -1,0005 / C13 HD TV CABLE SUR
-http://181.114.232.66:8000/play/a005/index.m3u8
-#EXTINF : -1,0006 / INFO TV SUR HD
-http://181.114.232.66:8000/play/a006/index.m3u8
-#EXTINF : -1,0008 / JNT TV HD
-http://181.114.232.66:8000/ play / a008 / index.m3u8
-#EXTINF : -1,0009 / HBO HD
-http://181.114.232.66:8000/play/a009/index.m3u8
-#EXTINF : -1,0010 / CINECANAL HD
-http://181.114.232.66:8000/play/a00a /index.m3u8
-#EXTINF : -1,0013 / FXM HD
-http://181.114.232.66:8000/play/a00d/index.m3u8
-#EXTINF : -1,0014 / FOX LIFE HD
-http://181.114.232.66: 8000 / play / a00e / index.m3u8
-#EXTINF : -1,0015 / FX HD
-http://181.114.232.66:8000/play/a00f/index.m3u8
-#EXTINF : -1,0016 / SYFY HD
-http: // 181.114.232.66:8000/play/a00g/index.m3u8
-#EXTINF : -1,0017 / UNIVERSAL HD
-http://181.114.232.66:8000/play/a00h/index.m3u8
-#EXTINF : -1,0018 / FOX SPORT CH HD
-http://181.114.232.66:8000/play/a00i/index.m3u8
-#EXTINF : -1,0020 / FOX SP3 HD
-http://181.114.232.66:8000/play/a00j/index.m3u8
-#EXTINF : -1 , 0021 / AZ CORAZON HD
-http://181.114.232.66:8000/play/a00k/index.m3u8
-#EXTINF : -1,0022 / AZ CLIC HD
-http://181.114.232.66:8000/play/a00l/index. m3u8
-#EXTINF : -1,0023 / DISCOVERY TURBO
-http://181.114.232.66:8000/play/a00m/index.m3u8
-#EXTINF : -1,0024 / AZ MUNDO HD
-http://181.114.232.66:8000/play /a00n/index.m3u8
-#EXTINF : -1,0025 / TLN HD
-http://181.114.232.66:8000/play/a00o/index.m3u8
-#EXTINF : -1,0026 / AZ CINEMA HD
-http: //181.114. 232.66: 8000 / play / a00p / index.m3u8
-#EXTINF : -1,0027 / TELECANAL HD
-http://181.114.232.66:8000/play/a00q/index.m3u8
-#EXTINF : -1,0029 / TV EDUCA HD
-http://181.114.232.66:8000/play/ a00s / index.m3u8
-#EXTINF : -1,0030 / NAT GEO KIDS HD
-http://181.114.232.66:8000/play/a00t/index.m3u8
-#EXTINF : -1,0031 / DISNEY SD
-http: //181.114. 232.66: 8000 / play / a00u / index.m3u8
-#EXTINF : -1,0032 / DISCOVERY KIDS SD
-http://181.114.232.66:8000/play/a00v/index.m3u8
-#EXTINF : -1,0033 / DISNEY 😆
-http: //181.114.232.66:8000/play/a00w/index.m3u8
-#EXTINF : -1,0034 / CARTOON SD
-http://181.114.232.66:8000/play/a00x/index.m3u8
-#EXTINF : -1,0035 / DINEY JR SD
-http://181.114.232.66:8000/play/a00y/index.m3u8
-#EXTINF : -1,0036 / TOONCAST SD
-http://181.114.232.66:8000/play/a00z/index.m3u8
-#EXTINF : -1, 0037 / BOOM SD
-http://181.114.232.66:8000/play/a010/index.m3u8
-#EXTINF : -1,0038 / TCM SD
-http://181.114.232.66:8000/play/a011/index.m3u8
-#EXTINF : -1,0039 / WARNER SD
-http://181.114.232.66:8000/play/a012/index.m3u8
-#EXTINF : -1,0040 / AXN SD
-http://181.114.232.66:8000/play/a013/index .m3u8
-#EXTINF : -1,0041 / TNT SERIES SD
-http://181.114.232.66:8000/play/a014/index.m3u8
-#EXTINF : -1,0042 / TNT SD
-http://181.114.232.66:8000/ play / a015 / index.m3u8
-#EXTINF: -1,0043 / SPACE SD
-http://181.114.232.66:8000/play/a016/index.m3u8
+#EXTINF:-1,akamaihd
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
+#EXTINF:-1,DKISS
+http://91.126.141.201:1935/live/kiss/chunklist_w894084640.m3u8
+
+#EXTINF:-1,DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1,EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
+
+#EXTINF:-1,CANAL+
+https://livefocamundo.com:8081/8670/index.m3u8
