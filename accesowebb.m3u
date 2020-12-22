@@ -504,7 +504,82 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTGRP:MEGA
 https://www.youtube.com/watch?v=kNQV7EN1iK8
-
+#EXTINF : -1,0001 / RED TV SD
+http://181.114.232.66:8000/play/a001/index.m3u8
+#EXTINF : -1,0002 / MEGA HD TV CABLE SUR
+http://181.114.232.66 : 8000 / play / a002 / index.m3u8
+#EXTINF : -1,0003 / TVN HD TV CABLE SUR
+http://181.114.232.66:8000/play/a003/index.m3u8
+#EXTINF : -1,0004 / CHV HD TV CABLE SUR
+http://181.114.232.66:8000/play/a004/index.m3u8
+#EXTINF : -1,0005 / C13 HD TV CABLE SUR
+http://181.114.232.66:8000/play/a005/index.m3u8
+#EXTINF : -1,0006 / INFO TV SUR HD
+http://181.114.232.66:8000/play/a006/index.m3u8
+#EXTINF : -1,0008 / JNT TV HD
+http://181.114.232.66:8000/ play / a008 / index.m3u8
+#EXTINF : -1,0009 / HBO HD
+http://181.114.232.66:8000/play/a009/index.m3u8
+#EXTINF : -1,0010 / CINECANAL HD
+http://181.114.232.66:8000/play/a00a /index.m3u8
+#EXTINF : -1,0013 / FXM HD
+http://181.114.232.66:8000/play/a00d/index.m3u8
+#EXTINF : -1,0014 / FOX LIFE HD
+http://181.114.232.66: 8000 / play / a00e / index.m3u8
+#EXTINF : -1,0015 / FX HD
+http://181.114.232.66:8000/play/a00f/index.m3u8
+#EXTINF : -1,0016 / SYFY HD
+http: // 181.114.232.66:8000/play/a00g/index.m3u8
+#EXTINF : -1,0017 / UNIVERSAL HD
+http://181.114.232.66:8000/play/a00h/index.m3u8
+#EXTINF : -1,0018 / FOX SPORT CH HD
+http://181.114.232.66:8000/play/a00i/index.m3u8
+#EXTINF : -1,0020 / FOX SP3 HD
+http://181.114.232.66:8000/play/a00j/index.m3u8
+#EXTINF : -1 , 0021 / AZ CORAZON HD
+http://181.114.232.66:8000/play/a00k/index.m3u8
+#EXTINF : -1,0022 / AZ CLIC HD
+http://181.114.232.66:8000/play/a00l/index. m3u8
+#EXTINF : -1,0023 / DISCOVERY TURBO
+http://181.114.232.66:8000/play/a00m/index.m3u8
+#EXTINF : -1,0024 / AZ MUNDO HD
+http://181.114.232.66:8000/play /a00n/index.m3u8
+#EXTINF : -1,0025 / TLN HD
+http://181.114.232.66:8000/play/a00o/index.m3u8
+#EXTINF : -1,0026 / AZ CINEMA HD
+http: //181.114. 232.66: 8000 / play / a00p / index.m3u8
+#EXTINF : -1,0027 / TELECANAL HD
+http://181.114.232.66:8000/play/a00q/index.m3u8
+#EXTINF : -1,0029 / TV EDUCA HD
+http://181.114.232.66:8000/play/ a00s / index.m3u8
+#EXTINF : -1,0030 / NAT GEO KIDS HD
+http://181.114.232.66:8000/play/a00t/index.m3u8
+#EXTINF : -1,0031 / DISNEY SD
+http: //181.114. 232.66: 8000 / play / a00u / index.m3u8
+#EXTINF : -1,0032 / DISCOVERY KIDS SD
+http://181.114.232.66:8000/play/a00v/index.m3u8
+#EXTINF : -1,0033 / DISNEY 😆
+http: //181.114.232.66:8000/play/a00w/index.m3u8
+#EXTINF : -1,0034 / CARTOON SD
+http://181.114.232.66:8000/play/a00x/index.m3u8
+#EXTINF : -1,0035 / DINEY JR SD
+http://181.114.232.66:8000/play/a00y/index.m3u8
+#EXTINF : -1,0036 / TOONCAST SD
+http://181.114.232.66:8000/play/a00z/index.m3u8
+#EXTINF : -1, 0037 / BOOM SD
+http://181.114.232.66:8000/play/a010/index.m3u8
+#EXTINF : -1,0038 / TCM SD
+http://181.114.232.66:8000/play/a011/index.m3u8
+#EXTINF : -1,0039 / WARNER SD
+http://181.114.232.66:8000/play/a012/index.m3u8
+#EXTINF : -1,0040 / AXN SD
+http://181.114.232.66:8000/play/a013/index .m3u8
+#EXTINF : -1,0041 / TNT SERIES SD
+http://181.114.232.66:8000/play/a014/index.m3u8
+#EXTINF : -1,0042 / TNT SD
+http://181.114.232.66:8000/ play / a015 / index.m3u8
+#EXTINF: -1,0043 / SPACE SD
+http://181.114.232.66:8000/play/a016/index.m3u8
 #EXTINF: -1,MONTEMORIAH TV
 http://intelintec.com.ar:9090/hls/canal9pinamar.m3u8
 #EXTINF:-1,Canal4_URU
