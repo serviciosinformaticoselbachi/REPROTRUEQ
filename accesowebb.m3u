@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,LA 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1,TEM
+http://91.126.141.201:1935/live/ten/chunklist_w1621225582.m3u8
+
+
+#EXTINF:-1,COSMO TV
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w315126954.m3u8
 
 #EXTINF:-1,LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
