@@ -1,497 +1,497 @@
 
-< html >
-  < cabeza >
-    < título > servicios el bachi </ título >
-    < meta  charset = " utf-8 " />
-    < link  href = ' https://fonts.googleapis.com/css?family=Montserrat:400,700|Allerta ' rel = ' stylesheet ' type = ' text / css ' >
-    < link  rel = " stylesheet " href = " css / invie.css " />
-    < meta  name = " viewport " content = " width = device-width, initial-scale = 1, user-scalable = no " />
-  </ cabeza >
-  < body  class = " precios " >
-    < header  id = " header " class = " header background " >  <! - header ->
-      < div  class = " contenedor " >
-        < figure  class = " logotipo " >  <! - logotipo ->
-          < img  src = " images / invie.png " width = " 186 " height = " 60 " alt = " Invie logotipo " />
-        </ figura >
-        < span  class = " burguer-button icon-menu " id = " burguer-button " > </ span >
-        < nav  class = " menu " id = " menu " >  <! - menu ->
-          < ul >
-            < li >
-              < Un  href = " index.html " > INICIO </ una >
-            </ li >
-            < li >
-              < Un  href = " # CONTACTO index.html " > CONTACTO </ a >
-            </ li >
-            < li >
-              < Un  href = " RADIO.html " > RADIO </ una >
-            </ li >
-          </ ul >
-        </ nav >
-      </ div >
-    </ encabezado >
-    < section  class = " tabla " >
-      < div  class = " contenedor " >
-        < tabla >
-          < thead >
-            < tr >
-           < centro >
-          	 < título > CADENA 100 </ título >
-   < style  type = " text / css " >
-cuerpo {
-  color de fondo : # 000000 ;
+<html>
+  <head>
+    <title>servicios el bachi</title>
+    <meta charset="utf-8"/>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Allerta' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/invie.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+  </head>
+  <body class="precios">
+    <header id="header" class="header background"> <!-- header -->
+      <div class="contenedor">
+        <figure class="logotipo"> <!-- logotipo -->
+          <img src="images/invie.png" width="186" height="60" alt="Invie logotipo"/>
+        </figure>
+        <span class="burguer-button icon-menu" id="burguer-button"></span>
+        <nav class="menu" id="menu"> <!-- menu -->
+          <ul>
+            <li>
+              <a href="index.html">INICIO</a>
+            </li>
+            <li>
+              <a href="index.html#CONTACTO">CONTACTO</a>
+            </li>
+            <li>
+              <a href="RADIO.html">RADIO</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section class="tabla">
+      <div class="contenedor">
+        <table>
+          <thead>
+            <tr>
+           <center>
+          	 <title>CADENA 100</title>
+   <style type="text/css">
+body {
+  background-color: #000000;
 }
-</ estilo >
+</style>
 
-    < link  href = " css / style.css " rel = " hoja de estilo " type = " text / css " >
-        < link  href = " https://fonts.googleapis.com/css?family=Teko " rel = " hoja de estilo " >
-        < link  href = " https://fonts.googleapis.com/css?family=Kaushan+Script " rel = " hoja de estilo " >
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
 
-    < meta  http-equiv = " Content-Type " content = " text / html; charset = UTF-8 " >
-     < script  type = " text / javascript " src = " js / jquery.js " > </ script >
-     < script  type = " text / javascript " src = " js / jquery.jplayer.min.js " > </ script >
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <script type="text/javascript" src="js/jquery.js"></script>
+     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
     
-	< script  type = " text / javascript " >
+	<script type="text/javascript">
       
-        $ ( documento ) . listo ( función ( ) {
-            var  stream  =  {
-            título : "SERVICIOS EL BACHI" ,
-            mp3 : "https://servicioselbachi.com/PUBLICIDAD/OCULISTA_JUEVES.mp3"
-        } ,
-        listo  =  falso ;
-          $ ( "# jquery_jplayer_1" ) . jPlayer ( {
-          listo : función  ( evento )  {
-            listo  =  verdadero ;
-                $ ( esto ) . jPlayer ( "setMedia" ,  secuencia ) . jPlayer ( "jugar" ) ;
+        $(document).ready(function(){
+            var stream = {
+            title: "SERVICIOS EL BACHI",
+            mp3: "https://servicioselbachi.com/PUBLICIDAD/OCULISTA_JUEVES.mp3"
+        },
+        ready = false;
+          $("#jquery_jplayer_1").jPlayer({
+          ready: function (event) {
+            ready = true;
+                $(this).jPlayer("setMedia", stream).jPlayer("play");
   
-            } ,
-            pausa : función ( )  {
-                $ ( esto ) . jPlayer ( "clearMedia" ) ;
-            } ,
-            error : función ( evento )  {
-                if ( listo  &&  evento . jPlayer . error . type  ===  $ . jPlayer . error . URL_NOT_SET )  {
+            },
+            pause: function() {
+                $(this).jPlayer("clearMedia");
+            },
+            error: function(event) {
+                if(ready && event.jPlayer.error.type === $.jPlayer.error.URL_NOT_SET) {
                     
-                    $ ( esto ) . jPlayer ( "setMedia" ,  secuencia ) . jPlayer ( "jugar" ) ;
+                    $(this).jPlayer("setMedia", stream).jPlayer("play");
                 }
-            } ,
-            swfPath : "/ js" ,
-            suministrado : "mp3" ,
-            precarga : "ninguno" ,
-            wmode : "ventana" ,
-            keyEnabled : verdadero ,
-            cssSelectorAncestor : "" ,
-            cssSelector : {
-            play : "#play" ,
-            pausa : "# pausa " ,
-            } ,
-        } ) ;
-      } ) ;
-    </ script >
+            },
+            swfPath: "/js",
+            supplied: "mp3",
+            preload: "none",
+            wmode: "window",
+            keyEnabled: true,
+            cssSelectorAncestor: "",
+            cssSelector: {
+            play: "#play",
+            pause: "#pause",
+            },
+        });
+      });
+    </script>
       
 
-</ cabeza >
-< cuerpo >
+</head>
+<body>
 
   
-          < div  align = " left " > </ div >
-          < div  align = " left " > </ div >
-          < div  id = " jugador " >
+          <div align="left"></div>
+          <div align="left"></div>
+          <div id="player">
           
-                < Un  href = " javascript :; " ID =" juego " > </ una > < un  href =" javascript :; " ID =" pausa " > </ una >
-                < div  id = " titulo " >
-                < h3 > PUBLICIDAD </ h3 >
-                </ div >
+                <a href="javascript:;" id="play"></a><a href="javascript:;" id="pause"></a>
+                <div id="titulo">
+                <h3>PUBLICIDAD</h3>
+                </div>
           		
                  
-                 < div  id = " song " class = " song " > < marquee  scrollamount = " 4 " behavior = " scroll " direction = " left " > < span  id = " current-track " > COMUNICATE +598 93424446 </ span > </ marquesina > </ div >
+                 <div id="song" class="song"><marquee scrollamount="4" behavior="scroll" direction="left"><span id="current-track">COMUNICATE +598 93 422 446</span></marquee></div>
 
                 
-                < div  id = " animación " >
-                  < div  align = " left " > < img  src = " img / ecualizador.gif " alt = " efec " width = " 220 " height = " 52
-" > </ div >
-                </ div >
+                <div id="animation">
+                  <div align="left"><img src="img/ecualizador.gif" alt="efec" width="220" height="52
+"></div>
+                </div>
 
-                < div  style = " text-align: center; padding-top: 160px; " >
-                 < ul  style = " list-style: none; text-align: center; padding-left: 0; " >
-                 < Li  estilo = " display: inline; " > < un  objetivo =" _blank " href =" https://www.facebook.com/elbachionline/ " > < img  src =" iconos-sociales / facebook.png " frontera = " 0 " /> </ a > </ li >
-                 < Li  estilo =" display: inline; margin-left: 5px; " > < un  objetivo =" _blank " href =" http://www.twitter.com/ " > < img  src =" iconos-sociales / twitter. png " border =" 0 "/> </ a > </ li >
-                 < li  style = " display: inline; margin-left: 5px; " > < a  target = " _blank " href = " https://wa.me/59893422446?text=Escucho%20PUBLICIDAD%F0%9F%94%8A " > < img  src =" iconos-sociales / google.png " border =" 0 "/> </ a > </ li >
-                 < Li  estilo =" display: inline; margin-left: 5px; " > < un  objetivo =" _blank " href =" https://www.youtube.com/channel/UC9FKWsY9WETE3s_eVEXAcDQ " > < img  src =" iconos-sociales /youtube.png " 94911721border =" 0 "/> </ a > </ li >
-                 < Li  estilo =" display: inline; margin-left: 5px; " > < un  objetivo =" _blank " href =" http://www.instagram.com/ " > < img  src =" iconos-sociales / instagram. png " border =" 0 "/> </ a > </ li > </ ul >
-                </ div >
+                <div style="text-align:center; padding-top: 160px;">
+                 <ul style="list-style:none; text-align:center; padding-left:0;">
+                 <li style="display:inline;"><a target="_blank" href="https://www.facebook.com/elbachionline/"><img src="iconos-sociales/facebook.png" border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.twitter.com/"><img src="iconos-sociales/twitter.png" border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://wa.me/59893422446?text=Escucho%20PUBLICIDAD%F0%9F%94%8A"><img src="iconos-sociales/google.png" border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://www.youtube.com/channel/UC9FKWsY9WETE3s_eVEXAcDQ"><img src="iconos-sociales/youtube.png" 94911721border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.instagram.com/"><img src="iconos-sociales/instagram.png" border="0"/></a></li></ul>
+                </div>
                 
-</ div >
+</div>
           
   
-</ estilo >
-< script  src = " https://www.socialcreator.com/jquery-1.11.3.min.js " > </ script >
-< script  src = " https://www.socialcreator.com/dom/js_getCookie.js " > </ script >
-< script  language = " javascript " >
+</style>
+<script src="https://www.socialcreator.com/jquery-1.11.3.min.js"></script>
+<script src="https://www.socialcreator.com/dom/js_getCookie.js"></script>
+<script language="javascript">
 
-$ ( documento ) . listo ( función ( ) {
-	$ ( documento ) . haga clic en ( función ( )  {
-	    $ ( "#avisos" ) . ocultar ( ) ;
-	} ) ;
-} ) ;
+$(document).ready(function(){
+	$(document).click(function() {
+	    $("#avisos").hide();
+	});
+});
 
-función  fcaddia ( d_str , idaviso )
+function fcaddia(d_str,idaviso)
 {
-	var  d_aux  =  nueva  fecha ( 2000 + parseInt ( d_str . substr ( 4 , 2 ) ) , parseInt ( d_str . substr ( 2 , 2 ) ) - 1 , parseInt ( d_str . substr ( 0 , 2 ) ) , parseInt ( d_str . substr ( 6 , 2) ) , parseInt ( d_str . substr ( 8 , 2 ) ) ) ;
-	d_aux . setMinutes ( d_aux . getMinutes ( )  -  d_aux . getTimezoneOffset ( ) ) ;
-	var  d_aux_3 = nueva  fecha ( d_aux ) ;
-	d_aux_3 . setHours ( 0 , 0 , 0 , 0 ) ;
+	var d_aux = new Date(2000+parseInt(d_str.substr(4,2)),parseInt(d_str.substr(2,2))-1,parseInt(d_str.substr(0,2)),parseInt(d_str.substr(6,2)),parseInt(d_str.substr(8,2)));
+	d_aux.setMinutes(d_aux.getMinutes() - d_aux.getTimezoneOffset());
+	var d_aux_3=new Date(d_aux);
+	d_aux_3.setHours(0,0,0,0);
 
-	var  cad_dia = "" ;
-	var  hoy = nueva  fecha ( ) ;
-	hoy . setHours ( 0 , 0 , 0 , 0 ) ;
-	var  ayer = nueva  fecha ( hoy ) ;
-	ayer . setDate ( ayer . getDate ( ) - 1 )
-	if ( d_aux_3 . getTime ( ) == hoy . getTime ( ) ) { cad_dia = "Hoy" ; }
-	else  if ( d_aux_3 . getTime ( ) == ayer . getTime ( ) ) { cad_dia = "Ayer" ; }
-	más
+	var cad_dia="";
+	var today=new Date();
+	today.setHours(0,0,0,0);
+	var yesterday=new Date(today);
+	yesterday.setDate(yesterday.getDate()-1)
+	if(d_aux_3.getTime()==today.getTime()){cad_dia="Hoy";}
+	else if(d_aux_3.getTime()==yesterday.getTime()){cad_dia="Ayer";}
+	else
 	{
-		var  dia_aux = d_aux_3 . getDate ( ) ; if ( dia_aux < 10 ) { dia_aux = "0" + dia_aux ; } ;
-		var  mes_aux = d_aux_3 . getMonth ( ) + 1 ; if ( mes_aux < 10 ) { mes_aux = "0" + mes_aux ; } ;
-					cad_dia = dia_aux + "-" + mes_aux + "-" + d_aux_3 . getFullYear ( ) ;
-			} ;
-	var  h_aux = d_aux . getHours ( ) ; si ( h_aux < 10 ) { h_aux = "0" + h_aux ; } ;
-	var  mi_aux = d_aux . getMinutes ( ) ; si ( mi_aux < 10 ) { mi_aux = "0" + mi_aux ; } ;
-	cad_dia + = "& nbsp;" + h_aux + ":" + mi_aux ;
+		var dia_aux=d_aux_3.getDate();if(dia_aux<10){dia_aux="0"+dia_aux;};
+		var mes_aux=d_aux_3.getMonth()+1;if(mes_aux<10){mes_aux="0"+mes_aux;};
+					cad_dia=dia_aux+"-"+mes_aux+"-"+d_aux_3.getFullYear();
+			};
+	var h_aux=d_aux.getHours();if(h_aux<10){h_aux="0"+h_aux;};
+	var mi_aux=d_aux.getMinutes();if(mi_aux<10){mi_aux="0"+mi_aux;};
+	cad_dia+="&nbsp;"+h_aux+":"+mi_aux;
 
-	$ ( ".fh" + idaviso ) . html ( cad_dia ) ;
-} ;
+	$(".fh"+idaviso).html(cad_dia);
+};
 
-función  fvisto ( id )
+function fvisto(id)
 {
-	$ ( ".av_ci" + id ) . ocultar ( ) ;
-	$ ( ".av_cr" + id ) . ocultar ( ) ;
-	var  n_aux = $ ( "#av_nnuevos" ) . html ( ) - 1 ;
-	if ( n_aux == 0 ) { $ ( "#av_nnuevos" ) . ocultar ( ) ; }
-	más { $ ( "#av_nnuevos" ) . html ( n_aux ) ; } ;
-    $ . ajax ( {
-      tipo : "OBTENER" ,
-      url : "https://www.socialcreator.com/dom/aviso_leido.php?idusu=10085469" ,
-      datos : "avle =" + id
-     } ) ;
+	$(".av_ci"+id).hide();
+	$(".av_cr"+id).hide();
+	var n_aux=$("#av_nnuevos").html()-1;
+	if(n_aux==0){$("#av_nnuevos").hide();}
+	else{$("#av_nnuevos").html(n_aux);};
+    $.ajax({
+      type: "GET",
+      url: "https://www.socialcreator.com/dom/aviso_leido.php?idusu=10085469",
+      data: "avle="+id
+     });
 }
 
-función  falert ( cad )
+function falert(cad)
 {
-	documento . getElementById ( "modaltxt" ) . innerHTML = cad ;
-	documento . getElementById ( 'divmodal' ) . estilo . display = "bloque" ;
+	document.getElementById("modaltxt").innerHTML=cad;
+	document.getElementById('divmodal').style.display="block";
 }
-función  fconfirm ( cad , f , p )
+function fconfirm(cad,f,p)
 {
-	documento . getElementById ( "modaltxtconfirm" ) . innerHTML = cad ;
-	$ ( "#btnmodalok" ) . prop ( 'al hacer clic' , nulo ) . off ( 'clic' ) ; 	$ ( "#btnmodalok" ) . haga clic en ( función ( )  {
-		$ ( '#divmodalconfirm' ) . ocultar ( ) ;
-				si ( f . indexOf ( '@' ) ! = - 1 )
+	document.getElementById("modaltxtconfirm").innerHTML=cad;
+	$("#btnmodalok").prop('onclick',null).off('click');	$("#btnmodalok").click(function() {
+		$('#divmodalconfirm').hide();
+				if(f.indexOf('@')!=-1)
 		{
-			f = f . dividir ( "@" ) ;
-			if ( f . longitud == 3 ) { self . fotogramas [ f [ 0 ] ] [ f [ 1 ] ] [ f [ 2 ] ] ( p ) ; }
-			más  si ( f . longitud == 2 ) { auto . fotogramas [ f [ 0 ] ] [ f [ 1 ] ] ( p ) ; } ;
+			f=f.split("@");
+			if(f.length==3){self.frames[f[0]][f[1]][f[2]](p);}
+			else if(f.length==2){self.frames[f[0]][f[1]](p);};
 		}
-		más
+		else
 		{
-    		ventana [ f ] ( p ) ;
-    	} ;
-  	} ) ;
-	documento . getElementById ( 'divmodalconfirm' ) . estilo . display = "bloque" ;
+    		window[f](p);
+    	};
+  	});
+	document.getElementById('divmodalconfirm').style.display="block";
 }
 
-función  fcambionotif ( )
+function fcambionotif()
 {
-	var  chk = documento . getElementById ( "chknotif" ) ;
-	si ( chk . marcado )
+	var chk=document.getElementById("chknotif");
+	if(chk.checked)
 	{
-		yo . los padres . location = "https://www.socialcreator.com/contactoservicios/push_grant.html" ;
+		self.parent.location="https://www.socialcreator.com/contactoservicios/push_grant.html";
 	}
-	más
+	else
 	{
-		if ( getCookie ( 'iden' ) ) { $ . get ( "https://www.socialcreator.com/dom/push_cambio.php?idapp=35722&modo=0" ) ; } ;
+		if(getCookie('iden')){$.get("https://www.socialcreator.com/dom/push_cambio.php?idapp=35722&modo=0");};
 	}
 }
 
-jQuery ( función (  $  )
+jQuery(function( $ )
 {
 	
-		var  menu  =  $ (  "#tmenu"  ) ;
-	var  menu_aux  =  $ (  "#tmenu_aux"  ) ;
-	var  originalMenuTop  =  - 1 ;
-    var  view  =  $ (  ventana  ) ;
+		var menu = $( "#tmenu" );
+	var menu_aux = $( "#tmenu_aux" );
+	var originalMenuTop = -1;
+    var view = $( window );
 		
-	función  rewrite_menu ( )
+	function rewrite_menu()
     {
-    	    	    			var  w_scr  =  ventana . innerWidth  ||  documento . documentElement . clientWidth  ||  documento . cuerpo . clientWidth ;
-				var  elemento = documento . getElementById ( "idmenu" ) ;
+    	    	    			var w_scr = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+				var element=document.getElementById("idmenu");
 
-		var  ocultar_resto = false ;
-		var  i_ini = 1 ; 		para ( var  i = i_ini ; i < elemento . niños . longitud - 1 ; i ++ )
+		var ocultar_resto=false;
+		var i_ini=1;		for(var i=i_ini;i<element.children.length-1;i++)
 		{
-			elemento . niños [ i ] . estilo . display = '' ;
-		} ;
-		documento . getElementById ( "seccmas" ) . estilo . display = 'ninguno' ;
+			element.children[i].style.display='';
+		};
+		document.getElementById("seccmas").style.display='none';
 
-		var  w = 0 ;
-		if ( i_ini == 2 ) { w + = elemento . niños [ 0 ] . offsetWidth + elemento . niños [ 1 ] . offsetWidth ; }
-		más  si ( i_ini == 1 ) { w + = elemento . niños [ 0 ] . offsetWidth ; } ;
+		var w=0;
+		if(i_ini==2){w+=element.children[0].offsetWidth+element.children[1].offsetWidth;}
+		else if(i_ini==1){w+=element.children[0].offsetWidth;};
 		
 				
-		para ( var  i = i_ini ; i < elemento . niños . longitud - 1 ; i ++ )
+		for(var i=i_ini;i<element.children.length-1;i++)
 		{
-			if ( ocultar_resto ) { elemento . niños [ i ] . estilo . display = 'ninguno' ; }
-			más
+			if(ocultar_resto){element.children[i].style.display='none';}
+			else
 			{
-				var  w_aux = elemento . niños [ i ] . offsetWidth ;
-				var  w_mas = 42 ;
-				if ( ( i + 1 ) == ( elemento . hijos . longitud - 1 ) ) { w_mas = 0 ; } 												si ( i == i_ini  ||  ( ( w + w_aux + w_mas ) <= w_scr ) )
+				var w_aux=element.children[i].offsetWidth;
+				var w_mas=42;
+				if((i+1)==(element.children.length-1)){w_mas=0;}												if(i==i_ini || ((w+w_aux+w_mas)<=w_scr))
 				{
-					elemento . niños [ i ] . estilo . display = '' ;
-					w + = w_aux ;
+					element.children[i].style.display='';
+					w+=w_aux;
 				}
-				más
+				else
 				{
-										ocultar_resto = verdadero ;
-					elemento . niños [ i ] . estilo . display = 'ninguno' ;
-					documento . getElementById ( "seccmas" ) . estilo . display = '' ;
+										ocultar_resto=true;
+					element.children[i].style.display='none';
+					document.getElementById("seccmas").style.display='';
 				}
 			}
-		} ;
-	    } ;
+		};
+	    };
 
-		rewrite_menu ( ) ;
-	$ ( ventana ) . cargar ( función ( ) { rewrite_menu ( ) ; } ) ;
+		rewrite_menu();
+	$(window).load(function(){rewrite_menu();});
 	
-	ver . bind (
-	    "redimensionar" ,
+	view.bind(
+	    "resize",
 	    rewrite_menu
-	    ) ;
+	    );
 
 	
-		    ver . bind (
-	        "cambio de tamaño de desplazamiento" ,
-	        función ( )
+		    view.bind(
+	        "scroll resize",
+	        function()
 			{
-				if ( originalMenuTop == - 1 ) { originalMenuTop = menú . desplazamiento ( ) . arriba ; } ;
-				var  viewTop  =  vista . scrollTop ( ) ;
-							    si ( viewTop  >  originalMenuTop )
+				if(originalMenuTop==-1){originalMenuTop=menu.offset().top;};
+				var viewTop = view.scrollTop();
+							    if(viewTop > originalMenuTop)
 			    {
-			    	si ( ! menu . es (  ".fijo"  ) )
+			    	if(!menu.is( ".fijo" ))
 			    	{
-			    		menú . removeClass ( 'defecto' ) . addClass ( 'fijo' ) ;
-			    		menu_aux . removeClass ( 'defecto_aux' ) . addClass ( 'fijo_aux' ) ;
+			    		menu.removeClass('defecto').addClass('fijo');
+			    		menu_aux.removeClass('defecto_aux').addClass('fijo_aux');
 			    	}
 			    }
-			    else  if ( ! menu . is (  ".defecto"  ) )
+			    else if(!menu.is( ".defecto" ))
 			    {
-		    		menú . removeClass ( 'fijo' ) . addClass ( 'defecto' ) ;
-		    		menu_aux . removeClass ( 'fijo_aux' ) . addClass ( 'defecto_aux' ) ;
-		    		originalMenuTop = menú . desplazamiento ( ) . arriba ; 			    }
-			} ) ;
-	} ) ;
-</ script >
+		    		menu.removeClass('fijo').addClass('defecto');
+		    		menu_aux.removeClass('fijo_aux').addClass('defecto_aux');
+		    		originalMenuTop=menu.offset().top;			    }
+			});
+	});
+</script>
 
 
-</ cabeza >
-< cuerpo >
-	< table  id = " tcab_aux " >
-	< tr >
-	< td  id = " tcab_td_aux " > </ td >
-	</ tr >
-	</ tabla >
-	< table  id = " tcab " style = " color de fondo: # F5F5F5; ancho: 100%; índice z: 101; borde inferior: 1px sólido #BDBDBD; " > 	< tr >
-				< td  id = " btnslide " style = " width: 1%; " > < i  class = " material-icons " style = " cursor: pointer; font-size: 20px; position: related; top: 2px; margin-left : 10px; color: # 9E9E9E; " onclick =" fslide (1); " > & # xE5D2; </ i > </ td >
-				< td  style = " padding: 0; " > < table  style = " border: 0px; width: auto; margin-left: 10px; " colspacing = " 0 " >
-		< tr >
-					< Td > < un  href =" https://www.socialcreator.com/contactoservicios " > < img  ID =" imgcab " estilo =" border: 0px; " alt =" Logotipo de CONTACTO SERVICIOS " src =" https: / /www.socialcreator.com/app-creator/launchers/73.png " > </ a > </ td >
-							< td  id = " lema " style = " padding: 5px; color: # 212121; " > CONTACTO SERVICIOS </ td >
-				</ tr >
-		</ tabla > </ td >
-				< td  style = " color: #FFFFFF; " align = " right " >
-				< table  style = " border: 0px " >
-		< tr >
-					< td  class = " hoverlight tdicotop " style = " cursor: pointer; " onclick = " $ ('# avisos'). toggle (); event.stopPropagation (); " > < i  class = ' fa fa-bell ' > </ i > </ td >
-				</ tr >
-		</ tabla >
+</head>
+<body>
+	<table id="tcab_aux">
+	<tr>
+	<td id="tcab_td_aux"></td>
+	</tr>
+	</table>
+	<table id="tcab" style="background-color:#F5F5F5;width:100%;z-index:101;border-bottom:1px solid #BDBDBD;">	<tr>
+				<td id="btnslide" style="width:1%;"><i class="material-icons" style="cursor:pointer;font-size:20px;position:relative;top:2px;margin-left:10px;color:#9E9E9E;" onclick="fslide(1);">&#xE5D2;</i></td>
+				<td style="padding:0;"><table style="border:0px;width:auto;margin-left:10px;" colspacing="0">
+		<tr>
+					<td><a href="https://www.socialcreator.com/contactoservicios"><img id="imgcab" style="border:0px;" alt="Logo de CONTACTO SERVICIOS" src="https://www.socialcreator.com/app-creator/launchers/73.png"></a></td>
+							<td id="lema" style="padding:5px;color:#212121;">CONTACTO SERVICIOS</td>
+				</tr>
+		</table></td>
+				<td style="color:#FFFFFF;" align="right">
+				<table style="border:0px">
+		<tr>
+					<td class="hoverlight tdicotop" style="cursor:pointer;" onclick="$('#avisos').toggle();event.stopPropagation();"><i class='fa fa-bell'></i></td>
+				</tr>
+		</table>
 
-			   		< div  id = " avisos " class = " w3-dropdown-content w3-border " style = " z-index: 99; " >
-			< table  style = " border: 0; width: 100%; " >
-			< tr >
-			< td >
-			< i  onClick = " $ ('# avisos'). hide (); event.stopPropagation (); " class = " fa fa-times " style = " cursor: pointer; margin: 5px; " > </ i >
-			</ td >
-							< td >
-								    < table  style = " border: 0px; margin-left: auto; margin-right: 10px; width: 1%; " >
-				    < tr >
-				    < td > < i  id = " onoffico " class = " fa fa-bullhorn " > </ i > </ td >
-				    < td  onclick = " event.stopPropagation (); " >
-					< div  class = " onoffswitch " >
-						< input  type = " checkbox " name = " chknotif " class = " onoffswitch-checkbox " id = " chknotif " onclick = " fcambionotif (); " >
-					    < label  class = " onoffswitch-label " for = " chknotif " >
-					        < span  class = " onoffswitch-inner " > </ span >
-					        < span  class = " onoffswitch-switch " > </ span >
-					    </ etiqueta >
-					</ div >
-					</ td >
-					</ tr >
-					</ tabla >
-				</ td >
-						</ tr >
-			< tr > < td  colspan = " 2 " style = " height: 1px; background-color: #CCCCCC; padding: 0; " > </ td > </ tr >
-			</ tabla >
+			   		<div id="avisos" class="w3-dropdown-content w3-border" style="z-index:99;">
+			<table style="border:0;width:100%;">
+			<tr>
+			<td>
+			<i onClick="$('#avisos').hide();event.stopPropagation();" class="fa fa-times" style="cursor:pointer;margin:5px;"></i>
+			</td>
+							<td>
+								    <table style="border:0px;margin-left:auto;margin-right:10px;width:1%;">
+				    <tr>
+				    <td><i id="onoffico" class="fa fa-bullhorn"></i></td>
+				    <td onclick="event.stopPropagation();">
+					<div class="onoffswitch">
+						<input type="checkbox" name="chknotif" class="onoffswitch-checkbox" id="chknotif" onclick="fcambionotif();">
+					    <label class="onoffswitch-label" for="chknotif">
+					        <span class="onoffswitch-inner"></span>
+					        <span class="onoffswitch-switch"></span>
+					    </label>
+					</div>
+					</td>
+					</tr>
+					</table>
+				</td>
+						</tr>
+			<tr><td colspan="2" style="height:1px;background-color:#CCCCCC;padding:0;"></td></tr>
+			</table>
 
 			
-	   			   		    < span  class = " w3-padding " > No hay ninguna alerta </ span >
-	   			    	</ div >
-	    				</ td >
-		</ tr >
-	</ tabla >
-	< table  id = " tmenu_aux " class = " defecto_aux " >
-	< tr >
-	< td  id = " tmenu_td_aux " > </ td >
-	</ tr >
-	</ tabla >
-    < table  id = " tmenu " class = " defecto " style = " z-index: 101; " cellpadding = " 0 " cellspacing = " 0 " >
-    < tr > < td >
-    < table  id = " tmenu_2 " cellpadding = " 0 " cellspacing = " 0 " >
-    < tr  id = " idmenu " >
-			< Td  ID = " btnhome " estilo =" anchura: 1%; " align =" centro " > < un  href =" https://www.socialcreator.com/contactoservicios " > < i  clase =" materiales-iconos " estilo = " tamaño de fuente: 20px; posición: relativa; parte superior: 2px; margen: 0 10px; " > & # xE88A; </ i > </ a > </ td >
-	        < td  id = " secc118966 " nowrap  align = " center " >
-	        < table  class = " topcmain " onmousedown = " self.location = 'https: //www.socialcreator.com/contactoservicios/? s = 118966'; " cellpadding = " 0 " cellspacing = " 0 " >
-	        	        < tr  class = " txtmenu " > < td  align = " center " style = " padding: 0 10px 0 10px; font-size: 16px; " > CONTACTO SERVICIOS INFORMATICOS </ td > </ tr > 	        </ table > </ a >
-        </ td >
-        < td  id = " seccmas " class = " topcmain " style = " display: none; " align = " center " onclick = " fslide (1); " > < i  class = " material-icons " style = " font-size : 20px; posición: relativa; arriba: 2px; margen: 0 10px 0 10px; " > & # xE5D4; </ i > </ td >
-    </ tr >
-    </ tabla >
-    </ td > </ tr >
-    </ tabla >
+	   			   		    <span class="w3-padding">No hay ninguna alerta</span>
+	   			    	</div>
+	    				</td>
+		</tr>
+	</table>
+	<table id="tmenu_aux" class="defecto_aux">
+	<tr>
+	<td id="tmenu_td_aux"></td>
+	</tr>
+	</table>
+    <table id="tmenu" class="defecto" style="z-index:101;" cellpadding="0" cellspacing="0">
+    <tr><td>
+    <table id="tmenu_2" cellpadding="0" cellspacing="0">
+    <tr id="idmenu">
+			<td id="btnhome" style="width:1%;" align="center"><a href="https://www.socialcreator.com/contactoservicios"><i class="material-icons" style="font-size:20px;position:relative;top:2px;margin:0 10px;">&#xE88A;</i></a></td>
+	        <td id="secc118966" nowrap align="center">
+	        <table class="topcmain" onmousedown="self.location='https://www.socialcreator.com/contactoservicios/?s=118966';" cellpadding="0" cellspacing="0">
+	        	        <tr class="txtmenu"><td align="center" style="padding:0 10px 0 10px;font-size:16px;">CONTACTO SERVICIOS INFORMATICOS</td></tr>	        </table></a>
+        </td>
+        <td id="seccmas" class="topcmain" style="display:none;" align="center" onclick="fslide(1);"><i class="material-icons" style="font-size:20px;position:relative;top:2px;margin:0 10px 0 10px;">&#xE5D4;</i></td>
+    </tr>
+    </table>
+    </td></tr>
+    </table>
 
-	< script  language = " javascript " >
-	función  fslide ( modo )
+	<script language="javascript">
+	function fslide(modo)
 	{
-		var  px = 0 ;
-		si ( modo == 0 ) { px = - 1000 ; } ;
-		documento . getElementById ( "tslide" ) . estilo . izquierda = px + "px" ;
+		var px=0;
+		if(modo==0){px=-1000;};
+		document.getElementById("tslide").style.left=px+"px";
 	}
-	</ script >
-	< div  id = " tslide " style = " height: 100%; overflow-x: hidden; overflow-y: auto; position: fixed; top: 0px; left: -1000px; z-index: 102; transición: izquierda 0.2 s facilidad; " >
-	< table  class = " w3-card-4 " id = " tslide_2 " >
-	< tr >
-		< td  align = " right " style = " padding-right: 20px; " > < a  style = " text-decoration: none; font-size: 28px; " href = " javascript: var v = fslide (0); " > & tiempos; </ a > </ td >
-	</ tr >
-            < tr > < td  style = " espacio en blanco: nowrap; " >
-	        < table  class = " topcmain_sl " onmousedown = " self.location = 'https: //www.socialcreator.com/contactoservicios/? s = 118966'; " >
-	        < tr >
-	        	        < td  class = " txtmenu_sl " style = " padding: 0 15px 0 5px; font-size: 16px; " > CONTACTO SERVICIOS INFORMATICOS </ td > 	        </ tr >
-	        </ tabla >
-        </ td > </ tr >
-    	</ tabla >
-	</ div >
+	</script>
+	<div id="tslide" style="height:100%;overflow-x:hidden;overflow-y:auto;position:fixed;top:0px;left:-1000px;z-index:102;transition:left 0.2s ease;">
+	<table class="w3-card-4" id="tslide_2">
+	<tr>
+		<td align="right" style="padding-right:20px;"><a style="text-decoration:none;font-size:28px;" href="javascript:var v=fslide(0);">&times;</a></td>
+	</tr>
+            <tr><td style="white-space:nowrap;">
+	        <table class="topcmain_sl" onmousedown="self.location='https://www.socialcreator.com/contactoservicios/?s=118966';">
+	        <tr>
+	        	        <td class="txtmenu_sl" style="padding:0 15px 0 5px;font-size:16px;">CONTACTO SERVICIOS INFORMATICOS</td>	        </tr>
+	        </table>
+        </td></tr>
+    	</table>
+	</div>
 
 
 
-< div  id = " divmodal " class = " modal " style = " display: none; " onclick = " this.style.display = 'none'; " >
-  < div  id = " divmodalcontent " class = " modal-content " >
-    < span  class = " close " > & times; </ span >
-    < p  id = " modaltxt " > </ p >
-  </ div >
-</ div >
-< div  id = " divmodalconfirm " class = " modal " style = " display: none; " >
-  < div  class = " modal-content " >
-    < p  id = " modaltxtconfirm " > </ p >
-    < button  class = " w3-btn w3-small w3-blue-gray " id = " btnmodalok " > Aceptar </ button >
-    < button  class = " w3-btn w3-small w3-light-gray " style = " margin-left: 10px; " onclick = " $ ('# divmodalconfirm'). hide (); " > Cancelar </ button >
-  </ div >
-</ div >
+<div id="divmodal" class="modal" style="display:none;" onclick="this.style.display='none';">
+  <div id="divmodalcontent" class="modal-content">
+    <span class="close">&times;</span>
+    <p id="modaltxt"></p>
+  </div>
+</div>
+<div id="divmodalconfirm" class="modal" style="display:none;">
+  <div class="modal-content">
+    <p id="modaltxtconfirm"></p>
+    <button class="w3-btn w3-small w3-blue-grey" id="btnmodalok">Aceptar</button>
+    <button class="w3-btn w3-small w3-light-grey" style="margin-left:10px;" onclick="$('#divmodalconfirm').hide();">Cancelar</button>
+  </div>
+</div>
 
 
 
 
-< div  align = " centro " >
-< h1  class = " cab " > CONTACTO </ h1 > < h3  class = " cab " > CONTACTO SERVICIOS INFORMATICOS </ h3 > </ div >
+<div align="center">
+<h1 class="cab">CONTACTO</h1><h3 class="cab"> CONTACTO SERVICIOS INFORMATICOS</h3></div>
 
-< script  language = " javascript " >
-función  fenviar ( )
+<script language="javascript">
+function fenviar()
 {
-		var  f = documento . formularios [ " formulario1 " ] ;
-		devuelve  verdadero ;
+		var f=document.forms["form1"];
+		return true;
 }
 
-$ ( documento ) . listo ( función ( ) {
-	$ ( "# formulario1" ) . enviar ( función ( )  {
+$(document).ready(function(){
+	$("#form1").submit(function() {
 
-		if ( ! fenviar ( ) ) { devuelve  falso ; } ;
+		if(!fenviar()){return false;};
 
-	  	$ ( "#btnenv" ) . ocultar ( ) ;
-		$ ( "#loader" ) . mostrar ( ) ;
+	  	$("#btnenv").hide();
+		$("#loader").show();
 
-		dataString = $ ( esto ) . serializar ( ) ;
+		dataString=$(this).serialize();
 		
 		
-	    $ . ajax ( {
-	      tipo : "POST" ,
-	      url : "https://www.socialcreator.com/dom/form_enviando.php?s=118966" ,
-	      datos : dataString ,
-	      caché : falso ,
+	    $.ajax({
+	      type: "POST",
+	      url: "https://www.socialcreator.com/dom/form_enviando.php?s=118966",
+	      data: dataString,
+	      cache: false,
 	      		  
 		  
-	      éxito : función ( resultado )  {
-	      		      		$ ( "#dcontactar" ) . ocultar ( ) ;
-	      		$ ( "#enviado" ) . mostrar ( ) ;
-	      		ventana . scrollTo ( 0 , 0 ) ;
+	      success: function(result) {
+	      		      		$("#dcontactar").hide();
+	      		$("#enviado").show();
+	      		window.scrollTo(0,0);
 				      }
-	    } ) ;
-	    devolver  falso ;
-  } ) ;
-} ) ;
+	    });
+	    return false;
+  });
+});
 
 
-</ script >
+</script>
 
-< table  style = " border: 0px; width: 1%; " class = " somb " align = " center " >
-< tr > < td  style = " padding: 30px; " >
-< Forma  nombre = " Form1 " ID =" Form1 " >
-< div  id = " dcontactar " >
-< table  class = " tresponsive " align = " center " >
-< tbody >
-		< tr >
-		< td  style = " color: #; width: 1%; padding-right: 5px; " align = " right " nowrap > NOMBRE </ td > 		< td > < input  name = " c112680 " maxlength = " 255 " type = " texto " class = " inputtext1 " >
-		</ td >
-		</ tr >
-		< tr > < td  colspan = " 2 " style = " height: 10px; " > </ td > </ tr >
-				< tr >
-		< td  style = " color: #; width: 1%; padding-right: 5px; " align = " right " nowrap > APELLIDO </ td > 		< td > < input  name = " c112681 " maxlength = " 255 " type = " texto " class = " inputtext1 " >
-		</ td >
-		</ tr >
-		< tr > < td  colspan = " 2 " style = " height: 10px; " > </ td > </ tr >
-				< tr >
-		< td  style = " color: #; width: 1%; padding-right: 5px; " align = " right " nowrap > CIUDAD </ td > 		< td > < input  name = " c112682 " maxlength = " 255 " type = " texto " class = " inputtext1 " >
-		</ td >
-		</ tr >
-		< tr > < td  colspan = " 2 " style = " height: 10px; " > </ td > </ tr >
-				< tr >
-		< td  style = " color: #; width: 1%; padding-right: 5px; " align = " right " nowrap > CELULAR </ td > 		< td > < input  name = " c112683 " maxlength = " 255 " type = " texto " class = " inputtext1 " >
-		</ td >
-		</ tr >
-		< tr > < td  colspan = " 2 " style = " height: 10px; " > </ td > </ tr >
-		</ tbody >
-</ tabla >
+<table style="border:0px;width:1%;" class="somb" align="center">
+<tr><td style="padding:30px;">
+<form name="form1" id="form1">
+<div id="dcontactar">
+<table class="tresponsive" align="center">
+<tbody>
+		<tr>
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>NOMBRE</td>		<td><input name="c112680" maxlength="255" type="text" class="inputtext1">
+		</td>
+		</tr>
+		<tr><td colspan="2" style="height:10px;"></td></tr>
+				<tr>
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>APELLIDO</td>		<td><input name="c112681" maxlength="255" type="text" class="inputtext1">
+		</td>
+		</tr>
+		<tr><td colspan="2" style="height:10px;"></td></tr>
+				<tr>
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>CIUDAD</td>		<td><input name="c112682" maxlength="255" type="text" class="inputtext1">
+		</td>
+		</tr>
+		<tr><td colspan="2" style="height:10px;"></td></tr>
+				<tr>
+		<td style="color:#;width:1%;padding-right:5px;" align="right" nowrap>CELULAR</td>		<td><input name="c112683" maxlength="255" type="text" class="inputtext1">
+		</td>
+		</tr>
+		<tr><td colspan="2" style="height:10px;"></td></tr>
+		</tbody>
+</table>
 
-< div  align = " center " style = " margin-top: 30px; " >
-< button  class = " boton1 " id = " btnenv " type = " submit " > Enviar </ button >
-< img  id = " loader " src = " ../app-creator/loader.gif " style = " display: none; " >
-</ div >
-< Br > & nbsp;
-</ div >
+<div align="center" style="margin-top:30px;">
+<button class="boton1" id="btnenv" type="submit">Enviar</button>
+<img id="loader" src="../app-creator/loader.gif" style="display:none;">
+</div>
+<br>&nbsp;
+</div>
 
-< div  id = " enviado " class = " msg_ok " style = " display: none; color: #; white-space: nowrap; " align = " center " >
-El formulario se ha enviado correctamente. </ div >
+<div id="enviado" class="msg_ok" style="display:none;color:#;white-space:nowrap;" align="center">
+El formulario se ha enviado correctamente.</div>
 
-</ td > </ tr >
-</ tabla >
-</ formulario >
-< Br > < br >
+</td></tr>
+</table>
+</form>
+<br><br>
 
 
 
-</ cuerpo >
-</ html >
+</body>
+</html>
