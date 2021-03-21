@@ -80,7 +80,7 @@ main {
 main .contenido p {
 	margin-bottom: 20px;
 	line-height: 30px;
-	color: #525151;
+	color: #c2bebe;
 }
 
 main .contenido .titulo {
@@ -91,7 +91,7 @@ main .contenido .titulo {
 
 main .contenido .fecha {
 	font-size: 14px;
-	color: #B5B5B5;
+	color: #ffffff;
 }
 
 /* * ============================== */
@@ -114,7 +114,7 @@ aside .titulo {
 	font-weight: normal;
 	font-size: 24px;
 	margin-bottom: 20px;
-	color: #f2f2f2;
+	color: #ffffff;
 }
 
 aside .indice a {
@@ -122,7 +122,7 @@ aside .indice a {
 	margin-bottom: 10px;
 	color: #FFCD48;
 }
-
+main .contenedor text
 /* * ============================== */
 /* * ========== FOOTER ============ */
 /* * ============================== */
