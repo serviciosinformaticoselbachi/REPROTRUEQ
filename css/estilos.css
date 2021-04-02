@@ -228,7 +228,8 @@ aside .titulo {
 aside .indice a {
 	display: block;
 	margin-bottom: 10px;
-	color: #FFCD48;
+	color: #FFCD48
+			text-decoration: none;
 }
 
 /* * ============================== */
