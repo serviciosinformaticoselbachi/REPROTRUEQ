@@ -1,35 +1,43 @@
 #EXTM3U
+
+
+#EXTINF:-1,Canal4_URU
+https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
+
+#EXTINF:-1,Canal10_URU.m3u8
+https://edge-live14-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+
+#EXTINF:-1,Canal12URU
+https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
+
+
+#EXTINF:-1,EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
+
+#EXTINF:-1,CANAL+
+https://livefocamundo.com:8081/8670/index.m3u8
+
+
+
+
+
+
+----------------------------------------------------------
+----------------------------------------------------------
 #EXTINF:-1,LA 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
 #EXTINF:-1,TEM
 http://91.126.141.201:1935/live/ten/chunklist_w1621225582.m3u8
 
-#EXTINF:-1,CANAL LUZ HD
-http://g3.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-
-#EXTINF:-1,CANAL LUZ::::HD
-http://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=true
-#EXTINF:-1,PICA PIEDRAS
-http://138.201.49.141:25464/hoyplayer/hwkOZBCHe0/243?token=ShMNUhAJQwkXBwYKUQxUXAAGAVQACwgPB1ZUDwJbAQ8CBARVAFIFUVZDSBFGQUdcVgg7Xl0QCwQFVxsbQBAHS25YARFZQ1UAAENIEUFcWFwVX1UBCAIDDgRcBw0ZQRJQVRNfEVFQUAMHQ0gRUE1BXEULBVtmVlRAWAdSGw8NF1VdHUdcDT4FVlgAClcXDxcJFUlGXkpCEwxfEVtVGUEAUEVDBEcGQ1sRBFBRABcZF1pYEApDS0sTDBMxbhsZQQdBRVQLQAoODxEPQxBAFxkXUEQ6FlJKRkNTUAlSSxdZQAkTHUdeAhk+UFoPClZWQVxWWRZGDRsDBAYBRhsbWAwMUEVeF2wTCAURD0NVBwMNF0Q=
-
-
-#EXTINF:-1,VTV-G
-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/live/O2KzzbW8NY/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/62507.m3u8
-
-#EXTINF:-1,LIFE-G
-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/live/O2KzzbW8NY/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63173.m3u8
-
-#EXTINF:-1,A&N
-http://descarga-gratis-desde-playstore-gnulaplay.xyz:25461/live/O2KzzbW8NY/Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATlS-Descarga-Desde-PlayStore-Gnula-GRATIS-Descarga-Desde-PlayStore-Gnula-GRATIS-/63139.m3u8
+#EXTINF:-1,LA 1 HD
+http://live.redtraffic.xyz/interracial.m3u8
 
 #EXTINF:-1,COSMO TV
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w315126954.m3u8
 
 #EXTINF:-1,LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-
-#EXTINF:-1,ANTENA 3 HD
-http://200.54.19.131:8500/play/a0i8/index.m3u8
 
 #EXTINF:-1,DKISS
 http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
@@ -42,12 +50,6 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1,CANAL SUR A.
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
-
-#EXTINF:-1,MEGA
-http://cdn2.interlibre.net/hls/155/index.m3u8?OPT:http-reconnect=true
-
-#EXTINF:-1,DMax
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
 
 #EXTINF:-1,TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
@@ -70,47 +72,11 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8?OPT:http-reconnect=true
 #EXTINF:-1,Moda Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1,A&E
-http://200.54.19.131:8500/play/a0kt/index.m3u8
-
 #EXTINF:-1,Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1,Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1,Baby TV
-http://200.54.19.131:8500/play/a0kf/index.m3u8
-
-#EXTINF:-1,Boomerang
-http://200.54.19.131:8500/play/a0h9/index.m3u8
-
-#EXTINF:-1,Cartoon Network
-http://200.54.19.131:8500/play/a0m1/index.m3u8
-
-#EXTINF:-1,CDiscovery Kids
-http://200.54.19.131:8500/play/a0j1/index.m3u8
-
-#EXTINF:-1,CDisney Channel
-http://200.54.19.131:8500/play/a0jr/index.m3u8
-
-#EXTINF:-1,CDisney Junior
-http://200.54.19.131:8500/play/a0g5/index.m3u8
-
-#EXTINF:-1,CDisney Xd
-http://200.54.19.131:8500/play/a0js/index.m3u8
-
-#EXTINF:-1,Tooncast
-http://200.54.19.131:8500/play/a0l2/index.m3u8
-
-#EXTINF:-1,Nat Geo Kids
-http://200.54.19.131:8500/play/a0j3/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://200.54.19.131:8500/play/a0ea/index.m3u8
-
-#EXTINF:-1,Nickelodeon
-http://200.54.19.131:8500/play/a0h8/index.m3u8
 
 #EXTINF:-1,DISNEY+ web
 https://revolucionariostv.eu/MultiTV/disney+.php
@@ -118,86 +84,14 @@ https://revolucionariostv.eu/MultiTV/disney+.php
 #EXTINF:-1,LA LIGA web op2
 https://revolucionariostv.eu/directo1.php
 
-#EXTINF:-1,BT Sport 2 MotoGP eventos
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
 #EXTINF:-1,Sportschau HD
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-
-#EXTINF:-1,Sport Italia
-https://www.mytivu.it/Application/Channels/SI.php
-
-#EXTINF:-1,Sport Italia 24 LIVE
-https://www.mytivu.it/Application/Channels/SILive24.php
-
-#EXTINF:-1,ESPN
-http://200.54.19.131:8500/play/a0m5/index.m3u8
-
-#EXTINF:-1,ESPN2
-http://200.54.19.131:8500/play/a0m4/index.m3u8
-
-#EXTINF:-1,ESPN2
-http://200.54.19.131:8500/play/a0m6/index.m3u8
-
-#EXTINF:-1,ESPN 3
-http://200.54.19.131:8500/play/a0gi/index.m3u8
-
-#EXTINF:-1,BT Sport 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1,BEIN SPORT HD  1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1,BEIN SPORT HD  2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1,NBA TV
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?OPT:http-reconnect=true
-
-#EXTINF:-1,FOX SPORT HD 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX SPORT HD 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,FOX SPORT HD 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1,Fox Sport News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
-#EXTINF:-1,Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1,Premiere Football HD 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1,Premiere Football HD 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1,Premiere Football HD 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1,Premiere Football HD 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1,Premiere Football HD 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1,EDGE SPORT HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1,EDGE Sport HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-
-#EXTINF:-1,FLOW SPORTS
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1,Sport BOXING HD
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
 
 #EXTINF:-1,CombatGo HD
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
@@ -217,12 +111,6 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1,Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 
-#EXTINF:-1,FC Bayern Munchen TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-
-#EXTINF:-1,Atlanta United Fan TV
-https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
-
 #EXTINF:-1,Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 
@@ -234,9 +122,6 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 
 #EXTINF:-1,SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-
-#EXTINF:-1,Claro Sports
-http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1,Viasat Sport
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
@@ -255,9 +140,6 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 
 #EXTINF:-1,Abu Dabi Sports 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1,Abu Dabi Sports 4
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
@@ -325,9 +207,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009
 #EXTINF:-1,Pluto TV Series Retro (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1,pluto tv navidad
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
 #EXTINF:-1,mtv Originals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
@@ -342,9 +221,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c777823000073
 
 #EXTINF:-1,MTV Cribs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
-#EXTINF:-1,mtv hits navidad
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1,Comedia made in Spain
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -391,12 +267,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073
 #EXTINF:-1,Pluto TV Animakids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
-#EXTINF:-1,kids navidad es
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c54853000797a5e6/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
-#EXTINF:-1,Pluto TV Kids Halloween
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-
 #EXTINF:-1,Big Time Rush
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 
@@ -409,9 +279,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a05000073
 #EXTINF:-1,HqM Spanish
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
 
-#EXTINF:-1,HqM Latin
-https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-
 #EXTINF:-1,HqM Rock
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 
@@ -420,12 +287,6 @@ https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master
 
 #EXTINF:-1,HqM Hip Hop
 https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-
-#EXTINF:-1,HqM Dance
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-
-#EXTINF:-1,HqM Classic
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
 
 #EXTINF:-1,HqM Chill Out
 https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
@@ -436,17 +297,8 @@ https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master
 #EXTINF:-1,HqM Baladas
 https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
 
-#EXTINF:-1,Telemusica
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8?OPT:http-reconnect=true
-
 #EXTINF:-1,MUSICA TV LATINA
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
-
-#EXTINF:-1,EuroLatina TV
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?OPT:http-reconnect=true
-
-#EXTINF:-1,TOP Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
 #EXTINF:-1,Music Top esp
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?OPT:http-reconnect=true
@@ -460,20 +312,8 @@ http://root:@81.30.182.82:18092/hls/live.m3u8?OPT:http-reconnect=true
 #EXTINF:-1,V2Beat TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
 
-#EXTINF:-1,MOOZ
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/167.m3u8/Level(545259)?start=LIVE&end=END
-
-#EXTINF:-1,MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/167.m3u8/Level(545259)?start=LIVE&end=END
-
-#EXTINF:-1,MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/167.m3u8/Level(545259)?start=LIVE&end=END
-
 #EXTINF:-1,RUTV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?OPT:http-reconnect=true
-
-#EXTINF:-1,SONG TV HD (Russia)
-http://songtvru.ru:8060/hd/playlist.m3u8?OPT:http-reconnect=true
 
 #EXTINF:-1,DJing Live
 https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
@@ -489,9 +329,6 @@ https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
 
 #EXTINF:-1,30A Music
 http://30a-tv.com/music.m3u8?OPT:http-reconnect=true
-
-#EXTINF:-1,Gospel Music 4U
-https://ch.iptvmate.net/5e9338a3b3bdf92f6965c645.m3u8
 
 #EXTINF:-1,1 Music Channel
 https://ch.iptvmate.net/5e9331579e40b826c37faf32.m3u8
@@ -514,15 +351,8 @@ http://ott-linear-channels.stingray.com/hls/index/128.m3u8
 #EXTINF:-1,Greatest Hits
 http://ott-linear-channels.stingray.com/hls/index/133.m3u8
 
-#EXTINF:-1,http://181.114.232.66:8000/play/a00l/index. m3u8
-http://181.114.232.66:8000/play/a00l/index.%20m3u8
-http://181.114.232.66:8000/play/a00m/index.m3u8
-
 #EXTINF:-1,0043 / SPACE SD
 http://181.114.232.66:8000/play/a016/index.m3u8
-
-#EXTINF:-1,MONTEMORIAH TV
-http://intelintec.com.ar:9090/hls/canal9pinamar.m3u8
 
 #EXTINF:-1,Canal4_URU
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
@@ -532,9 +362,6 @@ https://edge-live14-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_
 
 #EXTINF:-1,Canal12URU
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
-
-#EXTINF:-1,ESPN
-https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
 
 #EXTINF:-1,TV  PERU
 https://cdnh4.iblups.com/hls/irtp.m3u8
@@ -548,152 +375,8 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1,DKISS
 http://91.126.141.201:1935/live/kiss/chunklist_w894084640.m3u8
 
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.nousiptv.com:8080/Lucy/123456/3247
-#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
-http://tv.nousiptv.com:8080/Lucy/123456/3083
-
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
-http://tv.nousiptv.com:8080/Lucy/123456/3251
-
-#EXTINF:-1,MyC - HGTV
-http://tv.nousiptv.com:8080/Lucy/123456/3252
-
-#EXTINF:-1,MyC - DISCOVERY ID
-http://tv.nousiptv.com:8080/Lucy/123456/4123
-
-#EXTINF:-1,MyC - DISCOVERY SCIENCE
-http://tv.nousiptv.com:8080/Lucy/123456/3082
-
-#EXTINF:-1,MyC - DISCOVERY THEATER
-http://tv.nousiptv.com:8080/Lucy/123456/4119
-
-#EXTINF:-1,MyC - DISCOVERY TLC
-http://tv.nousiptv.com:8080/Lucy/123456/3256
-
-#EXTINF:-1,MyC - DISCOVERY WORLD
-http://tv.nousiptv.com:8080/Lucy/123456/3081
-
-#EXTINF:-1,MyC - DW LATINOAMERICA
-http://tv.nousiptv.com:8080/Lucy/123456/2102
-
-#EXTINF:-1,MyC - FILM & ARTS
-http://tv.nousiptv.com:8080/Lucy/123456/3966
-
-#EXTINF:-1,MyC - FRANCE 24
-http://tv.nousiptv.com:8080/Lucy/123456/33357
-
-#EXTINF:-1,MyC - H2
-http://tv.nousiptv.com:8080/Lucy/123456/4005
-
-#EXTINF:-1,MyC - HISPAN TV
-http://tv.nousiptv.com:8080/Lucy/123456/33481
-
-#EXTINF:-1,MyC - HISTORY
-http://tv.nousiptv.com:8080/Lucy/123456/3234
-
-
-#EXTINF:-1,URU - TELE12 FHD
-http://tv.nousiptv.com:8080/Lucy/123456/3620
-
-#EXTINF:-1,URU - TELE12 SD
-http://tv.nousiptv.com:8080/Lucy/123456/18578
-
-#EXTINF:-1,URU - CANAL 4 HD
-http://tv.nousiptv.com:8080/Lucy/123456/8334
-
-#EXTINF:-1,URU - CANAL 4 SD
-http://tv.nousiptv.com:8080/Lucy/123456/18261
-
-#EXTINF:-1,URU - CANAL 10 HD
-http://tv.nousiptv.com:8080/Lucy/123456/18567
-
-#EXTINF:-1,URU - CANAL 10 SD
-http://tv.nousiptv.com:8080/Lucy/123456/3344
-
-#EXTINF:-1,URU - CANAL 5 (TNU)
-http://tv.nousiptv.com:8080/Lucy/123456/19351
-
-#EXTINF:-1,URU - LA RED
-http://tv.nousiptv.com:8080/Lucy/123456/35428
-
-#EXTINF:-1,URU - TV CIUDAD SD
-http://tv.nousiptv.com:8080/Lucy/123456/16136
-
-#EXTINF:-1,URU - TV CIUDAD HD
-http://tv.nousiptv.com:8080/Lucy/123456/19352
-
-#EXTINF:-1,URU - DEL SOL TV
-http://tv.nousiptv.com:8080/Lucy/123456/34605
-
-#EXTINF:-1,URU - VTV FHD
-http://tv.nousiptv.com:8080/Lucy/123456/3802
-
-#EXTINF:-1,URU - VTV HD
-http://tv.nousiptv.com:8080/Lucy/123456/22204
-
-#EXTINF:-1,URU - VTV SD
-http://tv.nousiptv.com:8080/Lucy/123456/3598
-
-#EXTINF:-1,URU - VTV Plus HD
-http://tv.nousiptv.com:8080/Lucy/123456/19354
-
-#EXTINF:-1,URU - VTV Plus SD
-http://tv.nousiptv.com:8080/Lucy/123456/52513
-
-#EXTINF:-1,URU - ESPN URUGUAY HD
-http://tv.nousiptv.com:8080/Lucy/123456/3621
-
-#EXTINF:-1,URU - DIRECTV SPORTS URUGUAY
-http://tv.nousiptv.com:8080/Lucy/123456/2041
-
-#EXTINF:-1,URU - MAROÑAS ENTERTAIMENT (PRUEBA)
-http://tv.nousiptv.com:8080/Lucy/123456/31618
-
-#EXTINF:-1,URU - PPV URUGUAY 1
-http://tv.nousiptv.com:8080/Lucy/123456/3226
-#EXTINF:-1,CINE - HBO XTREME
-http://tv.nousiptv.com:8080/Lucy/123456/44341
-#EXTINF:-1,URU - PPV URUGUAY 2
-http://tv.nousiptv.com:8080/Lucy/123456/7943
-
-#EXTINF:-1,FHD - HBO 2
-http://tv.nousiptv.com:8080/Lucy/123456/4095
-
-#EXTINF:-1,FHD - HBO FAMILY
-http://tv.nousiptv.com:8080/Lucy/123456/3211
-
-#EXTINF:-1,FHD - HBO HD
-http://tv.nousiptv.com:8080/Lucy/123456/4112
-
-#EXTINF:-1,FHD - HISTORY
-http://tv.nousiptv.com:8080/Lucy/123456/4093
-
-#EXTINF:-1,FHD - HBO PLUS
-http://tv.nousiptv.com:8080/Lucy/123456/4109
-#EXTINF:-1,URU - PPV URUGUAY 3
-http://tv.nousiptv.com:8080/Lucy/123456/43600
-
-#EXTINF:-1,URU - CANAL M (TEST)
-http://tv.nousiptv.com:8080/Lucy/123456/34608
-
-#EXTINF:-1,ENT - DEL SOL TV
-http://tv.nousiptv.com:8080/Lucy/123456/34603
-
-#EXTINF:-1,ENT - EWTN
-http://tv.nousiptv.com:8080/Lucy/123456/34609
-
-#EXTINF:-1,US.SP - ESPN U
-http://tv.nousiptv.com:8080/Lucy/123456/34602
-
-#EXTINF:-1,URU - CANAL 7 PUNTA (TEST)
-http://tv.nousiptv.com:8080/Lucy/123456/34607
-
 #EXTINF:-1,DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
-
-#EXTINF:-1,CANAL+
-https://livefocamundo.com:8081/8670/index.m3u8
