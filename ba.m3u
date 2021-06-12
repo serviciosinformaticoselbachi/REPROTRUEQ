@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,DHE
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1,Canal4_URU
 https://cdn.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating/Canal4_URU.m3u8
