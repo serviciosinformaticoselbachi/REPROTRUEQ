@@ -36,6 +36,7 @@ body {
 	text-align: center;
 	color: #000;
 	transition: .3s ease-out all;
+	
 }
 
 .navbar a:hover {
@@ -81,6 +82,8 @@ main .contenido p {
 	margin-bottom: 20px;
 	line-height: 30px;
 	color: #c2bebe;
+	display: block;
+	margin-bottom: 10px;
 }
 
 main .contenido .titulo {
@@ -112,7 +115,7 @@ aside {
 aside .titulo {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 24px;
 	margin-bottom: 20px;
 	color: #ffffff;
 }
