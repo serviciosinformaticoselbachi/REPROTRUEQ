@@ -1,104 +1,34 @@
-
 <!DOCTYPE html>
 <html>
-<body class="back-row-toggle splat-toggle">
+<body>
 <div class="se-pre-con"></div>
 </head>
-<script type="text/javascript" src="../../../inc/js/jquery.min.js"></script>
-<link href='widgets.css?r=2nj0hph4' media="screen" rel="stylesheet" type="text/css">
-<link href='skin/flatie.jplayer.skin.css?r=8boemcts' media="screen" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="skin/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="skin/flatie.jplayer.skin.min.js"></script>
-<link href='animate.css' media="screen" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../../inc/fontaw/css/font-awesome.css">
+<script type="text/javascript" src="../../inc/js/jquery.min.js"></script>
+<link rel="stylesheet" href='dj_widget.css?r=bioxj5ak'>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" href="../../../inc/images/spfav2.ico" />
 </head>
+
 <script>
-var ts = new Date().getTime();
 $(window).on('load', function(){ $(".se-pre-con").fadeOut("slow"); });
-
-$(function () {
-    var body = $('body');
-    var backgrounds = [
-      'url(images/dj1.jpg)',
-      'url(images/dj2.jpg)'];
-    var current = 0;
-
-    function nextBackground() {
-        body.css(
-            'background',
-        backgrounds[current = ++current % backgrounds.length]);
-
-        setTimeout(nextBackground, 20000);
-    }
-    setTimeout(nextBackground, 20000);
-    body.css('background', backgrounds[0]);
-});
-
-function animateCSS(element, animationName, callback) {
-if (!document.hidden) {
-    const node = document.querySelector(element)
-    node.classList.add('animated', animationName)
-
-    function handleAnimationEnd() {
-        node.classList.remove('animated', animationName)
-        node.removeEventListener('animationend', handleAnimationEnd)
-
-        if (typeof callback === 'function') callback()
-    }
-
-    node.addEventListener('animationend', handleAnimationEnd)
-}
-
-}
-
+var ts = new Date().getTime();
 $(document).ready(function(){
-$.post("art.php",{ NoCache: ts, user: 'servicios', rsys: "scv26", port: "8210" } ,function(data){ $("#art").html(data); animateCSS('#artimg', 'jello') });
+$.post("art.php",{ NoCache: ts, user: 'servicios' } ,function(data){ $("#art").html(data); });
 intervalart = setInterval(function() {
-$.post("art.php",{ NoCache: ts, user: 'servicios', rsys: "scv26", port: "8210" } ,function(data){ $("#art").html(data); });
-}, 20000);
-
+$.post("art.php",{ NoCache: ts, user: 'servicios' } ,function(data){ $("#art").html(data); });
+}, 10000);
 });
 
-</script>
-
-
-
-
-
-
-<script type="text/javascript">
-	$(document).ready(function() {
-	$('#player1').flatie({
-	media: {
-	mp3: "https://sonic.tvcontrolcp.com/8210/stream"
-	},
-	solution: 'html, flash',
-	supplied: "mp3",
-	preload: 'auto',
-	autoplay: true,
-	volume: '1.0'
-
-	});
-
-	}); // Document
-
-window.setInterval("reloadIFrame();", 20000);
-function reloadIFrame() {
- document.getElementById("djcard").src=djcard.src;
-}
 
 </script>
 
-    </head>
-        <div style="display: block; margin: 0 auto; margin-top: 100px; max-width: 600px;">
+<div class="framedj" style="width: 599px;">
 
-            <!-- Player Container Div -->
-            <span id="art"><img src="images/art2.gif" border="0"></span>
-                        <div id="player1" class="jPlayer audioPlayer light" style='border-radius: 10px;'></div>
-            <iframe id="djcard" src="../../../widgets/dj/?p=8210&internal=yes" width="600" align="center" scrolling="no" style="border:none;"></iframe>
 
-        </div>
+
+<center>There is no DJ on air.</center>
+
+</div>
 
 </body>
 </html>
