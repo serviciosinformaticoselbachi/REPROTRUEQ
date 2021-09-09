@@ -1,64 +1,21 @@
-﻿<!DOCTYPE html>
-<head><title></title></head>
-<body>
-
-<html lang="en">
-    <head>
-        <meta charset=utf-8/>
+  <title>Your title</title>
+      
+    
+      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+      <script src="https://unpkg.com/video.js/dist/video.js"></script>
+      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+       
     </head>
     <body>
-
-
-        
-        <!-- CSS  -->
- <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
-
-
-<!-- HTML -->
-<video id='hls-example'  class="video-js vjs-default-skin" width="400" height="300" controls>
-<source type="application/x-mpegURL" src="http://sudaka.link:25461/live/Rosendo/123456/17376.m3u8">
-</video>
-
-
-<!-- JS code -->
-<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-<script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
-<script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
-
-<script>
-var player = videojs('hls-example');
-player.play();
-</script>
-        
-
-
-   
- <header>
-            <nav class="navbar">
-                <div class="contenedor">
-                    <a href="https://servicioselbachi.com/">Inicio</a>
-                   
-     </i>
-    </a>
-            </nav >
-        
-
-
-<p>               <br/>
-                 
-   
-
-  <center><h1 style="color: red;"><b>DALE PLAY
-HASTA QUE 
-CARGUE
-DEMORA UNOS SEGUNDOS EN CARGAR<b></center>
-         <br/>
-</head>
-<body>
-
- </body>
-</html>
-
-</body>
-</html>
+      <video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"
+      data-setup='{}'>
+        <source src="http://sudaka.link:25461/live/Rosendo/123456/17376.m3u8" type="application/x-mpegURL">
+      </video>
+      
+    <script>
+    var player = videojs('my_video_1');
+    player.play();
+    </script>
+      
+    </body>
+    </html>
