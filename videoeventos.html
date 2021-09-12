@@ -9,30 +9,13 @@
     <body>
 
 
-
-
-
-.video-responsive {
-position: relative;
-padding-bottom: 56.25%; /* 16/9 ratio */
-padding-top: 30px; /* IE6 workaround*/
-height: 0;
-overflow: hidden;
-}
-
-.video-responsive iframe,
-.video-responsive object,
-.video-responsive embed {
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-}
-<pre><div class="”video-responsive”">
-<iframe  src="https://servicioselbachi.com/SOLO%20EVENTOS_VIDEO_APP.mp4?raw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
-<pre>
+<video width=100, height=auto,>
+  <source src="https://servicioselbachi.com/SOLO%20EVENTOS_VIDEO_APP.mp4?raw" type="video/mp4" />
+  <source src="video.webm" type="video/webm" />
+  <source src="video.ogv" type="video/ogg" />
+  <img src="imagen.png" alt="Video no soportado" />
+  Su navegador no soporta contenido multimedia.
+</video>
 
  </body>
 </html>
