@@ -1,4 +1,6 @@
-﻿<head>
+<HTML>	 	 
+ 	<HEAD>	 
+ 	 	<head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta charset="utf-8">
 <title>Seven FM online</title>
@@ -13,19 +15,12 @@
 <meta property="og:url" content="https://servicioselbachi.com/Sevenfmonline" />
 <meta property="og:image" content="https://raw.githubusercontent.com/serviciosinformaticoselbachi/REPROTRUEQ/master/IMAGES/logo_seven_radio.jpeg" />
 <meta property="og:description" content="WALTER APECETCHE" />
-    </head>
-    <body>
-
-
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://api.whatsapp.com/send?phone=59898300271&text=ESCUCHO LA RADIO" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
-  
-   <br/>
-  <title>Seven FM online</title>
-    <style type="text/css">
+		<link rel="shortcut icon" href="https://...">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+ 	
+		<meta property="og:image" content="https://sientemefm.com.uy/logo_sienteme.png" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+ <style type="text/css">
 	    .float{
 	position:fixed;
 	width:60px;
@@ -53,135 +48,47 @@ body {
   background-color: #000000;
 }
 </style>
-
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-     <script type="text/javascript" src="js/jquery.js"></script>
-     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
-    
-  <script type="text/javascript">
-      
-        $(document).ready(function(){
-            var stream = {
-            title: "Seven FM online",
-            mp3: "https://sonic.tvcontrolcp.com/8148/stream"
-        },
-        ready = false;
-          $("#jquery_jplayer_1").jPlayer({
-          ready: function (event) {
-            ready = true;
-                $(this).jPlayer("setMedia", stream).jPlayer("play");
   
-            },
-            pause: function() {
-                $(this).jPlayer("clearMedia");
-            },
-            error: function(event) {
-                if(ready && event.jPlayer.error.type === $.jPlayer.error.URL_NOT_SET) {
-                    
-                    $(this).jPlayer("setMedia", stream).jPlayer("play");
-                }
-            },
-            swfPath: "/js",
-            supplied: "mp3",
-            preload: "none",
-            wmode: "window",
-            keyEnabled: true,
-            cssSelectorAncestor: "",
-            cssSelector: {
-            play: "#play",
-            pause: "#pause",
-            },
-        });
-      });
-    </script>
-      
-
-</head>
-<body>
-
-  
-          <div align="left"></div>
-          <div align="left"></div>
-          <div id="player">
-          
-                <a href="javascript:;" id="play"></a><a href="javascript:;" id="pause"></a>
-                <div id="titulo">
-                <h3>Seven FM Online</h3>
-                </div>
-              
-                 
-                 <div id="song" class="song"><marquee scrollamount="4" behavior="scroll" direction="left"><span id="current-track">COMUNICATE +598 98 300 271</span></marquee></div>
-
-                
-                <div id="animation">
-                  <div align="left"><img src="img/ecualizador.gif" alt="efec" width="220" height="52
-"></div>
-                </div>
-
-                <div style="text-align:center; padding-top: 160px;">
-                 <ul style="list-style:none; text-align:center; padding-left:0;">
-                 <li style="display:inline;"><a target="_blank" href="https://www.facebook.com/"><img src="iconos-sociales/facebook.png" border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.twitter.com/"><img src="iconos-sociales/twitter.png" border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://wa.me/+59898300271?text=ESCUCHO LA RADIO"><img src="iconos-sociales/google.png" border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://www.youtube.com/channel/"><img src="iconos-sociales/youtube.png" 94911721border="0"/></a></li>
-                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.instagram.com/"><img src="iconos-sociales/instagram.png" border="0"/></a></li></ul>
-                </div>
-                
-</div>
-          
-  
-  
-      <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-          
-<script type="text/javascript">
-function radioTitle()
-{
-$.ajax({
-    url: 'current-song.php',
-    type: 'GET',
-    cache: false,
-    success: function(result) {
-    $('#current-track').html(result);
-    
-    }
-});
-
-}
-
-setTimeout(function(){radioTitle();}, 2000);
-setInterval(function(){radioTitle();}, 10000);
-</script>                
-<br/>
-<tr/>
-
-
-<div align="center">
-<p><a href="https://play.google.com/store/apps/">
-<img src="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/logoGOOGLEPLAY.png?raw=true" alt="GOOGLEPLAY" width="220px" height="auto"margin="1%"></p>
-<p>
-	<tr>                 
-   </div>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-
- <br/>
-   <br/>
-	<div align="center">
-						   <td width="1px" align="center">
-							<font face="Arial">
-							<a href="https://api.whatsapp.com/send/?phone=59893422446&text=QUIERO%20TENER%20MI%20RADIO%20ONLINE" 
-	class="claudio_01"><span style="text-decoration: none"><font color="#FF0000">QUIERO TENER MI RADIO ONLINE</font></span></a></font></td>
+	
+	</HEAD>	
+	
+ 	<BODY>	 
+		<a href="https://api.whatsapp.com/send?phone=59898300271&text=ESCUCHO SEVEN ONLINE" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+ 	
+		
+<iframe src="https://aplicacionplay.stream/app/d467fcab92266d46?app-multi=1636721464" width="100%" height="100%"></iframe>
+ 	</BODY>	 
+</HTML>
+ 	 <br/>
+ 
 	<hr>
 
+
+	<hr><div align="center">
+			  <br/>
+	
+							<font face="Arial">
+							<a href="" 
+	class="claudio_01"><span style="text-decoration: none"><font color="#FF0000">DESCARGA NUESTRA APP</font></span></a></font></td>
+	<hr>
+
+	
+ 
+	
+<a href="https://aplicacionplay.stream/app/d467fcab92266d46" target="_blank"><img src="https://aplicacionplay.stream/img/img-instalar-app-android.png" width="150" height="48" /></a>
+<a href="https://aplicacionplay.stream/app/d467fcab92266d46" target="_blank"><img src="https://aplicacionplay.stream/img/img-instalar-app-iphone.png" width="150" height="48" /></a>
+<a href="https://aplicacionplay.stream/app/d467fcab92266d46" target="_blank"><img src="https://aplicacionplay.stream/img/img-instalar-app-windows.png" width="150" height="48" /></a>
+ <br/>
+	<font face="Arial">
+							<a href="" 
+	class="claudio_01"><span style="text-decoration: none"><font color="#FF0000"></font></span></a></font></td>
+	<hr>
+
+	
+	<div align="center">
+						   
 	<a href="https://servicioselbachi.com/"
 	<a href="#">Powered by Servicios Informáticos 2021</a>
 		 
@@ -190,6 +97,7 @@ setInterval(function(){radioTitle();}, 10000);
 	 </a>
 	 </div>
 	 
+
 	</p>
 						 
    <p>
