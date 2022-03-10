@@ -1,783 +1,234 @@
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24694
-#EXTINF:-1,URUGUAY | CANAL 10
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24599
-#EXTINF:-1,URUGUAY | CANAL 4
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24600
-#EXTINF:-1,URUGUAY | CANAL TELE12
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24601
-#EXTINF:-1,URUGUAY | TNU
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24602
-#EXTINF:-1,URUGUAY | A + V
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24603
-#EXTINF:-1,URUGUAY | VTV
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24609
-#EXTINF:-1,URUGUAY | VTV +
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24610
-#EXTINF:-1,URUGUAY | CANAL 10 SD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24658
-#EXTINF:-1,URUGUAY | TV CIUDAD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24660
-#EXTINF:-1,URUGUAY | A+V
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24662
-#EXTINF:-1,URUGUAY | CANAL 4 PAYSANDU
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24663
-#EXTINF:-1,URUGUAY | CANAL 4 SALTO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24664
-#EXTINF:-1,URUGUAY | CANAL 11
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24665
-#EXTINF:-1,URUGUAY | CANAL TNU
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24666
-#EXTINF:-1,URUGUAY | CANAL TELE12 SD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24675
-#EXTINF:-1,URUGUAY |  LA RED
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24677
-#EXTINF:-1,URUGUAY | TELEDOCE HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24659
-#EXTINF:-1,URUGUAY | VTV HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24661
-#EXTINF:-1,URUGUAY | CANAL 10 HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24667
-#EXTINF:-1,URUGUAY | CANAL 4HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24668
-#EXTINF:-1,URUGUAY | VTV PLUS HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24671
-#EXTINF:-1,URUGUAY | TNU  HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24672
-#EXTINF:-1,URUGUAY | CANAL 4 FHD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24674
+
 #EXTINF:-1,CANAL 11
 https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1348414388.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDk6MDg6NTcgUE0maGFzaF92YWx1ZT1KbHNZWDIwVjkxWHdYbnNzc3hINXZnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/CANAL+.m3u8
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
-#EXTINF:-1,SP
+
 #EXTINF:-1, ESPN 3
 https://edge2.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
-#EXTINF:-1,LA 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1,TV3
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1,EDGE SPORT HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1,EDGE Sport HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1,Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1,Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1,Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1,MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1,ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1,Pluto TV Cine Terror (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Estelar (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Accion (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Comedia (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Drama (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Series Retro (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Realities
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Natura
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,MTV Embarazada a los 16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,HqM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1,HqM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1,HqM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1,HqM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:-1,HqM Chill Out
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:-1,HqM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:-1,HqM Baladas
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1,V2Beat TV EN
-https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Live
-https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Hits
-https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Dancefloor
-https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Underground
-https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Ditty TV
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,TV  PERU
-https://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,CINE SD | STAR LIFE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24216
-#EXTINF:-1,CINE SD | MOVISTAR SERIE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24262
-#EXTINF:-1,CINE SD | MOVISTAR ESTRENO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24263
+
+
+
+#EXTINF:-1,URUGUAY | CANAL 10
+http://tv.wolkplay.com:8880/box3/box3/24599
+#EXTINF:-1,URUGUAY | CANAL 4
+http://tv.wolkplay.com:8880/box3/box3/24600
+#EXTINF:-1,URUGUAY | CANAL TELE12
+http://tv.wolkplay.com:8880/box3/box3/24601
+#EXTINF:-1,URUGUAY | TNU
+http://tv.wolkplay.com:8880/box3/box3/24602
+#EXTINF:-1,URUGUAY | A + V
+http://tv.wolkplay.com:8880/box3/box3/24603
+#EXTINF:-1,URUGUAY | VTV
+http://tv.wolkplay.com:8880/box3/box3/24609
+#EXTINF:-1,URUGUAY | VTV +
+http://tv.wolkplay.com:8880/box3/box3/24610
+#EXTINF:-1,URUGUAY | CANAL 10 SD
+http://tv.wolkplay.com:8880/box3/box3/24658
+#EXTINF:-1,URUGUAY | TV CIUDAD
+http://tv.wolkplay.com:8880/box3/box3/24660
+#EXTINF:-1,URUGUAY | A+V
+http://tv.wolkplay.com:8880/box3/box3/24662
+#EXTINF:-1,URUGUAY | CANAL 4 PAYSANDU
+http://tv.wolkplay.com:8880/box3/box3/24663
+#EXTINF:-1,URUGUAY | CANAL 4 SALTO
+http://tv.wolkplay.com:8880/box3/box3/24664
+#EXTINF:-1,URUGUAY | CANAL 11
+http://tv.wolkplay.com:8880/box3/box3/24665
+#EXTINF:-1,URUGUAY | CANAL TNU
+http://tv.wolkplay.com:8880/box3/box3/24666
+#EXTINF:-1,URUGUAY | CANAL TELE12 SD
+http://tv.wolkplay.com:8880/box3/box3/24675
+#EXTINF:-1,URUGUAY |  LA RED
+http://tv.wolkplay.com:8880/box3/box3/24677
+#EXTINF:-1,URUGUAY | TELEDOCE HD
+http://tv.wolkplay.com:8880/box3/box3/24659
+#EXTINF:-1,URUGUAY | VTV HD
+http://tv.wolkplay.com:8880/box3/box3/24661
+#EXTINF:-1,URUGUAY | CANAL 10 HD
+http://tv.wolkplay.com:8880/box3/box3/24667
+#EXTINF:-1,URUGUAY | CANAL 4HD
+http://tv.wolkplay.com:8880/box3/box3/24668
+#EXTINF:-1,URUGUAY | VTV PLUS HD
+http://tv.wolkplay.com:8880/box3/box3/24671
+#EXTINF:-1,URUGUAY | TNU  HD
+http://tv.wolkplay.com:8880/box3/box3/24672
+#EXTINF:-1,URUGUAY | CANAL 4 FHD
 #EXTINF:-1,CINE SD | STAR CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24299
+http://tv.wolkplay.com:8880/box3/box3/24215
+#EXTINF:-1,CINE SD | STAR LIFE
+http://tv.wolkplay.com:8880/box3/box3/24216
+#EXTINF:-1,CINE SD | MOVISTAR SERIE
+http://tv.wolkplay.com:8880/box3/box3/24262
+#EXTINF:-1,CINE SD | MOVISTAR ESTRENO
+http://tv.wolkplay.com:8880/box3/box3/24263
+#EXTINF:-1,CINE SD | STAR CHANNEL
+http://tv.wolkplay.com:8880/box3/box3/24299
 #EXTINF:-1,CINE HD  | STAR CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24300
+http://tv.wolkplay.com:8880/box3/box3/24300
 #EXTINF:-1,CINE FHD  | STAR CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24304
+http://tv.wolkplay.com:8880/box3/box3/24304
 #EXTINF:-1,CINE SD  | STAR LIFE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24305
+http://tv.wolkplay.com:8880/box3/box3/24305
 #EXTINF:-1,CINE HD  | STAR LIFE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24307
+http://tv.wolkplay.com:8880/box3/box3/24307
 #EXTINF:-1,CINE FULL HD | STAR CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24525
+http://tv.wolkplay.com:8880/box3/box3/24525
 #EXTINF:-1,CINE SD | HBO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24230
+http://tv.wolkplay.com:8880/box3/box3/24230
 #EXTINF:-1,CINE SD | HBO 2
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24231
+http://tv.wolkplay.com:8880/box3/box3/24231
 #EXTINF:-1,CINE SD | HBO FAMILY
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24232
+http://tv.wolkplay.com:8880/box3/box3/24232
 #EXTINF:-1,CINE SD | HBO PLUS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24233
+http://tv.wolkplay.com:8880/box3/box3/24233
 #EXTINF:-1,CINE SD | HBO SIGNATURE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24234
+http://tv.wolkplay.com:8880/box3/box3/24234
 #EXTINF:-1,CINE SD | HBO POP
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24240
+http://tv.wolkplay.com:8880/box3/box3/24240
 #EXTINF:-1,CINE HD  | HBO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24308
+http://tv.wolkplay.com:8880/box3/box3/24308
 #EXTINF:-1,CINE HD  | HBO PLUS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24309
+http://tv.wolkplay.com:8880/box3/box3/24309
 #EXTINF:-1,CINE HD  | HBO 2
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24310
+http://tv.wolkplay.com:8880/box3/box3/24310
 #EXTINF:-1,CINE HD  | HBO FAMILY
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24311
+http://tv.wolkplay.com:8880/box3/box3/24311
 #EXTINF:-1,CINE HD  | HBO +
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24312
+http://tv.wolkplay.com:8880/box3/box3/24312
 #EXTINF:-1,CINE HD  | HBO SIGNATURE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24313
+http://tv.wolkplay.com:8880/box3/box3/24313
 #EXTINF:-1,CINE HD  | HBO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24314
+http://tv.wolkplay.com:8880/box3/box3/24314
 #EXTINF:-1,CINE FULL HD | HBO HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24532
+http://tv.wolkplay.com:8880/box3/box3/24532
 #EXTINF:-1,CINE FULL HD | HBO 2 HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24533
+http://tv.wolkplay.com:8880/box3/box3/24533
 #EXTINF:-1,HBO FAMILY HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24534
+http://tv.wolkplay.com:8880/box3/box3/24534
 #EXTINF:-1,HBO MUNDI HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24535
+http://tv.wolkplay.com:8880/box3/box3/24535
 #EXTINF:-1,HBO PLUS HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24536
+http://tv.wolkplay.com:8880/box3/box3/24536
 #EXTINF:-1,HBO POP HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24537
+http://tv.wolkplay.com:8880/box3/box3/24537
 #EXTINF:-1,HBO SIGNATURE HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24538
+http://tv.wolkplay.com:8880/box3/box3/24538
 #EXTINF:-1,HBO XTREME
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24539
+http://tv.wolkplay.com:8880/box3/box3/24539
 #EXTINF:-1,CINE SD | A&E
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24194
+http://tv.wolkplay.com:8880/box3/box3/24194
 #EXTINF:-1,CINE SD | AMC
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24195
+http://tv.wolkplay.com:8880/box3/box3/24195
 #EXTINF:-1,CINE SD | AXN
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24197
+http://tv.wolkplay.com:8880/box3/box3/24197
 #EXTINF:-1,CINE SD | CINECANAL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24198
+http://tv.wolkplay.com:8880/box3/box3/24198
 #EXTINF:-1,CINE SD | CINEMAX
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24199
+http://tv.wolkplay.com:8880/box3/box3/24199
 #EXTINF:-1,CINE SD | FX
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24223
+http://tv.wolkplay.com:8880/box3/box3/24223
 #EXTINF:-1,CINE SD | FXM
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24224
+http://tv.wolkplay.com:8880/box3/box3/24224
 #EXTINF:-1,CINE SD | GOLDEN
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24227
+http://tv.wolkplay.com:8880/box3/box3/24227
 #EXTINF:-1,CINE SD | GOLDEN EDGE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24228
+http://tv.wolkplay.com:8880/box3/box3/24228
 #EXTINF:-1,CINE SD | GOLDEN PLUS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24229
+http://tv.wolkplay.com:8880/box3/box3/24229
 #EXTINF:-1,CINE SD | PARAMOUNT CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24243
+http://tv.wolkplay.com:8880/box3/box3/24243
 #EXTINF:-1,CINE SD | SONY
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24245
+http://tv.wolkplay.com:8880/box3/box3/24245
 #EXTINF:-1,CINE SD | SPACE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24246
+http://tv.wolkplay.com:8880/box3/box3/24246
 #EXTINF:-1,CINE SD | STUDIO UNIVERSAL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24247
+http://tv.wolkplay.com:8880/box3/box3/24247
 #EXTINF:-1,CINE SD | SYFY
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24249
+http://tv.wolkplay.com:8880/box3/box3/24249
 #EXTINF:-1,CINE SD | TBS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24250
+http://tv.wolkplay.com:8880/box3/box3/24250
 #EXTINF:-1,CINE SD | TCM
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24251
+http://tv.wolkplay.com:8880/box3/box3/24251
 #EXTINF:-1,CINE SD | TNT
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24255
+http://tv.wolkplay.com:8880/box3/box3/24255
 #EXTINF:-1,CINE SD  | TNT SERIES
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24256
+http://tv.wolkplay.com:8880/box3/box3/24256
 #EXTINF:-1,CINE SD | UNIVERSAL CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24259
+http://tv.wolkplay.com:8880/box3/box3/24259
 #EXTINF:-1,CINE SD | WARNER
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24260
+http://tv.wolkplay.com:8880/box3/box3/24260
 #EXTINF:-1,CINE SD | DE PELICULA PLUS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24261
+http://tv.wolkplay.com:8880/box3/box3/24261
 #EXTINF:-1,CINE SD | SHOWTIME BEYONC
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24726
+http://tv.wolkplay.com:8880/box3/box3/24726
 #EXTINF:-1,CINE SD | SHOWTIME LATINO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24727
+http://tv.wolkplay.com:8880/box3/box3/24727
 #EXTINF:-1,CINE SD | SHOWTIME EAST
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24728
+http://tv.wolkplay.com:8880/box3/box3/24728
 #EXTINF:-1,CINE SD | SHOWTIME WEST
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24730
+http://tv.wolkplay.com:8880/box3/box3/24730
 #EXTINF:-1,CINE SD | STARZ
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24731
+http://tv.wolkplay.com:8880/box3/box3/24731
 #EXTINF:-1,CINE SD | STARZ COMEDY
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24734
+http://tv.wolkplay.com:8880/box3/box3/24734
 #EXTINF:-1,CINE SD | CINEMA DINAMITA
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24736
+http://tv.wolkplay.com:8880/box3/box3/24736
 #EXTINF:-1,CINE SD | CINELATINO
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24737
+http://tv.wolkplay.com:8880/box3/box3/24737
 #EXTINF:-1,CINE HD  | A&E
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24294
+http://tv.wolkplay.com:8880/box3/box3/24294
 #EXTINF:-1,CINE HD  | AMC
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24295
+http://tv.wolkplay.com:8880/box3/box3/24295
 #EXTINF:-1,CINE HD  | AXN
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24296
+http://tv.wolkplay.com:8880/box3/box3/24296
 #EXTINF:-1,CINE HD  | CINECANAL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24297
+http://tv.wolkplay.com:8880/box3/box3/24297
 #EXTINF:-1,CINE HD  | CINEMAX
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24298
+http://tv.wolkplay.com:8880/box3/box3/24298
 #EXTINF:-1,CINE HD  | PARAMOUT
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24315
+http://tv.wolkplay.com:8880/box3/box3/24315
 #EXTINF:-1,CINE HD  | SONY
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24317
+http://tv.wolkplay.com:8880/box3/box3/24317
 #EXTINF:-1,CINE HD  | SPACE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24318
+http://tv.wolkplay.com:8880/box3/box3/24318
 #EXTINF:-1,CINE HD  | SPACE
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24319
+http://tv.wolkplay.com:8880/box3/box3/24319
 #EXTINF:-1,CINE HD  | TNT
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24320
+http://tv.wolkplay.com:8880/box3/box3/24320
 #EXTINF:-1,CINE HD | TNT SERIES
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24321
+http://tv.wolkplay.com:8880/box3/box3/24321
 #EXTINF:-1,CINE HD  | WARNER CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24322
+http://tv.wolkplay.com:8880/box3/box3/24322
 #EXTINF:-1,CINE FULL HD | A&E HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24519
+http://tv.wolkplay.com:8880/box3/box3/24519
 #EXTINF:-1,CINE FULL HD | AMC HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24520
+http://tv.wolkplay.com:8880/box3/box3/24520
 #EXTINF:-1,CINE FULL HD | AXN HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24521
+http://tv.wolkplay.com:8880/box3/box3/24521
 #EXTINF:-1,CINE FULL HD | CINECANAL HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24522
+http://tv.wolkplay.com:8880/box3/box3/24522
 #EXTINF:-1,CINE FULL HD | CINEMAX HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24523
+http://tv.wolkplay.com:8880/box3/box3/24523
 #EXTINF:-1,CINE FULL HD | FX HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24524
+http://tv.wolkplay.com:8880/box3/box3/24524
 #EXTINF:-1,CINE FULL HD | SPACE HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24540
+http://tv.wolkplay.com:8880/box3/box3/24540
 #EXTINF:-1,CINE FULL HD | SONY HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24541
+http://tv.wolkplay.com:8880/box3/box3/24541
 #EXTINF:-1,CINE FULL HD | SYFY 
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24542
+http://tv.wolkplay.com:8880/box3/box3/24542
 #EXTINF:-1,CINE FULL HD | TCM 
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24543
+http://tv.wolkplay.com:8880/box3/box3/24543
 #EXTINF:-1,CINE FULL HD | TNT SERIES HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24544
+http://tv.wolkplay.com:8880/box3/box3/24544
 #EXTINF:-1,CINE FULL HD | TNT HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24545
+http://tv.wolkplay.com:8880/box3/box3/24545
 #EXTINF:-1,CINE FULL HD | UNIVERSAL CHANNEL HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24546
+http://tv.wolkplay.com:8880/box3/box3/24546
 #EXTINF:-1,CINE FULL HD | STUDIO UNIVERSAL HD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24547
+http://tv.wolkplay.com:8880/box3/box3/24547
 #EXTINF:-1,CINE FULL HD | WARNER HD
-#EXTINF:-1,INFANTILES SD | NICK JR
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24269
-#EXTINF:-1,INFANTILES SD | NICKTOONS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24271
-#EXTINF:-1,INFANTILES SD | DISCOVERY KIDS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24272
-#EXTINF:-1,INFANTILES SD | CARTOON NETWORK
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24273
-#EXTINF:-1,INFANTILES SD | TEEN NICK
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24280
-#EXTINF:-1,INFANTILES SD | NICK
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24281
-#EXTINF:-1,INFANTILES SD | DISNEY JR
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24282
-#EXTINF:-1,INFANTILES SD | DISNEY CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24292
-#EXTINF:-1,INFANTIL PREMIUM | BABY TV
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24359
-#EXTINF:-1,INFANTIL PREMIUM| CARTOONITO 
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24360
-#EXTINF:-1,INFANTIL PREMIUM | CARTOON NETWORK
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24361
-#EXTINF:-1,INFANTIL PREMIUM | DISCOVERY KIDS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24362
-#EXTINF:-1,INFANTIL PREMIUM | DISNEY CHANNEL
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24363
-#EXTINF:-1,INFANTIL PREMIUM | DISNEY JUNIOR
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24364
-#EXTINF:-1,INFANTIL HD | DISNEY XD
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24365
-#EXTINF:-1,INFANTIL HD | NATGEO KIDS
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24366
-#EXTINF:-1,INFANTIL HD | NICK
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24367
-#EXTINF:-1,INFANTIL PREMIUM | NICK 2 TEAM NICK
-http://tv.wolkplay.com:8880/Ricardo/Ricardo/24368
-#EXTINF:-1,INFANTIL PREMIUM | NICK JR
-
-#EXTINF:-1, Real Madrid vs PSG
-
-https://315c.short.gy/Campeones
-
-#EXTINF:-1, ESPN 2
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8?per
-#EXTINF:-1, ESPN 2HD
-
-http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-
-#EXTINF:-1,Fox Sports
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1,Fox2 Sports
-https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-
-#EXTINF:-1, AR | DEPORTV
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
-#EXTINF:-1, DISNEY CHANNEL
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
-#EXTINF:-1, NICKELODEON
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-#EXTINF:-1, CARTOON NETWORK
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
-#EXTINF:-1, STAR CHANNEL
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
-#EXTINF:-1, CINECANAL
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
-#EXTINF:-1, FX
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
-#EXTINF:-1, FXM
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/TheFilmZoneHD.mpd
-#EXTINF:-1, SPACE
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-#EXTINF:-1, TNT
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
-#EXTINF:-1, AMC
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
-#EXTINF:-1, TNT SERIES
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
-#EXTINF:-1, CIUDAD MAGAZINE
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
-#EXTINF:-1, TRU TV
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
-#EXTINF:-1, DISCOVERY CHANNEL LAT.
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
-#EXTINF:-1, NATGEO LAT.
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
-#EXTINF:-1, NATGEO WILD LAT.
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
-#EXTINF:-1, VOICE OF AMERICA
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
-#EXTINF:-1, BLOOMBERG
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
-#EXTINF:-1, UCL
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_2A/Canal_U.mpd
-#EXTINF:-1, DISCOVERY HOME & HEALTH
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
-#EXTINF:-1, FOX SPORTS PREMIUM
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-#EXTINF:-1, TNT SPORTS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-#EXTINF:-1, HBO
-https://edge-vod01-hr.cvattv.com.ar///live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
-#EXTINF:-1, STAR SERIES
-https://edge-vod02-hr.cvattv.com.ar//live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
-#EXTINF:-1, STAR ACTION
-https://edge-vod01-sl.cvattv.com.ar///live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd
-#EXTINF:-1, STAR HITS
-https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
-#EXTINF:-1, RCC CHAQUEÑA HD
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
-
-#EXTINF:-1, 5 DIAS PY HD
-https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd
-
-#EXTINF:-1, SNT HD
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd
-
-#EXTINF:-1, TV CAMARA HD
-https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd
-
-#EXTINF:-1, SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w528788289.m3u8
-
-#EXTINF:-1, SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w229410749.m3u8
-
-#EXTINF:-1, CRISTAL TV HD
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/chunklist_w1404718741.m3u8
-
-#EXTINF:-1, 24 Horas (España)
-https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
-
-#EXTINF:-1, AMC
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
-
-#EXTINF:-1, América
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
-
-#EXTINF:-1, Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
-#EXTINF:-1, Bloomberg
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
-
-#EXTINF:-1, Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
-
-#EXTINF:-1, Cartoon Network
-https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
-
-#EXTINF:-1, Cinecanal
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
-
-#EXTINF:-1, DeporTV
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
-
-#EXTINF:-1, Discovery Channel
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
-
-#EXTINF:-1, Discovery H&H
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
-
-#EXTINF:-1, Disney Channel
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
-
-#EXTINF:-1, Eitb Basque
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
-#EXTINF:-1, ESPN
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
-#EXTINF:-1, ESPN 3
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
-
-#EXTINF:-1, ESPN Extra
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
-
-#EXTINF:-1, El Gourmet
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
-
-#EXTINF:-1, El Trece
-https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
-
-#EXTINF:-1, Elnueve
-https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
-
-#EXTINF:-1, FX
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
-
-#EXTINF:-1, FXM
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/TheFilmZoneHD.mpd
-
-#EXTINF:-1, Fox Sports
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
-
-#EXTINF:-1, Fox Sports 2
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
-
-#EXTINF:-1, Fox Sports 3
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
-
-#EXTINF:-1, Fox Sports Premium
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-
-#EXTINF:-1, Francia 24 En español
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1, HBO
-https://edge-vod01-hr.cvattv.com.ar///live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
-
-#EXTINF:-1, Información Periodística
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
-#EXTINF:-1, Música CIMA
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
-
-#EXTINF:-1, National Geographic
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
-
-#EXTINF:-1, NatGeo Wild
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
-
-#EXTINF:-1, Nickelodeon
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-
-#EXTINF:-1, Revista Ciudad
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
-
-#EXTINF:-1, Space
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-
-#EXTINF:-1, Star Action
-https://edge-vod01-sl.cvattv.com.ar///live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd
-
-#EXTINF:-1, Star Channel
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
-
-#EXTINF:-1, Star Hits
-https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
-
-#EXTINF:-1, Star Series
-https://edge-vod02-hr.cvattv.com.ar//live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
-
-#EXTINF:-1, TN Todo Noticias
-https://chromecast.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
-
-#EXTINF:-1, TNT
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
-
-#EXTINF:-1, TNT Series
-https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
-
-#EXTINF:-1, TNT Sports
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
-#EXTINF:-1, TV Pública
-https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
-
-#EXTINF:-1, Telefe
-https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1,TV3
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1,EDGE SPORT HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1,EDGE Sport HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1,Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1,Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1,Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1,MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1,ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1,Pluto TV Cine Terror (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Estelar (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Accion (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Comedia (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Drama (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Series Retro (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Realities
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Natura#EXTM3U
-#EXTINF:-1,EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1937253052.m3u8
-#EXTINF:-1,LA 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1,TV3
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1,EDGE SPORT HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1,EDGE Sport HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1,Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1,Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1,Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1,MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1,ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1,Pluto TV Cine Terror (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Estelar (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Accion (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Comedia (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Cine Drama (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Series Retro (Latino)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Realities
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,Pluto TV Natura
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,MTV Embarazada a los 16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,HqM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1,HqM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1,HqM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1,HqM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:-1,HqM Chill Out
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:-1,HqM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:-1,HqM Baladas
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1,V2Beat TV EN
-https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Live
-https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Hits
-https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Dancefloor
-https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Underground
-https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Ditty TV
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,TV  PERU
-https://cdnh4.iblups.com/hls/irtp.m3u8
-
-
-#EXTINF:-1, Real Madrid vs PSG
-
-https://315c.short.gy/Campeones
-
-#EXTINF:-1, ESPN 2HD
-
-http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-
-#EXTINF:-1,Fox Sports
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-
-
-#EXTINF:-1, AR | DEPORTV
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
-#EXTINF:-1, DISNEY CHANNEL
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
-#EXTINF:-1, NICKELODEON
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-#EXTINF:-1, CARTOON NETWORK
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
-#EXTINF:-1, STAR CHANNEL
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
-#EXTINF:-1, CINECANAL
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
-#EXTINF:-1, FX
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
-#EXTINF:-1, FXM
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/TheFilmZoneHD.mpd
-#EXTINF:-1, SPACE
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-#EXTINF:-1, TNT
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
-#EXTINF:-1, AMC
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
-#EXTINF:-1, TNT SERIES
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
-#EXTINF:-1, CIUDAD MAGAZINE
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
-#EXTINF:-1, TRU TV
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
-#EXTINF:-1, DISCOVERY CHANNEL LAT.
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
-#EXTINF:-1, NATGEO LAT.
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
-#EXTINF:-1, NATGEO WILD LAT.
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
-#EXTINF:-1, VOICE OF AMERICA
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
-#EXTINF:-1, BLOOMBERG
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
-#EXTINF:-1, UCL
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_2A/Canal_U.mpd
-#EXTINF:-1, DISCOVERY HOME & HEALTH
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
-#EXTINF:-1, FOX SPORTS PREMIUM
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-#EXTINF:-1, TNT SPORTS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-#EXTINF:-1, HBO
-https://edge-vod01-hr.cvattv.com.ar///live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
-#EXTINF:-1, STAR SERIES
-https://edge-vod02-hr.cvattv.com.ar//live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
-#EXTINF:-1, STAR ACTION
-https://edge-vod01-sl.cvattv.com.ar///live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd
-#EXTINF:-1, STAR HITS
-https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,MTV Embarazada a los 16
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1,HqM Spanish
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1,HqM Rock
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1,HqM Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1,HqM Hip Hop
-https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:-1,HqM Chill Out
-https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
-#EXTINF:-1,HqM Blues
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
-#EXTINF:-1,HqM Baladas
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1,V2Beat TV EN
-https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Live
-https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Hits
-https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Dancefloor
-https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,DJing Underground
-https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,Ditty TV
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
-#EXTINF:-1,TV  PERU
-https://cdnh4.iblups.com/hls/irtp.m3u8
+http://tv.wolkplay.com:8880/box3/box3/24548
