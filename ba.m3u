@@ -1,6 +1,309 @@
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
+#EXTINF:-1,LA 2#EXTM3U
+#EXTINF:-1, Space
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
+#EXTINF:-1,EXTREMA TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1937253052.m3u8
 #EXTINF:-1,LA 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+#EXTINF:-1,TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1,EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,EDGE Sport HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1,CombatGo HD
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1,Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1,Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1,MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1,Pluto TV Cine Terror (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Estelar (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Accion (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Comedia (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Cine Drama (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Series Retro (Latino)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Realities
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,Pluto TV Natura
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,MTV Embarazada a los 16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
+#EXTINF:-1,HqM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1,HqM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1,HqM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1,HqM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:-1,HqM Chill Out
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1,HqM Blues
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1,HqM Baladas
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1,V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Live
+https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Hits
+https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,DJing Underground
+https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
+#EXTINF:-1,TV  PERU
+https://cdnh4.iblups.com/hls/irtp.m3u8
+
+
+#EXTINF:-1, Real Madrid vs PSG
+
+https://315c.short.gy/Campeones
+
+#EXTINF:-1, ESPN 2
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8?per
+#EXTINF:-1, ESPN 2HD
+
+http://edge3-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+
+#EXTINF:-1,Fox Sports
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1,Fox2 Sports
+https://edge-live15-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+
+#EXTINF:-1, AR | DEPORTV
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
+#EXTINF:-1, DISNEY CHANNEL
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
+#EXTINF:-1, NICKELODEON
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+#EXTINF:-1, CARTOON NETWORK
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+#EXTINF:-1, STAR CHANNEL
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
+#EXTINF:-1, CINECANAL
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
+#EXTINF:-1, FX
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
+#EXTINF:-1, FXM
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/TheFilmZoneHD.mpd
+#EXTINF:-1, SPACE
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
+#EXTINF:-1, TNT
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+#EXTINF:-1, AMC
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
+#EXTINF:-1, TNT SERIES
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
+#EXTINF:-1, CIUDAD MAGAZINE
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
+#EXTINF:-1, TRU TV
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
+#EXTINF:-1, DISCOVERY CHANNEL LAT.
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
+#EXTINF:-1, NATGEO LAT.
+https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
+#EXTINF:-1, NATGEO WILD LAT.
+https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
+#EXTINF:-1, VOICE OF AMERICA
+https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+#EXTINF:-1, BLOOMBERG
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
+#EXTINF:-1, UCL
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_2A/Canal_U.mpd
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
+#EXTINF:-1, FOX SPORTS PREMIUM
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+#EXTINF:-1, TNT SPORTS
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+#EXTINF:-1, HBO
+https://edge-vod01-hr.cvattv.com.ar///live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
+#EXTINF:-1, STAR SERIES
+https://edge-vod02-hr.cvattv.com.ar//live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
+#EXTINF:-1, STAR ACTION
+https://edge-vod01-sl.cvattv.com.ar///live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd
+#EXTINF:-1, STAR HITS
+https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
+#EXTINF:-1, RCC CHAQUEÑA HD
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:-1, 5 DIAS PY HD
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd
+
+#EXTINF:-1, SNT HD
+https://edge-live13-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd
+
+#EXTINF:-1, TV CAMARA HD
+https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc_2A/TV_Camara.mpd
+
+#EXTINF:-1, SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w528788289.m3u8
+
+#EXTINF:-1, SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w229410749.m3u8
+
+#EXTINF:-1, CRISTAL TV HD
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/chunklist_w1404718741.m3u8
+
+#EXTINF:-1, 24 Horas (España)
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
+
+#EXTINF:-1, AMC
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
+
+#EXTINF:-1, América
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+
+#EXTINF:-1, Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:-1, Bloomberg
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd
+
+#EXTINF:-1, Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+
+#EXTINF:-1, Cartoon Network
+https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+
+#EXTINF:-1, Cinecanal
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
+
+#EXTINF:-1, DeporTV
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
+
+#EXTINF:-1, Discovery Channel
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
+
+#EXTINF:-1, Discovery H&H
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
+
+#EXTINF:-1, Disney Channel
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
+
+#EXTINF:-1, Eitb Basque
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1, ESPN
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
+#EXTINF:-1, ESPN 3
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+#EXTINF:-1, ESPN Extra
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
+
+#EXTINF:-1, El Gourmet
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+
+#EXTINF:-1, El Trece
+https://edge-vod01-sl.cvattv.com.ar//live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
+
+#EXTINF:-1, Elnueve
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
+
+#EXTINF:-1, FX
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
+
+#EXTINF:-1, FXM
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_Live_dash_enc_2A/TheFilmZoneHD.mpd
+
+#EXTINF:-1, Fox Sports
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+#EXTINF:-1, Fox Sports 2
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
+#EXTINF:-1, Fox Sports 3
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+
+#EXTINF:-1, Fox Sports Premium
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1, Francia 24 En español
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, HBO
+https://edge-vod01-hr.cvattv.com.ar///live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
+
+#EXTINF:-1, Información Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1, Música CIMA
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1419102664_b2028000_sleng.m3u8
+
+#EXTINF:-1, National Geographic
+https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
+
+#EXTINF:-1, NatGeo Wild
+https://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
+
+#EXTINF:-1, Nickelodeon
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+
+#EXTINF:-1, Revista Ciudad
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
+
+#EXTINF:-1, Space
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
+
+#EXTINF:-1, Star Action
+https://edge-vod01-sl.cvattv.com.ar///live/c3eds/FoxActionHD/SA_Live_dash_enc_2A/FoxActionHD.mpd
+
+#EXTINF:-1, Star Channel
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
+
+#EXTINF:-1, Star Hits
+https://edge-vod03-hr.cvattv.com.ar///live/c3eds/FoxMoviesHD/SA_Live_dash_enc_2A/FoxMoviesHD.mpd
+
+#EXTINF:-1, Star Series
+https://edge-vod02-hr.cvattv.com.ar//live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
+
+#EXTINF:-1, TN Todo Noticias
+https://chromecast.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
+
+#EXTINF:-1, TNT
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+
+#EXTINF:-1, TNT Series
+https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
+
+#EXTINF:-1, TNT Sports
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:-1, TV Pública
+https://edge-vod02-hr.cvattv.com.ar////live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
+
+#EXTINF:-1, Telefe
+https://chromecast.cvattv.com.ar////live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1,TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
