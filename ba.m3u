@@ -1,13 +1,59 @@
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24694
+#EXTINF:-1,URUGUAY | CANAL 10
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24599
+#EXTINF:-1,URUGUAY | CANAL 4
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24600
+#EXTINF:-1,URUGUAY | CANAL TELE12
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24601
+#EXTINF:-1,URUGUAY | TNU
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24602
+#EXTINF:-1,URUGUAY | A + V
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24603
+#EXTINF:-1,URUGUAY | VTV
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24609
+#EXTINF:-1,URUGUAY | VTV +
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24610
+#EXTINF:-1,URUGUAY | CANAL 10 SD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24658
+#EXTINF:-1,URUGUAY | TV CIUDAD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24660
+#EXTINF:-1,URUGUAY | A+V
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24662
+#EXTINF:-1,URUGUAY | CANAL 4 PAYSANDU
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24663
+#EXTINF:-1,URUGUAY | CANAL 4 SALTO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24664
+#EXTINF:-1,URUGUAY | CANAL 11
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24665
+#EXTINF:-1,URUGUAY | CANAL TNU
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24666
+#EXTINF:-1,URUGUAY | CANAL TELE12 SD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24675
+#EXTINF:-1,URUGUAY |  LA RED
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24677
+#EXTINF:-1,URUGUAY | TELEDOCE HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24659
+#EXTINF:-1,URUGUAY | VTV HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24661
+#EXTINF:-1,URUGUAY | CANAL 10 HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24667
+#EXTINF:-1,URUGUAY | CANAL 4HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24668
+#EXTINF:-1,URUGUAY | VTV PLUS HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24671
+#EXTINF:-1,URUGUAY | TNU  HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24672
+#EXTINF:-1,URUGUAY | CANAL 4 FHD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24674
 #EXTINF:-1,CANAL 11
 https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1348414388.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDk6MDg6NTcgUE0maGFzaF92YWx1ZT1KbHNZWDIwVjkxWHdYbnNzc3hINXZnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/CANAL+.m3u8
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
-#EXTINF:-1,LA 2#EXTM3U
-#EXTINF:-1, Space
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-
+#EXTINF:-1,SP
+#EXTINF:-1, ESPN 3
+https://edge2.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1,LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1,TV3
@@ -82,7 +128,216 @@ https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
 #EXTINF:-1,TV  PERU
 https://cdnh4.iblups.com/hls/irtp.m3u8
-
+#EXTINF:-1,CINE SD | STAR LIFE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24216
+#EXTINF:-1,CINE SD | MOVISTAR SERIE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24262
+#EXTINF:-1,CINE SD | MOVISTAR ESTRENO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24263
+#EXTINF:-1,CINE SD | STAR CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24299
+#EXTINF:-1,CINE HD  | STAR CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24300
+#EXTINF:-1,CINE FHD  | STAR CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24304
+#EXTINF:-1,CINE SD  | STAR LIFE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24305
+#EXTINF:-1,CINE HD  | STAR LIFE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24307
+#EXTINF:-1,CINE FULL HD | STAR CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24525
+#EXTINF:-1,CINE SD | HBO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24230
+#EXTINF:-1,CINE SD | HBO 2
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24231
+#EXTINF:-1,CINE SD | HBO FAMILY
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24232
+#EXTINF:-1,CINE SD | HBO PLUS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24233
+#EXTINF:-1,CINE SD | HBO SIGNATURE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24234
+#EXTINF:-1,CINE SD | HBO POP
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24240
+#EXTINF:-1,CINE HD  | HBO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24308
+#EXTINF:-1,CINE HD  | HBO PLUS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24309
+#EXTINF:-1,CINE HD  | HBO 2
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24310
+#EXTINF:-1,CINE HD  | HBO FAMILY
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24311
+#EXTINF:-1,CINE HD  | HBO +
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24312
+#EXTINF:-1,CINE HD  | HBO SIGNATURE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24313
+#EXTINF:-1,CINE HD  | HBO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24314
+#EXTINF:-1,CINE FULL HD | HBO HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24532
+#EXTINF:-1,CINE FULL HD | HBO 2 HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24533
+#EXTINF:-1,HBO FAMILY HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24534
+#EXTINF:-1,HBO MUNDI HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24535
+#EXTINF:-1,HBO PLUS HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24536
+#EXTINF:-1,HBO POP HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24537
+#EXTINF:-1,HBO SIGNATURE HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24538
+#EXTINF:-1,HBO XTREME
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24539
+#EXTINF:-1,CINE SD | A&E
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24194
+#EXTINF:-1,CINE SD | AMC
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24195
+#EXTINF:-1,CINE SD | AXN
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24197
+#EXTINF:-1,CINE SD | CINECANAL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24198
+#EXTINF:-1,CINE SD | CINEMAX
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24199
+#EXTINF:-1,CINE SD | FX
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24223
+#EXTINF:-1,CINE SD | FXM
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24224
+#EXTINF:-1,CINE SD | GOLDEN
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24227
+#EXTINF:-1,CINE SD | GOLDEN EDGE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24228
+#EXTINF:-1,CINE SD | GOLDEN PLUS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24229
+#EXTINF:-1,CINE SD | PARAMOUNT CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24243
+#EXTINF:-1,CINE SD | SONY
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24245
+#EXTINF:-1,CINE SD | SPACE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24246
+#EXTINF:-1,CINE SD | STUDIO UNIVERSAL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24247
+#EXTINF:-1,CINE SD | SYFY
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24249
+#EXTINF:-1,CINE SD | TBS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24250
+#EXTINF:-1,CINE SD | TCM
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24251
+#EXTINF:-1,CINE SD | TNT
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24255
+#EXTINF:-1,CINE SD  | TNT SERIES
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24256
+#EXTINF:-1,CINE SD | UNIVERSAL CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24259
+#EXTINF:-1,CINE SD | WARNER
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24260
+#EXTINF:-1,CINE SD | DE PELICULA PLUS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24261
+#EXTINF:-1,CINE SD | SHOWTIME BEYONC
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24726
+#EXTINF:-1,CINE SD | SHOWTIME LATINO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24727
+#EXTINF:-1,CINE SD | SHOWTIME EAST
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24728
+#EXTINF:-1,CINE SD | SHOWTIME WEST
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24730
+#EXTINF:-1,CINE SD | STARZ
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24731
+#EXTINF:-1,CINE SD | STARZ COMEDY
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24734
+#EXTINF:-1,CINE SD | CINEMA DINAMITA
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24736
+#EXTINF:-1,CINE SD | CINELATINO
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24737
+#EXTINF:-1,CINE HD  | A&E
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24294
+#EXTINF:-1,CINE HD  | AMC
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24295
+#EXTINF:-1,CINE HD  | AXN
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24296
+#EXTINF:-1,CINE HD  | CINECANAL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24297
+#EXTINF:-1,CINE HD  | CINEMAX
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24298
+#EXTINF:-1,CINE HD  | PARAMOUT
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24315
+#EXTINF:-1,CINE HD  | SONY
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24317
+#EXTINF:-1,CINE HD  | SPACE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24318
+#EXTINF:-1,CINE HD  | SPACE
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24319
+#EXTINF:-1,CINE HD  | TNT
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24320
+#EXTINF:-1,CINE HD | TNT SERIES
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24321
+#EXTINF:-1,CINE HD  | WARNER CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24322
+#EXTINF:-1,CINE FULL HD | A&E HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24519
+#EXTINF:-1,CINE FULL HD | AMC HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24520
+#EXTINF:-1,CINE FULL HD | AXN HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24521
+#EXTINF:-1,CINE FULL HD | CINECANAL HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24522
+#EXTINF:-1,CINE FULL HD | CINEMAX HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24523
+#EXTINF:-1,CINE FULL HD | FX HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24524
+#EXTINF:-1,CINE FULL HD | SPACE HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24540
+#EXTINF:-1,CINE FULL HD | SONY HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24541
+#EXTINF:-1,CINE FULL HD | SYFY 
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24542
+#EXTINF:-1,CINE FULL HD | TCM 
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24543
+#EXTINF:-1,CINE FULL HD | TNT SERIES HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24544
+#EXTINF:-1,CINE FULL HD | TNT HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24545
+#EXTINF:-1,CINE FULL HD | UNIVERSAL CHANNEL HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24546
+#EXTINF:-1,CINE FULL HD | STUDIO UNIVERSAL HD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24547
+#EXTINF:-1,CINE FULL HD | WARNER HD
+#EXTINF:-1,INFANTILES SD | NICK JR
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24269
+#EXTINF:-1,INFANTILES SD | NICKTOONS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24271
+#EXTINF:-1,INFANTILES SD | DISCOVERY KIDS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24272
+#EXTINF:-1,INFANTILES SD | CARTOON NETWORK
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24273
+#EXTINF:-1,INFANTILES SD | TEEN NICK
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24280
+#EXTINF:-1,INFANTILES SD | NICK
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24281
+#EXTINF:-1,INFANTILES SD | DISNEY JR
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24282
+#EXTINF:-1,INFANTILES SD | DISNEY CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24292
+#EXTINF:-1,INFANTIL PREMIUM | BABY TV
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24359
+#EXTINF:-1,INFANTIL PREMIUM| CARTOONITO 
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24360
+#EXTINF:-1,INFANTIL PREMIUM | CARTOON NETWORK
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24361
+#EXTINF:-1,INFANTIL PREMIUM | DISCOVERY KIDS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24362
+#EXTINF:-1,INFANTIL PREMIUM | DISNEY CHANNEL
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24363
+#EXTINF:-1,INFANTIL PREMIUM | DISNEY JUNIOR
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24364
+#EXTINF:-1,INFANTIL HD | DISNEY XD
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24365
+#EXTINF:-1,INFANTIL HD | NATGEO KIDS
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24366
+#EXTINF:-1,INFANTIL HD | NICK
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24367
+#EXTINF:-1,INFANTIL PREMIUM | NICK 2 TEAM NICK
+http://tv.wolkplay.com:8880/Ricardo/Ricardo/24368
+#EXTINF:-1,INFANTIL PREMIUM | NICK JR
 
 #EXTINF:-1, Real Madrid vs PSG
 
