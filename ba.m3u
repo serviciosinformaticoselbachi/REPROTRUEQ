@@ -1,10 +1,10 @@
+#EXTINF:-1,CANAL+
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
 #EXTINF:-1,LA 2#EXTM3U
 #EXTINF:-1, Space
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-#EXTINF:-1,EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1937253052.m3u8
+
 #EXTINF:-1,LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1,TV3
