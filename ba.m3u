@@ -1,3 +1,128 @@
+#EXTINF:-1,TELEDOCE
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1,QUIERO MÚSICA
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+#EXTINF:-1,C9 ARG.
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+#EXTINF:-1,13 TV HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#EXTINF:-1,AMERICA
+https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#EXTINF:-1,LaTele
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+#EXTINF:-1,MTV
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+
+#EXTINF:-1,VOLVER
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Volver/SA_SAGEMCOM/Volver.m3u8
+
+#EXTINF:-1,HBO Signature
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+#EXTINF:-1,HBO Mundi
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1,CARTOON network
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#EXTINF:-1,TBS
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8
+
+#EXTINF:-1,Fx
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
+#EXTINF:-1,FX
+http://spliktv-edge2.wedrly.xyz/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
+#EXTINF:-1,FXM
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+
+#EXTINF:-1,STAR SERIES
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
+
+#EXTINF:-1,Star Hits
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
+
+#EXTINF:-1,Star channel
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1,El Gourmet
+https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
+#EXTINF:-1,TRU TV
+https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+
+#EXTINF:-1,Cosmo FHD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/16274
+
+#EXTINF:-1,Telefe HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/76277
+
+#EXTINF:-1,Telefe HD
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF:-1,TVE Star HD
+http://iptvmedia.live:8080/FM10008/ee54fb4b/31779
+
+#EXTINF:-1,Las Estrellas
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
+#EXTINF:-1,Space
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1,WOBI
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
+#EXTINF:-1,HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1,HBO
+http://spliktv-edge2.wedrly.xyz/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+
+#EXTINF:-1,HBO 2
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1,HBO 2
+http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+DiscoveryHomeHealthHD
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1,CinecanalHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1,FoxActionHD
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
+#EXTINF:-1,Universal_Channel_HD
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1,Studio_Universal
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1,Cinemax
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1,CartoonNetwork
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+#EXTINF:-1,GOLDENPLUS
+http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
+#EXTINF:-1,DisneyChannelHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1,NatGeo HD
+https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1,TNT_HD_Arg
+https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1,AMC
+https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+#EXTINF:-1,AYE
+http://51.79.18.128:8081/LATINO|AYE/LATINO|AYE/playlist.m3u8
 #EXTINF:-1,TNT SERIES HD
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 #EXTINF:-1,TNT HD
