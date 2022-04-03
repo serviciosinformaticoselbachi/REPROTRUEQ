@@ -1,11 +1,4 @@
-<!-- Paste the following into the <head>  -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
-
-<style>
- #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
- #clappr > div{ width:100%;height:100%;position: absolute;}
-</style>
-
+https://servicioselbachi.com/
 
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
