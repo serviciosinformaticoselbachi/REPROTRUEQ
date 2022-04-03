@@ -3,9 +3,6 @@ https://servicioselbachi.com/
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
-#EXTINF:-1,TELEDOCE
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-
 #EXTINF:-1, Canal 4 HD
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
@@ -15,18 +12,8 @@ https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1,CANAL 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
-
 #EXTINF:-1,Estrella TV
 https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
-
-
-#EXTINF:-1,TELEFUTURO HD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-
-#EXTINF:-1,LA TELE HD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
 #EXTINF:-1,SONY CINE
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
@@ -43,38 +30,11 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 #EXTINF:-1,TVN HD
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 
-#EXTINF:-1,HOLA TV
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
-
-#EXTINF:-1,LAS ESTRELLAS
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
-
 #EXTINF:-1,PARAMOUNT HD
 https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-1,DISCOVERY ID
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
-
 #EXTINF:-1,WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
-
-#EXTINF:-1,Discovery Channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-
-#EXTINF:-1,Nat Geo Wild
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-
-#EXTINF:-1,NATGEO
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-
-#EXTINF:-1,TBS HD
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
-
-#EXTINF:-1,TLC
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
-
-#EXTINF:-1,FX HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1,FXM
 http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
@@ -94,23 +54,8 @@ http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
 #EXTINF:-1,HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1,HBO 2 HD
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-#EXTINF:-1, HBO Family
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-
-#EXTINF:-1, HBO Pop
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-
 #EXTINF:-1,Discovery World
 https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-
-#EXTINF:-1,MEGA ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
-
-#EXTINF:-1,Syfy HD
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
 
 #EXTINF:-1,COSMO HD
 http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
@@ -148,9 +93,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.
 #EXTINF:-1, NATGEO
 https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1, NATGEO
-http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-
 #EXTINF:-1, NATGEO WILD
 https://chromecast.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
@@ -163,14 +105,8 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1,TNT ARG.
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1,CARTOON NETWORK HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-
 #EXTINF:-1,AMC HD
 https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1,AXN HD
-http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 
 #EXTINF:-1,CINECANAL HD
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
@@ -181,56 +117,17 @@ https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_UR
 #EXTINF:-1, FOX SPORTS
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-#EXTINF:-1, FOX SPORTS
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-
 #EXTINF:-1, FOX SPORTS 2
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
-#EXTINF:-1, FOX SPORTS 2
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
 
 #EXTINF:-1, FOX SPORTS 3
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1, FOX SPORTS 3
-http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
-
-#EXTINF:-1,ESPN PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-
-#EXTINF:-1,ESPN 2 PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-
-#EXTINF:-1,ESPN
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1,ESPN 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1,ESPN 4
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-
-#EXTINF:-1,ESPN EXTRA
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-
-#EXTINF:-1,TyC Sports
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
-#EXTINF:-1,TNT SPORTS
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
 #EXTINF:-1,A&E
 http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 
-#EXTINF:-1,Canal WOBI
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
-
 #EXTINF:-1,STAR CHANNEL
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1,STAR CHANNEL
-https://edge02-fdo-py.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-1,SPACE
 https://edge9-hr.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
@@ -247,140 +144,23 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD
 #EXTINF:-1,TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
-#EXTINF:-1,¡¡VOLVER
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Volver/SA_SAGEMCOM/Volver.m3u8
-
-#EXTINF:-1,¡¡MAS CHIC!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
-
-#EXTINF:-1,¡¡Ei!!
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
-
-#EXTINF:-1,¡¡TVP ARG.!!
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-
-#EXTINF:-1,¡¡C9 ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
-
 #EXTINF:-1,¡¡A13HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1,¡¡AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1,¡¡LasEstrellas
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
-
-#EXTINF:-1,ARG: Telefe HD
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-#EXTINF:-1,¡¡RPC
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-
-#EXTINF:-1,¡¡HTV
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HTV/SA_SAGEMCOM/HTV.m3u8
-
-#EXTINF:-1,¡¡QUIERO MÚSICA
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
-
-#EXTINF:-1,¡¡GOURMET
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-#EXTINF:-1,¡¡FOOD NETWORK
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-
-#EXTINF:-1,¡¡D.WORLD
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-
-#EXTINF:-1,¡¡TBS
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TBS/SA_SAGEMCOM/TBS.m3u8
-
-#EXTINF:-1,AXN HD
-http://edge02-fdo-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-
-#EXTINF:-1,¡¡Studio Universal
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
-
-#EXTINF:-1,¡¡Hbo2
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-#EXTINF:-1,¡¡HBO
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-
-#EXTINF:-1,¡¡HBO plus
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-
-#EXTINF:-1,¡¡HBO signature
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-
-#EXTINF:-1,¡¡HBO mundi
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
-
-#EXTINF:-1,¡¡Syfy
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
-
-#EXTINF:-1,¡¡TNT ARG.
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-#EXTINF:-1,¡¡Star Acción
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
-
-#EXTINF:-1,¡¡Star channel
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1,¡¡Star Hits
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
-
-#EXTINF:-1,¡¡Star Series
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
-
 #EXTINF:-1,¡¡FXM
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 
-#EXTINF:-1,¡¡Space
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
-#EXTINF:-1,¡¡AMC
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1,¡¡TCM
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TCM/SA_SAGEMCOM/TCM.m3u8
-
-#EXTINF:-1,¡¡TNT SERIES
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-
-#EXTINF:-1,¡¡UNIVERSAL CHANEL
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-
-#EXTINF:-1,¡¡FOXSPORTS PREMIUM
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
 #EXTINF:-1,¡¡FOXSPORTS
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1,¡¡FOXSPORTS 2
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-
-#EXTINF:-1,¡¡FOXSPORTS 3
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 #EXTINF:-1,¡¡ESPN
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1,¡¡ESPN 3
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-
-#EXTINF:-1,¡¡TyC Spors
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-
-#EXTINF:-1,¡¡TNT Spors
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-#EXTINF:-1,¡¡Golf
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
-
-#EXTINF:-1,¡¡Cinemax
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-1,¡¡Cinecanal
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
@@ -397,27 +177,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/Discovery
 #EXTINF:-1,¡¡NATGEOLA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1,¡¡HISTORY 2
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/History_2/SA_SAGEMCOM/History_2.m3u8
-
-#EXTINF:-1,¡¡DISCOVERY WORLD
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-
-#EXTINF:-1,¡¡DISCOVERY SCI
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
-
-#EXTINF:-1,¡¡MTV HITS
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
-
-#EXTINF:-1,¡¡MTV
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-
-#EXTINF:-1,FX
-http://spliktv-edge2.wedrly.xyz/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-
-#EXTINF:-1,STAR SERIES
-https://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
-
 #EXTINF:-1,Cosmo FHD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/16274
 
@@ -427,34 +186,17 @@ http://iptvmedia.live:8080/FM10008/ee54fb4b/76277
 #EXTINF:-1,TVE Star HD
 http://iptvmedia.live:8080/FM10008/ee54fb4b/31779
 
-#EXTINF:-1,HBO
-http://spliktv-edge2.wedrly.xyz/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-
-#EXTINF:-1,HBO 2
-http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-DiscoveryHomeHealthHD
-https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-
 #EXTINF:-1,GOLDENPLUS
 http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
 
 #EXTINF:-1,AYE
 http://51.79.18.128:8081/LATINO|AYE/LATINO|AYE/playlist.m3u8
 
-#EXTINF:-1,TNT HD
-http://spliktv-edge2.wedrly.xyz/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-
-#EXTINF:-1,HBO_2
-http://spliktv-edge2.wedrly.xyz/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
-
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/CANAL+.m3u8
 
 #EXTINF:-1,EXTREMA TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
-
-#EXTINF:-1, ESPN 3
-https://edge2.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 
 #EXTINF:-1,URUGUAY | CANAL 10
 http://tv.wolkplay.com:8880/box3/box3/24599
@@ -498,9 +240,6 @@ http://tv.wolkplay.com:8880/box3/box3/24665
 #EXTINF:-1,URUGUAY | CANAL TNU
 http://tv.wolkplay.com:8880/box3/box3/24666
 
-#EXTINF:-1,URUGUAY | CANAL TELE12 SD
-http://tv.wolkplay.com:8880/box3/box3/24675
-
 #EXTINF:-1,URUGUAY |  LA RED
 http://tv.wolkplay.com:8880/box3/box3/24677
 
@@ -522,15 +261,6 @@ http://tv.wolkplay.com:8880/box3/box3/24671
 #EXTINF:-1,URUGUAY | TNU  HD
 http://tv.wolkplay.com:8880/box3/box3/24672
 
-#EXTINF:-1,URUGUAY | CANAL 4 FHD
-
-
-#EXTINF:-1,CINE SD | STAR CHANNEL
-http://tv.wolkplay.com:8880/box3/box3/24215
-
-#EXTINF:-1,CINE SD | STAR LIFE
-http://tv.wolkplay.com:8880/box3/box3/24216
-
 #EXTINF:-1,CINE SD | MOVISTAR SERIE
 http://tv.wolkplay.com:8880/box3/box3/24262
 
@@ -545,15 +275,6 @@ http://tv.wolkplay.com:8880/box3/box3/24300
 
 #EXTINF:-1,CINE FHD  | STAR CHANNEL
 http://tv.wolkplay.com:8880/box3/box3/24304
-
-#EXTINF:-1,CINE SD  | STAR LIFE
-http://tv.wolkplay.com:8880/box3/box3/24305
-
-#EXTINF:-1,CINE HD  | STAR LIFE
-http://tv.wolkplay.com:8880/box3/box3/24307
-
-#EXTINF:-1,CINE FULL HD | STAR CHANNEL
-http://tv.wolkplay.com:8880/box3/box3/24525
 
 #EXTINF:-1,CINE SD | HBO
 http://tv.wolkplay.com:8880/box3/box3/24230
@@ -573,9 +294,6 @@ http://tv.wolkplay.com:8880/box3/box3/24234
 #EXTINF:-1,CINE SD | HBO POP
 http://tv.wolkplay.com:8880/box3/box3/24240
 
-#EXTINF:-1,CINE HD  | HBO
-http://tv.wolkplay.com:8880/box3/box3/24308
-
 #EXTINF:-1,CINE HD  | HBO PLUS
 http://tv.wolkplay.com:8880/box3/box3/24309
 
@@ -584,9 +302,6 @@ http://tv.wolkplay.com:8880/box3/box3/24310
 
 #EXTINF:-1,CINE HD  | HBO FAMILY
 http://tv.wolkplay.com:8880/box3/box3/24311
-
-#EXTINF:-1,CINE HD  | HBO +
-http://tv.wolkplay.com:8880/box3/box3/24312
 
 #EXTINF:-1,CINE HD  | HBO SIGNATURE
 http://tv.wolkplay.com:8880/box3/box3/24313
@@ -635,9 +350,6 @@ http://tv.wolkplay.com:8880/box3/box3/24199
 
 #EXTINF:-1,CINE SD | FX
 http://tv.wolkplay.com:8880/box3/box3/24223
-
-#EXTINF:-1,CINE SD | FXM
-http://tv.wolkplay.com:8880/box3/box3/24224
 
 #EXTINF:-1,CINE SD | GOLDEN
 http://tv.wolkplay.com:8880/box3/box3/24227
@@ -726,23 +438,14 @@ http://tv.wolkplay.com:8880/box3/box3/24298
 #EXTINF:-1,CINE HD  | PARAMOUT
 http://tv.wolkplay.com:8880/box3/box3/24315
 
-#EXTINF:-1,CINE HD  | SONY
-http://tv.wolkplay.com:8880/box3/box3/24317
-
 #EXTINF:-1,CINE HD  | SPACE
 http://tv.wolkplay.com:8880/box3/box3/24318
-
-#EXTINF:-1,CINE HD  | SPACE
-http://tv.wolkplay.com:8880/box3/box3/24319
 
 #EXTINF:-1,CINE HD  | TNT
 http://tv.wolkplay.com:8880/box3/box3/24320
 
 #EXTINF:-1,CINE HD | TNT SERIES
 http://tv.wolkplay.com:8880/box3/box3/24321
-
-#EXTINF:-1,CINE HD  | WARNER CHANNEL
-http://tv.wolkplay.com:8880/box3/box3/24322
 
 #EXTINF:-1,CINE FULL HD | A&E HD
 http://tv.wolkplay.com:8880/box3/box3/24519
