@@ -1,0 +1,60 @@
+1. este player sirve solo para shoutcastV2, icecastV2 CON SSL 
+2. subir los archivos en sus hosting
+3. copiar los codigos y poner los datos de su radio donde correspondan
+4. si quieres cambiar portada y logo; remplazar las imagenes de la carpeta js
+
+manual: https://radioplayer.luna-universe.com/documentation/jquery/#!/streamingtypes
+
+
+REPRODUCTOR HTML
+
+GRANDE
+<iframe frameborder='0' height='445' width='350' scrolling='no' src='https://pkdo.eskuchame.com/'></iframe>
+
+chico
+<iframe frameborder='0' height='100' width='600' scrolling='no' src='https://pkdo.eskuchame.com/'></iframe>
+
+
+
+
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/lunaradio-sincors.js"></script>
+
+<div id="lunaradio" style="width:100%; height:100%;background: #000000 url(js/portada.jpg) bottom / cover no-repeat;">loading...</div>			
+
+<script>
+$("#lunaradio").lunaradio({
+userinterface: "big", 
+backgroundcolor: "",
+fontcolor: "#ffffff",
+hightlightcolor: "#610094", 
+fontname: "Unica One", 
+googlefont: "Unica+One&display=swap", 
+fontratio: "0.4", 
+radioname: "radioaztecadihitall", 
+scroll: "true", 
+coverimage: "js/logo.jpg",
+onlycoverimage: "false",
+coverstyle: "animated",
+usevisualizer: "real", 
+visualizertype: "4", 
+metadatatechnic: "",
+ownmetadataurl: "", 
+streamurl: "https://radioenhd.com:7021", 
+streamtype: "shoutcast2", 
+icecastmountpoint: "",
+shoutcastpath: "/stream",
+shoutcastid: "1", 
+streamsuffix: "", 
+radionomyid: "", 
+radionomyapikey: "",
+radiojarid: "",  
+radiocoid: "",
+itunestoken: "1000lIPN", 
+metadatainterval: "5000", 
+volume: "100",
+debug: "false",
+autoplay: "true"
+});
+</script>
