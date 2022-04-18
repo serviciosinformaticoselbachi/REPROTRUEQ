@@ -1,3 +1,30 @@
+#EXTINF:-1,Unknown 104
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=85&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 105
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=77&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 106
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=81&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 107
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 108
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=84&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 109
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=79&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 110
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=83&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 111
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=78&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
+#EXTINF:-1,Unknown 112
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=82&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+
 #EXTINF:-1, ZAETA 10
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
