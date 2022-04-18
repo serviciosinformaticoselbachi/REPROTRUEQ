@@ -1,13 +1,13 @@
-#EXTINF:-1, Canal 10
+#EXTINF:-1, ZAETA 10
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
-#EXTINF:-1, Canal 4 HD
+#EXTINF:-1, MONTECARLOS Canal 4 
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
 #EXTINF:-1, CINECANAL
 http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
 
-#EXTINF:-1, CINECANAL
+#EXTINF:-1, CINE CANAL
 http://51.79.18.128:8081/LATINO|CINECANAL/LATINO|CINECANAL/playlist.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
@@ -196,37 +196,37 @@ https://edge9-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 #EXTINF:-1,HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1,Latino | Cartelera Premiere HD 1080P-
+#EXTINF:-1,Cartelera Premiere HD 1080P-
 http://f4.tvxweb.net:8082/9040/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | Cinemax HD- 1080P
+#EXTINF:-1,Cinemax 
 http://f4.tvxweb.net:8082/24316/video.m3u8?token=MxPReBvRE1
 
 #EXTINF:-1,Latino | HBO East HD 1080P-
 http://f4.tvxweb.net:8082/1777/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | HBO Family HD 1080P-
+#EXTINF:-1,HBO Family HD 1080P-
 http://f4.tvxweb.net:8082/18096/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | HBO Plus HD 1080P-
+#EXTINF:-1,HBO Plus HD 1080P-
 http://f4.tvxweb.net:8082/18095/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | HBO SIGNATURE HD 1080P-
+#EXTINF:-1,HBO SIGNATURE HD 1080P-
 http://f4.tvxweb.net:8082/18085/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | HBO West HD 1080P-
+#EXTINF:-1,HBO West HD 1080P-
 http://f4.tvxweb.net:8082/18094/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | IndiePlex HD 1080P-
+#EXTINF:-1,IndiePlex HD 1080P-
 http://f4.tvxweb.net:8082/35967/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | MoreMax HD 1080P-
+#EXTINF:-1,MoreMax HD 1080P-
 http://f4.tvxweb.net:8082/35972/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | MovieMax HD 1080P-
+#EXTINF:-1,Movie Max HD 1080P-
 http://f4.tvxweb.net:8082/35975/video.m3u8?token=MxPReBvRE1
 
-#EXTINF:-1,Latino | MoviePlex HD 1080P-
+#EXTINF:-1,Movie Plex HD 1080P-
 http://f4.tvxweb.net:8082/35951/video.m3u8?token=MxPReBvRE1
 
 #EXTINF:-1,Latino | OuterMax HD 1080P-
