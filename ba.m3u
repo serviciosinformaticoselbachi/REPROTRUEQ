@@ -1,5 +1,12 @@
 #EXTINF:-1, 5 EXTINFDIAS
-https://edge-live13-sl.cvattv.com.ar/live/c4eds
+#EXTINF:-1, Cine Life
+https://magselect-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, A3cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1, ATV HD
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 
 #EXTINF:-1, universal
 http://38.123.205.70:8000/play/a0bt/index.m3u8
@@ -410,4 +417,6 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/
 https://edge-live13-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
 
 https://edge-live13-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd
+
+
 
