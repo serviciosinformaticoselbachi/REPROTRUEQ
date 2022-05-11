@@ -1,3 +1,32 @@
+
+#EXTINF:-1,162 Cine Latino
+http://38.123.205.70:8000/play/a08u/index.m3u8
+#EXTINF:-1,202 STAR Channel
+http://38.123.205.70:8000/play/a08v/index.m3u8
+#EXTINF:-1,206 universal
+http://38.123.205.70:8000/play/a0bt/index.m3u8
+#EXTINF:-1,208 Sony
+http://38.123.205.70:8000/play/a0aj/index.m3u8
+#EXTINF:-1,210 WARNER
+http://38.123.205.70:8000/play/a0cf/index.m3u8
+#EXTINF:-1,214 TNT SERIES
+http://38.123.205.70:8000/play/a0da/index.m3u8
+#EXTINF:-1,216 A3 SERIES
+http://38.123.205.70:8000/play/a0b0/index.m3u8
+#EXTINF:-1,218 Antena 3
+http://38.123.205.70:8000/play/a0bu/index.m3u8
+#EXTINF:-1,222 AXN
+http://38.123.205.70:8000/play/a08w/index.m3u8
+#EXTINF:-1,224 FX
+http://38.123.205.70:8000/play/a08x/index.m3u8
+#EXTINF:-1,226 SPACE
+http://38.123.205.70:8000/play/a0cg/index.m3u8
+#EXTINF:-1,228 SYFY
+http://38.123.205.70:8000/play/a0b1/index.m3u8
+#EXTINF:-1,230 A&E
+http://38.123.205.70:8000/play/a0bv/index
+
+
 #EXTINF:-1, T
 https://player.twitch.tv/?channel=cc_x6t5x&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=0.5
 
