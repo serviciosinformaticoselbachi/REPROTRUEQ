@@ -1,4 +1,39 @@
-
+#EXTINF:-1,CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1, MONTECARLO Canal 4
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+#EXTINF:-1, ZAETA 10
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+#EXTINF:-1,101 Azteca Uno
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:-1,102 Las Estrellas
+http://38.123.205.70:8000/play/a0d4/index.m3u8
+#EXTINF:-1,103 IMAGEN
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:-1,105 canal 5
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+#EXTINF:-1,106 Canal 6 CDMX
+http://38.123.205.70:8000/play/a0bp/index.m3u8
+#EXTINF:-1,107 AZTECA 7
+http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1,111 Canal Once
+http://38.123.205.70:8000/play/a0bq/index.m3u8
+#EXTINF:-1,114 Canal 14 CDMX
+http://38.123.205.70:8000/play/a0ax/index.m3u8
+#EXTINF:-1,120 TV UNAM
+http://38.123.205.70:8000/play/a0ay/index.m3u8
+#EXTINF:-1,122 CANAL 22
+http://38.123.205.70:8000/play/a0d7/index.m3u8
+#EXTINF:-1,145 Canal del Congreso
+http://38.123.205.70:8000/play/a0az/index.m3u8
+#EXTINF:-1,152 MVS TV
+http://38.123.205.70:8000/play/a0jp/index.m3u8
+#EXTINF:-1,154 EXA TV
+http://38.123.205.70:8000/play/a0je/index.m3u8
+#EXTINF:-1,155 La Mejor TV
+http://38.123.205.70:8000/play/a0jf/index.m3u8
+#EXTINF:-1,160 Multi Premier
+http://38.123.205.70:8000/play/a0ce/index.m3u8
 #EXTINF:-1,162 Cine Latino
 http://38.123.205.70:8000/play/a08u/index.m3u8
 #EXTINF:-1,202 STAR Channel
@@ -24,18 +59,137 @@ http://38.123.205.70:8000/play/a0cg/index.m3u8
 #EXTINF:-1,228 SYFY
 http://38.123.205.70:8000/play/a0b1/index.m3u8
 #EXTINF:-1,230 A&E
-http://38.123.205.70:8000/play/a0bv/index
-
-
-#EXTINF:-1, T
-https://player.twitch.tv/?channel=cc_x6t5x&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=0.5
-
-
-#EXTINF:-1, TNT
-https://player.twitch.tv/?channel=ntn_19kll&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=0.5
-
-#EXTINF:-1, VTV
-https://www.tutele.nl/online.php?a=4264
+http://38.123.205.70:8000/play/a0bv/index.m3u8
+#EXTINF:-1,232 ISAT
+http://38.123.205.70:8000/play/a0b2/index.m3u8
+#EXTINF:-1,234 Investigation Discovery
+http://38.123.205.70:8000/play/a0ch/index.m3u8
+#EXTINF:-1,236 Discovery H&H
+http://38.123.205.70:8000/play/a0bw/index.m3u8
+#EXTINF:-1,240 TLC
+http://38.123.205.70:8000/play/a0bx/index.m3u8
+#EXTINF:-1,242 LIFE TIME
+http://38.123.205.70:8000/play/a0ci/index.m3u8
+#EXTINF:-1,244 STAR Life
+http://38.123.205.70:8000/play/a08y/index.m3u8
+#EXTINF:-1,246 HolaTV
+http://38.123.205.70:8000/play/a0db/index.m3u8
+#EXTINF:-1,248 E!
+http://38.123.205.70:8000/play/a0by/index.m3u8
+#EXTINF:-1,250 TBS
+http://38.123.205.70:8000/play/a0dc/index.m3u8
+#EXTINF:-1,252 COMEDY CENTRAL
+http://38.123.205.70:8000/play/a0b3/index.m3u8
+#EXTINF:-1,260 MTV Latino
+http://38.123.205.70:8000/play/a0ak/index.m3u8
+#EXTINF:-1,262 MTV HITS Europa
+http://38.123.205.70:8000/play/a0b4/index.m3u8
+#EXTINF:-1,268 VIDEO ROLA
+http://38.123.205.70:8000/play/a0b5/index.m3u8
+#EXTINF:-1,270 MTV 00'S
+http://38.123.205.70:8000/play/a0b6/index.m3u8
+#EXTINF:-1,274 HTV
+http://38.123.205.70:8000/play/a0b7/index.m3u8
+#EXTINF:-1,276 TLR
+http://38.123.205.70:8000/play/a0em/index.m3u8
+#EXTINF:-1,280 Once Niños y Niñas
+http://38.123.205.70:8000/play/a0jq/index.m3u8
+#EXTINF:-1,282 DISNEY CHANNEL
+http://38.123.205.70:8000/play/a0al/index.m3u8
+#EXTINF:-1,283 DISNEY JR
+http://38.123.205.70:8000/play/a0bz/index.m3u8
+#EXTINF:-1,284 Disney 😆
+http://38.123.205.70:8000/play/a0j0/index.m3u8
+#EXTINF:-1,285 Nick Music
+http://38.123.205.70:8000/play/a0df/index.m3u8
+#EXTINF:-1,286 Nickelodeon
+http://38.123.205.70:8000/play/a0am/index.m3u8
+#EXTINF:-1,290 CARTOON NETWORK
+http://38.123.205.70:8000/play/a0c0/index.m3u8
+#EXTINF:-1,291 NICK JR
+http://38.123.205.70:8000/play/a0ck/index.m3u8
+#EXTINF:-1,292 Discovery Kids
+http://38.123.205.70:8000/play/a0an/index.m3u8
+#EXTINF:-1,294 Natgeo Kids
+http://38.123.205.70:8000/play/a0dh/index.m3u8
+#EXTINF:-1,296 BABY TV
+http://38.123.205.70:8000/play/a0b9/index.m3u8
+#EXTINF:-1,298 Boomerang
+http://38.123.205.70:8000/play/a0c1/index.m3u8
+#EXTINF:-1,306 Ingenio TV
+http://38.123.205.70:8000/play/a0jr/index.m3u8
+#EXTINF:-1,308 Discovery Channel
+http://38.123.205.70:8000/play/a0ep/index.m3u8
+#EXTINF:-1,312 NATGEO LA
+http://38.123.205.70:8000/play/a0cl/index.m3u8
+#EXTINF:-1,314 NATGEO WILD
+http://38.123.205.70:8000/play/a0c2/index.m3u8
+#EXTINF:-1,316 ANIMAL PLANET
+http://38.123.205.70:8000/play/a0ao/index.m3u8
+#EXTINF:-1,318 History Channel
+http://38.123.205.70:8000/play/a0ap/index.m3u8
+#EXTINF:-1,320 H2
+http://38.123.205.70:8000/play/a0dj/index.m3u8
+#EXTINF:-1,322 ARTS
+http://38.123.205.70:8000/play/a0bc/index.m3u8
+#EXTINF:-1,330 FOX Sports
+http://38.123.205.70:8000/play/a08z/index.m3u8
+#EXTINF:-1,332 FOX Sports 2
+http://38.123.205.70:8000/play/a090/index.m3u8
+#EXTINF:-1,334 FOX Sports 3
+http://38.123.205.70:8000/play/a0dk/index.m3u8
+#EXTINF:-1,336 Claro Sports
+http://38.123.205.70:8000/play/a0cm/index.m3u8
+#EXTINF:-1,338 ESPN
+http://38.123.205.70:8000/play/a091/index.m3u8
+#EXTINF:-1,342 ESPN 2
+http://38.123.205.70:8000/play/a092/index.m3u8
+#EXTINF:-1,344 ESPN 3
+http://38.123.205.70:8000/play/a0c3/index.m3u8
+#EXTINF:-1,345 DISCOVERY TURBO
+http://38.123.205.70:8000/play/a0c4/index.m3u8
+#EXTINF:-1,350 CNN en Español
+http://38.123.205.70:8000/play/a0dl/index.m3u8
+#EXTINF:-1,352 CNN Internacional
+http://38.123.205.70:8000/play/a0bd/index.m3u8
+#EXTINF:-1,353 RT Español
+http://38.123.205.70:8000/play/a0cn/index.m3u8
+#EXTINF:-1,354 Teleformula
+http://38.123.205.70:8000/play/a0be/index.m3u8
+#EXTINF:-1,356 Milenio
+http://38.123.205.70:8000/play/a0dm/index.m3u8
+#EXTINF:-1,358 TVC
+http://38.123.205.70:8000/play/a0bf/index.m3u8
+#EXTINF:-1,360 JUSTICIA TV
+http://38.123.205.70:8000/play/a0bg/index.m3u8
+#EXTINF:-1,370 TNT
+http://38.123.205.70:8000/play/a0aq/index.m3u8
+#EXTINF:-1,372 Multicanal
+http://38.123.205.70:8000/play/a0co/index.m3u8
+#EXTINF:-1,374 CINEMAX
+http://38.123.205.70:8000/play/a093/index.m3u8
+#EXTINF:-1,376 MULTI PREMIER
+http://38.123.205.70:8000/play/a0cp/index.m3u8
+#EXTINF:-1,378 Cinecanal
+http://38.123.205.70:8000/play/a0cq/index.m3u8
+#EXTINF:-1,382 Cine Latino
+http://38.123.205.70:8000/play/a0k6/index.m3u8
+#EXTINF:-1,384 FXM
+http://38.123.205.70:8000/play/a0cr/index.m3u8
+#EXTINF:-1,386 STUDIO UNIVERSAL
+http://38.123.205.70:8000/play/a0bh/index.m3u8
+#EXTINF:-1,388 PARAMOUNT
+http://38.123.205.70:8000/play/a0cs/index.m3u8
+#EXTINF:-1,402 HBO
+http://38.123.205.70:8000/play/a0c5/index.m3u8
+#EXTINF:-1,406 HBO 2
+http://38.123.205.70:8000/play/a0ct/index.m3u8
+#EXTINF:-1,410 HBO FAMILY
+http://38.123.205.70:8000/play/a0cu/index.m3u8
+#EXTINF:-1,414 HBO +
+http://38.123.205.70:8000/play/a0cv/index.m3u8
+#EXTINF:-1,422 HBO XTREME
+http://38.123.205.70:8000/play/a096/index.m3u8
 #EXTINF:-1, Cine Life
 https://magselect-stirr.amagi.tv/playlist.m3u8
 
@@ -57,8 +211,7 @@ https://ok.ru/videoembed/5400607399495
 #EXTINF:-1, LATELE
 https://edge-live13-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
-#EXTINF:-1, MONTECARLOS Canal 4
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
 
 #EXTINF:-1, NATGEO
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
@@ -123,8 +276,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 #EXTINF:-1, TELEFUTURO
 https://edge-live13-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
-#EXTINF:-1, ZAETA 10
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+
 
 #EXTINF:-1,¡¡A13HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
@@ -156,8 +308,6 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e11
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/CANAL+.m3u8
 
-#EXTINF:-1,CANAL+
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 #EXTINF:-1,CINECANAL HD
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
