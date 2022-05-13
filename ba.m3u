@@ -1,4 +1,190 @@
+#EXTINF:-1 group-title="Lista 16" ,HBO
+https://sv.spliktv.xyz/live/caster/HBO_HD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Cinecanal
+https://sv.spliktv.xyz/live/caster/CINECANAL_HD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Space
+https://sv.spliktv.xyz/live/caster/SPACE_HD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Studio Universal
+https://sv.spliktv.xyz/live/caster/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A3Series Internacional
+https://sv.spliktv.xyz/live/caster/ATRES_SERIES_HD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" , 24/7 Telemundo Chicago
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+#EXTINF:-1 group-title="Lista 16" , 24/7 MX Classic Pel\u00edculas
+http://channels-spliktv.x10.mx/EventMovies/MxClassic.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 MX Prime Pel\u00edculas
+http://channels-spliktv.x10.mx/EventMovies/MxPrime.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 MX Family Pel\u00edculas
+http://channels-spliktv.x10.mx/EventMovies/MxFamily.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premium
+http://channels-spliktv.x10.mx/EventMovies/CinePremium.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Familiar
+http://channels-spliktv.x10.mx/EventMovies/CineFamiliar.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Hispano
+http://channels-spliktv.x10.mx/EventMovies/CineHispano.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Infantil
+http://channels-spliktv.x10.mx/EventMovies/CineInfantil.m3u8?redbull
+#EXTINF:-1 group-title="Lista 16" , 24/7 ALF
+http://channels-spliktv.x10.mx/spliktv247/Alf/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Bob Esponja
+http://channels-spliktv.x10.mx/spliktv247/BobEsponja/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Doraemon
+http://channels-spliktv.x10.mx/spliktv247/Doraemon/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Animaniacs
+http://channels-spliktv.x10.mx/spliktv247/Animaniacs/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 El Pajaro Loco
+http://channels-spliktv.x10.mx/spliktv247/ElPajaroLoco/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 PlanetaTV Niños
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 PlanetaTV Pel\u00edculas
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Naruto
+https://spliktv-raton.elementfx.com/spliktv/5ee92e72fb286e0007285fec.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Naruto
+http://channels-spliktv.x10.mx/spliktv247/naruto/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Kenan & Kel
+https://spliktv-raton.elementfx.com/spliktv/5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cartelera Premier
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/9040/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (1)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/1777/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (2)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18085/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (3)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18086/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (4)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18094/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (5)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18095/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (6)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18096/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (1)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18087/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (2)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24312/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (3)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24313/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (4)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24314/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (5)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24315/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cinemax Premier
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24316/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Movie Plex
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35951/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Indie Plex
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35967/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Retro Plex
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35969/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Film (1)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24317/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Film (2)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35971/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Film (3)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35974/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 More Max
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35972/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Crackle
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35973/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Movie Max
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35975/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 Outer Max
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35976/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ East
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24167/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ West
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24193/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24310/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ HD
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35940/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Edge
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35941/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Comedia (1)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24311/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Comedia (2)
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35942/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Cinema
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35943/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Family
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35944/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore HD
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35945/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Accion
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35946/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Classic
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35947/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Black
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35948/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore Family
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35949/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Suspenso
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35950/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore West
+http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35952/video.m3u8?token=SplikTV&caster
+#EXTINF:-1 group-title="Lista 16" ,M\u00e1s Chic
+https://sv.spliktv.xyz/live/caster/OTT/MASCHIC.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Globo
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" ,RT en Espa\u00f1ol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" ,A&E Pop
+https://sv.spliktv.xyz/live/caster/VEVO/POP.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E Latino
+https://sv.spliktv.xyz/live/caster/VEVO/LATINO.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E Country
+https://sv.spliktv.xyz/live/caster/VEVO/COUNTRY.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E R&B
+https://sv.spliktv.xyz/live/caster/VEVO/RB.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E Reggaeton & Trap
+https://sv.spliktv.xyz/live/caster/VEVO/REGGAEYTRAP.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E 2k
+https://sv.spliktv.xyz/live/caster/VEVO/2K.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E 90's
+https://sv.spliktv.xyz/live/caster/VEVO/90S.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E 80's
+https://sv.spliktv.xyz/live/caster/VEVO/80S.m3u8
+#EXTINF:-1 group-title="Lista 16" ,A&E 70's
+https://sv.spliktv.xyz/live/caster/VEVO/70S.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Discovery Channel
+https://sv.spliktv.xyz/live/caster/DISCOVERY_CHANNEL_HD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Discovery World
+https://sv.spliktv.xyz/live/caster/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Discovery Science
+https://sv.spliktv.xyz/live/caster/DISCOVERY_SCIENCE_HD/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
+#EXTINF:-1 group-title="Lista 16" ,Argentinisima Satelital
+https://sv.spliktv.xyz/live/caster/ARGENTINISIMA_SATELITAL/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,CINE.AR
+https://sv.spliktv.xyz/live/caster/CINEAR/index.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Bolivia TV 7.1
+https://sv.spliktv.xyz/live/web/BO/200.m3u8
+#EXTINF:-1 group-title="Lista 16" ,ADN 40
+https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
+#EXTINF:-1 group-title="Lista 16" ,RPC
+https://sv.spliktv.xyz/live/caster/PA/RPC.m3u8
+#EXTINF:-1 group-title="Lista 16" ,ATV
+https://sv.spliktv.xyz/live/caster/PE/ATV.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Teledoce
+https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Canal 4
+https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal4_URU/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,Canal 5
+https://sv.spliktv.xyz/live/caster/UY/c3eds/TV_Nacional_Uy/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,TV Ciudad
+https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
+#EXTINF:-1 group-title="Lista 16" ,TLT
+https://sv.spliktv.xyz/live/caster/VE/TLT.m3u8
 
+#EXTINF:-1,VTV HD
+https://sv.spliktv.xyz/live/caster/CA/c3eds/VTV_HD/ab.m3u8
 #EXTINF:-1,TELEDOCE
 https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
 #EXTINF:-1,VTV
