@@ -1,189 +1,4 @@
 
-189.203.8.121:9901/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,HBO
-https://sv.spliktv.xyz/live/caster/HBO_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Cinecanal
-https://sv.spliktv.xyz/live/caster/CINECANAL_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Space
-https://sv.spliktv.xyz/live/caster/SPACE_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Studio Universal
-https://sv.spliktv.xyz/live/caster/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A3Series Internacional
-https://sv.spliktv.xyz/live/caster/ATRES_SERIES_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" , 24/7 Telemundo Chicago
-https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
-#EXTINF:-1 group-title="Lista 16" , 24/7 MX Classic Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxClassic.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 MX Prime Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxPrime.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 MX Family Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxFamily.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premium
-http://channels-spliktv.x10.mx/EventMovies/CinePremium.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Familiar
-http://channels-spliktv.x10.mx/EventMovies/CineFamiliar.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Hispano
-http://channels-spliktv.x10.mx/EventMovies/CineHispano.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Infantil
-http://channels-spliktv.x10.mx/EventMovies/CineInfantil.m3u8?redbull
-#EXTINF:-1 group-title="Lista 16" , 24/7 ALF
-http://channels-spliktv.x10.mx/spliktv247/Alf/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Bob Esponja
-http://channels-spliktv.x10.mx/spliktv247/BobEsponja/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Doraemon
-http://channels-spliktv.x10.mx/spliktv247/Doraemon/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Animaniacs
-http://channels-spliktv.x10.mx/spliktv247/Animaniacs/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 El Pajaro Loco
-http://channels-spliktv.x10.mx/spliktv247/ElPajaroLoco/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 PlanetaTV Niños
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 PlanetaTV Pel\u00edculas
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Naruto
-https://spliktv-raton.elementfx.com/spliktv/5ee92e72fb286e0007285fec.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Naruto
-http://channels-spliktv.x10.mx/spliktv247/naruto/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Kenan & Kel
-https://spliktv-raton.elementfx.com/spliktv/5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cartelera Premier
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/9040/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (1)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/1777/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (2)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18085/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (3)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18086/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (4)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18094/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (5)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18095/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Premier (6)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18096/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (1)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/18087/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (2)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24312/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (3)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24313/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (4)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24314/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Showtime (5)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24315/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cinemax Premier
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24316/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Movie Plex
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35951/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Indie Plex
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35967/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Retro Plex
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35969/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Film (1)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24317/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Film (2)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35971/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Cine Film (3)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35974/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 More Max
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35972/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Crackle
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35973/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Movie Max
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35975/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Outer Max
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35976/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ East
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24167/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ West
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24193/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24310/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ HD
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35940/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Edge
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35941/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Comedia (1)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/24311/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Comedia (2)
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35942/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Cinema
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35943/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Family
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35944/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore HD
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35945/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Accion
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35946/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Classic
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35947/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Black
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35948/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore Family
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35949/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Suspenso
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35950/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 StarZ Encore West
-http://lvod-akc-sa-east-4.media.spliktv.xyz:8082/35952/video.m3u8?token=SplikTV&caster
-#EXTINF:-1 group-title="Lista 16" ,M\u00e1s Chic
-https://sv.spliktv.xyz/live/caster/OTT/MASCHIC.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Globo
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,RT en Espa\u00f1ol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,A&E Pop
-https://sv.spliktv.xyz/live/caster/VEVO/POP.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Latino
-https://sv.spliktv.xyz/live/caster/VEVO/LATINO.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Country
-https://sv.spliktv.xyz/live/caster/VEVO/COUNTRY.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E R&B
-https://sv.spliktv.xyz/live/caster/VEVO/RB.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Reggaeton & Trap
-https://sv.spliktv.xyz/live/caster/VEVO/REGGAEYTRAP.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 2k
-https://sv.spliktv.xyz/live/caster/VEVO/2K.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 90's
-https://sv.spliktv.xyz/live/caster/VEVO/90S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 80's
-https://sv.spliktv.xyz/live/caster/VEVO/80S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 70's
-https://sv.spliktv.xyz/live/caster/VEVO/70S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Discovery Channel
-https://sv.spliktv.xyz/live/caster/DISCOVERY_CHANNEL_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Discovery World
-https://sv.spliktv.xyz/live/caster/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Discovery Science
-https://sv.spliktv.xyz/live/caster/DISCOVERY_SCIENCE_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,Argentinisima Satelital
-https://sv.spliktv.xyz/live/caster/ARGENTINISIMA_SATELITAL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,CINE.AR
-https://sv.spliktv.xyz/live/caster/CINEAR/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bolivia TV 7.1
-https://sv.spliktv.xyz/live/web/BO/200.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ADN 40
-https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
-#EXTINF:-1 group-title="Lista 16" ,RPC
-https://sv.spliktv.xyz/live/caster/PA/RPC.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ATV
-https://sv.spliktv.xyz/live/caster/PE/ATV.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Teledoce
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Canal 4
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal4_URU/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Canal 5
-https://sv.spliktv.xyz/live/caster/UY/c3eds/TV_Nacional_Uy/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TV Ciudad
-https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TLT
-https://sv.spliktv.xyz/live/caster/VE/TLT.m3u8
 
 #EXTINF:-1,VTV HD
 https://sv.spliktv.xyz/live/caster/CA/c3eds/VTV_HD/ab.m3u8
@@ -197,340 +12,18 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 #EXTINF:-1, ZAETA 10
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
-#EXTINF:-1,101 Azteca Uno
-http://38.123.205.70:8000/play/a0cc/index.m3u8
-#EXTINF:-1,102 Las Estrellas
-http://38.123.205.70:8000/play/a0d4/index.m3u8
-#EXTINF:-1,103 IMAGEN
-http://38.123.205.70:8000/play/a0d5/index.m3u8
-#EXTINF:-1,105 canal 5
-http://38.123.205.70:8000/play/a0fl/index.m3u8
-#EXTINF:-1,106 Canal 6 CDMX
-http://38.123.205.70:8000/play/a0bp/index.m3u8
-#EXTINF:-1,107 AZTECA 7
-http://38.123.205.70:8000/play/a0fm/index.m3u8
-#EXTINF:-1,111 Canal Once
-http://38.123.205.70:8000/play/a0bq/index.m3u8
-#EXTINF:-1,114 Canal 14 CDMX
-http://38.123.205.70:8000/play/a0ax/index.m3u8
-#EXTINF:-1,120 TV UNAM
-http://38.123.205.70:8000/play/a0ay/index.m3u8
-#EXTINF:-1,122 CANAL 22
-http://38.123.205.70:8000/play/a0d7/index.m3u8
-#EXTINF:-1,145 Canal del Congreso
-http://38.123.205.70:8000/play/a0az/index.m3u8
-#EXTINF:-1,152 MVS TV
-http://38.123.205.70:8000/play/a0jp/index.m3u8
-#EXTINF:-1,154 EXA TV
-http://38.123.205.70:8000/play/a0je/index.m3u8
-#EXTINF:-1,155 La Mejor TV
-http://38.123.205.70:8000/play/a0jf/index.m3u8
-#EXTINF:-1,160 Multi Premier
-http://38.123.205.70:8000/play/a0ce/index.m3u8
-#EXTINF:-1,162 Cine Latino
-http://38.123.205.70:8000/play/a08u/index.m3u8
-#EXTINF:-1,202 STAR Channel
-http://38.123.205.70:8000/play/a08v/index.m3u8
-#EXTINF:-1,206 universal
-http://38.123.205.70:8000/play/a0bt/index.m3u8
-#EXTINF:-1,208 Sony
-http://38.123.205.70:8000/play/a0aj/index.m3u8
-#EXTINF:-1,210 WARNER
-http://38.123.205.70:8000/play/a0cf/index.m3u8
-#EXTINF:-1,214 TNT SERIES
-http://38.123.205.70:8000/play/a0da/index.m3u8
-#EXTINF:-1,216 A3 SERIES
-http://38.123.205.70:8000/play/a0b0/index.m3u8
-#EXTINF:-1,218 Antena 3
-http://38.123.205.70:8000/play/a0bu/index.m3u8
-#EXTINF:-1,222 AXN
-http://38.123.205.70:8000/play/a08w/index.m3u8
-#EXTINF:-1,224 FX
-http://38.123.205.70:8000/play/a08x/index.m3u8
-#EXTINF:-1,226 SPACE
-http://38.123.205.70:8000/play/a0cg/index.m3u8
-#EXTINF:-1,228 SYFY
-http://38.123.205.70:8000/play/a0b1/index.m3u8
-#EXTINF:-1,230 A&E
-http://38.123.205.70:8000/play/a0bv/index.m3u8
-#EXTINF:-1,232 ISAT
-http://38.123.205.70:8000/play/a0b2/index.m3u8
-#EXTINF:-1,234 Investigation Discovery
-http://38.123.205.70:8000/play/a0ch/index.m3u8
-#EXTINF:-1,236 Discovery H&H
-http://38.123.205.70:8000/play/a0bw/index.m3u8
-#EXTINF:-1,240 TLC
-http://38.123.205.70:8000/play/a0bx/index.m3u8
-#EXTINF:-1,242 LIFE TIME
-http://38.123.205.70:8000/play/a0ci/index.m3u8
-#EXTINF:-1,244 STAR Life
-http://38.123.205.70:8000/play/a08y/index.m3u8
-#EXTINF:-1,246 HolaTV
-http://38.123.205.70:8000/play/a0db/index.m3u8
-#EXTINF:-1,248 E!
-http://38.123.205.70:8000/play/a0by/index.m3u8
-#EXTINF:-1,250 TBS
-http://38.123.205.70:8000/play/a0dc/index.m3u8
-#EXTINF:-1,252 COMEDY CENTRAL
-http://38.123.205.70:8000/play/a0b3/index.m3u8
-#EXTINF:-1,260 MTV Latino
-http://38.123.205.70:8000/play/a0ak/index.m3u8
-#EXTINF:-1,262 MTV HITS Europa
-http://38.123.205.70:8000/play/a0b4/index.m3u8
-#EXTINF:-1,268 VIDEO ROLA
-http://38.123.205.70:8000/play/a0b5/index.m3u8
-#EXTINF:-1,270 MTV 00'S
-http://38.123.205.70:8000/play/a0b6/index.m3u8
-#EXTINF:-1,274 HTV
-http://38.123.205.70:8000/play/a0b7/index.m3u8
-#EXTINF:-1,276 TLR
-http://38.123.205.70:8000/play/a0em/index.m3u8
-#EXTINF:-1,280 Once Niños y Niñas
-http://38.123.205.70:8000/play/a0jq/index.m3u8
-#EXTINF:-1,282 DISNEY CHANNEL
-http://38.123.205.70:8000/play/a0al/index.m3u8
-#EXTINF:-1,283 DISNEY JR
-http://38.123.205.70:8000/play/a0bz/index.m3u8
-#EXTINF:-1,284 Disney 😆
-http://38.123.205.70:8000/play/a0j0/index.m3u8
-#EXTINF:-1,285 Nick Music
-http://38.123.205.70:8000/play/a0df/index.m3u8
-#EXTINF:-1,286 Nickelodeon
-http://38.123.205.70:8000/play/a0am/index.m3u8
-#EXTINF:-1,290 CARTOON NETWORK
-http://38.123.205.70:8000/play/a0c0/index.m3u8
-#EXTINF:-1,291 NICK JR
-http://38.123.205.70:8000/play/a0ck/index.m3u8
-#EXTINF:-1,292 Discovery Kids
-http://38.123.205.70:8000/play/a0an/index.m3u8
-#EXTINF:-1,294 Natgeo Kids
-http://38.123.205.70:8000/play/a0dh/index.m3u8
-#EXTINF:-1,296 BABY TV
-http://38.123.205.70:8000/play/a0b9/index.m3u8
-#EXTINF:-1,298 Boomerang
-http://38.123.205.70:8000/play/a0c1/index.m3u8
-#EXTINF:-1,306 Ingenio TV
-http://38.123.205.70:8000/play/a0jr/index.m3u8
-#EXTINF:-1,308 Discovery Channel
-http://38.123.205.70:8000/play/a0ep/index.m3u8
-#EXTINF:-1,312 NATGEO LA
-http://38.123.205.70:8000/play/a0cl/index.m3u8
-#EXTINF:-1,314 NATGEO WILD
-http://38.123.205.70:8000/play/a0c2/index.m3u8
-#EXTINF:-1,316 ANIMAL PLANET
-http://38.123.205.70:8000/play/a0ao/index.m3u8
-#EXTINF:-1,318 History Channel
-http://38.123.205.70:8000/play/a0ap/index.m3u8
-#EXTINF:-1,320 H2
-http://38.123.205.70:8000/play/a0dj/index.m3u8
-#EXTINF:-1,322 ARTS
-http://38.123.205.70:8000/play/a0bc/index.m3u8
-#EXTINF:-1,330 FOX Sports
-http://38.123.205.70:8000/play/a08z/index.m3u8
-#EXTINF:-1,332 FOX Sports 2
-http://38.123.205.70:8000/play/a090/index.m3u8
-#EXTINF:-1,334 FOX Sports 3
-http://38.123.205.70:8000/play/a0dk/index.m3u8
-#EXTINF:-1,336 Claro Sports
-http://38.123.205.70:8000/play/a0cm/index.m3u8
-#EXTINF:-1,338 ESPN
-http://38.123.205.70:8000/play/a091/index.m3u8
-#EXTINF:-1,342 ESPN 2
-http://38.123.205.70:8000/play/a092/index.m3u8
-#EXTINF:-1,344 ESPN 3
-http://38.123.205.70:8000/play/a0c3/index.m3u8
-#EXTINF:-1,345 DISCOVERY TURBO
-http://38.123.205.70:8000/play/a0c4/index.m3u8
-#EXTINF:-1,350 CNN en Español
-http://38.123.205.70:8000/play/a0dl/index.m3u8
-#EXTINF:-1,352 CNN Internacional
-http://38.123.205.70:8000/play/a0bd/index.m3u8
-#EXTINF:-1,353 RT Español
-http://38.123.205.70:8000/play/a0cn/index.m3u8
-#EXTINF:-1,354 Teleformula
-http://38.123.205.70:8000/play/a0be/index.m3u8
-#EXTINF:-1,356 Milenio
-http://38.123.205.70:8000/play/a0dm/index.m3u8
-#EXTINF:-1,358 TVC
-http://38.123.205.70:8000/play/a0bf/index.m3u8
-#EXTINF:-1,360 JUSTICIA TV
-http://38.123.205.70:8000/play/a0bg/index.m3u8
-#EXTINF:-1,370 TNT
-http://38.123.205.70:8000/play/a0aq/index.m3u8
-#EXTINF:-1,372 Multicanal
-http://38.123.205.70:8000/play/a0co/index.m3u8
-#EXTINF:-1,374 CINEMAX
-http://38.123.205.70:8000/play/a093/index.m3u8
-#EXTINF:-1,376 MULTI PREMIER
-http://38.123.205.70:8000/play/a0cp/index.m3u8
-#EXTINF:-1,378 Cinecanal
-http://38.123.205.70:8000/play/a0cq/index.m3u8
-#EXTINF:-1,382 Cine Latino
-http://38.123.205.70:8000/play/a0k6/index.m3u8
-#EXTINF:-1,384 FXM
-http://38.123.205.70:8000/play/a0cr/index.m3u8
-#EXTINF:-1,386 STUDIO UNIVERSAL
-http://38.123.205.70:8000/play/a0bh/index.m3u8
-#EXTINF:-1,388 PARAMOUNT
-http://38.123.205.70:8000/play/a0cs/index.m3u8
-#EXTINF:-1,402 HBO
-http://38.123.205.70:8000/play/a0c5/index.m3u8
-#EXTINF:-1,406 HBO 2
-http://38.123.205.70:8000/play/a0ct/index.m3u8
-#EXTINF:-1,410 HBO FAMILY
-http://38.123.205.70:8000/play/a0cu/index.m3u8
-#EXTINF:-1,414 HBO +
-http://38.123.205.70:8000/play/a0cv/index.m3u8
-#EXTINF:-1,422 HBO XTREME
-http://38.123.205.70:8000/play/a096/index.m3u8
-#EXTINF:-1, Cine Life
-https://magselect-stirr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, A3cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
-#EXTINF:-1, ATV HD
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-
-#EXTINF:-1, universal
-http://38.123.205.70:8000/play/a0bt/index.m3u8
-
-#EXTINF:-1, 5 EXTINFDIAS
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
-EXTINF:-1,HBO 222
-https://ok.ru/videoembed/5400607399495
 
 
-#EXTINF:-1, LATELE
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
-
-
-
-#EXTINF:-1, NATGEO
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
-
-#EXTINF:-1, NATGEO
-https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
-
-#EXTINF:-1, NATGEO WILD
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_Live_dash_enc_2A/NatGeoWildHD.mpd
-
-#EXTINF:-1, NATGEO WILD
-https://chromecast.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-
-#EXTINF:-1, NICKELODEON
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-
-#EXTINF:-1, NOTICIAS PARAGUAY
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
-
-#EXTINF:-1, PANAMERICANA
-https://cdnh71.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1, PARAMOUNT
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd
-
-#EXTINF:-1, PARAVISION
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
-
-#EXTINF:-1, PASIONES
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd
-
-#EXTINF:-1, PX SPORTS
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd
-
-#EXTINF:-1, RPC
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-
-#EXTINF:-1, SNT
-http://edge-live13-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-
-#EXTINF:-1, SONY
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
-
-#EXTINF:-1, SPACE
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd
-
-#EXTINF:-1, STAR
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
-
-#EXTINF:-1, SURTV
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
-
-#EXTINF:-1, TELEDOCE
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
-
-#EXTINF:-1, TELEFE
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
-
-#EXTINF:-1, TELEFE HD
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-#EXTINF:-1, TELEFUTURO
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-
-
-
-#EXTINF:-1,¡¡A13HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-
-#EXTINF:-1,¡¡AMERICA
-https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-
-#EXTINF:-1,A&E
-http://51.79.18.128:8081/LATINO|AYE/LATINO|AYE/playlist.m3u8
-
-#EXTINF:-1,A&E
-http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
-
-#EXTINF:-1,AMC
-http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1,AMC HD
-http://51.79.18.128:8081/LATINO|AMC/LATINO|AMC/playlist.m3u8
-
-#EXTINF:-1,AMC HD
-http://51.79.18.128:8081/LATINO%7CAMC/LATINO%7CAMC/playlist.m3u8
-
-#EXTINF:-1,Canal 4RD
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1, ZAETA 10
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+#EXTINF:-1,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1,CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 
-#EXTINF:-1,CANAL+
-https://tv.tvcontrolcp.com:1936/8010/8010/CANAL+.m3u8
-
-
-#EXTINF:-1,CINECANAL HD
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-
-#EXTINF:-1,COSMO HD
-http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
-
-#EXTINF:-1,Discovery World
-https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-
-#EXTINF:-1,DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
 #EXTINF:-1,Estrella TV
 https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
-
-#EXTINF:-1,ESTUDIO-UNIVERSAL
-http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
-
-#EXTINF:-1,ESTUDIO-UNIVERSAL
-http://51.79.18.128:8081/LATINO|STUDIOUNIVERSAL/LATINO|STUDIOUNIVERSAL/playlist.m3u8
-
-#EXTINF:-1,EXTREMA TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1017194253.m3u8
-
-#EXTINF:-1,PARAMOUNT HD
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-
-#EXTINF:-1, UNICANAL
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
 
 #EXTINF:-1,RCN+
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla/5.0+(Linux;+Android+6.0;+Nexus+5+Build/MRA58N)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/92.0.4515.131+Mobile+Safari/537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
@@ -538,20 +31,11 @@ https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1,SONY CINE
 http://51.79.18.128:8081/LATINO|SONYCHANNEL/LATINO|SONYCHANNEL/playlist.m3u8
 
-#EXTINF:-1,SONY CINE
-http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+#EXTINF:-1, Canal 4 HD
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
-#EXTINF:-1,Telecentro HD (RD)
-http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
-
-#EXTINF:-1,Telemicro Canal 5 HD
-http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
-
-#EXTINF:-1,TNT
-https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
-
-#EXTINF:-1,TNT ARG.
-https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1, Canal 10
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
 #EXTINF:-1,Tv Pública
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_SAGEMCOM/TV_Publica_Internacional.m3u8
@@ -559,151 +43,92 @@ https://edge-live15-sl.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_SAGE
 #EXTINF:-1,TVMAX PAN.
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
 
-#EXTINF:-1,Unknown 104
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=85&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 105
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=77&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 106
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=81&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 107
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 108
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=84&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 109
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=79&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 110
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=83&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 111
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=78&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
-
-#EXTINF:-1,Unknown 112
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=82&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false,
+#EXTINF:-1,PARAMOUNT HD
+https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1,WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
-#EXTINF:-1, A&E
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
-#EXTINF:-1, A3 SERIES
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd
+#EXTINF:-1,FXM
+http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 
-#EXTINF:-1, ABC
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1,GOURMET
+https://edge9-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
-#EXTINF:-1, ADN40
-http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1,SPACE HD
+https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
-#EXTINF:-1, AMC
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd
+#EXTINF:-1,AMC
+http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-#EXTINF:-1, AMERICA 24
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
+#EXTINF:-1,AMC HD
+http://51.79.18.128:8081/LATINO|AMC/LATINO|AMC/playlist.m3u8
 
-#EXTINF:-1, AMERICA TV
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+#EXTINF:-1,HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1, ANIMAL PLANET
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd
+#EXTINF:-1,Discovery World
+https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 
-#EXTINF:-1, ATV PERU
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1,COSMO HD
+http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 
-#EXTINF:-1, AXN
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd
+#EXTINF:-1,Canal 4RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1, BABY TV
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_2A/BabyTV.mpd
+#EXTINF:-1,Telemicro Canal 5 SD
+http://stream2.grupotelemicro.com:8081/live/55/playlist.m3u8
 
-#EXTINF:-1, BOOMERANG
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
+#EXTINF:-1,Telemicro Canal 5 HD
+http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
 
-#EXTINF:-1, C5N
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd
+#EXTINF:-1,Telecentro HD (RD)
+http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
 
-#EXTINF:-1, CANAL 10
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
+#EXTINF:-1,ESTUDIO-UNIVERSAL
+http://51.79.18.128:8081/LATINO|STUDIOUNIVERSAL/LATINO|STUDIOUNIVERSAL/playlist.m3u8
 
-#EXTINF:-1, CANAL 13
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd
-
-#EXTINF:-1, CANAL 4
-https://edge-live16-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd
-
-#EXTINF:-1, CANAL 9
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
-
-#EXTINF:-1, CARACOL
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-
-#EXTINF:-1, CARTOON NETWORK
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
-
-#EXTINF:-1, CINE CANAL
+#EXTINF:-1, CINECANAL
 http://51.79.18.128:8081/LATINO|CINECANAL/LATINO|CINECANAL/playlist.m3u8
 
-#EXTINF:-1, CINECANAL
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd
+#EXTINF:-1, GOLDENPLUS
+http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
 
-#EXTINF:-1, CINECANAL
-http://51.79.18.128:8081/LATINO%7CCINECANAL/LATINO%7CCINECANAL/playlist.m3u8
+#EXTINF:-1, TELEFE HD
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
-#EXTINF:-1, COMEDY CENTRAL
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd
-
-#EXTINF:-1, CRONICA TV
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
-
-#EXTINF:-1, DEPORTV
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd
+#EXTINF:-1, HOME & HEALT
+https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
 https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1, DISCOVERY CHANNEL
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
+#EXTINF:-1, NATGEO
+https://edge10-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-1, DISCOVERY TURBO
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd
+#EXTINF:-1, NATGEO WILD
+https://chromecast.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
-#EXTINF:-1, DISNEY CHANNEL
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
+#EXTINF:-1, GOURMET
+https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
-#EXTINF:-1, DISNEY JR
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+#EXTINF:-1,TNT
+https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 
-#EXTINF:-1, DISNEY XD
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/DisneyXD/SA_Live_dash_enc_2A/DisneyXD.mpd
+#EXTINF:-1,TNT ARG.
+https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1, ECUAVISA
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+#EXTINF:-1,AMC HD
+https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
-#EXTINF:-1, ESPN
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+#EXTINF:-1,CINECANAL HD
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-1, ESPN 3
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
-
-#EXTINF:-1, ESPN 4
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.mpd
-
-#EXTINF:-1, ESPN PLUS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
-
-#EXTINF:-1, FOX SPORTS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+#EXTINF:-1,"CANAL 4 URU"
+https://edge-live14-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
 #EXTINF:-1, FOX SPORTS
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1, FOX SPORTS 2
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 #EXTINF:-1, FOX SPORTS 2
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
@@ -711,92 +136,57 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2H
 #EXTINF:-1, FOX SPORTS 3
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1, FOX SPORTS 3
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
+#EXTINF:-1,A&E
+http://51.79.18.128:8081/LATINO|AYE/LATINO|AYE/playlist.m3u8
 
-#EXTINF:-1, FOX SPORTS PREMIUM
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+#EXTINF:-1,STAR CHANNEL
+http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-1, FX
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_2A/FXHD.mpd
+#EXTINF:-1,SPACE
+https://edge9-hr.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
-#EXTINF:-1, GOLDENPLUS
-http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
+#EXTINF:-1,El Gourmet
+https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
-#EXTINF:-1, GOLDENPLUS
-http://51.79.18.128:8081/LATINO%7CGOLDENPLUS/LATINO%7CGOLDENPLUS/playlist.m3u8
+#EXTINF:-1,TNT
+https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1, GOURMET
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+#EXTINF:-1,NATGEO WILD
+https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
-#EXTINF:-1, GOURMET
-https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+#EXTINF:-1,TRU TV
+https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
-#EXTINF:-1, HBO
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
+#EXTINF:-1,¡¡A13HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
-#EXTINF:-1, HBO POP
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
+#EXTINF:-1,¡¡AMERICA
+https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1, HISTORY
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd
+#EXTINF:-1,¡¡FXM
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+#EXTINF:-1,¡¡A13HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1,¡¡FOXSPORTS
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-#EXTINF:-1, HOME & HEALT
-https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1,¡¡ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
-#EXTINF:-1, HOME & HEALT
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd
+#EXTINF:-1,¡¡ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
-#EXTINF:-1, INVESTIGATION DISCOVERY
+#EXTINF:-1,¡¡Cinecanal
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-1, TELEMUNDO
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
+#EXTINF:-1,¡¡CARTÓN network
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
-#EXTINF:-1, TN
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd
+#EXTINF:-1,¡¡Disney
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-1, TNT
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+#EXTINF:-1,¡¡DISCOVERY
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-1, TNT SERIES
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd
-
-#EXTINF:-1, TNT SPORTS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-
-#EXTINF:-1, TNU
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
-
-#EXTINF:-1, TRUTV
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
-
-#EXTINF:-1, TV CAMARA
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
-
-#EXTINF:-1, TV CIUDAD
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd
-
-#EXTINF:-1, TV PERU
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1, TV PUBLICA
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
-
-#EXTINF:-1, TYC SPORTS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
-
-
-
-#EXTINF:-1, VTV
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
-
-#EXTINF:-1, VTV PLUS
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
-
-#EXTINF:-1, WARNER
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
-
-https://edge-live13-sl.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd
-
-
-
+#EXTINF:-1,¡¡NATGEOLA
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
