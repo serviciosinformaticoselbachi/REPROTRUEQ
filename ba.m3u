@@ -1,202 +1,47 @@
+#EXTINF:-1,TV CIUDAD
+http://edge2-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 
-#EXTINF:-1 group-title="Lista 16" ,Directv Sports 2 Argentina
-https://sv.spliktv.xyz/live/caster/CA/c4eds/ESPNHD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ESPN 4 Argentina
-https://sv.spliktv.xyz/live/caster/CA/c4eds/FoxSports/ab.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,ESPN Premium Argentina Argentina
-https://sv.spliktv.xyz/live/caster/CA/c3eds/TNT_Sports_HD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TyC Sports Argentina
-https://sv.spliktv.xyz/live/caster/UY/c3eds/TyC_Internacional/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga
-https://sv.spliktv.xyz/live/caster/BE/84/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 1
-https://sv.spliktv.xyz/live/caster/BE/538/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 2
-https://sv.spliktv.xyz/live/caster/BE/539/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 3
-https://sv.spliktv.xyz/live/caster/BE/540/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 4
-https://sv.spliktv.xyz/live/caster/BE/106/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 5
-https://sv.spliktv.xyz/live/caster/BE/155/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 6
-https://sv.spliktv.xyz/live/caster/BE/107/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 7
-https://sv.spliktv.xyz/live/caster/BE/156/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar LaLiga 8
-https://sv.spliktv.xyz/live/caster/BE/160/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones
-https://sv.spliktv.xyz/live/caster/BE/435/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 1
-https://sv.spliktv.xyz/live/caster/BE/158/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 2
-https://sv.spliktv.xyz/live/caster/BE/157/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 3
-https://sv.spliktv.xyz/live/caster/BE/156/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Movistar Liga de Campeones 4
-https://sv.spliktv.xyz/live/caster/BE/19/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 1
-https://sv.spliktv.xyz/live/caster/BE/445/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 2
-https://sv.spliktv.xyz/live/caster/BE/446/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 3
-https://sv.spliktv.xyz/live/caster/BE/447/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Mo_Deprt SPLHD887 F1
-https://sv.spliktv.xyz/live/caster/BE/76/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,VTV Mexico
-https://sv.spliktv.xyz/live/caster/BE/66/chunks.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Cinecanal
-https://sv.spliktv.xyz/live/caster/RA/CinecanalHD.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Sony Cine
-http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,SYFY
-https://sv.spliktv.xyz/live/caster/SYFY_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" , 24/7 MX Classic Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxClassic.m3u8?redbull #EXTINF:-1 group-title="Lista 16" , 24/7 MX Prime Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxPrime.m3u8?redbull #EXTINF:-1 group-title="Lista 16" , 24/7 MX Family Pel\u00edculas
-http://channels-spliktv.x10.mx/EventMovies/MxFamily.m3u8?redbull #EXTINF:-1 group-title="Lista 16" , 24/7 Bob Esponja
-http://channels-spliktv.x10.mx/spliktv247/BobEsponja/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Doraemon
-http://channels-spliktv.x10.mx/spliktv247/Doraemon/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Animaniacs
-http://channels-spliktv.x10.mx/spliktv247/Animaniacs/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 El Pajaro Loco
-http://channels-spliktv.x10.mx/spliktv247/ElPajaroLoco/index.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Runtime Pel\u00edculas
+#EXTINF:-1,Disney Channel
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1, 24/7 Runtime Pel\u00edculas
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 PlanetaTV Niños
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 Los Simpsons
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?castca
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" , 24/7 RetroPlus Señal 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,RCN Novelas
-https://sv.spliktv.xyz/live/caster/RCN_TELENOVELAS/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,MTV
-https://sv.spliktv.xyz/live/caster/MTV_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Film & Arts
-https://sv.spliktv.xyz/live/caster/FILM_AND_ARTS_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Hola TV
-https://sv.spliktv.xyz/live/caster/CA/c7eds/Hola_TV/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,M\u00e1s Chic
-https://sv.spliktv.xyz/live/caster/MAS_CHIC_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,CNN en Espa\u00f1ol
-https://sv.spliktv.xyz/live/caster/CNN_EN_ESPANOL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bloomberg Television
-https://sv.spliktv.xyz/live/caster/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Globo
-https://live-as-10-17.video.globo.com/h/0401650719953207816611816506335531344432660r5c5gPj8i9Q4cyM6bKjbuA/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
-#EXTINF:-1 group-title="Lista 16" ,RT en Espa\u00f1ol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,A&E Pop
-https://sv.spliktv.xyz/live/caster/VEVO/POP.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Latino
-https://sv.spliktv.xyz/live/caster/VEVO/LATINO.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Country
-https://sv.spliktv.xyz/live/caster/VEVO/COUNTRY.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E R&B
-https://sv.spliktv.xyz/live/caster/VEVO/RB.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E Reggaeton & Trap
-https://sv.spliktv.xyz/live/caster/VEVO/REGGAEYTRAP.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 2k
-https://sv.spliktv.xyz/live/caster/VEVO/2K.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 90's
-https://sv.spliktv.xyz/live/caster/VEVO/90S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 80's
-https://sv.spliktv.xyz/live/caster/VEVO/80S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A&E 70's
-https://sv.spliktv.xyz/live/caster/VEVO/70S.m3u8
-#EXTINF:-1 group-title="Lista 16" ,IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,Argentinisima Satelital
-https://sv.spliktv.xyz/live/caster/ARGENTINISIMA_SATELITAL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,CINE.AR
-https://sv.spliktv.xyz/live/caster/CINEAR/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bolivia TV 7.1
-https://sv.spliktv.xyz/live/web/BO/200.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Se\u00f1al Colombia
-https://sv.spliktv.xyz/live/caster/CO/SE-CO.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ADN 40
-https://sv.spliktv.xyz/live/caster/RU/ADN40.m3u8
-#EXTINF:-1 group-title="Lista 16" ,RPC
-https://sv.spliktv.xyz/live/caster/PA/RPC.m3u8
-#EXTINF:-1 group-title="Lista 16" ,C9N
-https://sv.spliktv.xyz/live/caster/PY/c5eds/C9N_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Telefuturo
-https://sv.spliktv.xyz/live/caster/PY/c4eds/TELEFUTURO_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Paraguay TV
-https://sv.spliktv.xyz/live/caster/PY/c7eds/Paraguay_TV/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Noticias Paraguay
-https://sv.spliktv.xyz/live/caster/PY/c4eds/NOTICIAS_PY_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,La Tele
-https://sv.spliktv.xyz/live/caster/PY/c4eds/LA_TELE_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Trece
-https://sv.spliktv.xyz/live/caster/PY/c4eds/RPC_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Paravisi\u00f3n
-https://sv.spliktv.xyz/live/caster/PY/c4eds/PARAVISION_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TV Camara
-https://sv.spliktv.xyz/live/caster/PY/c4eds/TV_Camara/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,GEN
-https://sv.spliktv.xyz/live/caster/PY/c7eds/GEN_TV/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,5 D\u00edas
-https://sv.spliktv.xyz/live/caster/PY/c4eds/5_Dias_PY/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Unicanal
-https://sv.spliktv.xyz/live/caster/PY/c4eds/UNICANAL_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,SUR TV
-https://sv.spliktv.xyz/live/caster/PY/c4eds/SUR_TV_C4/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Latina
-https://sv.spliktv.xyz/live/caster/PE/LATINA.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Teledoce
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Canal 4
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal4_URU/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Canal 5
-https://sv.spliktv.xyz/live/caster/UY/c3eds/TV_Nacional_Uy/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TV Ciudad
-https://sv.spliktv.xyz/live/caster/UY/c3eds/Teve_Ciudad/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TLT
-https://sv.spliktv.xyz/live/caster/VE/TLT.m3u8
 
-#EXTINF:-1,VTV HD
-https://sv.spliktv.xyz/live/caster/CA/c3eds/VTV_HD/ab.m3u8
-#EXTINF:-1,TELEDOCE
-https://sv.spliktv.xyz/live/caster/UY/c4eds/Canal12URU/ab.m3u8
-#EXTINF:-1,VTV
-http://latinosiptv.online:8090/notocar/xmauc84bx1/1295
+#EXTINF:-1, 24/7 PlanetaTV Niños
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 Los Simpsons
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 RetroPlus Señal 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?castca
+
+#EXTINF:-1, 24/7 RetroPlus Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 RetroPlus Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
+
+#EXTINF:-1,IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
+
 #EXTINF:-1,CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
 #EXTINF:-1, MONTECARLO Canal 4
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
 #EXTINF:-1, ZAETA 10
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
-
-
-
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1,CANAL 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 
 #EXTINF:-1,Estrella TV
 https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1,RCN+
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla/5.0+(Linux;+Android+6.0;+Nexus+5+Build/MRA58N)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/92.0.4515.131+Mobile+Safari/537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
-
-#EXTINF:-1,SONY CINE
-http://51.79.18.128:8081/LATINO|SONYCHANNEL/LATINO|SONYCHANNEL/playlist.m3u8
-
-#EXTINF:-1, Canal 4 HD
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-
-#EXTINF:-1, Canal 10
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
 #EXTINF:-1,Tv Pública
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_SAGEMCOM/TV_Publica_Internacional.m3u8
@@ -210,23 +55,8 @@ https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.
 #EXTINF:-1,WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 
-#EXTINF:-1,FXM
-http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-
-#EXTINF:-1,GOURMET
-https://edge9-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-#EXTINF:-1,SPACE HD
-https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
 #EXTINF:-1,AMC
 http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1,AMC HD
-http://51.79.18.128:8081/LATINO|AMC/LATINO|AMC/playlist.m3u8
-
-#EXTINF:-1,HBO
-https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-1,Discovery World
 https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
@@ -245,15 +75,6 @@ http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
 
 #EXTINF:-1,Telecentro HD (RD)
 http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
-
-#EXTINF:-1,ESTUDIO-UNIVERSAL
-http://51.79.18.128:8081/LATINO|STUDIOUNIVERSAL/LATINO|STUDIOUNIVERSAL/playlist.m3u8
-
-#EXTINF:-1, CINECANAL
-http://51.79.18.128:8081/LATINO|CINECANAL/LATINO|CINECANAL/playlist.m3u8
-
-#EXTINF:-1, GOLDENPLUS
-http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
 
 #EXTINF:-1, TELEFE HD
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
@@ -279,9 +100,6 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1,TNT ARG.
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1,AMC HD
-https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
 #EXTINF:-1,CINECANAL HD
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
@@ -297,35 +115,14 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2H
 #EXTINF:-1, FOX SPORTS 3
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1,A&E
-http://51.79.18.128:8081/LATINO|AYE/LATINO|AYE/playlist.m3u8
-
 #EXTINF:-1,STAR CHANNEL
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1,SPACE
-https://edge9-hr.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
-#EXTINF:-1,El Gourmet
-https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-#EXTINF:-1,TNT
-https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-#EXTINF:-1,NATGEO WILD
-https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-
-#EXTINF:-1,TRU TV
-https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1,¡¡A13HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1,¡¡AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
-
-#EXTINF:-1,¡¡FXM
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 
 #EXTINF:-1,¡¡FOXSPORTS
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
@@ -342,37 +139,76 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecanal
 #EXTINF:-1,¡¡CARTÓN network
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
-#EXTINF:-1,¡¡Disney
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-
 #EXTINF:-1,¡¡DISCOVERY
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1,¡¡NATGEOLA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
+#EXTINF:-1,RCN+
+https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
+
+#EXTINF:-1,UNIVERSAL COMEDY
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/48.m3u8
+
+#EXTINF:-1,UNIVERSAL CINEMA
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/680.m3u8
+
+#EXTINF:-1, NATGEO
+http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
+#EXTINF:-1, FOX SPORTS 3
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
+#EXTINF:-1,TV CIUDAD
+http://edge2-sl.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
+
+#EXTINF:-1,Disney Channel
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1, 24/7 Runtime Pel\u00edculas
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 PlanetaTV Niños
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 Los Simpsons
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 RetroPlus Señal 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?castca
+
+#EXTINF:-1, 24/7 RetroPlus Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?caster
+
+#EXTINF:-1, 24/7 RetroPlus Señal 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?caster
+
+#EXTINF:-1,IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?caster
+
+#EXTINF:-1,CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+#EXTINF:-1, MONTECARLO Canal 4
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
 #EXTINF:-1, ZAETA 10
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1,CANAL 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_1b89127040e111ec94bb9191b5291a5e/index.m3u8?check=1
 
 #EXTINF:-1,Estrella TV
 https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1,RCN+
 https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla/5.0+(Linux;+Android+6.0;+Nexus+5+Build/MRA58N)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/92.0.4515.131+Mobile+Safari/537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
-
-#EXTINF:-1,SONY CINE
-http://51.79.18.128:8081/LATINO|SONYCHANNEL/LATINO|SONYCHANNEL/playlist.m3u8
-
-#EXTINF:-1, Canal 4 HD
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-
-#EXTINF:-1, Canal 10
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
 #EXTINF:-1,Tv Pública
 https://edge-live15-sl.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_SAGEMCOM/TV_Publica_Internacional.m3u8
@@ -386,23 +222,8 @@ https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.
 #EXTINF:-1,WOBI
 http://edge3-hr.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 
-#EXTINF:-1,FXM
-http://edge3-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-
-#EXTINF:-1,GOURMET
-https://edge9-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-#EXTINF:-1,SPACE HD
-https://edge9-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
 #EXTINF:-1,AMC
 http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
-#EXTINF:-1,AMC HD
-http://51.79.18.128:8081/LATINO|AMC/LATINO|AMC/playlist.m3u8
-
-#EXTINF:-1,HBO
-https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-1,Discovery World
 https://edge-vod04-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
@@ -421,15 +242,6 @@ http://stream2.grupotelemicro.com:8081/live/5/playlist.m3u8
 
 #EXTINF:-1,Telecentro HD (RD)
 http://stream2.grupotelemicro.com:8081/live/13/playlist.m3u8
-
-#EXTINF:-1,ESTUDIO-UNIVERSAL
-http://51.79.18.128:8081/LATINO|STUDIOUNIVERSAL/LATINO|STUDIOUNIVERSAL/playlist.m3u8
-
-#EXTINF:-1, CINECANAL
-http://51.79.18.128:8081/LATINO|CINECANAL/LATINO|CINECANAL/playlist.m3u8
-
-#EXTINF:-1, GOLDENPLUS
-http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
 
 #EXTINF:-1, TELEFE HD
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
@@ -455,9 +267,6 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1,TNT ARG.
 https://edge-live11-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1,AMC HD
-https://edge9-hr.cvattv.com.ar//live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-
 #EXTINF:-1,CINECANAL HD
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
@@ -473,26 +282,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2H
 #EXTINF:-1, FOX SPORTS 3
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
-#EXTINF:-1,A&E
-http://51.79.18.128:8081/LATINO|AYE/LATINO|AYE/playlist.m3u8
-
 #EXTINF:-1,STAR CHANNEL
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-1,SPACE
-https://edge9-hr.cvattv.com.ar//live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-
-#EXTINF:-1,El Gourmet
-https://edge9-hr.cvattv.com.ar//live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-#EXTINF:-1,TNT
-https://edge9-hr.cvattv.com.ar//live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-
-#EXTINF:-1,NATGEO WILD
-https://edge9-hr.cvattv.com.ar//live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-
-#EXTINF:-1,TRU TV
-https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1,¡¡A13HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
@@ -500,10 +291,6 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3
 #EXTINF:-1,¡¡AMERICA
 https://edge8-ccast-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-1,¡¡FXM
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-#EXTINF:-1,¡¡A13HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1,¡¡FOXSPORTS
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
@@ -519,11 +306,29 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecanal
 #EXTINF:-1,¡¡CARTÓN network
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
-#EXTINF:-1,¡¡Disney
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-
 #EXTINF:-1,¡¡DISCOVERY
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1,¡¡NATGEOLA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#EXTINF:-1,RCN+
+https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
+
+#EXTINF:-1,UNIVERSAL COMEDY
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/48.m3u8
+
+#EXTINF:-1,UNIVERSAL CINEMA
+http://user.tvcluboficial.com/stream/free_EVYANGELCR_COSTARICA/zjx/680.m3u8
+
+#EXTINF:-1, NATGEO
+http://spliktv-edge2.wedrly.xyz/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
+
+#EXTINF:-1, FOX SPORTS 3
+http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
