@@ -70,16 +70,17 @@
 	    
 	    
   <div align="center">
-<p><a href="">
-<script type="text/javascript"
-      src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js">
-  </script>
-</head>
-<body>
-  <div id="player"></div>
-  <script>
-    var player = new Clappr.Player({source: "https://tv.clientetvstudio.net:3046/multi_live/play_240.m3u8", parentId: "#player"});
-  </script>
+<!-- Paste the following into the <body> -->
+<video id="videojs" class="video-js vjs-fluid vjs-default-skin vjs-big-play-centered" controls preload="auto" autoplay fluid="true" poster="https://scontent.fmvd3-1.fna.fbcdn.net/v/t39.30808-6/299868837_580733780126681_326849997549403707_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=z4wI3_fQaYQAX8KkuI0&_nc_ht=scontent.fmvd3-1.fna&oh=00_AT8GjszHcVy_Xwb_qEnx1fx6p6P5ypzjBcAymT5KIYikWg&oe=6316F744" >
+
+  <source src="https://tv.clientetvstudio.net:3046/multi_live/play_240.m3u8" type="application/x-mpegURL">
+
+</video>
+
+<script src="https://unpkg.com/video.js@7/dist/video.min.js"></script>
+<script src="https://unpkg.com/silvermine-videojs-quality-selector/dist/js/silvermine-videojs-quality-selector.min.js"></script>
+<script type="text/javascript">
+ var player = videojs('videojs');</script>  
 
 
 <p>               <br/>
