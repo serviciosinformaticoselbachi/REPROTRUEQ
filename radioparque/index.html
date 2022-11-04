@@ -1,100 +1,161 @@
 <!DOCTYPE html>
-<html lang="es-ES" class="no-js">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <meta charset="utf-8">
-<title>RADIO</title>
-<meta name="description" content="MUSICA 24HS." />
+<html>
 
-<!-- Twitter Card data -->
-<meta name="twitter:card" value="summary">
-
-<!-- Open Graph data -->
-<meta property="og:title" content="Radio Parque del Plata" />
-<meta property="og:type" content="B@chi" />
-<meta property="og:url" content="https://servicioselbachi.com/radioparque" />
-<meta property="og:image" content="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/radioparque/js/logo.jpg?raw=true" />
-<meta property="og:description" content="Radio Parque del Plata" />
-	
 <head>
-<title>Radio Online</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js" id="jquery-core-js"></script> 
-<script src="js/lunaradio-sincors.js"></script>
-<link rel="stylesheet" href="css/style.css">
-<center>
-<div id="lunaradio" style="width:350px; height:428px;">Cargando ...</div></head>
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
+
+
+<head>
+
+	<title>Radio Parque del PLata</title>
+    <style type="text/css">
+body {
+  background-color: #000000;
+}
+</style>
+
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <script type="text/javascript" src="js/jquery.js"></script>
+     <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
+    
+	<script type="text/javascript">
+      
+        $(document).ready(function(){
+            var stream = {
+            title: "Radio Parque del PLata",
+            mp3: "https://sonic.tvcontrolcp.com/8084/stream"
+        },
+        ready = false;
+          $("#jquery_jplayer_1").jPlayer({
+          ready: function (event) {
+            ready = true;
+                $(this).jPlayer("setMedia", stream).jPlayer("play");
+  
+            },
+            pause: function() {
+                $(this).jPlayer("clearMedia");
+            },
+            error: function(event) {
+                if(ready && event.jPlayer.error.type === $.jPlayer.error.URL_NOT_SET) {
+                    
+                    $(this).jPlayer("setMedia", stream).jPlayer("play");
+                }
+            },
+            swfPath: "/js",
+            supplied: "mp3",
+            preload: "none",
+            wmode: "window",
+            keyEnabled: true,
+            cssSelectorAncestor: "",
+            cssSelector: {
+            play: "#play",
+            pause: "#pause",
+            },
+        });
+      });
+    </script>
+      
+
+</head>
 <body>
-<div
-<div
-<a href="https://instagram.com/"target="blank"><img src="https://i.imgur.com/OXxTCye.png" width="55" height="auto"><a href="https://www.facebook.com/"target="blank"><img src="https://i.imgur.com/2b7nTz7.png" width="55" height="auto"><a href="https://twitter.com/"target="blank"><img src="https://i.imgur.com/7o0fwGG.png" width="55" height="auto"><a href="https://youtube.com/"target="blank"><img src="https://i.imgur.com/s0IWJPD.png" width="55" height="auto"><a href="https://api.whatsapp.com/send?phone=+59897605154&text=Gracias por escuchar  Déjanos tu mensaje mientras nos escuchas !!"target="blank"><img src="https://i.imgur.com/CeVqqKE.png" width="55" height="auto"></div>
-<script>
-	
-   $("#lunaradio").lunaradio({
-  userinterface: "big",
-  backgroundcolor: "",
-  fontcolor: "#000000",
-  hightlightcolor: "#FFC600",
-  fontname: "Anton",
-  googlefont: "Anton&display=swap",
-  fontratio: "0.4",
-radioname: "Canelones Uruguay", 
-scroll: "true", 
-coverimage: "js/logo.jpg",
-onlycoverimage: "false",
-coverstyle: "animated",
-usevisualizer: "real", 
-visualizertype: "1", 
-metadataMode: "shoutcast",   
-ownmetadataurl: "", 
-streamurl: "https://sonic.tvcontrolcp.com/8084/stream", 
-streamtype: "shoutcast1", 
-icecastmountpoint: "",
-shoutcastpath: "/stream",
-shoutcastid: "1", 
-streamsuffix: "", 
-radionomyid: "", 
-radionomyapikey: "",
-radiojarid: "",  
-radiocoid: "",
-itunestoken: "1000lIPN", 
-metadatainterval: "8", 
-volume: "100",
-debug: "false",
-autoplay: "true"
+
+  
+          <div align="left"></div>
+          <div align="left"></div>
+          <div id="player">
+          
+                <a href="javascript:;" id="play"></a><a href="javascript:;" id="pause"></a>
+                <div id="titulo">
+                <h3>Radio Parque del PLata</h3>
+                </div>
+          		
+                 
+                 <div id="song" class="song"><marquee scrollamount="4" behavior="scroll" direction="left"><span id="current-track">COMUNICATE +598 97 605 154</span></marquee></div>
+
+                
+                <div id="animation">
+                  <div align="left"><img src="img/ecualizador.gif" alt="efec" width="220" height="52
+"></div>
+                </div>
+
+                <div style="text-align:center; padding-top: 160px;">
+                 <ul style="list-style:none; text-align:center; padding-left:0;">
+                 <li style="display:inline;"><a target="_blank" href="https://www.facebook.com/pg/zonaradioonline/"><img src="iconos-sociales/facebook.png" border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.twitter.com/"><img src="iconos-sociales/twitter.png" border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://wa.me/59897605154?text=Escucho%20ZonaRadio ONLINE%F0%9F%94%8A"><img src="iconos-sociales/google.png" border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="https://www.youtube.com/channel/UC9FKWsY9WETE3s_eVEXAcDQ"><img src="iconos-sociales/youtube.png" 94911721border="0"/></a></li>
+                 <li style="display:inline; margin-left:5px;"><a target="_blank" href="http://www.instagram.com/"><img src="iconos-sociales/instagram.png" border="0"/></a></li></ul>
+                </div>
+                
+</div>
+          
+  
+  
+ 		  <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+          
+<script type="text/javascript">
+function radioTitle()
+{
+$.ajax({
+    url: 'current-song.php',
+    type: 'GET',
+    cache: false,
+    success: function(result) {
+    $('#current-track').html(result);
+    
+    }
 });
-</script>
-<br/>
 
+}
 
+setTimeout(function(){radioTitle();}, 2000);
+setInterval(function(){radioTitle();}, 10000);
+</script>                
+  
+ <br/>
+   <br/>
+   <br/>
 
 
 <div align="center">
-<p><a href="https://play.google.com/store/apps/details?id=el.picapalorado">
-<img src="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/logoGOOGLEPLAY.png?raw=true" alt="GOOGLEPLAY" width="25%" height=""margin="0"></p>
+<p><a href="https://play.google.com/store/apps/details?id=delmallva.radio">
+<img src="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/logoGOOGLEPLAY.png?raw=true" alt="GOOGLEPLAY" width="220px" height="auto"margin="1%"></p>
 <p>
 	<tr>                 
    </div>
-   
+   <br/>
+   <br/>
+   <br/>
 
-
+ 
+ <br/>
    <br/>
 	<div align="center">
 						   <td width="1px" align="center">
-							<font face="Arial Black">
-							<a href="https://api.whatsapp.com/send/?phone=59893422446&text=QUIERO%20TENER%20MI%20RADIO%20ONLINE" 
-	class="claudio_01"><span style="text-decoration: none"><font color="#FF0000">QUIERO TENER MI RADIO ONLINE</font></span></a></font></td>
-	
+							
+
+	<a href="https://servicioselbachi.com/"
+	<a href="#">Powered by servicioselbachi.com/ 2022</a>
 		 
-	
+	  </i>
+	 </a>
+	 </a>
 	 </div>
 	 
-     
-
+	</p>
+						 
+   <p>
+						
+		 </p>         
 	 
+	 
+   
    </body>
    
    </html>
+   
