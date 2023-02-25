@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="utf-8">
-<title>Bachi Streaming</title>
+<title>PKDO RADIO</title>
 <meta name="theme-color" content="#3811D4">
 </head>
 <body>
@@ -11,6 +11,19 @@
 
 <style type="text/css">
 
+    
+    
+  <!DOCTYPE html>
+<html>
+  <head>
+    <title>Video de fondo de página responsive</title>
+    <style>
+    
+    
+     
+    
+    
+    
 .fs-vid-background {
     position: absolute;
     width: 100%;
@@ -38,10 +51,45 @@ video {
  left: -2px;	
  z-index: 300;
 }	
+    
+    
+      .video-background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      #myVideo {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        transform: translate(-50%, -50%);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="video-background">
+      <video autoplay muted loop id="myVideo">
+        <source src="https://pkdo.eskuchame.com/video/home.mp4" type="video/mp4">
+        <source src="video.webm" type="video/webm">
+      </video>
+
+    
+    
+    
+    
+   
 </style>
 <div class="fs-vid-background">
   <video autoplay="true" muted="true" loop="true">
-    <source src="https://pkdo.eskuchame.com/video/home.mp4" type="video/mp4">
+    <source src="" type="video/mp4">
   </video>
 </div>	
 <script src="js/jquery-3.2.1.min.js"></script>
@@ -61,7 +109,7 @@ googlefont: "Unica+One&display=swap",
 fontratio: "0.4", 
 radioname: "Bachi Streaming", 
 scroll: "true", 
-coverimage: "https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/BACHI%20STREAMING-VERDE.png?raw=true",
+coverimage: "js/logo.jpg",
 onlycoverimage: "false",
 coverstyle: "animated",
 usevisualizer: "real", 
