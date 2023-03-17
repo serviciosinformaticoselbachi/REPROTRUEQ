@@ -1,0 +1,21 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-servers",
+  "name": "sonicpanel",
+  "license": "proprietary",
+  "category": "provisioning",
+  "description": {
+    "name": "SonicPanel",
+    "tagline": "SonicPanel is a complete radio hosting control panel",
+    "long": ""
+  },
+  "support": {
+    "docs_url": "http://support.sonicpanel.com"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
