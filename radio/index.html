@@ -1,100 +1,47 @@
-<!doctype html>
-<html lang="es">
-<head>
-
-<meta charset="utf-8">
- <link rel="shortcut icon" href="favicon.png">
-<title>Bachi Streaming</title>
-<meta name="theme-color" content="#3811D4">
-</head>
-
-<body>
-
-<link href="css/redes.css" rel="stylesheet" type="text/css">
-
-<style type="text/css">
-
-    
-    
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>Video de fondo de página responsive</title>
-    <style>
-    
-    
-     
-    
-    
-    
-.fs-vid-background {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    margin: 0 0;
-    z-index: 250;
-}
-.fs-vid-background video {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-}
-video {
-    max-width: 100%;
-}
-#capa1{ 
+<head>
+	<title>BACHI STREAMING REPRODUCTOR</title>
+	<meta charset="UTF-8">
+	<style>
+		.video-background {
+			position: fixed;
+			right: 0;
+			bottom: 0;
+			min-width: 100%;
+			min-height: 100%;
+			z-index: -1;
+		}
 
- background-color:transparent;
- position: relative;
- display: flex;
- height: 16vh;
- align-items: center;
- justify-content: center;
- margin: -1px auto;
- left: -2px;	
- z-index: 300;
-}	
-    
-    
-      .video-background {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        overflow: hidden;
-      }
+		.video-background video {
+			min-width: 100%;
+			min-height: 100%;
+			object-fit: cover;
+		}
 
-      #myVideo {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        min-width: 100%;
-        min-height: 100%;
-        width: auto;
-        height: auto;
-        transform: translate(-50%, -50%);
-      }
-    </style>
-  </head>
-  <body>
-    <div class="video-background">
-      <video autoplay muted loop id="myVideo">
-        <source src="https://cdn.pixabay.com/vimeo/310917917/Dj%20-%2020621.mp4?width=640&hash=b8f0bba7e5e20fafdd80d987a9f3ebdc2db2b530"type="video/mp4">
-      <source src="video.webm" type="video/webm">
-      </video>
+		.content {
+			position: relative;
+			z-index: 1;
+			text-align: center;
+			color: #fff;
+			margin-top: 20%;
+		}
+	</style>
+</head>
+<body>
+	<div class="video-background">
+		<video autoplay muted loop>
+			<source src="https://cdn.pixabay.com/vimeo/310917917/Dj%20
 
-    
-    
-    
-    
-   
-</style>
-<div class="fs-vid-background">
-  <video autoplay="true" muted="true" loop="true">
-    
-  </video>
-</div>	
+-%2020621.mp4?width=640&hash=b8f0bba7e5e20fafdd80d987a9f3ebdc2db2b530" 
+
+type="video/mp4">
+			Tu navegador no soporta el video.
+		</video>
+	</div>
+	<div class="content">
+		
+	</div>	
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/lunaradio-sincors.js"></script>
 
@@ -107,18 +54,18 @@ top:0; z-index: 300; ">
 $("#lunaradio").lunaradio({
 userinterface: "big", 
 backgroundcolor: "",
-fontcolor: "#16FF00",
-hightlightcolor: "#16FF00", 
+fontcolor: "#6FD929",
+hightlightcolor: "#610094", 
 fontname: "Saira Condensed", 
 googlefont: "Saira+Condensed:wght@100", 
 fontratio: "0.5", 
 radioname: "Bachi Streaming", 
 scroll: "true", 
-coverimage: "js/logo.png",
+coverimage: "js/logo.jpg",
 onlycoverimage: "false",
 coverstyle: "fake",
 usevisualizer: "real", 
-visualizertype: "0", 
+visualizertype: "2", 
 metadatatechnic: "",
 ownmetadataurl: "", 
 streamurl: "https://radios.servicioselbachi.com:8002", 
@@ -138,3 +85,6 @@ debug: "false",
 autoplay: "true"
 });
 </script>
+
+</body>
+</html>
