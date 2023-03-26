@@ -142,7 +142,7 @@
      
                                  
    
-       <style>
+        <style>
         body {
             font-family: Arial, sans-serif;
         }
@@ -168,8 +168,8 @@
 
         .logo {
             margin-right: 10px;
-            width: 100px; /* Ajusta el ancho del logo */
-            height: auto; /* Mantiene la proporción del logo */
+            width: 120px;
+            height: auto;
         }
 
         .text-container {
@@ -186,6 +186,31 @@
         .social-icons a {
             color: white;
         }
+
+        /* Media queries para responsive */
+        @media (max-width: 768px) {
+            .footer {
+                flex-direction: column;
+            }
+
+            .footer-section {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+
+            .footer-section:first-child {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .logo {
+                margin-bottom: 10px;
+            }
+
+            .social-icons {
+                width: 200px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -194,7 +219,8 @@
             <img src="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/BACHI%20STREAMING-VERDE.png?raw=true" alt="Logo" class="logo">
             <div class="text-container">
                 <h3>Bachi Streaming</h3>
-                <p>Lider en Streaming de Tu Radio Y TV Online.</p>
+                <p>Lider en Streaming</p>
+		    <p>de Tu Radio Y TV Online.</p>
             </div>
         </div>
         <div class="footer-section">
@@ -203,7 +229,7 @@
             <p><i class="fas fa-phone-alt"></i> +598 93 422 446</p>
         </div>
         <div class="footer-section">
-            <h3>Redes Sociales</h3>
+            <h3>Siguenos Redes Sociales</h3>
             <div class="social-icons">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
@@ -212,7 +238,7 @@
         </div>
     </footer>
     <div style="background-color: #222; color: white; text-align: center; padding: 10px;">
-        Copyright © 2023 Bachi Streaming -  echo con ❤ los derechos reservados.
+        Copyright © 2023 Bachi Streaming - Echo con ❤ - Todos los derechos reservados.
     </div>
 </body>
 </html>
