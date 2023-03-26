@@ -35,6 +35,7 @@
     </a>
       
       
+      
         <header>
             <nav class="navbar">
                 <div class="contenedor">
@@ -122,13 +123,12 @@
                                 <p>
                                     <a span style="text-decoration: none;">Además de las radios AM y FM, tener una radio en Internet puede ser muy interesante para Asociaciones de residentes, Clubes, ONG’s, Iglesias, DJ’s, Bandas, Locutores y Radialistas. La radio web también puede ser utilizada como canal de comunicación interno en empresas, tiendas y supermercados. Y por supuesto, si usted es un entusiasta de la radio, seguramente construirá su propia emisora de radio en la web.</a>
                                       
-                                      <h3 class="titulo">¿Tengo soporte durante los 30 días de prurba?</h3>
-                                       <a span style="text-decoration: none;">Por supuesto, puedes acceder a todos nuestros canales de soporte y ademas te acompañaremos con recursos a tu WhatsApp y a tu correo.</a>
-                                       <h3 class="titulo">¿Que sucede despues delos días?</h3>
+                                      <h3 class="titulo">¿Tengo soporte durante el trial de 30 días?</h3>
+                                      
                                        <a span style="text-decoration: none;">Puedes decidir continuar pagando tu servicio de forma mensual o anual, o puedes cancelar tu servicio. No existen compromisos </h3>
                                        
                                       
-                                       
+                                        <a span style="text-decoration: none;">Por supuesto, puedes acceder a todos nuestros canales de soporte y ademas te acompañaremos con recursos a tu WhatsApp y a tu correo.</a>
                                       
                                       
                                      </nav >
@@ -143,17 +143,89 @@
      
                                  
    
-        <style>
+
+    <style>
         body {
             font-family: Arial, sans-serif;
         }
         
-     <footer class="footer">
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            background-color: #333;
+            color: white;
+            padding: 20px;
+        }
+
+        .footer-section {
+            width: 30%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .footer-section:first-child {
+            flex-direction: row;
+        }
+
+        .logo {
+            margin-right: 10px;
+            width: 120px;
+            height: auto;
+        }
+
+        .text-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .social-icons {
+            display: flex;
+            justify-content: space-around;
+            width: 150px;
+        }
+
+        .social-icons a {
+            color: white;
+        }
+
+        /* Media queries para responsive */
+        @media (max-width: 768px) {
+            .footer {
+                flex-direction: column;
+            }
+
+            .footer-section {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+
+            .footer-section:first-child {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .logo {
+                margin-bottom: 10px;
+            }
+
+            .social-icons {
+                width: 200px;
+            }
+        }
+    </style>
+     </div>
+        </div>
+</head>
+<body>
+    <footer class="footer">
         <div class="footer-section">
             <img src="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/BACHI%20STREAMING-VERDE.png?raw=true" alt="Logo" class="logo">
             <div class="text-container">
                 <h3>Bachi Streaming</h3>
-                <p>Lider en Streaming de Tu Radio Y TV Online.</p>
+                <p>Lider en</p>
+                 Streaming de Radio</p> 
+               <p>Y TV Online.</p>
             </div>
         </div>
         <div class="footer-section">
