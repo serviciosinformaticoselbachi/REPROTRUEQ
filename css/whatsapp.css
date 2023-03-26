@@ -18,11 +18,3 @@
   background-color:#fff;
 }
 
-.my-float{
-	margin-top:16px;
-}
-/* Media queries para responsive */
-        @media (max-width: 768px) {
-            .footer {
-                flex-direction: column;
-}
