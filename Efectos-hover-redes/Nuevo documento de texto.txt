@@ -1,0 +1,278 @@
+
+<html lang="es">
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta charset="utf-8">
+<title>BACHI STREAMING RADIO Y TV</title>
+<meta name="description" content="RADIO Y TV" />
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" value="summary">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="(((BACHI STREAMING))) QUIERES TENER TU RADIO O TV EN INTERNET¿¿?? +59893422446" />
+<meta property="og:type" content="B@chi" />
+<meta property="og:url" content="https://servicioselbachi.com" />
+<meta property="og:image" content="https://raw.githubusercontent.com/serviciosinformaticoselbachi/REPROTRUEQ/master/IMAGES/BACHI%20STREAMING-VERDE.png" />
+<meta property="og:description" content="RADIO O TV EN INTERNET¿¿?? +59893422446" />
+    </head>
+    <body>
+	
+        
+	    <link rel="shortcut icon" href="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/RED%20DE%20RADIOS.jpg?raw=true">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+    
+     
+        <link rel="stylesheet" href="estilos.css">
+          <link rel="stylesheet" href="whatsapp.css">   
+    </head>
+    <body>
+    
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <a href="https://api.whatsapp.com/send?phone=59893422446&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20radio.." class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+    </a>
+      
+      
+      
+        <header>
+            <nav class="navbar">
+                <div class="contenedor">
+                    <a href="https://servicioselbachi.com/">Inicio</a>
+  
+                  
+                    <a href="https://canalmasuruguay.com/">Canal+</a>
+                    <a href="https://api.whatsapp.com/send/?phone=59893422446&text=CONTACTO%20DESDE%20SERVICIOS%20INFORMATICOS">Soporte</a>
+     </i>
+    </a>
+            </nav >
+	    
+<iframe frameborder="0" height="100%" width="100%" scrolling="no" src="https://servicioselbachi.com/radio"></iframe>
+  
+
+
+
+	<tr>                 
+   </div>
+   <br/>
+
+    
+                <hr><border-radius: 3px;
+            </div>
+  <div align="center">
+  <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+    <title>Efecto hover en redes sociales</title>
+</head>
+<body>
+    <main>
+        <div class="icon">
+            <svg heigth="80" width="80">
+                <circle cx="40" cy="40" r=35 stroke="white" stroke-width="4" fill="none" ></circle>
+            </svg>
+            <i class='bx bxl-instagram'></i>
+        </div>
+
+        <div class="icon">
+            <svg heigth="80" width="80">
+                <circle cx="40" cy="40" r=35 stroke="white" stroke-width="4" fill="none" ></circle>
+            </svg>
+            <i class='bx bxl-facebook-circle'></i>
+        </div>
+
+        <div class="icon">
+            <svg heigth="80" width="80">
+                <circle cx="40" cy="40" r=35 stroke="white" stroke-width="4" fill="none" ></circle>
+            </svg>
+            <i class='bx bxl-whatsapp' ></i>
+        </div>
+
+        <div class="icon">
+            <svg heigth="80" width="80">
+                <circle cx="40" cy="40" r=35 stroke="white" stroke-width="4" fill="none" ></circle>
+            </svg>
+            <i class='bx bxl-twitter' ></i>
+  
+                    </i>
+    </a>
+            </nav >
+                    <h1 class="titulo"><strong>#Streaming de #Radio #Profesional 30 días por USD$ 1.00 <strong></h1>
+                    
+    <nav class="indice">
+
+                      <br>
+                            <h3 class="titulo">¿Quieres tu #Radio desde tu #Casa?</h3>
+                   
+                  
+                        
+                        <a span style="text-decoration: none;">? 24hs. de transmisión Automática </span></a>
+                        <a span style="text-decoration: none;">? Oyentes Ilimitados</span></a>
+                        <a span style="text-decoration: none;">? Hasta 320 kbps</span></a>
+                   
+                        <a span style="text-decoration: none;">? LINK SSL - HTTPS Gratis</span></a>
+                        <a span style="text-decoration: none;">? Transferencia Ilimitada</span></a>
+                        <a span style="text-decoration: none;">? ShoutCast/IceCast</span></a>
+                        <a span style="text-decoration: none;">? Player HTML5</span></a>
+                        <a span style="text-decoration: none;">? Aplicación para Moviles Gratis</span></a>
+                        <a span style="text-decoration: none;">? Sitio Web Gratis para tu Radio</span></a>
+                        <a span style="text-decoration: none;">? Coloca publicidad Automaticamente y Facil</span></a>
+                         <a span style="text-decoration: none;">? Streaming de Audio con SonicPanel en Uruguay </span></a>
+                         <a span style="text-decoration: none;">? ¿No tienes experiencia con el Streaming de Audio? ¡No te preocupes!</span></a>
+                          <a span style="text-decoration: none;"> nuestros expertos se encargarán de entregarte tu servicio listo para usar </span></a>
+                            <a span style="text-decoration: none;">? Tranmite en Vivo dessde Cualquier Lugar y en Cualquier Momento</span>
+                            <a span style="text-decoration: none;">? Gracias a AutoDJ tu Radio Online Transmitirá las 24 horas del día, los 365 días del año, sin Interrupciones</span>
+                            <a span style="text-decoration: none;">? Automatiza la reproducción de listas de reproducción, jingles, anuncios, podcasts, noticias pre-grabadas,</span>
+                             <a span style="text-decoration: none;">programas de entrevistas y más Tu Radio Online transmitirá todo lo que configures</span>
+                            <a span style="text-decoration: none;">?Mide el Alcance de TU RADIO ONLINE, Estadísticas en Tiempo Real</span>
+                            <a span style="text-decoration: none;">?Tu Radio Online en Facebook y Youtube</span>
+                            
+                            </a>
+                         
+                        <a span style="llamanos;"><a href="https://api.whatsapp.com/send?phone=59893422446&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20radio..">? WhatsApp: +59893422446</span><a 
+                        
+                    <br>
+                        
+                        <h3 class="titulo"span style="text-decoration: none;">¿Qué necesito para crear una radio web?</h3>
+                        <a span style="text-decoration: none;">Crear una radio web es muy simple y no requiere gran inversión. Sólo tienes que un ordenador conectado a Internet y un micrófono si quieres realizar transmisiones en vivo. (Tamien puedes desde un Celular)</span</a>
+                        <br>
+                            
+                        </p>
+                    
+                            
+                         
+                            
+                            <br>
+                            <h3 class="titulo">¿Para quién se recomienda una radio web?</h3>
+                                <p>
+                                    <a span style="text-decoration: none;">Además de las radios AM y FM, tener una radio en Internet puede ser muy interesante para Asociaciones de residentes, Clubes, ONG’s, Iglesias, DJ’s, Bandas, Locutores y Radialistas. La radio web también puede ser utilizada como canal de comunicación interno en empresas, tiendas y supermercados. Y por supuesto, si usted es un entusiasta de la radio, seguramente construirá su propia emisora de radio en la web.</a>
+                                      
+                                      <h3 class="titulo">¿Tengo soporte durante el trial de 30 días?</h3>
+                                      
+                                       <a span style="text-decoration: none;">Puedes decidir continuar pagando tu servicio de forma mensual o anual, o puedes cancelar tu servicio. No existen compromisos </h3>
+                                       
+                                      
+                                        <a span style="text-decoration: none;">Por supuesto, puedes acceder a todos nuestros canales de soporte y ademas te acompañaremos con recursos a tu WhatsApp y a tu correo.</a>
+                                      
+                                      
+                                     </nav >
+                                     
+                                     <h1 class="titulo"><strong>CONFIGURAMOS TU SERVICIO INICIAL DE FORMA REMOTA <strong></h1>
+                                     </div>
+                                   <div align="center">
+                             <h1 class="titulo"><FONT COLOR="#6FD929"><strong>#Streaming de #Audio y TV en #Uruguay </FONT><strong></h1>
+                              <br>
+                             <h1 class="titulo"><FONT COLOR="#6FD929"><strong>COMUNICATE CON NOSOTROS</FONT><strong></h1>
+
+     
+                                 
+   
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            background-color: #333;
+            color: white;
+            padding: 20px;
+        }
+
+        .footer-section {
+            width: 30%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .footer-section:first-child {
+            flex-direction: row;
+        }
+
+        .logo {
+            margin-right: 10px;
+            width: 120px;
+            height: auto;
+        }
+
+        .text-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .social-icons {
+            display: flex;
+            justify-content: space-around;
+            width: 150px;
+        }
+
+        .social-icons a {
+            color: white;
+		ont-size: 25px; /* Aumenta el tamaño de los íconos */
+        }
+
+        /* Media queries para responsive */
+        @media (max-width: 768px) {
+            .footer {
+                flex-direction: column;
+            }
+
+            .footer-section {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+
+            .footer-section:first-child {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .logo {
+                margin-bottom: 10px;
+            }
+
+            .social-icons {
+                width: 200px;
+            }
+        }
+    </style>
+     </div>
+        </div>
+</head>
+<body>
+    <footer class="footer">
+        <div class="footer-section">
+            <img src="https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/BACHI%20STREAMING-VERDE.png?raw=true" alt="Logo" class="logo">
+            <div class="text-container">
+                <h3>Bachi Streaming</h3>
+                <p>Lider en</p>
+                 Streaming de Radio</p> 
+               <p>Y TV Online.</p>
+            </div>
+        </div>
+        <div class="footer-section">
+            <h3>Contacto</h3>
+            <p><i class="fas fa-envelope"></i> servicioselbachi@gmail.com</p>
+            <p><i class="fas fa-phone-alt"></i> +598 93 422 446</p>
+        </div>
+        <div class="footer-section">
+            <h3>Siguenos Redes Sociales</h3>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+		    <a href="#"><i class="fab fa-youtube"></i></a>
+		    <a href="#"><i class="fab fa-telegram"></i></a>
+		    <a href="#"><i class="fab fa-google"></i></a>
+            </div>
+        </div>
+    </footer>
+    <div style="background-color: #222; color: white; text-align: center; padding: 10px;">
+        Copyright © 2023 Bachi Streaming - Todos los derechos reservados.
+    </div>
+</body>
+</html>
