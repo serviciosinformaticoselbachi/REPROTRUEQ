@@ -6,7 +6,7 @@ const RADIO_NAME = 'Game! Radio 1';
 var zenoid = 'cfhkm5fs1uhvv'
 
 // URL of SHOUTCast streaming without / on the final, eg: http://streaming.com:8080
-const URL_STREAMING = 'https://stream-51.zeno.fm/cfhkm5fs1uhvv?zs=HOu6hxV1SG-7iGi9WGVTqQ';
+const URL_STREAMING = 'https://radios.servicioselbachi.com/8040/stream';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
