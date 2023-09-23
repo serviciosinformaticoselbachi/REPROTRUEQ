@@ -1,0 +1,307 @@
+<html lang="pt-BR" translate="no">
+<head>
+<meta charset="UTF-8">
+<title>Canal+Radio</title>
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="Description" content="Radio App">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Canal+Radio">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="theme-color" content="#000000">
+<link rel="icon" type="image/png" href="/apps/logo-d6d7c42a6dfe8cbb.png" sizes="300x300" />
+<link rel="apple-touch-icon" sizes="300x300" href="/apps/logo-d6d7c42a6dfe8cbb.png">
+<link rel="manifest" href="/app/d6d7c42a6dfe8cbb/manifest.webmanifest?1695489238"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+<script src="/inc/player.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/10.6.1/sweetalert2.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.cookie@1.4.1/jquery.cookie.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/10.6.1/sweetalert2.css">
+<style> body { margin:0; padding:0; background-color:#000000}#player-app-volumewrapper{display: none;}#player-app-buttonvolumeoff{display: none;}#player-app-buttonvolumeon{display: none;}#player-app-textvolumeend{display: none;}#player-app-iconlive{display: none;}#player-app-buttonanalyzer{display: none;}.icone-menu{position:absolute;left:0;top:0;width: 32px;height: 32px;padding-left: 5px;padding-bottom: 10px; margin: 10px; border-radius: 3px;color: #FFFFFF;font-size: 32px;text-align: center;z-index: 500;}@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);body{font-family:Poppins,sans-serif;background:#fafafa}p{font-family:Poppins,sans-serif;font-size:1.1em;font-weight:300;line-height:1.7em;color:#999}a,a:focus,a:hover{color:inherit;text-decoration:none;transition:all .3s}.navbar{padding:15px 10px;background:#fff;border:none;border-radius:0;margin-bottom:40px;box-shadow:1px 1px 3px rgba(0,0,0,.1)}.navbar-btn{box-shadow:none;outline:0!important;border:none}.line{width:100%;height:1px;border-bottom:1px dashed #ddd;margin:40px 0}#sidebar{width:250px;position:fixed;top:0;left:-250px;height:100vh;z-index:999;background:#7a034f;color:#fff;transition:all .3s;overflow-y:scroll;box-shadow:3px 3px 3px rgba(0,0,0,.2);overflow: hidden}#sidebar.active{left:0}#dismiss{width:30px;height:30px;line-height:30px;text-align:center;background:#7a034f;position:absolute;top:10px;right:10px;cursor:pointer;-webkit-transition:all .3s;-o-transition:all .3s;transition:all .3s}#dismiss2{width:70px;height:30px;line-height:30px;text-align:center;background:#7a034f;position:absolute;top:5px;left:5px;cursor:pointer;color: #FFFFFF;}#dismiss:hover{background:#fff;color:#7a034f}.overlay{display:none;position:fixed;width:100vw;height:100vh;background:rgba(0,0,0,.7);z-index:998;opacity:0;transition:all .5s ease-in-out}.overlay.active{display:block;opacity:1}#sidebar .sidebar-header{padding:20px;background:#2d1d55}#sidebar ul.components{padding:20px 0;}#sidebar ul p{color:#fff;padding:10px}#sidebar ul li a{padding:10px;font-size:1.1em;display:block}#sidebar ul li a:hover{color:#7a034f;background:#fff}#sidebar ul li.active>a,a[aria-expanded=true]{color:#fff;background:#2d1d55}a[data-bs-toggle=collapse]{position:relative}.dropdown-toggle::after{display:block;position:absolute;top:50%;right:20px;transform:translateY(-50%)}ul ul a{font-size:.9em!important;padding-left:30px!important;background:#2d1d55}ul.CTAs{padding:20px}ul.CTAs a{text-align:center;font-size:.9em!important;display:block;border-radius:5px;margin-bottom:5px}a.download{background:#fff;color:#7a034f}a.article,a.article:hover{background:#2d1d55!important;color:#fff!important}#content{width:100%;padding:20px;min-height:100vh;transition:all .3s;position:absolute;top:0;right:0}.chromeframe{margin:.2em 0;background:#ccc;color:#000;padding:.2em 0}#loader-wrapper{position:fixed;top:0;left:0;width:100%;height:100%;z-index:1000}#loader{display:block;position:relative;left:50%;top:50%;width:150px;height:150px;margin:-75px 0 0 -75px;border-radius:50%;border:3px solid transparent;border-top-color:#3498db;-webkit-animation:spin 2s linear infinite;animation:spin 2s linear infinite;z-index:1001}#loader:before{content:"";position:absolute;top:5px;left:5px;right:5px;bottom:5px;border-radius:50%;border:3px solid transparent;border-top-color:#e74c3c;-webkit-animation:spin 3s linear infinite;animation:spin 3s linear infinite}#loader:after{content:"";position:absolute;top:15px;left:15px;right:15px;bottom:15px;border-radius:50%;border:3px solid transparent;border-top-color:#f9c922;-webkit-animation:spin 1.5s linear infinite;animation:spin 1.5s linear infinite}@-webkit-keyframes spin{0%{-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes spin{0%{-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg)}}#loader-wrapper .loader-section{position:fixed;top:0;width:51%;height:100%;background:#222;z-index:1000}#loader-wrapper .loader-section.section-left{left:0}#loader-wrapper .loader-section.section-right{right:0}.loaded #loader-wrapper .loader-section.section-left{-webkit-transform:translateX(-100%);-ms-transform:translateX(-100%);transform:translateX(-100%);-webkit-transition:all .7s .3s cubic-bezier(.645,.045,.355,1);transition:all .7s .3s cubic-bezier(.645,.045,.355,1)}.loaded #loader-wrapper .loader-section.section-right{-webkit-transform:translateX(100%);-ms-transform:translateX(100%);transform:translateX(100%);-webkit-transition:all .7s .3s cubic-bezier(.645,.045,.355,1);transition:all .7s .3s cubic-bezier(.645,.045,.355,1)}.loaded #loader{opacity:0;-webkit-transition:all .3s ease-out;transition:all .3s ease-out}.loaded #loader-wrapper{visibility:hidden;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);-webkit-transition:all .3s 1s ease-out;transition:all .3s 1s ease-out}.ir{background-color:transparent;border:0;overflow:hidden}.ir:before{content:"";display:block;width:0;height:150%}.hidden{display:none!important;visibility:hidden}.visuallyhidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.invisible{visibility:hidden}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}#anuncios {width: 100%; z-index: 999; position: absolute; bottom: 0;}</style>
+</head>
+<body oncontextmenu="return false">
+<div id="loader-wrapper"><div id="loader"></div><div class="loader-section section-left"></div><div class="loader-section section-right"></div></div>
+<div class="icone-menu"><button type="button" id="sidebarCollapse" class="btn btn-sm btn-light"><i class="fa fa-bars"></i></button></div>
+<nav id="sidebar">
+   <div id="dismiss">
+      <i class="fa fa-arrow-left"></i>
+   </div>
+   <div class="sidebar-header">
+      <h4>Canal+Radio</h3>
+   </div>
+   <ul class="list-unstyled components">
+          <li>
+        <a href="#redessociais" data-bs-toggle="collapse" aria-expanded="false"><i class="fa fa-heart"></i> Redes Sociales</a>
+        <ul class="collapse list-unstyled" id="redessociais">
+                     <li>
+              <a target="_blank" rel="noopener" href="facebook.com" ><i class="fa fa-facebook-official"></i> Facebook</a>
+           </li>
+                                                   <li>
+              <a target="_blank" rel="noopener" href="servicioselbachi.com"><i class="fa fa-globe"></i> Site</a>
+           </li>
+                            </ul>
+      </li>
+                        <li>
+         <a href="#" onclick="abrir_camera_studio('https://tvlive.servicioselbachi.com/hybrid-stream-video-widget/canalmas')"><i class="fa fa-video-camera"></i> Camera Studio</a>
+      </li>
+                <li>
+         <a href="https://api.whatsapp.com/send/?phone=+59893422446&text&app_absent=0"><i class="fa fa-whatsapp"></i> Whatsapp</a>
+      </li>
+                     <li>
+         <a href="#app" data-bs-toggle="collapse" aria-expanded="false"><i class="fa fa-tablet"></i> App</a>
+         <ul class="collapse list-unstyled" id="app">
+            <li>
+               <a href="#" onclick="abrir_link('/politica.html')"><i class="fa fa-gavel"></i> Pol&iacute;tica de Privacidad</a>
+            </li>
+                        <li>
+               <a href="mailto:servicioselbachi@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>
+            </li>
+                 </ul>
+      </li>
+   </ul>
+</nav>
+<div id="conteudo_externo" style="position: absolute;left:0px;top:0px;width:100%;height:100%;background: #FFFFFF;margin:0;padding:0;z-index: 999999;display: none;">
+<div style="width: 100%;height: 40px;margin:0;padding:0px 10px;background:#2d1d55"><div id="dismiss2"><i class="fa fa-arrow-left" onclick="$('#conteudo_externo').hide();$('#iframe_conteudo_externo').attr('src', '');"> Volver</i></div></div>
+<iframe target="_parent" id="iframe_conteudo_externo" frameborder="0" src="" style="position: absolute;width:100%;height:100%;background: #FFFFFF url('/img/app-loader.gif') center center no-repeat;margin:0;padding:0;z-index: 999999"></iframe>
+</div>
+<div class="overlay"></div>
+<div id="player-app-" style="width:100%; height:100%;position: absolute; left:0; top:0; z-index: 300;background: url('/apps/background-d6d7c42a6dfe8cbb.jpg') bottom / cover no-repeat;"><center><img width="256" height="256" src="/img/app-loader.gif" style="margin-top: 15%" ></center></div>
+<div id="anuncios"><a href="#" id="anuncio_link" target="_blank"><img id="anuncio" src="" border="0" style="width:100%; height: 100%; max-height: 60px; display: none;"></a></div>
+<script>
+function ajustes_navegador() {  
+var altura_tela = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+$("#conteudo_externo").height(altura_tela);
+$("#iframe_conteudo_externo").height(altura_tela-35);
+$("#sidebarCollapse").delay(200).fadeOut(100);
+$("#sidebarCollapse").delay(200).fadeIn(100);
+$("#player-app-buttonplay").attr("aria-label", "Play/Tocar!");
+$("#player-app-buttonplay").attr("title", "Play/Tocar!");
+$("#player-app-buttonpause").attr("aria-label", "Pause/Parar!");
+$("#player-app-buttonpause").attr("title", "Pause/Parar!");
+}
+function abrir_link(link) {
+$("#conteudo_externo").show();
+$("#iframe_conteudo_externo").attr("src", link);
+$('#sidebar').removeClass('active');
+$('.overlay').removeClass('active');
+}
+function abrir_camera_studio(link) {
+$("#conteudo_externo").show();
+$("#iframe_conteudo_externo").attr("src", link);
+$("#player-app-").data('lunaradio').pause();
+$('#sidebar').removeClass('active');
+$('.overlay').removeClass('active');
+}
+function load_cover() {
+
+$.ajax({
+url:"/app/d6d7c42a6dfe8cbb/cover",
+type:"GET",
+success: function(cover, statusText, errorThrown){
+  $("#player-app-coverwrapper2").css("background", "transparent url('"+cover+"') 0% 0% / cover no-repeat");
+  $("#player-app-coverwrapper2").css("opacity", "1");
+  $("#player-app-coverwrapper1").css("opacity", "0");
+},
+error: function(xhr, statusText, errorThrown){
+  $("#player-app-coverwrapper2").css("opacity", "0");
+  $("#player-app-coverwrapper1").css("opacity", "1");
+}
+});
+
+}
+
+function load_title() {
+
+$.ajax({
+url:"/app/d6d7c42a6dfe8cbb/title",
+type:"GET",
+success: function(title, statusText, errorThrown){
+
+var dados = title.split("|");
+var cover = dados[0];
+var musica = dados[1];
+
+if ('mediaSession' in navigator) {
+
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: 'Canal+Radio',
+    artist: musica,
+    //album: 'Whenever You Need Somebody',
+    artwork: [
+      { src: cover, sizes: '96x96',   type: 'image/jpeg' },
+      { src: cover, sizes: '128x128', type: 'image/jpeg' },
+      { src: cover, sizes: '192x192', type: 'image/jpeg' },
+      { src: cover, sizes: '256x256', type: 'image/jpeg' },
+      { src: cover, sizes: '384x384', type: 'image/jpeg' },
+      { src: cover, sizes: '512x512', type: 'image/jpeg' },
+    ]
+  });
+
+}
+
+  $(document).attr("title", "Canal+Radio");
+},
+error: function(xhr, statusText, errorThrown){
+  $(document).attr("title", "Canal+Radio");
+}
+});
+
+}
+function load_anuncio() {
+
+$.ajax({
+url:"/app/d6d7c42a6dfe8cbb/anuncio",
+type:"GET",
+success: function(dados_anuncio, statusText, errorThrown){
+  if(dados_anuncio) {
+    var anuncio = dados_anuncio.split('|');
+    $("#anuncio").fadeOut(500, function() {
+          $("#anuncio").attr("src",anuncio[0]);
+          if(anuncio[1] == "#") {
+          $("#anuncio_link").attr("disabled", "disabled");
+        } else {
+            $("#anuncio_link").attr("href",anuncio[1]);
+            $("#anuncio_link").removeAttr("disabled");
+        }
+      }).fadeIn(500);
+  } else {
+    $("#anuncio").hide();
+  }
+}
+});
+
+}
+$(document).ready(function () {
+    $('#anuncio_link').on('click', function () {
+        if ($('#anuncio_link').attr('disabled') == 'disabled') {
+        return false;
+      }
+    });
+    $('#dismiss, .overlay').on('click', function () {
+        $('#sidebar').removeClass('active');
+        $('.overlay').removeClass('active');
+    });
+    $('#sidebarCollapse').on('click', function () {
+        $('#sidebar').addClass('active');
+        $('.overlay').addClass('active');
+        $('.collapse.in').toggleClass('in');
+        $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+    });
+  $("#player-app-").lunaradio({
+    userinterface: "big", 
+    backgroundcolor: "",
+    fontcolor: "#ffffff",
+    hightlightcolor: "#FFFFFF", 
+    fontname: "Unica One", 
+    googlefont: "Unica+One&display=swap", 
+    fontratio: "0.7", 
+    radioname: "Canal+Radio", 
+    scroll: "true", 
+    coverimage: "/apps/logo-d6d7c42a6dfe8cbb.png",
+    onlycoverimage: "true",
+    coverstyle: "animated",
+    usevisualizer: "real", 
+    visualizertype: "1", 
+    itunestoken: "1000lIPN", 
+    metadatatechnic: "corsproxy", 
+    usestreamcorsproxy: "false",
+        corsproxy: "/corsproxy.php?url=",
+     
+        streamurl: "https://radios.servicioselbachi.com:8002", 
+    shoutcastpath: "/live",
+    shoutcastid: "1", 
+    streamtype: "shoutcast2",
+                metadatainterval: "30000", 
+    volume: "100",
+    debug: "false",
+    autoplay: "true"
+  });
+              
+setTimeout(ajustes_navegador,3000);
+setTimeout(function(){$('body').addClass('loaded');}, 1000);
+setTimeout(load_cover,5000);
+setInterval(load_cover,30000);
+setTimeout(load_title,2000);
+setInterval(load_title,30000);
+load_anuncio();
+setInterval(load_anuncio,60000);
+});
+setTimeout(function(){ 
+
+if (Notification.permission !== 'granted') {
+
+  if (!$.cookie('permissao_d6d7c42a6dfe8cbb')) {
+    Swal.fire({
+      title: 'Quieres recibir notificaciones de nuestra radio?',
+      showDenyButton: true,
+      showCancelButton: false,
+      confirmButtonText: 'Permitir',
+      denyButtonText: 'No, gracias.',
+    }).then((result) => {
+      if (result.isConfirmed) {
+
+        Notification.requestPermission().then(function (permission) { 
+          if (permission === "granted") {
+                        var notification = new Notification("Notificaciones habilitadas, gracias! 😊");
+                      }
+        });
+      } else if (result.isDenied) {
+        $.cookie('permissao_d6d7c42a6dfe8cbb', 'negada', { expires: 15, path: '/' });
+      }
+    })
+  }
+}
+
+}, 5000);
+
+setInterval(function(){ 
+  $.get("/app/d6d7c42a6dfe8cbb/carregar-notificacao", function( resposta ) {
+  var JSON_VAR = JSON.stringify(resposta, null, 2);
+  var dados = JSON.parse(JSON_VAR);
+  exibir_notificacao(dados[0].codigo, dados[0].titulo, dados[0].url_icone, dados[0].url_imagem, dados[0].url_link, dados[0].mensagem);
+  }, 'json');
+}, 10000);
+
+function exibir_notificacao(codigo, titulo, icone, imagem, link, mensagem) {
+  var opcoes = {
+      
+    body: mensagem,
+    icon: icone,
+    image: imagem
+  }
+
+    var notification = new Notification(titulo, opcoes);
+  if(link) {
+    notification.onclick = function(event) {event.preventDefault();window.open(link, '_self');};
+  }
+  notification.onshow = function() {$.cookie('app_d6d7c42a6dfe8cbb_notify_'+codigo+'', 'vizualizada', { expires: 360, path: '/' });};
+    
+}
+</script>
+<script type="module">!function(){"use strict";const i={isOpen:!1,orientation:void 0},e=(i,e)=>{window.dispatchEvent(new CustomEvent("devtoolschange",{detail:{isOpen:i,orientation:e}}))},n=({emitEvents:n=!0}={})=>{const o=window.outerWidth-window.innerWidth>160,t=window.outerHeight-window.innerHeight>160,d=o?"vertical":"horizontal";t&&o||!(window.Firebug&&window.Firebug.chrome&&window.Firebug.chrome.isInitialized||o||t)?(i.isOpen&&n&&e(!1,void 0),i.isOpen=!1,i.orientation=void 0):(i.isOpen&&i.orientation===d||!n||e(!0,d),i.isOpen=!0,i.orientation=d)};n({emitEvents:!1}),setInterval(n,500),"undefined"!=typeof module&&module.exports?module.exports=i:window.devtools=i}();window.addEventListener('devtoolschange', event => {if(event.detail.isOpen){window.location.replace("https://playstore.stream/app/d6d7c42a6dfe8cbb");}});</script>
+<script>
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/service-worker.js', {useCache: false, scope: '/app/d6d7c42a6dfe8cbb'})
+      .then(function(registration) {
+
+    registration.addEventListener('updatefound', () => {
+      newWorker = registration.installing;
+    });
+  });
+}
+if (('standalone' in navigator) && (!navigator.standalone)) {
+    import('https://unpkg.com/pwacompat');
+}
+$(window).on("keydown",function(e){return 123==e.keyCode?!1:e.ctrlKey&&e.shiftKey&&73==e.keyCode?!1:e.ctrlKey&&73==e.keyCode?!1:void 0}),$(document).on("contextmenu",function(e){e.preventDefault()});
+$(document).keydown(function(e){var o=String.fromCharCode(e.keyCode).toLowerCase();return!e.ctrlKey||"c"!=o&&"u"!=o?void 0:!1});</script>
+</body>
+</html>
