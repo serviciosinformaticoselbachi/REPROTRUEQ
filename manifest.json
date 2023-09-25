@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "Streaming de RADIO Y TV",
+  "description": " Streaming de RADIO Y TV",
   "dir": "ltr",
   "display": "standalone",
   "name": "Bachi Streaming",
@@ -9,11 +9,19 @@
   "short_name": "servicioselbachi",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [],
+  "categories": [
+    "business",
+    "entertainment",
+    "music",
+    "news",
+    "sports"
+  ],
   "screenshots": [],
   "icons": [
     {
-      "src": "https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/ALTA%20resolution-logo-color-on-transparent-background.png"
+      "src": "https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/logo-bachi-512.png?raw=true"
+      "type": "image/png",
+      "sizes": "512x512"
     },
     {
       "src": "https://github.com/serviciosinformaticoselbachi/REPROTRUEQ/blob/master/IMAGES/BACHI%20STREAMING-VERDE.png?raw=true",
@@ -21,6 +29,5 @@
       "sizes": "350x350"
     }
   ],
-  "shortcuts": [],
-  "id": "index.html"
+  "shortcuts": []
 }
