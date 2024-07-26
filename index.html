@@ -81,7 +81,59 @@ href="https://servicioselbachi.com/">Inicio</a>
 
   
 
-  
+  <div id="player"></div>
+<script>
+$("#player").lunaradio({
+userinterface: "big", 
+backgroundcolor: "transparent!",
+fontcolor: "#FCC006",
+hightlightcolor: "#6F1296", 
+fontname: "Roboto", 
+googlefont: "", 
+fontratio: "0.7", 
+radioname: "https://radios.bachistreaming.com:8024", 
+scroll: "true", 
+coverimage: "https://estrellaradio.com/logo.jpg",
+onlycoverimage: "false",
+coverstyle: "square",
+usevisualizer: "real", 
+visualizertype: "5", 
+itunestoken: "1000lIPN", 
+metadatatechnic: "", //apretar-metadata (para zeno y demas)
+corsproxy: "",
+usestreamcorsproxy: "false",
+streamurl: "https://radios.bachistreaming.com:8024", 
+streamtype: "shoutcast2", //soporta: icecast2, shoutcast2
+icecastmountpoint: "", 
+shoutcastpath: "/stream",
+shoutcastid: "1", 
+metadatainterval: "20000", 
+volume: "100",
+debug: "false",
+autoplay: "true",
+displayliveicon: "true",
+visualizeropacity: "1.0",
+multicolorvisualizer: "true",
+color1: "#00FF00",
+color2: "#ffff00",
+color3: "#FF1F6F",
+color4: "#FF1F6F",
+});
+</script>
+
+
+<div class="background_hora"><div id="relogio">15:00:05</div></div>
+<script>
+function reloj() {
+let elementoID = document.getElementById('relogio');
+let horalocal = new Date().toLocaleTimeString('es');
+elementoID.innerHTML = horalocal;
+}
+setInterval(reloj, 1000);
+</script>
+</div>
+
+
 
 
 
