@@ -82,6 +82,55 @@
 	top:80px;
 	}
 	
-	
+
+
+
     
 /* CSS Document */
+
+
+
+
+a{text-decoration:none;color:rgba(255,255,255,1)}
+a:hover{color:rgba(255,255,255,1);text-decoration:none}
+h1{position:absolute;top:-12px;left:50%;margin-right:-50%;transform:translate(-50%,-50%);font-family:'Open Sans Condensed',sans-serif}
+
+#header{position:fixed;top:0;left:0;z-index:100;transition:all .5s;overflow-y:auto;background:rgba(255,255,255,0);padding:20px 20px 100vh}
+.nav-menu *{margin:0;padding:0;list-style:none}
+.nav-menu > ul > li{position:relative;white-space:nowrap}
+.nav-menu a{display:flex;align-items:center;color:#6F1296;padding-left:18px;margin-bottom:8px;transition:.3s;font-size:15px;border-radius:50px;background:#f2f3f5;height:46px;width:100%;overflow:hidden;transition:.3s}
+.nav-menu a i{font-size:16px}
+.nav-menu a span{padding:0 5px 0 7px;color:#6F1296}
+.nav-menu li:hover > a{color:#FFC10A;background:#00cc45}
+.nav-menu li:hover > a span{color:#fff}
+
+.mobile-nav-toggle{position:fixed;right:15px;top:15px;z-index:99;border:0;background:none;font-size:24px;transition:all .4s;outline:none!important;line-height:1;cursor:pointer;text-align:right}
+.mobile-nav-toggle i{color:#fff}
+.mobile-nav-active {overflow:hidden}
+.mobile-nav-active #header{left:0}
+.mobile-nav-active .mobile-nav-toggle i{color:#fff}
+
+#player {margin:0px auto;width:100%;height:100%;}
+
+.background_hora{width:196px;height:46px;background-color:#fff;position:absolute;right:20px;bottom:100px;border-radius:50px}
+#relogio{margin:0;position:absolute;top:50%;left:50%;margin-right:-50%;transform:translate(-50%,-50%);font-size:30px;font-family:"Poppins",sans-serif;color:#6F1296}
+
+.back-to-top{position:fixed;display:none;width:40px;height:40px;border-radius:50px;right:15px;bottom:15px;background:#3a0d5c;color:#fff;transition:display .5s ease-in-out;z-index:99999}
+.back-to-top i{font-size:24px;position:absolute;top:7px;left:8px}
+.back-to-top:hover{color:#fff;background:#0678e3;transition:background .2s ease-in-out}
+
+
+
+@media (min-width: 992px) {
+.mobile-nav-toggle{display:none}
+}
+
+@media (max-width: 991px) {
+#header{width:auto;background:#fff;border-right:1px solid #e6e9ec;left:-300px;padding:20px 30px 100vh 10px;}
+}
+
+@media only screen and (max-width: 768px) {
+#player{width:100%;height:100%;}
+.background_hora{display:none}
+#relogio{display:none}
+}
